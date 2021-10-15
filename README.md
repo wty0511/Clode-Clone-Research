@@ -62,5 +62,7 @@ code_comment_clean.py| data cleaning of code comment
 Twitter-LDA-master|Twitter-LDA
 
 hyper-parameter of topic modeling can be found in Matics 2021.9.15.pptx
+
 use lda(tf-idf) for pull request
+
 use twitter lda for commit message and code comment
