@@ -1,5 +1,5 @@
 # Code-Clone-Research
-file name | description
+file name(data) | description
 ------------ | -------------
 genealogy | genealogy of each project
 maximum_entropy_model | 10 maximum entropy models
@@ -32,8 +32,11 @@ technical_debt_dataset_clean.csv|public dataset of SATDs after data cleaning|
 frequency_bigramdictionary_en_243_342.txt|used when doing spelling check
 frequency_dictionary_en_82_765.txt|used when doing spelling check
 
+data are saved in google drive
+https://drive.google.com/drive/folders/1oO2DkGoRBr1iXH45_5eLIwyp7mcUy-lV
 
-file name | description
+
+file name(scipt) | description
 ------------ | -------------
 classify_comment.py| predict SATDs
 SATD_stat.py|get the life cycle of SATDs
@@ -56,4 +59,10 @@ get_comment_pre_15.py| get code comment before code clone
 commit_message_cleaning.py| data cleaning of commit message
 comment_classifier.py| train classfier of SATD
 code_comment_clean.py| data cleaning of code comment
+Twitter-LDA-master|Twitter-LDA
 
+hyper-parameter of topic modeling can be found in Matics 2021.9.15.pptx
+
+use lda(tf-idf) for pull request
+
+use twitter lda for commit message and code comment
