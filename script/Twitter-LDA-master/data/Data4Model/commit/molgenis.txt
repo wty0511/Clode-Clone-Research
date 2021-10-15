@@ -1,0 +1,944 @@
+initial commit
+fix test
+fix test
+add empty folders
+merge pull request lazy load catalogue tree
+change genotype threader
+cleanup module code generation fix importer dependency issue
+change small thing com
+delete unused
+refactor database code
+merge pull request various bug fix
+add auth lifelines
+ignore output generate resource folders
+add entity rest apr test remove old rest apr
+add distinguish generate class test class
+add test
+initial elastic search
+create default oms app merge tin kid com delete tin kid com apps
+fix index empty turntables
+change integer number
+login add save result set file add update model user feedback
+remove
+stable feature selection sort
+bring sync oms app
+restructure compute code
+fix exporter
+minor change full log add
+remove default ser let handler move filter model protocol viewer set default admin email fix header link add bean webappconfig
+remove throw exception docs
+fix newlines remove import templates
+remove unknown column
+implement runic
+fix webappconfig
+answer question comment
+close print writer
+populate database application load event instead home controller
+merge pull request environment file database
+create mutation app
+scope login bean simplify annotations
+code cleanup due code deletion
+merge branch
+morning mole merge
+remove text since support yet
+replace deprecate singletons spring components rename app enable detection spring component scan
+update comment width
+add components identify generate spring components package
+comment lifelines module
+merge branch morning mole merge
+add miss libraries also fix path problem create new workflow zip
+delete items form cart order instead click delete button
+index protocol tree index data set
+update
+send order move code
+replace new urls hot client
+clean support mole field type
+index data set import
+must unique
+add create group
+revert add brit converter revert commit
+revert database popular
+add bari converter
+add run log extend exit error log extra information custom header load also fix pcs
+path test add
+comment one test
+make first version protocol manager zip
+write new test ontology turntable class
+another test compute generation
+fix bug restart throw error value expand field exist
+add exception interface
+comment test pass
+add additional filter get rid bad annotations
+fix generation task use parameters command line parameters file issue test add
+one test parameters
+fix issue test add
+rename plugin correspond ass file
+fix test
+finish matcher annotator
+minimize number database call comment add small improvements
+add data item list add unit test
+finish sorta draft
+always show home plugin
+refactored protocolviewercontoller spring controller
+add first version bar code selector
+first commit spring base mole
+nos bar code plugin spring mac style plugin
+add void plugin display menu contain menus
+put back webappconfig
+migrate ontologymatcherplugin clean package rename folders package
+fix add test
+fix nos app
+change form plugin urls fix inconsistent urls
+remove type one top level menu
+add property name
+fix bug layout burbank connect plugins
+third commit spring security
+fix test
+rename pluginpermissionmanager permission manager
+add date picker date field
+entity class security
+add test fix bug
+improve code fix user entity class permissions save
+fix bug break catalogue reset order place
+spring security update
+merge pull request add search form list
+small fix
+rename mole oms auth mole security
+hierarchical permissions permission manager
+add module mole data
+pull mole master
+add mole data excel
+bug fix change user password test
+rename package
+refactored package name
+file base entity source
+initial test expose system entities super users
+add update value value converter
+add anonymous user define anonymous user roles security fig deny urls default see
+small refactoring add extra test
+let entities importer valid tor make use new data apr temporarily move mole data code core prevent circular reference
+add enter est capabilities data explorer
+finish functionality
+work progress burbank connect
+add multi search multiple document type
+fix test storemappingtabletest due change observation set identifier
+add study definition download feature
+add unit test service implementation correct text
+test change
+merge branch
+add example workflows data entry plugin able consume
+tweak score
+spa data replace database data
+change line comment
+merge mole master
+prevent conflict remove old
+bug fix count count feature protocols feature sub protocols
+run manager annotation replace database data service
+update demo data
+make password check part update user
+change urls plugins security manager use manage permissions
+add new plugin evaluate performance systems
+merge mole master
+migrate importer
+add test
+update test
+fix bug finish evaluation plugin add sort
+bug fix reset security context test class
+merge mole master
+fix permission issue
+add feedback activation reset success errors
+fix bug report find bug
+test
+update elastic search
+merge branch
+migrate bank connect
+fix merge
+fix test
+fix unit test module merge data apr
+generate jpaentitysourcegen twice
+add include
+remove derelict code
+make genome browser plugin urls use get data table underneath browser relative
+implement tokenism dot well white space character
+remove query rule
+merge branch
+save
+use protocol instead data set protocol tree document type
+merge pull request
+update bean constructor
+resume work draft study data request
+use instead identifier use protocol instead data set
+merge pull request add chartvisualizationservice framework
+editor add row col attribute heat map elements
+replace query rule new query rule data explorer burbank connect
+remove unused field
+support info message addition success warn error
+fix bug multiple user issue session expire mind hint users know find result session expire
+change color menu bar
+index root protocols well data set date indexer
+add small mole logo
+index root protocol
+concept chart visualization box plot outliers functionality add remove use code add heat map concept code
+remove tuple table implementations
+merge branch
+replace tuple table repositories
+replace cell processors mole data package fix bio bank connect
+merge
+add chart functionality data explorer scatter plot box plot new feature yet fully work
+schedule gay list
+add genome browser data explorer
+add new data set data source data elastic search versions refactoring
+merge burbank connect mole master
+fix
+prevent possible ape
+add test chart code
+create mole data rest package
+improve error message data set delete
+merge pull request improve error message data set delete
+merge pull request enable load app logo
+merge pull request create test chart module
+remove database exception
+add test chart module change package reference
+create new wizard algorithm editor development
+algorithm editor front end
+merge pull request clean module
+simplify data apr merge morris code
+create new interface add annotation exist repository create new class implement repository annotation interface variant service plugin
+restructure annotation interfaces keep account future genomic format make first specific tool annotation class implement annotation interfaces
+add test
+first tool annotator prototype add score
+add eli web service annotation
+work front end algorithms
+merge branch
+merge mole master
+validation
+fix annotation new wizard add unit screen
+fix catalogue remove shop cart
+add csvrepositorysource
+readable security decorators
+add null check input file without data set give null pointer error
+generic data explorer first set add new rest apr entry point get meta data tree add javascript functionality data explorer support entity selection
+add check whether script empty
+deal multiple page entity rest apr result
+add java documentation
+merge master
+generic data apr genome browser part
+add type result feature
+start egg annotator
+create functional tvs reader specifically read cartagena tvs export file file read convert oms
+add getattributeparts
+refactored various module call annotator place mole data annotators folder pom file app oms mole folders update
+fix repository offset issue
+front back end annotation update
+add partial response support rest apr
+add multilane annotator support cosmic annotator unit test
+fix bug cause result duplication
+fix rest ref entity name
+add test
+merge branch
+merge mole master branch
+update doc entity name case insensitive
+fix unit test merge master remove obsolete data service rename test function
+fix deletion entity equal
+format code
+fix attribute name case insensitive
+add string abstract entity
+refactor add back main function quick test
+refactored keg annotator components
+fix merge conflict jeri clinical variants branch
+bug fix failures add constants
+variant annotator extend annotators use chromosome position reference nucleotide alternative nucleotide
+unknownattributeexception extend molgenisdataexception
+add test add null control
+finish clinical genomics database annotator input variant gene
+unit test egg
+unit test add
+chromosome decent annotate check chromosome
+unit test dbnsfpvariantserviceannotator
+unit test dbnsfpgeneserviceannotator
+merge pull request first step ward count permission
+merge mole master branch
+merge pull request return entities instead spa entities small stuff
+merge pull request preselect drop
+add count radio button permission manager merge branch rank ninja
+implement lookup attribute back end
+merge branch
+merge branch
+fix test
+fix merge
+fix mole add role test
+fix merge
+remove public
+fix test
+fix data explorer download update entity interface
+add support partial entity expansion
+sep gene remove unused import gene file run time property replace annotate annotate entity fix resource leak buffer readers feature gene file longer class constants
+fix rest apr resolve categorical reference
+keep attribute order import
+gene service test annotator class constructor auto wire melt settings annotation service two outside constructor allow test succeed
+add example file modify test annotator class
+merge pull request first version annotation mole master
+sep variant service class test update
+update add test work run time properties
+fix name
+fix case javascript properties restart javascript file name name
+explorer determine available modules per data set
+remove unused code test
+fix test
+smith annotator refactored fix test remove huge comment block make static methods non static create bean constructor instead every run annotate entity big performance boost
+annotators dependency smith annotator refactored due change static methods non static methods
+clean code
+add second check see second line also read tab reader class
+fix merge
+merge pull request fix spinner hide case nest spinners various fix
+fix test
+merge branch
+add resources folder want test annotation data import annotators
+hack ton result
+merge mole master update restart syntax javascript
+refactor query resolver
+change base review comment
+refactor filerepositorysourcefactory data service
+merge branch
+add run time property clinvarserviceannotator
+add test
+new annotator clinical variant database include test class example file
+show login access plugins deny
+parser
+adapt annotator work new format file add new column hand implement thank peter change annotator test class test file work
+integrate ontologyterminderepository ontologyindexrepository data visualize tree
+add new module data create use database base entity metadata
+fix bug lead display ontology term ologies
+fix unload work mole also relate mole lifelines
+rename test pattern myst repository
+merge bless master
+fix lifelines
+change app fig improve maintainability
+total test
+merge branch
+explorer user want filter descriptions easily understand
+merge branch
+token login
+bug fix show ref data explorer
+fix test max use column name apache derby database name attribute min max feature change min range max range
+fix bug
+fix update ref
+fix repository nest query
+merge branch
+bug fix importer fail use importer always use ems
+add new annotator hand symbol annotator add new test hand symbol annotator test
+complex filter
+merge pull request update elastic search update lucent
+add ability add remove extra input field fix lookup attribute define show text improve solution
+fix issue
+merge branch
+merge branch
+add test ontology service ontology tree
+fix find bug warn
+merge branch
+merge ontology service
+fix due aggregate change
+add parentontologytermiri metadata
+annotator change data cad load data object previously every row file would read data store lazy load check empty adjust test
+show complex filter operator one input field exist hide complex filter operator one input field exist
+ignore sample list csc add test
+start refactoring importer
+initial commit elastic search repository
+temp rename
+rename
+add easy query feature
+add examples
+merge branch
+merge
+merge branch
+bug fix grave accent symbols add repository add ability use space reserve string create column table name
+change query view use template
+fix map manager burbank connect
+remove redundant ass unused class
+fix test
+myst repository
+merge branch
+search study definitions
+change name module
+merge branch
+merge
+implement type letter
+oms ems conversion refactor
+merge branch
+merge branch
+add sample care
+test fix count correct aggregate view
+fix test depend fix ref order
+use embed test
+merge branch
+add fiume
+change necessary due update use crud rep interface instead myst repository fix test
+merge branch
+merge branch
+add warn regard vhf file without metadata info column
+add unit test elasticsearchrepo
+merge master
+add unit test elastic search rep
+remove google spreadsheet code fix code test fix code regex check valid tor
+google search match xref search
+merge branch
+finish update internal
+export option status reject
+add test
+change query query
+merge pull request pick free jetty stop port number already use mac
+allow add columns data exist repositories
+merge pull request list importer
+trim column name
+comment disease matcher code
+add consistent style filter add complex filter operator user choose add mini style complex filter operator select button add label xref always
+fix bug clause refs
+fix ass simple
+implement search value current entity also attribute ref entities search security check see current user read permissions ref table
+fix bug null pointer exception box plot chart
+specify default subject feedback form bean
+add error handle
+cleanup
+implement breadcrumb adapter class
+gay list add examples error message validation error occur
+add execute link
+move feedbackcontrollertest proper package
+merge branch
+fix test communicate live service
+fix import
+merge branch
+fix windows build fail path contain space
+script output
+create template loader fetch freeware templates repository
+merge pull request load free marker template database
+clean ontologytermindexrepository
+merge branch
+refactored cod ontology annotator
+aggregate
+merge pull request bug fix
+merge branch
+bug fix sample require
+add dynamic field match process
+fix require book attribute
+merge branch
+resource bundle part data explorer label
+add cap cha feedback form
+show label att att
+merge pull request move resources apps
+merge branch
+add public constants field type
+refactor search elastic search module support rep decoration
+introduce elastic search rep decorator
+package zip share mark
+merge pull request elastic search repository decorator
+refactor importer
+add override input type file give nice standard bootstrap button style include view wizard import list
+refactor importer
+merge branch
+fix layout two anchor bin default style hide catalogue pager one page clear button search box catalogue
+commit change allow master pull
+merge pull request fix script view
+elastic search repository decorator zip
+bootstrap layout fix
+add method menumanagercontroller handle logo update request
+check update attribute read
+clean white space
+merge branch
+merge branch
+update info input ontology service text area
+fix test merge master
+merge mole search elastic search mole search mole data elastic search
+fix style ontology match service fix bug error throw file input invalid
+fix nest aggregate
+fix undefined case ref search value
+merge pull request test case
+query generator unit test small bug fix
+aggregate anonym nation
+fix test
+bug fix
+merge branch
+aggregate billable attribute
+fix merge
+merge pull request fix csc download
+merge branch
+merge pull request feature aggregate threshold
+merge master
+home update static content
+fix change group membership checkbox
+fix validation spa
+add null column aggregate billable attribute
+fix index
+merge pull request elastic search batch fix
+bug fix add data elastic search
+merge mole master
+create new module mole ontology
+refactored name package test package
+work mole ontology module
+let mysqlrepositorycollection create metadata repositories
+merge pull request feature ontology
+add test ontology module
+first commit standards registry plugin
+merge branch
+put ontology interfaces ontology module
+fix unit test small fix
+add string base generic tag
+merge pull request add sam model
+model tag
+disable self registration
+fix prevent ape
+package tag
+merge pull request data explorer improvements
+add python script runner
+fix activation urls always connect help
+default search field form
+fix ebiserviceannotatortest longer need internet connection
+fix annotator unit test
+fix aggregate layout
+make import writer stateless reuse inject writer dependencies emximportservice annotation work fine import writer let parser parse package list well depend manageablecrudrepositorycollection nothing specific emximportservice leave introduce parameter object import job introduce bean metadata change copy parser integration test parser unit test java doc
+oms independent annotators
+code format
+fix import bug
+add view login mole header import
+rename mole app oms auth package
+general bug fix add phenotype filter
+merge pull request fix
+merge master
+replace character synonym ontology
+fix accidental removal auto generate file
+finish pilot sorta
+correct typo
+revert ass change look key data set select show
+expression evaluators
+remove doc generators see model registry docs
+remove hard cod create copy revive interface checkbox
+fix linear annotator test
+remove irrelevant test test belong module mole ontology core
+fix comment
+colour pathways
+fix annotator framework
+merge big improvement add annotator vhf write
+replace log loggers log back loggers self facade
+merge pull request update elastic search
+fix query operator work
+change add annotator test file accurately represent file use practice test possible scenario iterator content return table
+process merge comment
+new meta data apr
+bookmark able data explorer
+history apr fix
+fix unit test nest query multiple operators
+first implementation mappingprojectrepository
+merge pull request first implementation mappingprojectrepository
+fix query multiple clauses work
+refactor
+fix bug format number free marker
+add data change event bug fix data tab disease matcher update properly edit field fix phenotype filter download button hard page refresh longer give pager error cause miss dependencies
+fix fail test
+add new algorithm arrange order match result
+modify algorithm
+add identifiers return polo insert use add update depend identifier test map service create memory repository collection test purpose
+refactor input filter
+merge branch
+update map service controller
+merge branch
+fix git hub issue delete vhf data set remove reference
+fix last may change hasbro permission add require attribute map radio button
+merge branch
+add goal annotator
+update latest version
+work population variant annotators
+miserable instead iterator annotator first code sniff annotator
+fix relate menu items plugin active
+fix copy paste error
+refactor index reps index
+work annotator
+convert methods contain wiki pathways soap interactions include cache methods new java class
+work annotator
+merge branch
+work population annotators
+import wiki pathways client
+fix entities menu update entity delete
+work annotators write proper vhf file
+get annotators work latest change
+fix bug result annotations end wrong entities
+fix annotators start disease candidate filter
+merge branch
+work monogenic disease filter
+work monogenic disease filter
+refactoring readability
+add phenom annotator
+work linear index vhf annotator
+tweak monogenic disease filter
+first version ontology importer integrate generic importer add correct report import
+merge branch please enter commit message explain merge necessary especially merge update upstream topic branch line start ignore empty message abort commit
+refactoring cut test class
+work disorder report
+merge branch
+build fix
+zip create four repositories ontologyrepostiorycollection include fix extension detection
+add categorical ref datatype
+maximize data modules data explorer
+add hop annotator
+test wikipathwayscontroller
+add auto ontology term ontology synonym ontologytermdynamicannotation repositories
+properly close input stream get pathways method fix
+change nonsense unit test something sensible
+merge pull request unit test polish pathways module fix
+fix add unit test smith unit test still break
+small refactoring regard column name
+fix quid generator generate unique ids regardless case
+rename repository ontology
+refactoring
+merge branch
+merge branch
+update add annotator
+merge branch
+fix git hub issue
+draft version gene panel annotator
+vary basic first test thousand genomes annotators
+merge branch
+one place chrome ref attribute name metadata
+fix spa import method
+merge pull request feature annotator unit test
+update
+merge fix compound data apr bug
+merge branch
+add new operator fuzzy match ability fuzzy match query elastic search
+migrate ontology service ontologymatchingservice
+merge mole master
+fix vhf corner case info field name sample exist add standard metadata chrome pos ref alt
+add annotators test cut test
+remove comment code exact annotator
+fix iterator list add late onset gene filter
+various fix
+eclipse format use new utility class
+attribute arts add entity metadata directly
+merge branch
+write multi sample act properly
+add compound attribute type test entity
+phenom web service change fix
+merge branch
+work nov detection annotator
+remove date class create specifically prioritize ontology match result merge functionalities ontologymatchservice
+move one methods ontologymatchingservice informationcontentservice
+fix
+story add permissions group import
+entity metadata entities rep
+format tag wizard javascript remove tag change expressionandtagcontainer
+merge branch
+merge branch
+play around data
+read attribute order elastic search
+add check whether map contain word elements
+change order ontology module initialize module initialize register initialize register ontology initialize
+refactored name class package
+change order javascript load
+reformatted lot code mole style
+zip split separate package separate step
+add validation expression attribute metadata need refactor data validation package module dependencies
+refactored package layout semantic search module
+merge branch
+add extra methods script evaluator
+update ontology service test
+add attribute map entity map repository test
+mappingtargetrepository zip
+organize module dependencies move importer import module
+switch spring generator mole generator fix unit test copy collection return
+unit test mappingprojectrepository
+remove duplicate dependency mole app pom
+merge branch
+questionnaire component
+fix entity range validation break case min max
+fix importer show error switch group report permissions page fix spell
+change status end set billable visible false
+try rollback table even couple fail
+additions denote finder
+merge branch feature annotators
+merge branch feature annotators
+change string vhf info field text know many character contain
+make annotator test extend abstract annotator estate class
+separate label name annotators need info prefix small refactoring
+move annotator estate another package
+merge branch
+remove unused interface methods
+refactoring test clean code
+merge branch
+fix test
+create test automatic add attribute mappings create new source
+extra margin
+add information child ontology term query semantic search
+merge branch
+merge branch
+work genome report polo
+move gram algorithm mole ontology core rename add customs emmer work gram algorithm add correspond test
+add version new unit test
+move vhf utile vhf module
+work report refactoring
+first version annotator
+refactoring
+first version denovoannotatortest denom annotator refactoring
+work explanation service explain match generate base dismal query
+add migration step change non node table node move code version service utile class use
+add test
+add fuzzy match score use gram string distance stem term fix split test
+process comment
+small refactoring
+use chat gram distance match model instead lucent move ontology core package
+add jeri annotator info
+change true false label yes relate story
+merge pull request fix find bug warn
+zip
+merge pull request master
+performance enhancement annotator
+introduce rest apr
+fix import test
+query possible attribute ref entities one reference deep add test clean code
+enable gram analysis fuzzy match retrieve relevant document lucent
+merge branch
+add new operator fuzzy match gram gram match
+replace spring data sort mole sort converter
+save algorithm via user interface input
+zip temp index
+move validation code separate utile class write extra test
+check source attribute aggregate able add inline comment
+finalize table remove form
+update jan slider
+code cleanup update reference
+merge mole master
+merge mole master
+merge
+fix ems billable ref validation break
+progress migration name change algorithm finish spa entities check
+merge branch
+add annotator info start entity annotator framework
+format
+merge cod customporterstemmer temper class
+zip
+handle file datatype switch
+finalize file type support
+create info header string new attribute base attribute metadata
+create resource class around tabixvcfrepositories
+possible fix
+merge mole master
+merge pull request implementation tabixvcfrepository vhf info base attribute meta refactor branch
+fix
+lock back end ems attribute
+merge branch
+remove obsolete annotator service annotators
+progress migration
+fix table stack overflow self reference entities
+fix add default ref attis
+merge branch
+update add unit test fix add
+create branch demo purpose
+process pull request comment
+update base review comment incl fix unit test
+update check exceptions log
+add fit ann annotators test codeine entry point
+change output tors miserable list
+fix add test dependency
+merge bart carbon latest annotators framework
+merge branch
+add auto completion logic
+unknown chromosome test add
+remove mole catalogue plugin
+merge master
+add filter logic
+add dependencies
+remove temporary plugin create visualize explain apr result
+revert change
+work import code
+fix exam annotator part
+merge branch
+add change build configuration necessary get build
+add method mappingservicecontroller allow get explanations per suggest attribute son format
+fix expand ref expand ref work
+allow script evaluator execute script entity batch
+map result link data explorer
+merge pull request add unit conversion javascript library
+throw eco error syntax script incorrect
+merge master
+unicode escape search serve suffer
+fix search query fail file data type
+add functionality remove temp create file vhf test
+fix bug steamer use elasticsearchservice semanticsearchservice different
+change english temper porter emmer order synchronize elasticsearchservice
+fix import
+create thousand genomes annotator new framework
+add annotator
+merge mark
+merge branch
+refactor
+make compile fix test
+show key value pair entities preview algorithms
+sniff
+change name python
+merge branch
+add linear fit annotators
+add algorithm state attribute map indicate whether algorithms generate curated
+merge pull request revert print compound attribute value entity string string cause null pointers abstract entity test quick revert fix build
+merge branch
+fix bug add one tag manually add tag fail show
+manual merge
+manual merge
+need anymore
+merge pull request fix bug algorithms wrongly color cod
+remove verbose stack trace log table query yield result resource file uncommon error might need change info
+merge pull request
+add new filter compare different alleles correct value add validate allele
+remove space
+rename test
+add goal filter calculate
+merge mole master
+fix test
+fix mole crash nightly deploy
+create thousand genome annotator test
+plugin settings zip
+move remove use class members code
+dan annotator test
+merge pull request
+refactor settings zip
+attriutemetadatarepository use uni generator
+settings refactoring zip
+add settings admin menu migration step
+fix migration track cod
+fix annotators strip vhf flag field
+add miss migration step migrate update attribute map entity
+fix various migration bug default value set instead old ftp value
+add integration test fix warn
+merge branch
+merge branch
+add warn try migrate header track code
+fix chain annotators
+merge branch
+add discuss functionality incl migration script
+merge branch
+merge branch
+convert string setdefaultvalue
+execute settings migration migration step move step migration module
+add unit test exact annotator
+split leave entity class map vhf entities
+add map controller test
+upgrade current version
+revert change
+finish new functionality story
+merge pull request add descriptions hop annotator
+merge annotator resolve conflict fix gonlmultiallelicfilter incl improve test
+update snpeffannotatortest improve mock
+merge pull request fix default roc script run mole
+fix annotator test remove info prefix
+merge pull request automatic unit conversion mappings
+add bean allow reference spring manage bean java code manage spring
+fix break hop test
+merge branch conflict
+merge branch
+add default description
+merge mole master
+merge pull request fix form validation errors display wrong location
+manual merge
+add semantic search functionality base add ontology term find attribute
+remove oms converter
+merge branch
+check categorical field add fix wrong label attribute name
+change semanticsearchservice target attribute use together search term
+performance improvements
+merge branch
+fix ref miss value one reference entities table shift value
+merge branch
+use method reference lambda expression semanticsearchservicehlper
+fix entity extend attribute attribute
+merge cha pang feature units
+fix fix
+merge branch
+integration test check exist attribute attribute back end
+write test door canintegrateentitymetadatacheck method
+merge pull request fix vhf import slow
+make card bio bank entity non writable
+remove comment code
+fix find bug warn carefully close resources
+fix rest controller test
+extract mutual methods rest versions mutual service name rest service
+add create update batch functionality rest controller version
+change location rest service add location refer update create entities
+fix data explorer date filter
+merge branch
+add modify test batch update
+fix date query filter
+replace
+add test rest apr
+improve performance
+refactored code test remove unnecessary test
+use card back end idcardbiobankrepository
+merge pull request fix error message session expire
+merge branch
+add test
+merge pull request fix entity class permissions delete entity metadata delete
+merge pull request rest apr user want batch update create entities
+port fix use configure son everywhere
+add hack fix data explorer aggregate
+fix myst repository return entities order
+common hot client change usage card service
+revert restart variable name change
+merge branch
+fix conflict master
+fix sniff annotator fail ems file
+fix throw status molgenisvalidationerrors
+merge pull request master fix bookmark able link select compound attribute
+merge pull request master fix apr return internal server error validation fail
+merge pull request master fix sniff annotator fail ems file
+fix test
+fix find bug warn
+merge branch
+add
+merge branch
+fix
+zip
+add iron validation expression
+add magma group function
+typo
+entity listener framework
+add new repository methods fetch
+add ids map project overview page
+file part unit test remove compile errors
+add ids selenium test
+merge pull request fix miss decorator webappconfig
+merge pull request fix elastic search native lib minor update resolve script warn
+fix
+performance improvements non self reference entities
+add back end method
+fix fix
+zip
+merge mole master
+merge branch
+fix import int attribute work
+add language selection
+make python compatible
+update importer
+merge master
+fix
+fix settings entity read result many back end query
+fix test
+merge branch
+zip insulin mix
+fix count transactions
+improve import controller
+add test fix transactional bug
+stream apr zip
+add test
+zip
+create framework
+zip remove spa
+add data apr stream update delete
+merge branch
+zip remove spa
+data apr stream find
+add data apr stream find
+datatype test
+datatype test
+merge branch
+remove data apr miserable methods
+remove data apr miserable methods
+fix freeware configure decorate melt user
+merge pull request google friday use vhf filename process comply entity name rule default
+add test mysqldataservicetest
+remove data apr miserable methods
+add write meta permission

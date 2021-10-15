@@ -1,0 +1,1661 @@
+initial
+initial
+latest
+latest
+latest
+load client player last battlefield appear bottom
+change support multiplayer
+change support multiplayer
+move sec resources maven standard hope revert
+new card
+new card
+interfaces abstract class replace create permanent call plugin manager return old implementation new also possible since
+card
+card singleton land walk abilities
+new card
+card
+add deck text deck importers
+issue game play counter plugin
+update theme plugin interface implementation still progress
+plugin update table dialog update
+copy tip card move text popup need rebuild use
+replace card dec editor use remove debug log
+arrows work either
+lot fix mainly continuous effect zone change
+move card description component top
+fix issue fix
+stackabilityview source card add display source card abilities fix arrows offset add source blue arrows target arrows red fix null interception happen ability picker fix random order spell stack code clean
+add random deck generation start dialog also card client fetch use card storage metal card method
+guy plugin rat card use leo rat system copy image client run rate frame test
+send list target client
+background deck editor table
+move server plugins folder
+fix issue
+phase stop dialog finish yet
+two land
+fix attack opponent defenders
+redesign evasion abilities add restriction requirement effect
+wok
+typo template
+rupture spire
+new feedback panel support mana symbols
+new tip
+modifications landfall ability blood hast landfall come yard add constructor case zone may battlefield modifications condition java doc apply method rename conditional effect conditionalcontinouseffect
+add random deck contain random basic land previous
+change text variable constructor ability text confuse text member parent hierarchy
+change support multi duel match side board
+add tenure life condition use zen dinar block vampires usable card convalescence lurk jackals opal avenger etc search less life modify java doc author control condition add canto ability use blood hast use card stir glider ashe moor gouger auntie snitch bog hoodlums boru brigand etc search block
+hammer
+som
+new deck generator build stronger random deck better mana fix
+som trigon cycle
+fix issue
+update target methods finish yet
+fix issue multiple ala stria high bear trigger never include switch
+foil card support strange noise internal frame work frame nicely possibly need implement dialog every card foil property attach card may differ various zone need change card entity
+add architect ramp deck plus necessary card take break cod draft
+commit change allow dispense justice use common sacrifice effect make sacrifice effect accept generic filter target users careful filter send add setters filtercreaturepermanent attackers blockers easily filter without create yet another child class
+draft stuff
+update sacrifice effect one target actually sacrifice som card
+collection viewer
+display implement card som issue big card always update constant quid implement card
+roe card annihilator ability
+move sec file add resources folder
+draft pick base card rat add debug log
+add land dialog draft deck construction
+add draft time
+separate dec generator dec builder move dec builder use construct draft deck
+possible modifications issue
+display set image tool tip
+card fix
+new game panel new player info enter hand display poison counter layout fix issue fix avatars etc
+preventdamagefromtargeteffect update targetcreaturepermanent som soul parry test
+update target mph message multi target update preventdamagefromtargeteffect work multi target soul parry work
+proliferate
+add options game client target message
+add lbs set collection viewer download
+add tournaments draft variant tournament
+start work new
+card start effect move
+enhance pick order script
+def reprint move continuous effect separate package
+add test remove client side test
+use gainabilityattachedeffect aura fix eld nazi conscription
+rename class otherwise class loader use another class add additional log
+add sort count deck editor
+ala card
+fix play spell target creatures player fix apply jar still need recompiled
+previous fix correct
+draft seal fix
+arb
+update game interface skip draw add parse test scenarios update players zone
+fix target error start convert log log
+mir odin besiege first card card generate
+mad fix play spell often
+fix deck construction
+mad critical fix sync steward recent change new test command life new test scenarios
+mad get blockers concurrent modification fix
+allow sort pile deck editor
+fix issue default play unplayable spell
+fix play mana put everything update first scenario
+add cost options
+merge value change fix
+possible fix arc trail target
+fix
+lbs inquisition khz lek roil throw
+merge
+migrate minimal hybrid mad reproduce attack add new test scenarios reproduce
+fix better time support
+mid misc
+divine offer
+fix
+get stack ability stack object
+som card blue card implement
+new test frameworks card burn impure test
+fix use activate abilities
+add miss target case
+lbs
+optimizations
+improve target
+add random deck test
+roe move search effect dedicate package
+detect client version client change skill level
+change public server
+add client proxy settings fix
+card
+players find public servers use dynamic list
+remove game list finish add name owner table
+fix targetpermanentorplayer use creature permanent filter
+deck editor charitable selector place yet need add button add card deck sideboard well switch two card selectors
+switch card selectors display card list set option show card appear charitable selector
+table view add main add sideboard button search name card rule
+fix issue
+fix client server ping add server console
+add additional log cope issue
+default skill make skill checkbox wider fit value nimbus law
+display connect players smith wrong net bean form editor take look later
+lbs
+add help proxy fix issue
+miss file
+client server improvements
+add card add blocksorbecomesblockedtriggeredability
+make proxy password hide password field add remember username password preferences
+get
+switch log log
+add card
+client server overhaul test local host remote test pending
+propaganda ghostly prison
+add card roe
+add deck type
+remove get art everything relate
+add card
+big client update move session project allow clients reuse connection logic
+add card
+merge
+lbs
+play client
+add card refactored stuff regard rule text
+load crop image wizard image fix display issue resize image fit big card panel scale fit width result better
+dec editor refactored card selectors accord mac result list grid card view share filter possible search card grid card view
+dec editor list view deck sideboard finish yet
+fix join game error
+dec editor list view main sideboard test tournaments
+lbs
+integrate boss remove
+add mir spy add spellcasttriggeredability refactored card use spellcasttriggeredability
+dec editor fix issue fix issue fix issue fix issue tip
+add connection lease cleanup
+fix server console
+new preferences dialog option big card image hand fix issue fix issue
+another server console fix
+chi
+add card mph shrine
+boostenchantedeffect enhance dynamic value
+card
+replace session user need reconnect
+chi
+chi tip fix
+card
+chi first flip card bud oka gardener
+remove stale users minutes
+card
+misc
+reconnect draft tournaments
+glisten oil
+come case refactoring commit fix class one
+come case refactoring fix previous commit
+new ability picker though turn yet
+refactoring come case name class part
+refactoring come case name class part
+finish ability picker even dispatch fix bug horizontal school bar
+small amount card
+add card
+add option display non land card one pile fix issue
+merge version
+merge
+add card improve rule text putlibraryintogravetargeteffect
+small amount card
+big one fix modal target refactored get text
+angelic destiny
+add som kudos phoenix melt psyche
+add card
+add som chimeric mass
+face card update card plugin som clone shell
+fix ape trigger abilities work tokens
+function copy function copybook function refactored crypt plasm
+card
+som nim death mantle
+som prototype portal
+hurray fix issue also fix card copy work basilisk collar copy several time prototype portal
+fix issue
+card
+name death aspect bold defense
+card
+add card
+mph despise
+close dialog feedback cancel display dialog center
+chi distress
+lbs praetor counsel tender agent bolas
+add duration becomescreaturesourceeffect refactored card
+target require aegis angel
+message day
+display button instead cancel target effect
+add events add counter
+lbs pyrexia hydra
+smallpox
+mph entomb exarch
+move card plugin client fix issue
+fix cry cause lose game
+personal sanctuary stone horn dignitary ponder ponder
+card
+show table wait dialog reconnect
+suture ghoul
+arachne web fix volition rein effect text
+consume spirit
+fix multi target fix tip
+card
+activate ability activate ability events use source target reverse
+fix diesanddealtdamagethisturntriggeredability
+card
+get
+add card
+comment error dialog fix compilation problems
+merge
+lbs lead stampede mitotic manipulation improve tender agent bolas remove branch would halt game
+mph pyrexia obliterate
+show complete match view replay
+mph surgical extraction light wielder paladin sage owl zen malawi blood witch menfolk way finder mindless null sphinx war isle turn timber basilisk
+sphinx thun inv fact fiction
+display top reveal card client playwiththetopcardrevealedeffect
+play effect sphinx thun
+mph gremlin mine life finale shrine pierce vision
+fix gatherer crawler flavor text correctly save couple card fail take card number work
+refactored surgical extraction factor fiction sphinx fushun
+fix issue
+fix effect use library remover top
+add miss branch code issue
+java doc fix quote literal
+mph arm aether brutalize exarch due respect geo surge leech bite psychic surgery remember fall soul conduit zen cos trickster warren instigator
+mph blind zealot fresh meat pyrexia ingest postmortem lunge roe brood birth law gild leaf seer immaculate magistrate scar vine breeder warren scourge elf
+remove couple duplicate file
+mph numb dose engraft
+connection tab preferences dialog progress
+angel flight alabaster
+merge
+finish connection tab
+invisible stalker
+add filterspiritorarcanecard refactoring
+loren card filter fix
+book card
+card
+add card transform card
+fix various ape
+fix invalid deck message add ban restrict card
+fix optional cost new implementation kicker work
+small change
+mph index voice hunger
+implement card kicker
+affinity currently break
+create events add counter players
+mph cage sun
+double face card support
+threaten sentry threaten militia
+mph praetor grasp
+players may choose avatars preferences dialog
+jitter skull lamp make sword body mind target less
+garry relentless garry veil curse
+blaze terror zen ruinous minotaur roe splinter twin ala agony warp angelic benediction bone splinter clarion ultimatum cruel ultimatum dragon fodder gift gargantuan kiss ayesha titanic ultimatum
+fix filter target attack block fix divine verdict
+card fix gatekeeper malawi kicker
+ghostly possession mentor meek nevermore
+white card
+laboratory maniac
+download possible double face card wizards spoilers
+white card
+small change usage spiritwhitetoken remove unused import
+fix nimbus wing
+add card
+fix clone copy card shroud protection
+essence wild
+card
+allow attachments players
+add zen summon trap preeminent captain
+add saab goliath spectral flight
+liliana veil
+double face card
+new card
+add preeminent captain ans zen summon trap
+add roe harmless assault roe world
+breathe horde
+small refactoring
+undead alchemist
+gutter grime
+add card
+add zen foliar sovereign scythe tiger tempest owl
+card roe surreal memoir fossil find
+curse pierce heart
+curse oblivion
+totem arm mechanic
+roe
+add abilities players
+copy create tokens double side card
+card clean
+fix issue
+fix issue
+burn inquiry warp world yawn fissure
+update dialog
+fix issue
+add card
+fix horizon spell bomb
+fix sacrifice effect text case available target amount remove unnecessary trigger ability bludgeon brawl add miss subtype kor soldier token conquerors pledge remove unused import java doc fix
+card
+createtokentargeteffect add
+wok carabao druid
+deck add deck submit iran
+fix liliana veil third ability player sacrifice permanents incorrect reference issue
+add possibility force play card cheat mode
+refactoring
+fix fix issue fix seem sane remove line
+remove get default
+server ape fix
+optimizations fix mostly monte carlo simulations
+optimizations
+server optimizations
+fix optimizations allow game pause resume
+add monte carlo still need work
+fix size
+several fix target fix issue
+fix amulet visor fix pure tell paladin fix issue
+fix issue
+change test framework add support fix target add test damage lightning bolt ignore old test
+fix mad
+improve test
+partial fix issue
+fix ability cost issue mainly affect
+test reproduce issue
+multi thread monte carlo
+press enter text field connect dialog force connect need press connect button anymore
+test reproduce issue
+mid spike hot goblin
+chi
+chi honda banner
+chi general kab hair string koto equip ability add constructor filter equipments equip restriction honda banner fix miss mana output equip cost please check
+chi brutal deceiver callous deceiver harsh deceiver feral deceiver new card contagion clasp change counter ability outcome boost creepy doll fix outcome nim death mantle fix could target creatures opponents graveyard fix issue bone splitter fix equip cost minor fix card texts remove unused import move equip ability last ability
+inv
+fix combat action mad update test
+con court homunculus dark temper drag filigree fracture ignite disorder kaleidoscope man force mace obelisk alarm scattershot archer spore burst sylvan bounty toxic iguana view worldly counsel wretched banquet
+chi hinder con lapse certainty fold aether faerie trickery mid assert authority
+time shift tsp ursa factory
+new card apo index chi cranial extraction eight half tale ethereal haze hanky hunger sense divine top crystal seer law infant holdovers photic wisps cerulean wisps crimson wisps crimson wisps iridescent wisps discombobulate fix alissa traitor change fly first strike solve issue hide horror minor text fix framework preventalldamageeffect replace preventallcombatdamageeffect support also prevent damage outside combat refactored card previous individual effect setcardcolortargeteffect refactored card previous individual effect looklibrarycontrollereffect support variable number card may shuffle look card sacrificesourceunlesspayseffect refactored get text
+capricious free coat arm guardian seraph panic attack mich honda truth seeker arb retaliatory griffin mid far sight mask
+new card chi bloodthirsty ogre horobideathswail human pupil myojinofinfiniterage myojinoflifesweb myojinofnightsreach myojinofseeingwinds possession pain acheron framework putontobattlefieldtargeteffect new effect setcardsubtypeattachedeffect add constructor list type targetcontrolledcreaturepermanent add constructor require filter drawcardcontrollereffect sacrificetargeteffect improve text generation counter count add flag return number counter negative value
+new card descendant sora book kami theodore dead chi heartbeat spring juan rise star kit rift walker mystic restraints new bone reader nine ring samurai pale curtain sense golden tail ten maul wicked aruba rise morning star fix card human master yam bush rename file correct name myosin infinite rage fix toughness value unearthly blizzard rework text framework change equippedmatchesfiltercondition new grant equipment boost conditional playerdamagedbywatcher new watcher track damage players cardsincontrollerhandcount fix potential null pointer exception looklibrarycontrollereffect improve handle dynamic value
+minor fix
+latest monte carlo memory leak
+new card book kaki blizzard herder crack earth chi commune nature otherworldly journey peer depths rag dealer reciprocate con faerie mechanism gild spire avenger dunedin outlaw roe ancient stirrings free real tab whirl dervish small fix refactoring aura dominion shikari twilight guardian wicked aruba claustrophobia crab umbra descendant sora framework change playerdamagedbywatcher replace new playerdamagedbysourcewatcher playerdamagedbysource new watcher track source damage player dealtdamagetoanopponent new condition looklibrarycontrollereffect rework usable looklibraryandpickcontrollereffect looklibraryandpickcontrollereffect new effect handle draw pick effect penchant effect new untapenchantedeffect new returnfromexileeffect add constructor rule text support sacrificial effect fix miss rule text creation game imply add creation new playerdamagedbysource watcher player
+move copypermanenteffect fix card copy
+single thread monte carlo fix
+mid auriol blade arden
+new card kasai tribe elite matsu tribe bird stalker chi kasai tribe reaver kasai tribe warriors matsu tribe decoy chi ranger whisper hunter sure son shirt framework skipnextplayeruntapstepeffect new effect cardsinhandcondition new condition city new ability becomescreaturesourceeffect fix solve problems creatures unintended keep subtypes skin shifter beginningofupkeeptriggeredability set also target pointer target controller boosttargeteffect add lock parameter fix error various card drag elder laurels might salary mightofthemasses strength cedars bloodthirsty ogre gainabilitycontrolledeffect improve text generation skipnextuntaptargeteffect tartar effect add fix target text support minor change avila runner creak ghoul dearly depart include clockwork beetle fix use effect card honda banner fix potential null pointer exception wrong name spell yoseithemorningstar use new skipnextplayeruntapstepeffect
+new card chi marrow gnaw chi egg watcher kike night flower fix shisatowhisperinghunter use sacrificecontrollereffect instead sacrifice effect framework beginningofupkeeptriggeredability revert change set target pointer target controller cause unwanted side effect sacrificecontrollereffect new effect controller ability sacrifice something gainabilityalleffect improve text generation minor comment include fix
+fix concurrentupdateexception multi thread
+fix optimizations update monte carlo
+add send broadcast message users server admin console
+action get log refactoring use action result
+add user feedback support
+urea saga courtesy backfire
+fix ape looklibrarycontrollereffect
+aka card
+cache already rat card draft construct
+modify trigger abilities continuous effect zone
+fix
+aka tower geist rework look library effect
+fix monte carlo
+remove conditionals liability get apply anymore use conditionalcontinouseffect instead
+update test framework add test player perform instruct action
+aka test
+curse aka
+add random game test
+aka
+test fix
+urea saga
+aka
+aka
+fix past flame time rule fix dust take account range influence minor change file
+aka
+aka card
+aka
+aka
+add replace event patent battlefield call move logic move card patent battlefield
+try fix ape gatekeeper malawi
+merge remote track branch origin master
+aka card
+update search shuffle interaction
+aka
+aka card
+update spellcasttriggeredability use filter spell
+submit backfire
+aka
+aka jar eyeball dis proper burial grave pact top essence bottle torture chamber
+aka
+add aka card fix bug dir graf captain
+mad migrate static attack block algorithm
+aka mikes unhallow tragic slip poly morph sanguine blood
+test exile fix
+display card count deck editor
+refactored test name
+card submit backfire
+add nirvana revenant
+fix support fix target
+refactoring remove dead code action challenge button
+test reproduce issue jul day channel boost ability
+refactoring move deckimporterimplementation
+mad code attack
+add curse wizardry
+refactoring use duplicate abilities atendofturndelayedtriggeredability
+open vault stone giant vampire nocturnes zen electro potency quest ancient secrets
+add guard mazda
+add narcolepsy
+mag bane arm soul bleed sphinx ambassador path rid demon
+zen chandra ablaze hive mind
+air card
+air favorable wind test
+air card
+test level ability
+new implementation level ability test
+load update test plus fix
+load one place server ping
+mad remove dynamic aggression calculation work correctly
+air card
+load test new load pattern
+fix memory leak
+fix memory leak
+glimmer instal effect outcome fix
+glimmer instal effect outcome fix
+air card test filter die trigger ability
+extract diesthisoranothercreaturetriggeredability refactored card
+air card
+air card
+fix remove creature type requirement seraph sanctuary
+fix card enterswithxcounters base mana effect test pass
+move single card test single package
+air card add target requirement
+air homicidal seclusion several test
+test soul bond keyword
+minor change test log level
+air card
+soul bond keyword
+display tip green arrows pair creatures
+air card test common effect fix
+air card test
+air bruno light alabaster
+air garda host herons test
+air riders avon
+add moonlight geist
+lug rancour request simple card
+request card roe wok
+air card
+air cavern souls test
+implement imprint connect card
+fix test pass
+air second guest test refactored filter
+enhance target source class
+fix target prevent effect
+harm way work multi target damage
+air divine deflection
+refactor extract common dynamic value
+fix blockstriggeredability
+remove unused import
+add betray
+fix betray
+add filter standard card dec editor change sort release date
+test add possibility add target trigger abilities
+apostle bless
+test fix copy transform creatures
+add write amount mana pay cost
+enhance cavern souls
+implement veneer sojourner
+add razor ane mast core
+test refactoring
+new stack dialog experimental
+combat ape fix mad
+new way display combat
+add haze frog
+add battle rattle shaman
+refactoring minor replace tabs four space
+fix range fro sacrificial effect burn inquiry
+add quest renewal
+change state evaluation permanents valuable fix combat block
+add snake umbra
+display background draft pick dialog
+new graveyard dialog
+show already choose card choice dialog
+include change ignore
+two request card
+implement golems gauntlets
+update boost effect outcome
+add test root water matriarch test pass
+add butcher malawi
+add vapour snare
+add wind wendi
+add bad moon blight
+add bosh iron golem
+card
+cripple blight goblin battle jester
+fix card use cantblocktargeteffect instead add canto ability
+add slumber dragon world fire thunder maw hell kite
+filter replace name condition predicate
+filter replace super type condition predicate
+add card submit backfire
+filter replace subtype condition predicate
+add trade post
+add source method
+add pitch needle rho faith mender thank assistance
+fix subtype predicate treat case object changeling
+filter replace card type condition predicate
+void stalker
+add ring
+alt enlarge card new game panel layout experimental
+filter replace color condition predicate
+fix filter card affect merge
+add timber pack wolf war falcon entrust
+add disciple bolas harbour bandit little null fix
+add augur bolas fog bank
+display tip clean code refactoring
+tray menu blink new players add table add window restore double click
+filter replace target controller condition predicate
+refactoring add asenteresbattlefieldability
+two test public execution check interaction los ability clone effect
+skip attack declare skip turn make work declare attackers blockers phase
+doric master tactician
+test switcheroo card implement yet
+fail test flash ability asthougheffectimpl
+add blood reckon
+fix exchangecontroltest little
+add mind law shaman
+refactoring merge die trigger abilities less duplicate code
+worship volcanic hammer
+con card
+filter convert filter card condition predicate
+fix predatory rampage card text
+mirror fate
+relative layout
+add reality spasm near death experience
+add induce despair perish think
+body carefully study wild mongrel
+card submit jon review fix
+add ephemera equilibrium entropic spectre
+add bear umbra fork bolt explosive revelation
+improvements repeat action
+enhance target card fix
+card submit jon review fix
+add set
+request add patron wizard mind oil
+quiet speculation roar warm warm token
+add reveal card quiet speculation
+jud wonder test
+fail test island walk issue
+request add infernal genesis marshal anthem fresh blood braid
+combat trace catch annoy bug non fly blockers
+fail test issue
+add demonic dread shackle near taal cash settlers
+refactored thrill surgeon
+fix pod ghz leave card tutor library
+add firestorm lobotomy wall blossom data orangutan
+add scroll rack spike weaver
+card submit jon review fix
+add look card hand library simian spectre
+update unique card count read
+test framework cleanup remove test scenarios migrate old test
+enhance test framework multiplayer game
+fix spell ability fizzle illegal target fix issue hunt master fell trigger ability optional
+card submit jon review fix
+add smoke raider metamorphose
+fix issue test pass
+roe card
+request card
+minor fix
+roe card
+roe card test roe implement
+add card submit jon
+lug black card plop
+lug red card plop
+ala add card instant sorcery
+ala creature card
+small change fix
+lug card
+str card fix rule text gainlifetargeteffect
+add indestructibletargeteffect fix card use
+fix aegis angel
+add unblockabletargeteffect use necessary
+remove mtgatheringruimagesource
+mme ems mercenary creatures card
+lug card
+book card small fix improvements
+add aether trade wind war shape shifter
+lug card
+book card remove counter
+chi card
+add aga deem occultist corrupt wendi dead reckon
+add mirror entity
+book card
+add card flank
+extend super subtype copy genu land enchantment
+two new effect
+book new card chi new card new card new card new card
+fix regenerate ability
+book card
+add kabul tyrant cliffs crusher wendi
+str red card book aura barb
+str card
+str blue card
+str card
+str chronic flood codex shredder random ringleader street sweeper
+str card populate charm card populate effect
+str white card
+str green card
+str card
+str aura enchantments
+str common bond corps jack menace drainpipe vermin minor fix
+update select set standard select add block selectable format make format selectable card selector mage book automate deck generation
+str card
+redesign searchtargetgraveyardhandlibraryforcardnameandexileeffect usability
+str card
+str card
+add car repository initialization
+str destroy evidence grave betrayal necropolis regent
+use car repository dec generator rewrite gerardo color method
+unleash ability add inform text
+str perilous shadow sphinx chime face architect think
+str fix card attribute
+car repository add methods find card name
+car repository replace find card methods set expansion set
+car repository add card scan server startup
+update dialog
+card
+fix face architect though first ability attack one creature fix boost effect check creature still attack apply true
+car repository fix search string contain apostrophe
+add conjurer bauble elsewhere flask
+book white card
+circle protection
+black card
+jud fut add wish
+exile hand cost small change
+book card
+car repository move set dec importer car repository mage framework
+add verdun enchantress enchantress presence carpet flower utopia sprawl wild growth word wind
+fix utopia sprawl
+merge branch
+book card nut
+add filtercontrolledlandpermanent revise affect card
+book card
+fix dark confidant card handle
+add jorge war caller feral contest seers sundial eastwood wendi
+fix bug targetpermanentorplayer
+fix void stone gargoyle paddock teen wed mage
+add chalice void metalworkers dynamo
+fix bug targetspellorpermanent
+change card kicker multi kicker accurate
+add pernicious deed astral slide box diamond
+add beginningofupkeeptriggeredability target controller mode define controller object source attach
+fix issue vanguard shield increase number lockable creatures
+add lenin bola flicker wisp kara manga corridor
+improve handle image file handle also different image non basic land fall empires
+redesign handle various art card
+add helm obedience energy field force ensnare bridge
+add time spiral candelabra taw nos turnabout high tide intuition wipe away
+chi card
+add voyager drake
+add quest temple little fix thad del acquisition
+add green card
+add curse totem exploration man bod maze tabernacle pend ella vale duran orb
+add refraction trap
+implement buyback ability
+add retrace ability
+zen arrow volley trap iona shield emerita
+add card beecher legacy deck
+add kab ira evangel
+add glacial chasm
+add infernal contract ideas unbind massacre chain vapour doomsday rain filth
+add five pacts
+change call kicker ability replace kicker ability new multi operability
+change buyback ability
+add bala get thief shoal serpent whiplash
+remove unused import
+fix target bug bear umbra
+fix righteous authority wrongly gain ability enchant instead ability enchantment
+add quest pure flame relic crush cage trap eternity vessel run flare trap tangle sap inferno trap
+add miss access modifier
+new beginnofendsteptrigger new opponentlostlifecondition minor change
+new watchers
+remove unused import
+fix whiplash trap multiplayer use lava trap tech never play multiplayer worry
+add card submit jon
+add meditate elephant grass
+fix rule text bug returntohandsourceeffect improve beginningofupkeeptriggeredability small change token
+fix bug reflect pool use common ability lurk predator
+add card
+another fix block work better
+add scape shift others worm canoeist
+fix case could lead ape
+etc mimic flux age cloud fin raptor
+add lea web
+change rule text generation minor format change
+add architects bender tine illusory demon
+fix issue arrows show target always top
+rule text change improvements beginningofcombattriggeredability use desecration demon
+add dark depths spoil vault tomb beseech queen tomb frame exhume
+add run protection expunge urea arm
+etc city plague dom make
+change get subtype contain subtype creature type concern support changeling keyword
+etc laminate primordial giant phage pit fight mimic key rune amuck guild age
+etc add fathom mage foundry champion prime speaker begin signal clans sun home guild age urban evolution
+etc viz spa confessor
+implement issue display emblems players
+etc blind obedience gridlock
+add inform players message
+change handle cost announce value change take effect human players
+etc add border demo enrage boris charm hand bind legion loyalist ley line phantom lord void mimic charm city informer
+add simple logic choose creature type
+add strip mine skeletal cry sinkhole
+add commander decimal editor
+etc assemble legion aurelia war leader true fire paladin viz spa guild age
+etc add authorize consume aberration dimer charm enter infinity ogre slumlords steal identity
+etc sepulchral primordial sylvan primordial melt primordial dilution primordial
+primal plasma
+etc white card
+change rule text generation
+etc black card
+etc add blue card
+etc green card
+etc golden card red card
+etc add red card
+add incursion specialist real wright sapphire drake sky game
+etc nimbus swimmer psychic strike mystic genesis shall shark master romancer thrill parasite
+new exile effect new secondary pointer change boosttargeteffect rule text add set text method effect
+add void walk spell rupture gruel charm
+change card use framework effect
+etc one thousand lash mime slime
+add lazar dimer mastermind way thief immortal servitude
+change rule text generation gain effect
+fix bug curse bloody tome trigger wrong phase
+add gruel rage east massive raid furious resistance crack perimeter home lightning mark death
+new removevariablecounterstargetcost
+etc ooze flux soul ransom mimic manipulator
+small fix consume aberration
+etc whisper madness charm mind grind
+fix bug armour transport death approach
+fix bug armour transport mimic charm change wrong exile handle bane alley broker night veil spectre
+change logic add basic land deck generation add land function limit deck editor use land set card deck add miss attribute set definitions
+computer generate deck tournaments use also appropriate basic land card include deck
+add lock condition option conditionalcontiniouseffect add test issue
+new loselifealleffect add amount random option discardeachplayereffect
+add guardian wendi spell contortion world wake
+fix bug aura finesse trigger attach event
+copybook function copy also gain abilities permanents copy accord rule
+card lea sol ring
+remove unnecessary methods consider player range change card use remove methods
+fix issue counter trigger add counter event single counter
+add green card
+fix elvish pioneer
+expand handle enter battlefield event fix issue
+change lot card use enter battlefield event instead zone change event
+add test lazar dimer mastermind handle continuous effect correctly
+card
+format log change computer player
+fix bug test case change check exist abilities contain rule method ability singleton
+minor change log computer player
+fix issue show source reason trigger abilities
+fix bug face architect think first ability trigger creatures attack ally
+chi mana seism cut tether shiatsu blood cloak squelch
+rename effect
+add blood moon magus moon fix ability order aksum refuge
+add gift give even mind censor
+add thirst knowledge veda ken engineer
+minor remove unused import
+minor format
+add summer bloom margate
+fix possible ape
+minor code style
+fix pit fight issue fight card target must valid effect resolve fix also second target must another target first
+change target handle
+make target mind aver mandatory mana abilities wall root mana bloom handle mana abilities improve select text chord call
+add harmonic sliver might old rosa sign river guide wake thrasher
+minor access modifier order
+rename conditionalactivatedability conditionalgainactivatedability minor format
+change text deck importer use latest release card card name instead select random
+add rule law deg lamer fracture gust
+add corpse harvester prison term
+change log
+minor format
+improve target handle executioners swing fix frontline medic
+change cost handle accord human handle fix handle modal spell change set change log
+change spell adjust target work spell way cost reduction spell work also
+fix issue attach event trigger equip creature exile
+fix issue cost reduction work properly
+test evolve
+fix bug dread slaver return creature get subtype zombie color black addition color subtypes
+minor change grave betrayal chord call
+add dora siege tower augury adept flagstones air hurdle recall mater sand
+minor format
+minor format
+add targetactivatedortriggeredability framework
+fix lazar dimer mastermind add two additional test lazar
+ala white card white card blue card
+minor format
+add taint land torment
+fix bane alley broker able look target face exile card
+ala black card card
+dam sin collector maze end render silent
+add feral hydra
+dam breed hunt miro work mind ringer lavinia tenth
+card basic land effect
+ala add green card card
+fix bug blood seeker apply effect correct target
+fix copy logic pack rat cackle counterpart rite replication
+add logic one continuous effect game state connect multiple abilities fix issue
+add knight token framework change use card
+dam add gatekeepers maze card aether ling reprint card
+remove redundant handle apply effect replacements effect
+change card use looklibraryandpickcontrollereffect
+show tell
+legacy weapon
+ala maybe anima
+add cantattacktargeteffect puttopcardofyourlibraryintograveeffect add new method car repository
+dam blood baron viz spa boris battle shaper council absolute dead bridge chant
+open dam image download new preventalldamagetocontrollereffect rule text format detaintargeteffect
+use framework effect glacial chasm
+dam blue black card
+new framework effect add random target target rule text change
+dam debt deathless deputy acquittals dragon shift flu charger goblin test pilot scab clan giant
+dam tessa envoy ghost tithe drinker tristan summoner unflinching courage
+add card longer attack creatures power
+add dragon maze card improve attack fly creatures
+add dragon maze card
+dam helen sphinx haunter night veil kor odom gorgon kra sis incubation gruel war chant
+add man cost display half card tip window minor change rule text generation
+dam catch release toil trouble flesh blood
+dam notion thief cold snap boreal druid planar chaos essence warden
+add carol scar strip reap intellect via hint first blade
+add canattackonlyaloneability
+add atthebeginofprecombatmainphasetriggeredability
+dam plasm capture
+improvements split card handle better display tip split card also add handle cast hand
+fix text savage bear hydra change agony warp framework effect target pointer set target require agony warp martial glory
+fix bug becomescreaturetargeteffect change zero token
+use special pile selection dialog sphinx thun minor tip rule text change galvanic blast
+fix bug afflict deserter ability night side werewolf ransack
+add grind stone terrain krak clan ironworks make target amino moon sage mandatory
+fix handle werewolf ransack trigger ability introduce last rule text fix
+add creature card evoke
+add new card damp matrix pollen right wing
+add equipments automatic attach effect
+implement split card name handle accord rule two separate name guess fix
+fix bug mutilate ichor explosion lock dynamic value
+minor format
+add chron sceptre
+fix two bug detain detain lock target detain target take zonechangecounter account add info text tip detain permanents
+fix undying ability persist ability give counter late permanent
+fix urban burgeon give trigger static ability enchant land
+minor format
+add cytokinesis goblin ringleader oblast gem palm incinerator skirt prospector spark smith card use legacy goblin deck
+fix minor bug log text generation char breaker devil
+fix bug propaganda apply propaganda attack cost also attack
+add mucoid shepherd counterbalance casandra battle seraph daybreak coronet
+add mind funeral sewer nemesis
+emma card white black
+number win set tournaments current score run match show table list
+emma add card
+emma add card
+emma add card
+add background music player mage client music support file put audio file plugins sound music random song play sequentially game pane activate adjust background music add preference dialog well
+update creature must either fly reach simultaneously
+fix mist bind clique enter plague
+update themepluginimpl know client randomly choose image nothing effect image file
+add method player put list card bottom library order
+emma add retriever death deny erratic mutation
+add tournament options adjustable construction time free mulligans add duel options free mulligans
+add background image selection selection random default
+combine themepluginimpl mage client project avoid cycle dependency
+renegade doppelganger fix bug copy effect end end turn copy permanently renew
+update adjustment
+remove unused metadata expansion set
+emma add card
+add feature alan dialog help player calculate land need function mtg
+refactor move end constants class
+fix constant import templates
+merge pull request add feature alan dialog change default view sideboard car grid
+merge branch
+minor fix import errors
+transfer timeout counter clock format minute second example
+add small icon tokens token permanents token copy permanents giant phage show image permanent
+fix bug cause ape
+add drawdiscardtargeteffect improve drawdiscardcontrollereffect
+add delve ability
+emma add card
+add expansion repository
+refactored get cod use expansion repository
+sea singer fix bug control effect target creature reactivate sea singer tap also creature target sea singer could control multiple creatures uncapping use control ability
+emma add card
+timers client side refactored
+change suspend finish addcounterssourceeffect
+emma add card
+add option select time limit also none match tournament creation
+add default value priority time
+add austere command primal command
+add entwine ability
+emma add card entwine
+emma add card
+emma add card
+emma add card
+add prowl ability
+add card prowl ability
+add death ringer choctaw think haemorrhage vector dominator fix erratic portal
+emma add card
+remove string tip dependency
+move mock card mock package
+add dragon appeasement car thus tyrant june june sojourners
+sturdy hatchling fix come play effect replacement instead trigger effect
+belligerent hatchling fix come play effect replacement instead trigger effect
+eve add aura long enchant creature
+fix bug scourge mobiles
+fix download card wizards spoilers
+add magic
+petal insight fix wrong card handle
+add close button tournament header info name window item movable divider bar tournament panel
+add ester storm blade gratis grim blade chapter foundry
+add adjust bpm path
+add crystallization messenger falcon want sure blade maya hush blade
+cleanup layout preferences dialog
+add cleave cast intimidation bot spellbind dragon
+remove net bean license pom
+add breath male sanity answer veda ken ghoul
+add card attunement bereavement pariah dark bar cage verdant field
+add check table controller
+chi card splice onto arcane
+add mage slayer arsenal thresher sag anima
+request card
+clean phase manager
+client add land set search use expansion repository
+add card alarm reborn could test due dec validation issue latest build
+call server fix miss enchant ability
+add blue card
+temp fix maelstrom nexus never mean submit first time around
+fix colossal whale face mind seeker
+extend use discardcardyouchoosetargetopponenteffect card
+add use exilecardyouchoosetargetopponenteffect
+add black card
+magic add banish priest
+add reveallibraryputintohandeffect make change text generation fighttargetseffect
+magic add hive stirrings impose sovereign master diversion pay heed
+fix deck generator client decouple
+add card fix oath ancient wood
+add con parasitic strip dis coil oracle get pillory sleepless
+add artefacts
+add door destinies
+magic add chandra pyrometer
+magic add guardian age
+little fix
+fix bug cause controlspermanentcondition effect work incorrectly
+add conflux child alarm maelstrom archangel male
+cavern souls fix bug cause spell counter
+fix random set basic land definition fix issue
+add dimer doppelganger fix text sky shroud ranger
+add possibility show tournament panel watch tournament game allow tournament start spectators
+add yakima hollow charge troll fem ref enchantress armadillo cloak aspect mongoose
+add magic power
+live terrain corrupt wendi fix incorrect duration standardize factor
+fix duration becomescreatureaffachedeffect static ability
+split pane divider position table panel tournament panel save restore
+add psychic venom
+add ankh mithra
+revert gull draw vampire fix boost intimidate apply equip equipment instead correctly opponent less life revert commit
+add miss file daabaabefbfcb
+fix beta
+field alignment new table dialog
+add drain life
+add natural selection
+add smoke
+add brilliant ultimatum
+add card lea cockatrice thicket basilisk desert twister jud anger brawn filth valorous yamaha fist rosa inv kava titan even cache pounce warm sci ancient ooze kurgan carcass ems stampede driver
+add crystal rod iron star ivory cup throne bone wooden sphere zombie master web
+add copy artefact
+chi card
+fix wrong tip text card could flip side
+add conditional requirement restriction effect
+fix conditional restriction requirement effect handle layer affect work gift deity tangle walker way thief bond faith neuron spy hazy homunculus scrap diver serpent snap sail glider steel godhead bubble beetle bounce beetle
+doric master tactician fix game leave block phase control controller doric
+add game end dialog show result finish game
+add effect type logic handle multiple restriction effect
+chi add satsuma dragon bank bandit warlord
+test faith fix counter blocker get combat already count damage deal attacker
+add request card dis avatar discord top live death panoptic mirror quicksilver dagger ray tool mir wolf blood
+add card
+card
+rabia boris archangel fix wrong cast cost
+add returntohandchosencontrolledpermanenteffect
+rename spellcasttriggeredability spellcastcontrollertriggeredability
+create
+add mind aglow alliances arm collective voyage share trauma
+figure destiny fix effect work correctly figure return battlefield
+change test handle set correct card library
+add theron card
+add reminder text scr effect
+add cantbeblockedtargeteffect losecreaturetypesourceeffect
+add master wave helios god sun god sea
+minor format
+theron card
+add request card
+add request card
+add multan decree guru spores italia vast
+cry effect add message game log many card put bottom library
+add blue card
+add red card
+add extra turn attribute game state
+fix bow nylon lashio nightmare weaver
+add sacrificeopponentseffect
+add black card
+add addcounterattachedeffect
+add card
+add blue white card blue white completely implement
+add conditionalasthoughteffect
+add artefacts artefacts complete
+add card green black
+add card gold
+delete
+create
+riders avon adaptive automaton door destinies engraft add info card tip choose creature type
+add underworld cerberus xenakis reeler
+move combat relate effect new package
+rename combat effect name consistency
+add rescue underworld
+add red card
+prophet unix fix trigger ability miss
+defend hearth find prevention effect apply also permanents instead players
+disciple phenix show longer empty window target player card hand
+fix block requirements creature force block attacker possible block attacker creature must block least one creature blocker force block creature block requirements fulfill
+add even trailblazer mark asylum mirror sigil sergeant test
+fix function lock stop game player concede game
+create
+create
+merge pull request add odyssey
+fix card submit cut see list change scrivener change filter message change entersbattlefieldeffect entersbattlefieldtriggeredeffect earnest fellowship move comment line change layer earnestfellowshipeffect abilityaddingremovingeffects change outcome remove unnecessary init method simplify apply effect add maximal one protection ability permanent filter abilities redundant multicolour permanents fix wrong source add ability hallow healer make target mandatory default number target set fix tip text threshold tap symbol dot end treetop sentinel filename miss java extension change filter message blood curler remove unnecessary comment replace card name rule text correct desmond effect threshold ability cost effect bury alive move comment line fix source move ozone think tank remove unnecessary comment looklibraryandpickcontrollereffect could handle effect word wisdom add miss tip text remove unnecessary comment fix indentation unify theory remove unnecessary comment simplify unifyingtheoryeffect remove dot effect static text ancestral tribute fix indentation
+add nyx serapis alchemist
+create
+card heroes monsters
+fix card endless loop player leave game make choice
+add kava predator starr sky breaker starr firebird cash lumberjack
+forget commit previous commit
+add helm sword sandra mana vault sigil sleep unquestioned authority infiltrator mag mark
+see add green card
+bestow use aura subtypes remove theron gods lose subtype god creature
+add ban fire level add blood tyrant dragon soul knight pale yoke damn one card leave conflux anyone interest
+change log level back info change level lot message debug info add check certain players join table appropriate format
+add indigo faerie inundate loyal gyrfalcon patrol signaller razor abolish spirit hearth
+add trough breach tide war
+create work prompt land sacrifice
+create one require sacrifice target think target set require true
+create problem tip prompt
+add crumble ash morrow bone newer near skitter little fix one element exilefromzonetargeteffect
+add needle spectre nightmare incursion soot imp
+release mage final
+update
+update
+create
+create
+body fix odyssey card
+popup menus add menu set correct popup menu watcher
+change server log
+fix loop run endless player leave game
+add desert mirror gallery load shaman prev spires order blast station drown lusaka aliyah seer suppression field
+add crackle burr crag puma inside mind rack liege mirror sheen
+add toggle bandit toggle hedge mage river mimic shrewd hatchling unnerve assault
+chi vassal duty reverse sand sift sand
+add desecration hag doom ape due gar assailant hag hedge mage quill spike sapling convenor wood lurker mimic
+add change framework class
+book add card
+command tower fix mana ability
+add card
+add mystic barrier moss wort bridge commander sample deck
+add myth spit image altar golem
+fix moss wort bridge mystic barrier
+add ever shrike ward bone spring jack pasture antler skulk batwing brume small addition class
+spring jack pasture add miss choice
+add dirge dream foster night soil vile requiem spoil vault dirge dread isle back spawn deep sea kraken
+add fecundity fell shepherd shatter gang brothers tempt vengeance roku two reflections
+add card
+add card
+add card
+add card
+add card
+add gay lion hedge mage night sky mimic shore crasher mimic snake form due gar hedge mage
+add pyrrhic revival fiery bombardment heart ash cinder phosphorescent feast
+add sun droplet due paul
+thor wind faeries fix miss activate ability
+client move unused file unused file file probably remove
+add card
+add drama griffin divine transformation exile heavy ballista icarian town
+echo mage fix miss tap cost activate ability
+add card
+add bite tether briar berry cohort consign dream drown initiate safe old sentry twilight shepherd woe beecher
+add tempt reflections
+fix problem multiple target target resolution target get proof meanwhile still target happen void
+face architect think fix possible ape card select third ability
+little fix twilight shepherd
+add card
+add skywriting true name nemesis steel stance
+illusionist gambit last miss card
+non annex add miss plane walker handle
+old ward sliver work newest base riders avon work test
+add accelerate bottle suleiman landor saddlebag ebony horse brass man opt repentant blacksmith psychotic fury king suleiman ali cairo sustain spirit
+add barren ton medic kin scare harpoon knack saw clique
+revise odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+additional odyssey card
+add grand coliseum add gem hide sliver tsp add spinner sliver tsp add vampire sliver tsp
+move damage effect framework
+add cub seal daft tournaments add simple swiss like tournament format
+tide binder mage dungeon geist ship breaker kraken fix effect last forever creature ability destroy exile ability stack
+fix wrong card number edition card fix tip bug
+add target controller parameter discardeachplayereffect
+big add card
+big add card fix bus card framework change
+big add card
+big add card
+big add card
+big add archetype card
+big add card
+big add white card
+big add blue card
+update change refactoring puttopcardofyourlibararyintograveeffects
+big add red card
+name refactoring puttopcardoflibararyintograveeffects
+big add black card
+big add green card
+big add red black card
+big add green white card
+big add red card
+big add card
+big fix hessian wilds ravager scourge sola vale feline brawler yogis god slaughter dun river trawler tribute ability
+fix hessian wilds ravager
+add methods write card move info easy game log
+add finish version gratis whims fat
+whims fat implement card logic
+annihilator ability fix possible ape
+set unix script executable default
+change get check opponents
+gratis add check blockers select block able block anyway redesign combat
+feline spirit binder fix bug copy token super type legendary
+cry fix play top card library reveal reveal next card cry effect
+minor fix val melt pinnacle scape shift text target handle optionality
+fix bug table handle fix match set finish yet players leave match side board phase
+change game handle support replay future work yet
+fix library search effect sort library take search limitations account even mind censor
+add card commander set
+fix bug occur copy spell counter move another zone graveyard
+add card sylvan library tab web sylvan safe keeper null rod peacekeeper minor format
+add generic alternatecostsourceability adjustments alternate cost handle
+add card invigorate unmask reverent silence say woodcutter
+romancer ascension fix trigger ability copy spell also work spell copy leave stack counter ability resolve
+add change move methods card player
+reduce create boss one way thread client format
+fix handle alternatecostsourceability multiple cost finish yet
+fix alternate cast cost shoal spell blaze shoal
+duel deck else eth tender add miss card add enchanter
+circle protection fix source reference
+murk fiend liege prophet unix quest renewal change effect trigger ability continuous rule change effect stack
+fix spell alternative cast cost
+reflect pool fix possible ape
+elves goblins add miss card example deck
+simplify flip handle flip continuous effect time stamp time card flip work copy card
+improve handle enlarge image add mode show side flip transform card add icon copy card possibility show enlarge original copy card
+rework non mana cost variable amount value announce target fix wrong implementations firestorm battle skeletal cry
+change image handle copy permanents image often show
+minor fix rebound ability format
+pay heed auriol replica show choose source stack fix wrong tip text pay heat
+improve enlarge card display image exist use code tip text creation
+add split card consume strength apocalypse set
+minor format
+colossal whale fix bug leave battlefield event colossal whale trigger return exile creature die leave trigger ability creatures
+chain rock fix bug leave battlefield event chain rock trigger return exile creature permanent leave battlefield trigger ability
+test banish priest
+bud oka gardener fix ability target use new flip effect
+add red book card
+add pro via mist dream stalker drool good
+electro potency fix trigger tokens mana payment resolution
+fix possible null pointer exception entersbattlefieldalltriggeredability
+add wrench mind rack auriol champion
+add hide seek mesmeric orb shell och isle
+add envelop back basics chain mephistopheles
+minor change phantasmal image card test
+add sword meek veneer shaper savant humility
+cycle effect add miss reveal effect add miss reminder text
+condition rename
+player proof fix player proof prevent player could attack
+add tide tyrant shallow grave want swarm goblin war strike wind reflection children kor lis sneak attack
+fix problem abilities card could cast play activate mana cost cabal therapy crucible worlds
+veda ken shackle add miss mana cost activate
+add gory vengeance spirit link whirlpool rider
+cube add mtg cube march cube
+add servitor salvage station porphyry nod gaea bless
+add brian stout arm patrician scorn
+split second fix bug one split second card game zone card would retrieve correctly
+rename drawbar controller drawcardsourcecontroller miss rename
+iona shield emerita add choice information card tip
+add darien king fjeld captain sissy tooth hollow blackmail lord wei dial chan artful beauty
+add card
+add bane fix card
+add card
+add card
+live end fix possible ape
+add card
+toxic deluge fix cost calculate correctly
+add card
+add card
+add card
+remove info option returnfromgraveyardtohand info always write log
+add card fix bug card
+minor fix change framework card
+add white card
+add blue card
+minor fix change framework
+add red card
+add green card
+last card complete
+start rework handle prevention effect
+add code handle targetspellorpermanent smart
+add image download source image mtg image
+move discard effect specific package
+rework handle prevention effect framework effect create
+add card
+handle prevention effect improve
+add spirit monger
+rework prevention effect
+unhinge land issue
+mortal obstinacy mortal obstinacy sacrifice trigger effect use decision sacrifice mortal obstinacy take place resolution instead ability stack
+add replicate ability
+add card replicate
+athens god passage fix trigger effect work correctly
+make load card verbose issue
+minor format exist card
+add discardhandtargeteffect additions game log message
+fix tournament automatically generate deck submit player submit deck time fix
+add fury horde conf agate
+quarry colossus unexpectedly absent fix card move correct position library
+add comment explain createplayertimer work
+add ash pilgrim reset flash insight
+deck editor change card movement double click
+deck editor minor layout change finish yet
+deck editor add possibility edit number card deck sideboard directly deck editor normal mode build deck complete card pool
+add preventdamagesourceeffect
+change deck editor
+evoke fix check creature come play evoke always true come play later evoke
+veneer shaper savant fix bug creatures could target
+add card
+add dawn reflection overgrowth desert temple
+minor format
+add card
+inv add card attendants
+add card
+add card
+add card
+add card
+add card
+add card
+add card
+add card
+hide string simplify effect ask possible effect
+mme add land
+add card
+fut llano war augur
+harm way minor fix test run without error still issue leave
+name change mage image
+add miss wind change card portal
+fix game lock loop player concede resolve effect cry discard change game log info move card library
+table game list select watch game already watch game bring panel watch game front
+flame speaker fix flame speaker sacrifice decision make resolution
+fix tip texts display choose color tip
+make target require add message replacement effect cavern soul inform player able counter
+iron god victory add miss enchantment card type remove wrong super type enchantment
+refactor remove watcher interface rename watcher imply watcher
+lord atlantis fix island walk give control creatures
+primal clay add text choice window
+add yaw month yang moth agenda
+refactor remove generic parameter spell
+set simulate game simulation flag please report cause problems
+build fix
+game log minor change card move game log message
+tribal fix tribal implement super type instead correctly card type add crib swap
+add chorus conclave
+fix possible endless loop iterations end ask player leave game
+add choose color effect
+add card
+add card
+add card miss mtg cub
+add morph ability
+make target mandatory card
+make target mandatory card
+add fortune thief roman cloud scraper
+remove explicit set require property constructor
+unstoppable ash fix boost effect work
+remove unnecessary set require status set require method
+log name change message use log name instead name
+propaganda win bear muse ghostly prison elephant grass fix bug attacker wrongly force pay cost also attack plane walker
+fix build player project
+grind seal fix problem card need target card graveyard cause game lock grind seal battlefield
+refactor minor simplify expression remove always true condition
+stone forge mystic fix second effect artefact wrongly select already activation instead resolution
+fix problems card search library cancel button primeval titan
+kodak reach cultivate fix possible ape null pointer exception error
+tide binder mage fix ability prevent uncapping target creature also turn controller target creature
+fix possible ape addmanaofanycoloreffect
+deck editor simplify code
+fix bug targetcardinhand class could lead game lock situations force
+change game log message
+fix handle multiple simultaneous control change effect
+vintage master card
+flashback fix cost reduction inc easement work correctly flash back spell
+add card
+change handle minnumberoftargets require status
+cruel ultimatum fix wrongly creatures graveyards could select
+elephant guide change wrong effect duration
+add card finish land replacement effect need still work
+add green card fix two creatures miss
+add green card fix nissan world maker
+add bloodshed fever craig nick creator elemental mastery ember gale discardtargeteffect store discard card
+add red card
+add white plane walker
+add white card
+fix card use class
+blue card
+fix genesis hydra reveal card
+add blue card
+add artefacts
+add blue green card
+add temp fix image download card wizards side problems cause new web design wizards image add eng file eng image save mpg suffix name correctly display image need work clean solution
+plague vermin ashe moor cohort spell syphon
+add green card
+add black card
+black card
+black red card
+add world urge split headache
+add burn anger
+add turkish snake ancient
+change matter
+add power fire dramatic entrance flourish defense wild swing fix burn anger
+new add food chain minor fix
+order card hand changeable
+fix fix sacrificetargetcost
+fix popup location
+athens god passage fix trigger ability work
+chain vapour fix wrong player ask target change copy spell
+new add gemstone cavern
+new add kan gee aerie keeper krona false god
+new add patagonia viper arcanum wing last hate seed fix
+new add nomads kor shaman kor cephalic illusionist minor ill get gain fix
+convoke fix number creatures could tap creatures tap reduce mana cost convoke spell add log info convoke tap creatures
+new add windfall yield jailer chain lightning read run imperial seal yang moth bargain windfall
+make order parameters methods
+new add exhaustion sudden impact petrify field spiral embers ebony owl netsuke martyr spores martyr bone martyr frost martyr ash update martyr sand new dynamic cost
+new add sky hussar lantern insight nether spirit neoplasm hype genesis
+dee sea kraken fix bug opponent spell trigger ability remove spend counter
+new add plunge darkness favor mighty disciple vault arena
+fix effect apply return value change game log
+add veda ken arch age minor format code cleanup
+turn frog fix wrong rarity set
+pyrexia review replace replacement effect continuousrulemodifyingeffect
+replacement effect switch continuous rule modify effect
+add phage untouchable creatures dethrone ability
+fix bug rule text singletons like fly ability miss sometimes permanents tool text fix
+add dream halls curse chain necessary get dream hall cost work
+fix sacrifice handle target use method source controller
+change replacement effect target counter events continuousrulemodifyingeffects
+finish change replacement effect event continuousrulemodifyingeffect
+new add grandeur ability word five card use
+fix bug allow apply damage prevention replacement effect certain circumstances multiple time event
+add card
+replace replacement effect restriction effect add new method restriction effect improve attack methods finish yet
+banish priest fix bug banish priest copy token target creature exile token return token leave battlefield
+new add mime plasm
+add copy enchantment
+veneer sojourner fix target first ability allow target permanents
+add aura silence fix mime plasm
+exile dialog
+revert change cause endless loop apply continuous effect
+pauper add pauper format
+add void slime squirrel nest riptide laboratory
+chandra pyrometer fix exile card second ability could cast overload fix add test
+recover implement
+fix look top card play top card reveal show wrongly next card library fix maybe individual card leave also need fix
+add ability method parameters
+trade rout implement
+fix never maker ltd effect etc fix comment lox smite
+add research development card
+add predict mask memory mystic study perplex
+replace use source geoid source get source mage set
+replace use source geoid source get source mage framework
+minor fix tip texts
+ski test
+assert action count test minor change
+convoke fix creatures protection color convoke spell could tap fix
+fix testundyingtriggersintime test rename test persist
+add test val melt pinnacle work already correct far bug find close
+wall root fix wall could use exile return momentary blink
+add angus mackenzie
+implement test chaos warp caustic wasps
+update chaos warp
+proliferate fix bug creatures could use proliferate add counter effect
+chaos warp caustic wasps fix test good
+disintegrate black visa browbeat even rift watcher dead piracy charm implement fix engulf flame
+change server console admin server handle
+cash librarian get grim ire opalescence implement test
+fix genesis hydra allow cancel choose non permanent
+minor change card
+card update
+fix put graveyard effect implement wrongly trigger effect replacement effect legacy weapon progenitor dark steel colossus blight steel colossus
+add iron relentless
+rancour fix miss trample effect
+change test
+use new mageobjectreference class damage watcher damage object comparison
+add undertaker
+update helper panel button handle try fix
+fix scr goth protection
+add mana drain spell crumple fix replacement effect hinder
+lord pit crash nitrogen mist prostatic pillar arcane laboratory oppression bottomless pit implement
+add card
+add firewood channel viridian joiner
+fix diescreaturetriggeredability
+add swirl sprig gin
+face architect think fix first ability wrongly stop work soon face leave battlefield add test
+add card
+minor change
+cavern souls fix conditional mana mana pool remember correctly creature subtype usable
+axe bane guardian fix net ana handle
+fix remove outermost
+kkt add card fix
+kkt add gold card
+minor change card
+mana effect start move choices resolve allow cancel choices mana effect cancel mana ability activation
+kkt add golden card
+kkt green card
+kkt add white card blue card
+kkt add black card
+kkt add golden green finish land card
+fix morph handle fix face card stay face zone change
+kkt add multicolour card
+kkt add artefact card green card
+kkt add card
+kkt add card
+kkt add card fix
+kkt add green card card fix
+kkt add golden card
+kkt add card
+kkt add black card minor fix
+kkt add blue card
+add mind matter balance demonic consultation mind desire
+kkt taiga scheme fix wrong handle tip text
+add reno dungeon warden cull weak nameless inversion goblin romancer tower magistrate
+scout border fix select card hand also graveyard
+morph ability fix morph creature car type artefact super type legendary remove
+canopy cover fix work correctly cast creature control opponent
+commune gods fix possible select none card hand
+add city bottle
+morph ability fix copy face creature fix morph card indicate playable need mana play morph cast morph spell colourless fix
+side brood tyrant fix trigger ability work intend
+morph ability fix display handle morph card permanents
+mist cutter hydra fix previous use set value use card put onto battlefield fix
+fix typo black cat
+add chron atom totem proteus staff
+add green card
+market festival fix mana generate market festival could use pay mana cost mana ability land market festival enchant second ability mythos shrine nyx
+add draw rich lord dystopia greater good rune snag
+add game duration tournament match view
+add handle show tournament game tournament view
+add morph test
+allow reselection target card graveyard use delve
+add skip next main phase add preference options skip handle click phase bar open phase bar preferences
+fix also add couple new card
+aether spout fix order card top bottom one could select
+add option start match password protection
+tournaments add handle construct format password protection
+fix minor problem tip rule text generation
+fix bug becomescreaturetargeteffect target permanent subtypes apply always
+add card
+fix allow launcher start client also slightly improve performance
+rename controlspermanentcondition permanentsonthebattlefieldcondition
+book green card
+loam dweller fix land could select loam dwellers trigger ability
+fix put token onto battlefield copy creature battlefield effect copy creatures already copy creatures
+fix search library handle surgical extraction
+fix check submit deck wrongly also make limit tournaments
+book add card
+think haemorrhage descendant path reap intellect simian spectre extirpate lobotomy fix wrong search handle hide hide zone
+bow nylon fix put button library effect
+add acquire
+add portal
+add sadistic auger age ring bright earth whip order gild drake
+cub add ben cube
+cub add cube
+add delay shield oath liege paradox haze sacred mesa
+draft add possibility mark card draft timeout add sound draft change compression sound file
+skirt drill sergeant fix kind permanents could bring onto battlefield instead goblin permanents
+add display player order draft panel add tray info next card pick image window active
+add aeon chronicler
+add mtg legacy cube
+fix wrong card name mtg legacy cube ben cube
+fix possible null pointer exception addmanaofanycolortargetcanproduceeffect
+add dance dead necromancy finish
+add mana reflection moss bridge troll gloom widow feast
+fix trigger ability look card ignore copy card
+cube add peasant toolbox cube
+fix concurrentmodificationexception
+add profane command hallow spirit keeper song dryads phantom centaur realise llano war fury
+change framework object
+add stunt growth ski zip crystal shard loyal retainers corpse dance auth horror
+return hand fix card return card also graveyard battlefield
+add aether rift icy prison nyaya shade
+minor change tip generation
+add odyssey card add archenemy set add squirrel card
+blue card commander
+start rework net ana also handle mana source could produce color finish yet
+low fix card owner could define order card library
+change net mana handle
+command tower fix land like reflect pool could produce mana command tower produce
+fix lose abilities lose color target
+server list add pref configuration server list urls server list save client dir use configure urls reachable
+draft add possibility hide show card pick card area
+add fat seal keyword support rearrange effect project structure
+add hallow spin myth bio antic mastery asian mesmeric sliver rush river equipoise
+add possibility allow players see hand card player
+fix wrong timer handle player control player turn attackers mark blue frame playable card violet frame player select card hand possible card mark yellow discard multiple card mark already select card happen one selection
+add two plane walker black card
+miss black card fix recently commit card
+add colourless card wuhan comoro
+tweak size card popup window
+fix obstinate lox smite wilt leave liege cause discard event trigger twice discard fix minor rework
+add blue card
+add green card land
+metamorphose fix color choice make resolve spell fix also card
+path rid demon fix tip text
+add card
+add possibility use morph land minor change card
+add two last miss card
+rework tap mana event handle include produce mana event
+rework tap mana event handle include produce mana event
+add arc bind reclaimer sanctimony delay eye wisent wheel sun moon gauntlet power scald
+add card
+brave elements fix work choose color effect
+rework framework class use new framework class card
+add miss black card
+add card
+add setdefaultcolor cardinal
+set color card color indicators
+merge pull request default color
+add holiday cube new card
+minor change submit card
+start remove set color basic card class
+maniacal rage fix boost instead
+fix card effect check permanents name work correctly face creatures
+crystal shard fix bug cost pay prevent card return hand
+jeer instigator fix ability trigger turn face
+add white card
+add plea power spell jack wild research
+add pride cloud
+add card
+add intel dreamer
+add wave aggression
+add twiddle
+holiday cube fix year name add miss card
+add intel dreamer
+mist form sliver fix bug choose subtype add correctly
+add card
+balance reword user selection text minor change
+add intel dreamer
+add fate reform set valorous stance fri card kkt block construct option add miss card holiday cube
+switch quid mageobjectreference handle affect object continuous effect solve problems object change multiple time zone effect last
+make lot change handle continuous trigger abilities fix problems mage singletons like fling intimidate reach work fix also problems copy effect card like clone end clone leave battlefield
+fix commander replacement effect work cleanup change continuous effect trigger abilities
+add aqua morph entity fix primal plasma primal clay correctly copy clone
+add early event type check replacement effect speed game execution effect already implement new check
+fix bug exchange control activate abilities get wrong controller
+add set aliases
+fix possible null pointer exception add land dialog
+fix possible null pointer exception add land dialog
+fri add manifest effect
+fri add dash ability
+fri azan kin guard frontier mastodon frontier siege outpost siege shamanic revelation
+fri add femur war shaman padova dragon law whisper wood elemental eternal
+fri add white card
+fri add red card
+correct card number cause incorrect art alpha beta add various card modify exist homeland card allow multiple card arts
+update fri spoilers
+add fate transfer lord fugue morrow grim blotter
+fix add mana type land produce
+update fri spoilers
+add conspire ability add gleeful sabotage example work may need adjustment level
+update fri spoilers
+satyr way finder fix put land card hand effect optional
+update complete fri spoiler
+add fri run mark cycle
+add fri run mark cycle
+add fri card ophidian eye
+suffer vortex flame blood hand fix life gain prevent effect implement replacement effect
+fri add black card
+fri add red card
+fri black card
+fri add blue multicolour card
+fri add brutal horde chief crucible spirit dragon fri complete
+fri fix etc replacement trigger abilities manifest card
+fix novice heart progress use filtercreaturepermanent directly
+add implementation maldivian rage
+add implementation rally righteous
+fix bug precursor golem trigger use last know information would instead counter trigger spell leave stack add ability player control order precursor golem copy stack
+change card commit duncan
+breath fury must successfully sacrifice attach creature order remainder effect happen
+add strong ald scourge
+add various khalid card add scrabble claw minor fix face eleven map fix soul layer gain indestructible
+fix etc abilities manifest card wrongly trigger constellation ability doom wake giant manifest reality shift
+rename make handle non spell card
+rework comparison client server
+fix magus candelabra rule conform like candelabra taw nos
+add spell tithe enforcer gauntlet might shiva rumpus
+add heartwood storyteller jotun grunt main goth tree folk veda ken orrery
+generalize ink treader phil effect split file
+add bramble wood paragon cent tactician custody soul binders cytoplasm root kin fix graft trigger source creature enter battlefield
+add shiva harvest mnemonic nexus diamond valley willow satyr empress salina
+order succession fix multiplayer handle player already lose leave
+fix card loop players
+fix continuous effect face creatures apply
+rally ancestors fix creatures card move exile also already graveyard problem zonechangecounter raise permanent card leave battlefield fix necessary implementations base fix zonechangecounter permanents leave battlefield guess bug cause change guess correct way
+annihilator fix trigger ability resolve correctly source remove battlefield resolve
+rework grisly salvage
+overhaul fix random deck generation

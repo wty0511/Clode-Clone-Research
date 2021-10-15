@@ -1,0 +1,1072 @@
+lang parser git san
+match restructure git san former commit
+improve front end git san former commit
+new demo version git san former commit
+add rad version git san former commit formerly former commit
+forget add function metadata git san former commit formerly former commit
+improve location information git san former commit formerly former commit
+add option syntax module git san former commit formerly former commit
+add run git san former commit formerly former commit
+add class git san former commit formerly former commit
+java class add code git san former commit formerly former commit
+java class add constants empty git san former commit formerly former commit
+modify sentence variables git san former commit formerly former commit
+total start git san former commit formerly former commit
+modification almost plus visitor git san former commit formerly former commit
+add ambiguity report system git san former commit formerly former commit
+extend label user declare terminals git san former commit formerly former commit
+java class add late filter test unit git san former commit formerly former commit
+add transformer pattern implementation mimic visitor pattern use implement exist transformations maybe could replace exist modifier pattern study git san former commit formerly former commit
+prepare latex comment git san former commit formerly former commit
+add comment inside modules git san former commit formerly former commit
+add inter module comment yet functional git san former commit formerly former commit
+fix comment git san former commit formerly former commit
+add cml output stream git san former commit formerly former commit
+start work maud visitor git san former commit formerly former commit
+skip addition empty list latex generation git san former commit formerly former commit
+add option git san former commit formerly former commit
+start work new basic parse git san former commit formerly former commit
+continue work new basic parse add slurp git san former commit formerly former commit
+change options bite use time git san former commit formerly former commit
+reuse parse method compiler intend flint git san former commit formerly former commit
+add code program git san former commit formerly former commit
+jenkins run two program git san former commit formerly former commit
+rename package generate unique file name git san former commit formerly former commit
+run generate run separate folder temporary file git san former commit formerly former commit
+add java disambiguation temp iamb fix minor issue visitors git san former commit formerly former commit
+run improve pretty print git san former commit formerly former commit
+small adjustment best filter git san former commit formerly former commit
+test program input store file git san former commit formerly former commit
+start work unit test report git san former commit formerly former commit
+continue front end replacement work program git san former commit formerly former commit
+create initial filter class aurelian hook compile also add load definition method compiler intend load definition either stream cml base extension currently use home git san former commit formerly former commit
+program git san former commit formerly former commit
+fix output mode raw option change pretty print method git san former commit formerly former commit
+minor change pretty print feature git san former commit formerly former commit
+append regression test git san former commit formerly former commit
+make change regard run temporary folder also make refactoring git san former commit formerly former commit
+make method synchronize git san former commit formerly former commit
+improvements pretty print git san former commit formerly former commit
+factor load definition parse definition separate definition loader class git san former commit formerly former commit
+stub git san former commit formerly former commit
+integrate new parser disambiguation git san former commit formerly former commit
+new parser seem work even better one file git san former commit formerly former commit
+add model check option run git san former commit formerly former commit
+improve pretty print git san former commit formerly former commit
+change pretty print git san former commit formerly former commit
+try fix issue type definitions git san former commit formerly former commit
+report time examples git san former commit formerly former commit
+filter better job git san former commit formerly former commit
+try strictly type parser git san former commit formerly former commit
+move java disambiguation improve best fit alg git san former commit formerly former commit
+activate java disambiguation git san former commit formerly former commit
+add basic debugger stepper feature run git san former commit formerly former commit
+finish unused syntax name check git san former commit formerly former commit
+add java disambiguation latex generation git san former commit formerly former commit
+default module program syntax module exist semantics module git san former commit formerly former commit
+blue attribute git san former commit formerly former commit
+update get terminals get correct syntax modules git san former commit formerly former commit
+minor change pretty print git san former commit formerly former commit
+run search pretty print latex git san former commit formerly former commit
+add parent option pretty print git san former commit formerly former commit
+minor change debugger treat unknown command git san former commit formerly former commit
+filter add support latex attribute git san former commit formerly former commit
+add support latex instructions replacement git san former commit formerly former commit
+integrate lint tool compile git san former commit formerly former commit
+add support latex instructions multiple replacements git san former commit formerly former commit
+try fix manifest file git san former commit formerly former commit
+add possibility run multiple step one time run stepper git san former commit formerly former commit
+minor change infer main module syntax module git san former commit formerly former commit
+add step show path label options run stepper git san former commit formerly former commit
+integrate run project java git san former commit formerly former commit
+refactor step git san former commit formerly former commit
+refactor step rename java tool git san former commit formerly former commit
+change way thread execute git san former commit formerly former commit
+add support parse command line arguments git san former commit formerly former commit
+add level exceptions error immediately stop compilation print warn error warn print message end hide warn print message end option give compile git san former commit formerly former commit
+advance refactoring git san former commit formerly former commit
+attempt use location filename attribute node git san former commit formerly former commit
+update verbose message git san former commit formerly former commit
+add better disambiguation error message variables git san former commit formerly former commit
+add new progress generate better git san former commit formerly former commit
+add select option run debugger git san former commit formerly former commit
+improve error message run debugger include show node info graph option git san former commit formerly former commit
+transformer miss method transform inject label git san former commit formerly former commit
+forget add java file git san former commit formerly former commit
+progress refactoring git san former commit formerly former commit
+enhancement select option run debugger git san former commit formerly former commit
+progress refactoring generation seem work git san former commit formerly former commit
+great progress refactoring git san former commit formerly former commit
+major progress refactoring intermediate commit add many stuff try remove stuff git san former commit formerly former commit
+forget remove code git san former commit formerly former commit
+hopefully fix tool git san former commit formerly former commit
+remove latex parser old class part refactoring git san former commit formerly former commit
+add new well name project basic parse git san former commit formerly former commit
+add concrete project part git san former commit formerly former commit
+fix minor bug stepper git san former commit formerly former commit
+test initial project import git san former commit formerly former commit
+simply work git san former commit formerly former commit
+git san former commit formerly former commit
+git san former commit formerly former commit
+compile fix issue add warn message empty list add sort git san former commit formerly former commit
+add last def parser run mfg parser git san former commit formerly former commit
+compile add bracket class git san former commit formerly former commit
+compile progress regard priorities git san former commit formerly former commit
+compile progress regard priorities something work git san former commit formerly former commit
+compile last fix issue exp configuration start symbol git san former commit formerly former commit
+remove binaries git san former commit formerly former commit
+git san former commit formerly former commit
+compile fix issue add extra check complete empty elements git san former commit formerly former commit
+variable add update git san former commit formerly former commit
+optimize import know git san former commit formerly former commit
+compile fix tool hopefully improve disambiguation problem result insert many ambiguities git san former commit formerly former commit
+compile fix git san former commit formerly former commit
+last add bracket program partial new priority system git san former commit formerly former commit
+compile extend extra priorities tag optimize apply also git san former commit formerly former commit
+git san former commit formerly former commit
+commit cause run parse parse cml java class call parser git san former commit formerly former commit
+compile add extend priorities associativity partial work git san former commit formerly former commit
+compile fix issue report error message result production git san former commit formerly former commit
+compile fix issue properly disambiguate bug visitors git san former commit formerly former commit
+use parser search git san former commit formerly former commit
+compile add new class run help parse pattern search git san former commit formerly former commit
+compile bite refactoring git san former commit formerly former commit
+change compile fresh mos style git san former commit formerly former commit
+compile rethink generation program parser hop fix issue improve error message git san former commit formerly former commit
+compile fix issue add check look duplicate productions git san former commit formerly former commit
+compile improve error message issue git san former commit formerly former commit
+fix sort git san former commit formerly former commit
+compile add grind parser term need declare ids anymore git san former commit formerly former commit
+compile fix newly create grind term parser variables small fix modify filter git san former commit formerly former commit
+compile fix problems escape term print git san former commit formerly former commit
+compile add fix issue give error message tag use priorities find production git san former commit formerly former commit
+add strictness contexts label git san former commit formerly former commit
+compile start work remove intermediate cml git san former commit formerly former commit
+add back term use parse maude cml fail git san former commit formerly former commit
+compile work documentation back end improve command line options group git san former commit formerly former commit
+move serialization close parse definition git san former commit formerly former commit
+update output file conventions home psf git san former commit formerly former commit
+fix run use compile directory git san former commit formerly former commit
+merge compile dir branch trunk git san former commit formerly former commit
+compile start rename list int list branch git san former commit formerly former commit
+temporary fix test git san former commit formerly former commit
+last improve usage new file structure git san former commit formerly former commit
+last allow access parsers last git san former commit formerly former commit
+make change run evil happen java git san former commit formerly former commit
+last partial fix issue readied sort option last still need run git san former commit formerly former commit
+rewrite work git san former commit formerly former commit
+compile reject ids grind parser improve file location errors last git san former commit formerly former commit
+fix issue git san former commit formerly former commit
+upgrade debugger mostly use parser still need upgrade search graph git san former commit formerly former commit
+compile progress integrate lexer rule compiler git san former commit formerly former commit
+compile think tokens work git san former commit formerly former commit
+big commit refactor run apr upgrade debugger git san former commit formerly former commit
+rewrite map remain git san former commit formerly former commit
+run output mode cml last cml options git san former commit formerly former commit
+symbolic execution linearise rule step git san former commit formerly former commit
+move symbolic execution replace constants variables add cell configuration git san former commit formerly former commit
+change git san former commit formerly former commit
+make progress symbolic git san former commit formerly former commit
+commit prototype code add parentheses code pertain type list terminators git san former commit formerly former commit
+run verbose option display execution time step import table git san former commit formerly former commit
+add path condition cell place cell git san former commit formerly former commit
+automatic tag user rule git san former commit formerly former commit
+sort cells git san former commit formerly former commit
+maybe disambiguation actually correct git san former commit formerly former commit
+always add top cell git san former commit formerly former commit
+fix pretty print algorithm basically copy maude except use priority associativity git san former commit formerly former commit
+symbolic execution work imp git san former commit formerly former commit
+fix maude oil git san former commit formerly former commit
+new handle compound sort git san former commit formerly former commit
+partial work new visitors git san former commit formerly former commit
+patch tool type git san former commit formerly former commit
+compile forget update place involve git san former commit formerly former commit
+start symbolic rewrite java git san former commit formerly former commit
+fix search sort cells run git san former commit formerly former commit
+commit code make run supportive back end java symbolic git san former commit formerly former commit
+compile add support cast term moment syntactic cast fully functional sort syntactic cast sort semantic cast git san former commit formerly former commit
+start new class hierarchy rewrite git san former commit formerly former commit
+fix compile bug cell sort modifications run git san former commit formerly former commit
+fix load entire cml file string git san former commit formerly former commit
+daniel viol trina nam add guy debug git san former commit formerly former commit
+add comment fix symbolic back semantic equality add label declaration symequalitysort git san former commit formerly former commit
+fix git san former commit formerly former commit
+remove label generation simplify admit pass automaticmoduleimportstransformer things one necessary move new simplify declare label pass add two import seem redundant ones add earlier add declarations label constants every constant mention anywhere necessary three four important things like set never declare anywhere add prelude necessary add explicit production sub sort every sort remove break test turn pass need reason sub sort probably better special case declare cell label sort necessary generate maude move happen late git san former commit formerly former commit
+basic free theory rewrite java symbolic back end git san former commit formerly former commit
+fix configuration display issue debug guy git san former commit formerly former commit
+forget add file git san former commit formerly former commit
+add sort predicate symbolic git san former commit formerly former commit
+compile sort end cell sort cell fragment treat bag git san former commit formerly former commit
+partial merge break stuff git san former commit formerly former commit
+roll back change git san former commit formerly former commit
+compile fix issue error message properly port output also improve grind parser contain hole git san former commit formerly former commit
+update except run git san former commit formerly former commit
+half fix tool type static git san former commit formerly former commit
+compile improve sequence rewrite disambiguation git san former commit formerly former commit
+compile improve sequence rewrite disambiguation part git san former commit formerly former commit
+compile fix issue syntactic cast remove together bracket create another step remove attempt list git san former commit formerly former commit
+kop mile fix issue fix many inconsistencies like miss equal oil package get sort bracket return sort contain term get sort rewrite return club contain term git san former commit formerly former commit
+small change git san former commit formerly former commit
+compile part two typeinferencesupremumfilter update think correct git san former commit formerly former commit
+add negative test git san former commit formerly former commit
+debug jenkins git san former commit formerly former commit
+make parser call git san former commit formerly former commit
+work java back end git san former commit formerly former commit
+start refactoring constant class specific class git san former commit formerly former commit
+compile improve cast grind parser git san former commit formerly former commit
+dedicate label constant class example pass git san former commit formerly former commit
+solve collapse expand add compare button auto select last generate configurations git san former commit formerly former commit
+replace use class constant book int float string dedicate class git san former commit formerly former commit
+commit work progress parser git san former commit formerly former commit
+sort cells compile git san former commit formerly former commit
+start work stuff program equivalence git san former commit formerly former commit
+merge trunk branch git san former commit formerly former commit
+keep trunk git san former commit formerly former commit
+latex tokens git san former commit formerly former commit
+merge sort cells trunk suppose work option git san former commit formerly former commit
+hope break anything git san former commit formerly former commit
+fix parse parentheses stuff git san former commit formerly former commit
+fix sequence bug report dwight git san former commit formerly former commit
+add cell sort function non sort git san former commit formerly former commit
+progress new builtin system git san former commit formerly former commit
+turn definition helper non static class git san former commit formerly former commit
+check array assume data type array index git san former commit formerly former commit
+merge trunk git san former commit formerly former commit
+add owners dwight git san former commit formerly former commit
+add partial implementation term oil git san former commit formerly former commit
+program run symbolic semantics wrong git san former commit formerly former commit
+link folder reorganize modular way git san former commit formerly former commit
+try integrate sri last program git san former commit formerly former commit
+revert spawn program git san former commit formerly former commit
+move parse utile utile git san former commit formerly former commit
+big refactoring clean dist bin change tool package allow better ownership git san former commit formerly former commit
+rename definition helper context progress builtin map git san former commit formerly former commit
+add new bag list map set builtin git san former commit formerly former commit
+add support short syntax declarations use support item example syntax item syntax item tag tag arguments git san former commit formerly former commit
+forget add null check parser filter git san former commit formerly former commit
+reorganize link folders git san former commit formerly former commit
+add bunch java docs run apr git san former commit formerly former commit
+add configurationstructuremap structure context share multiple pass require git san former commit formerly former commit
+compile add log file store parse information git san former commit formerly former commit
+fix order parameters link basic git san former commit formerly former commit
+refactor cell sort inference git san former commit formerly former commit
+move parse attribute rule label basic parse sentence abstract handle patter well intermediate parse step git san former commit formerly former commit
+progress java rewrite engine git san former commit formerly former commit
+minor modifications link git san former commit formerly former commit
+debug guy commit improve diff frame add help frame auto select last generate nod format code git san former commit formerly former commit
+type inference lambda java rewrite engine git san former commit formerly former commit
+compile fix previous commit follow restrictions cast grind parser git san former commit formerly former commit
+add support run rule teachability rule git san former commit formerly former commit
+add support add search support git san former commit formerly former commit
+add support parse single sentence code directly git san former commit formerly former commit
+untested partial implementation fastest convention git san former commit formerly former commit
+fix small copy paste error git san former commit formerly former commit
+progress fastest still need sort bug disambiguation git san former commit formerly former commit
+add check tool git san former commit formerly former commit
+merge definitions link branch trunk git san former commit formerly former commit
+add check tool git san former commit formerly former commit
+work builtin set git san former commit formerly former commit
+progress improve disambiguation fastest yet git san former commit formerly former commit
+make progress check sill work git san former commit formerly former commit
+improve disambiguation share term git san former commit formerly former commit
+merge java rewrite engine branch trunk git san former commit formerly former commit
+add support multiple syntactic list separator java rewrite engine git san former commit formerly former commit
+add support test generation java rewrite engine git san former commit formerly former commit
+git ignore file base san ignore properties former commit formerly former commit
+declare label declare top cell need former commit formerly former commit
+imp work git san former commit formerly former commit
+rename variables rule avoid conflict function return former commit formerly former commit
+update builtin collections handle substitution internally former commit formerly former commit
+fix bug previous commit former commit formerly former commit
+optimize substitution evaluation operations former commit formerly former commit
+big commit update java rewrite engine stream yet need train test former commit formerly former commit
+move test tool use command line parser test former commit formerly former commit
+java side compile binary sale server compile linux currently temporarily use new sale server test bits former commit formerly former commit
+test enrich command line options former commit formerly former commit
+remove unnecessary parameter per brandon suggestion former commit formerly former commit
+compile type inference variables progress create intermediate set type inference former commit formerly former commit
+compile progress variable type inference former commit formerly former commit
+flag debug code compare server former commit formerly former commit
+add code new basic parser use fast basic use former commit formerly former commit
+term fix question mark skip former commit formerly former commit
+add linux kappa server former commit formerly former commit
+update instructions sale server add linux binary former commit formerly former commit
+revert fix tool eclipse project revert commit formerly formerly formerly former commit formerly former commit
+compile improve error message new type inference former commit formerly former commit
+extract generic external process server class former commit formerly former commit
+add skip option former commit formerly former commit
+update git ignore file file generate new basic parser former commit formerly former commit
+compile fix bug type inference former commit formerly former commit
+compile try resolve conflict new type inference former commit formerly former commit
+compile collect sort information variables configuration former commit formerly former commit
+java rewrite engine use sort inference offer rad imp imp update take advantage former commit formerly former commit
+java rewrite engine use sort inference offer rad imp imp update take advantage former commit formerly former commit
+refactored code support mutually recursive data structure map map key list whose head key another map etc former commit formerly former commit
+refactored code support mutually recursive data structure map map key list whose head key another map etc former commit formerly former commit
+use kappa solve float grind boolean constraints former commit formerly former commit
+update crew engine output add test imp former commit formerly former commit
+merge branch former commit formerly former commit
+attempt merge former commit formerly former commit
+add test simple former commit formerly former commit
+exclude test former commit formerly former commit
+cleanup options revamp options former commit formerly former commit
+fix error message longer char former commit formerly former commit
+add new builtin former commit formerly former commit
+string float hook kappa prove add former commit formerly former commit
+fix typos former commit formerly former commit
+remove unused constructor method former commit formerly former commit
+cleanup options revise test new options former commit formerly former commit
+cleanup options revise options apply grig ore comment former commit formerly former commit
+merge branch former commit formerly former commit
+display nice console message throw error root tag former commit formerly former commit
+convert end collections builtin collections former commit formerly former commit
+enforce infer sort former commit formerly former commit
+lot restructure examples test simple former commit formerly former commit
+fix intel project settings new folder structure former commit formerly former commit
+merge branch former commit formerly former commit
+merge branch former commit formerly former commit
+second iteration clean file utile former commit formerly former commit
+test remove unused methods mark variables final possible remove unused arts replace loop iterations etc former commit formerly former commit
+test delete run temporary directory run former commit formerly former commit
+test consider multiple definitions issue former commit formerly former commit
+test create directory attribute issue former commit formerly former commit
+test asynchronous reader input stream process former commit formerly former commit
+start add priority strategy class former commit formerly former commit
+test create dry run mode test dry former commit formerly former commit
+cleanup properly handle input output stream declare inside java try resources block ensure proper cleanup error handle need result possible fix test file relate issue definitely reduce amount open file handlers visible performance speedup due fact file stream wrap buffer stream former commit formerly former commit
+shorten long error message character per line former commit formerly former commit
+comment complete builtin basic back former commit formerly former commit
+merge branch former commit formerly former commit
+fix bug multi thread code former commit formerly former commit
+use already define file former commit formerly former commit
+test issue report warn result directory specify former commit formerly former commit
+compile improve rule would trigger ambiguities update disambiguation algorithm call parser former commit formerly former commit
+test integration collections master former commit formerly former commit
+bottom class move file make kind aware start work support cell representation list former commit formerly former commit
+fun type substitution small update former commit formerly former commit
+merge branch former commit formerly former commit
+add test simple java former commit formerly former commit
+remove class former commit formerly former commit
+remove garbage former commit formerly former commit
+remove close former commit formerly former commit
+update strategy framework integrate search former commit formerly former commit
+update fun substitution former commit formerly former commit
+change option name check former commit formerly former commit
+example prove float property former commit formerly former commit
+test bug fix issue former commit formerly former commit
+test create ignore white space option former commit formerly former commit
+initial work towards generalize strictness former commit formerly former commit
+test change policy default root directory attribute former commit formerly former commit
+initial commit model integration former commit formerly former commit
+remove redundant file til former commit formerly former commit
+rename program result test former commit formerly former commit
+simplify document sample stream former commit formerly former commit
+rename imp former commit formerly former commit
+create file compile former commit formerly former commit
+java rewrite engine work variable attribute former commit formerly former commit
+update test former commit formerly former commit
+add support unflattering parse former commit formerly former commit
+fix default value program result arguments former commit formerly former commit
+compile improve cell disambiguation former commit formerly former commit
+update definitions former commit formerly former commit
+implement result program former commit formerly former commit
+change name consistency former commit formerly former commit
+minor hack argument print former commit formerly former commit
+constrain term conflict resolve former commit formerly former commit
+minor correct indentation former commit formerly former commit
+remove useless comment former commit formerly former commit
+merge branch former commit formerly former commit
+modify former commit formerly former commit
+revert lii change metadata former commit formerly former commit
+test gen implement narrow result predicate former commit formerly former commit
+test gen improve doc option concrete sort former commit formerly former commit
+simulation lii former commit formerly former commit
+add new functionalities save load configuration export graph eng improve diff frame add experimental semantic equal new nod run step command time configuration format code former commit formerly former commit
+simulation lii former commit formerly former commit
+compile extend cast functionality former commit formerly former commit
+refactor compile front end former commit formerly former commit
+refactoring stuff mostly format former commit formerly former commit
+refactoring stuff former commit formerly former commit
+restructure login former commit formerly former commit
+small fix run help doc former commit formerly former commit
+restructure bite login file former commit formerly former commit
+simulation lii former commit formerly former commit
+simulation lii former commit formerly former commit
+test gen minor change former commit formerly former commit
+fix wrong argument name compile error message former commit formerly former commit
+update login use meta substitution former commit formerly former commit
+test gen implement temporary rule shadow mechanism restrict form program generate former commit formerly former commit
+fix small bug test case validation minor refactoring former commit formerly former commit
+add helpful assertions former commit formerly former commit
+java back end add documentation visitor class former commit formerly former commit
+test gen refactored class non static former commit formerly former commit
+test gen assign heat cool rule automatically generate label compilation former commit formerly former commit
+compile allow heat cool rule heat cool one variable compile test generation former commit formerly former commit
+test gen bunch change code relate test generation symbolic writer former commit formerly former commit
+merge branch former commit formerly former commit
+add new exercise simple type former commit formerly former commit
+add requirements former commit formerly former commit
+plugin update description former commit formerly former commit
+simulation finish former commit formerly former commit
+pretty print problem label former commit formerly former commit
+fix parser consider list variable case former commit formerly former commit
+parser former commit formerly former commit
+add xmlunparsefilter get cml representation term former commit formerly former commit
+finish oil former commit formerly former commit
+java back end modify tool type definition java back end former commit formerly former commit
+move kilt class former commit formerly former commit
+finish app transformation former commit formerly former commit
+print former commit formerly former commit
+local fix former commit formerly former commit
+commit work back doc option generate exactly back end latex would without rule unless rule specially tag former commit formerly former commit
+commit add file necessary back doc work former commit formerly former commit
+fix former commit formerly former commit
+start refactoring builtin new branch remove comma xxx constructors former commit formerly former commit
+imp seem work java back end unite builtin former commit formerly former commit
+former commit formerly former commit
+experimental support injections label list label add former commit formerly former commit
+generate compile option former commit formerly former commit
+experimental support label list variables former commit formerly former commit
+compile add special java back end former commit formerly former commit
+add hook builtin fix build former commit formerly former commit
+first commit ready presentation former commit formerly former commit
+merge branch former commit formerly former commit
+finish former commit formerly former commit
+fix former commit formerly former commit
+parser return former commit formerly former commit
+prepare test templates former commit formerly former commit
+former commit formerly former commit
+hack sort inference failure former commit formerly former commit
+resolve unmarked git conflict former commit formerly former commit
+merge branch former commit formerly former commit
+pretty print former commit formerly former commit
+pretty printer former commit formerly former commit
+flatten syntax former commit formerly former commit
+pretty print search generate former commit formerly former commit
+compatible print former commit formerly former commit
+index give merge branch add file manually former commit formerly former commit
+start work check interface former commit formerly former commit
+make distinctions commutative commutative collections semantic equal commutative collection consider children multi set commutative collections consider children set former commit formerly former commit
+work new builtin former commit formerly former commit
+index progress make index work simple former commit formerly former commit
+check improve bite user interface add predicate kim lib translation former commit formerly former commit
+fix latex errors former commit formerly former commit
+fix import parser test former commit formerly former commit
+comment check unnecessary former commit formerly former commit
+fix tool type definition former commit formerly former commit
+imp work maude former commit formerly former commit
+plug support reference sort former commit formerly former commit
+index progress tune index algorithm better profile former commit formerly former commit
+java back end fix bug symbolic constraint match former commit formerly former commit
+towards generate witness path automaton former commit formerly former commit
+add movie link file tutorial former commit formerly former commit
+merge pull request add check style check tabs fix pass former commit formerly former commit
+merge pull request train review former commit formerly former commit
+java back end implement pattern match functionality independent unification former commit formerly former commit
+index start move rule index compile former commit formerly former commit
+rename revise read file tutorial former commit formerly former commit
+rename revise read file tutorial former commit formerly former commit
+java back end pattern match remove wrong assertion former commit formerly former commit
+merge pull request rename update tutorial read file former commit formerly former commit
+add support iteration set map fix set concatenation right hand side former commit formerly former commit
+java back end clean methods relate maintain variables inside term add java doc former commit formerly former commit
+java back end refactored constructor label constant receive term context instead context former commit formerly former commit
+new parser add label generate tree work michael former commit formerly former commit
+fix two bug pretty printer former commit formerly former commit
+progress use java primitives builtin former commit formerly former commit
+modify set model test insensitive generation internal fresh variables former commit formerly former commit
+address one comment code review change visibility constructor pattern matcher back private former commit formerly former commit
+parser fix usages former commit formerly former commit
+add culpability check untested former commit formerly former commit
+add urls link author former commit formerly former commit
+add urls link author former commit formerly former commit
+first draft change use commander options compile former commit formerly former commit
+add negative contract property former commit formerly former commit
+add media properties tutorial sub folders former commit formerly former commit
+implement builtin support machine integers int use java primitive type int former commit formerly former commit
+new parser add visitor transform syntax ufa state require new parser test michael finish rule apply label term modify sort return constants moment every state require order info remove requirement future order algorithm sort former commit formerly former commit
+index measure stats former commit formerly former commit
+new parser add command line options last new parser work former commit formerly former commit
+merge remote track branch former commit formerly former commit
+make fix filter better clarity add regression test former commit formerly former commit
+move correctconstantstransformer filter later fix tool former commit formerly former commit
+polish add two test ambiguities rename culpability check null ability fix unit test test null ability former commit formerly former commit
+change flatten syntax step flatten term call elements smaller definition former commit formerly former commit
+add support white space except begin file regular expression match white space comment update treecleanerfilter better handle abundance tokens need deletion former commit formerly former commit
+java back end add option pattern match run former commit formerly former commit
+java back end fix bug set lookup pattern matcher former commit formerly former commit
+java back end use grind writer run search option pattern match enable former commit formerly former commit
+rewrite parser kernel handle rule former commit formerly former commit
+merge branch fix unit test use new rule state add label term test pass clean bite constructors require order info anymore fix generation syntax grammar state former commit formerly former commit
+fix fix generation syntax grammar state fix sort term generate parser former commit formerly former commit
+java back end add tag interface data structure update operations former commit formerly former commit
+merge branch former commit formerly former commit
+java back end fix bug pattern matcher revise allow non grind subject term former commit formerly former commit
+amend dwight comment first commit revert double comma ambiguity print ambiguities back end need handle different way create letter special production type create exterminator label user list generalize generation label form list terminators split regular expression white space part make readable various documentation improvements former commit formerly former commit
+index simple tool work former commit formerly former commit
+fix end usage former commit formerly former commit
+add copyright modify file former commit formerly former commit
+merge remote track branch former commit formerly former commit
+fix break rebate add option compile run test pattern match former commit formerly former commit
+fix miss copyright info debase former commit formerly former commit
+merge branch former commit formerly former commit
+improve treecleanervisitor error report handle call parser former commit formerly former commit
+merge remote track branch former commit formerly former commit
+fix profile maude back end former commit formerly former commit
+index add imp imp fig file index former commit formerly former commit
+add regular expression pattern match test add regex flag program specify expect output file contain one regex per line add functionality check regex file assert regexps find output string demo functionality use search result imp login former commit formerly former commit
+fix copyright former commit formerly former commit
+fix license issue tartan former commit formerly former commit
+merge pull request use commander compile former commit formerly former commit
+file add copyright note remove redundant media information former commit formerly former commit
+first draft visitor refactoring commit break everything ever know want get review interface visitors start make change entire code base support new apr note sure fine tune design serve drop replacement already exist except basic worker become local transformer keep similarity function local transformer former commit formerly former commit
+add generic throw parameter plus remove type parameters drop replacement visitors former commit formerly former commit
+add builtin size operation collections former commit formerly former commit
+enhance builtin equality symbolic term former commit formerly former commit
+first draft code make everything compile former commit formerly former commit
+change check style check lowercase copyright symbol consistent license file former commit formerly former commit
+fix remain compiler errors plus cleanup fix bug former commit formerly former commit
+merge branch former commit formerly former commit
+add copyright former commit formerly former commit
+fix inconsistencies abstract visitor former commit formerly former commit
+add copyright form former commit formerly former commit
+fix symbolic constraint equality former commit formerly former commit
+fix mess configuration file wrong arguments program result dir former commit formerly former commit
+refactor way application exit exceptions catch former commit formerly former commit
+fix binary parser run former commit formerly former commit
+change definition test rename symbolic compile dir test former commit formerly former commit
+use maud back instead symbolic back former commit formerly former commit
+fix copyright former commit formerly former commit
+merge branch former commit formerly former commit
+fix copyright former commit formerly former commit
+add definition string directly also fix stuff order work rename escape ensue test better name fix bug syntax grammar generation add test new parser former commit formerly former commit
+fix copyright former commit formerly former commit
+move cache visit method refactor boilerplate code former commit formerly former commit
+merge branch former commit formerly former commit
+fix headless issue properly former commit formerly former commit
+fix copyright former commit formerly former commit
+fix null interception run shutdown hook former commit formerly former commit
+merge pull request refactor way application exit exceptions catch former commit formerly former commit
+merge branch former commit formerly former commit
+make better error message case git command line former commit formerly former commit
+apparently write many time want pattern repeat make regular expression string java version least readable former commit formerly former commit
+another take priorities call unmodified filter work term con anything parser return list update test file former commit formerly former commit
+another take priorities call unmodified filter work term con anything parser return list update test file former commit formerly former commit
+merge pull request move int float declaration former commit formerly former commit
+merge branch former commit formerly former commit
+merge branch former commit formerly former commit
+refactor run options use commander former commit formerly former commit
+make copyonwritetransformer throw exception former commit formerly former commit
+fix bug parse code path former commit formerly former commit
+merge pull request refactor last options former commit formerly former commit
+merge branch former commit formerly former commit
+modify definition sample prog equiv stream add several examples sample prog equiv stream program former commit formerly former commit
+merge branch former commit formerly former commit
+fix time period copy right former commit formerly former commit
+merge branch former commit formerly former commit
+fix test log string escape former commit formerly former commit
+manage parse make parser return term con children list terminator fix collectprioritiesvisitor call properly add data structure context associativity information update priority filter take consideration associativity still fix examples fix instantiation constants reference production fix unit regression test former commit formerly former commit
+make default start symbol list sort sub sort former commit formerly former commit
+rename run contend former commit formerly former commit
+fix bug builtin return former commit formerly former commit
+delete quote handle former commit formerly former commit
+fix wet work java back end plus write quine former commit formerly former commit
+remove opt apply unification variables rule end constraint rather substitution form must rename former commit formerly former commit
+progress minor unrelated stuff former commit formerly former commit
+work java user substitution former commit formerly former commit
+work sample example former commit formerly former commit
+add float java rewrite engine former commit formerly former commit
+replace token fresh new fresh former commit formerly former commit
+fix issue former commit formerly former commit
+fix ambiguities relate front variables former commit formerly former commit
+forget change place former commit formerly former commit
+fix copyright former commit formerly former commit
+address issue code review former commit formerly former commit
+fix incorrect compilation list builtin former commit formerly former commit
+fix java login use regex former commit formerly former commit
+add update text file fix parser treat reject keywords specially specify lexical sort add check make sure users specify reject properly add regression test former commit formerly former commit
+amend dwight comment add check ensure bracket use properly fix comment former commit formerly former commit
+merge branch former commit formerly former commit
+implement maude part fresh generation former commit formerly former commit
+refactoring code method former commit formerly former commit
+change bite ufa list order improve performance long list make single circular call element instead multiple ones list avoid quadratic behavior former commit formerly former commit
+pretty printer avoid print list terminator end syntactic list former commit formerly former commit
+modify pretty printer sort cells bag accord order user declare configuration former commit formerly former commit
+revert former commit formerly former commit
+use full binder information former commit formerly former commit
+add windows bite former commit formerly former commit
+bug fix run options former commit formerly former commit
+revert temporarily remove unit test new parser new output parser match anymore revert commit formerly formerly formerly former commit formerly former commit
+use natural order sort map elements fix bug update file former commit formerly former commit
+fix generalize binder substitution implement free vars splitter binders binder meet binder former commit formerly former commit
+refactored use con list internal data structure sequence simplify copyonwritetransformer transform sequence former commit formerly former commit
+start work cache mechanism store map module string representation time try parse rule try see rule already parse time syntax change cache clear former commit formerly former commit
+compute information new rewrite algorithm compilation former commit formerly former commit
+refactored pattern matcher provide better apr new rewrite algorithm former commit formerly former commit
+clone rule disambiguation former commit formerly former commit
+take another approach order avoid clone rule parse parse rule store map save hash file disambiguate former commit formerly former commit
+fix issue former commit formerly former commit
+label constant longer term context former commit formerly former commit
+zip former commit formerly former commit
+progress heap pattern former commit formerly former commit
+call disambiguation configurations fix quine explicit former commit formerly former commit
+amend dwight comment former commit formerly former commit
+add check style check assert line end unix style former commit formerly former commit
+revert add one case hack sure commit anyway least handle case revert commit formerly formerly formerly former commit formerly former commit
+fix bug term con code former commit formerly former commit
+remove builtin field javasymbolickrun former commit formerly former commit
+merge branch solve solve former commit formerly former commit
+merge branch solve former commit formerly former commit
+optimize evaluation data structure lookup choice operations former commit formerly former commit
+apply serialization proxy pattern sequence former commit formerly former commit
+merge upstream unify builtin former commit formerly former commit
+merge pull request cache rule disambiguation former commit formerly former commit
+merge pull request fix lessons except lesson former commit formerly former commit
+data constrain term symbolic unifier former commit formerly former commit
+invalidate cache definition date latest version former commit formerly former commit
+merge pull request green light andrei former commit formerly former commit
+fix maude stuff add test former commit formerly former commit
+remove set list map class former commit formerly former commit
+minor change reduce amount state compile time former commit formerly former commit
+fix test arrayindexoutofbounds parser filter pretty mode former commit formerly former commit
+merge branch former commit formerly former commit
+heap pattern work reverse prove former commit formerly former commit
+minor documentation fix add miss start latex macro former commit formerly former commit
+fix bug list builtin code former commit formerly former commit
+merge branch former commit formerly former commit
+revise large part abstract rewrite machine make work rule multiple match former commit formerly former commit
+reverse prove also content sequence constraint refactoring former commit formerly former commit
+fix fig cml single hyphen former commit formerly former commit
+swap order cell type disambiguation rewrite correction also take consideration cell may open sort former commit formerly former commit
+make separate step deal dot add step type rewrite leave hand side function former commit formerly former commit
+clean kabstractrewritemachine move new package former commit formerly former commit
+handle better rewrite sort leave hand side function former commit formerly former commit
+fix add hook builtin map former commit formerly former commit
+create class sort represent sort former commit formerly former commit
+merge branch former commit formerly former commit
+include train patch former commit formerly former commit
+forbid extend sort java back end former commit formerly former commit
+remove add predicate pass java back end former commit formerly former commit
+refactoring extract computation sort item constructor helper method former commit formerly former commit
+fix run contend java doc former commit formerly former commit
+sub sort result item instead former commit formerly former commit
+fix error message former commit formerly former commit
+initial commit google guide former commit formerly former commit
+merge branch former commit formerly former commit
+add collections library back class path file former commit formerly former commit
+merge branch former commit formerly former commit
+initial back end add back end option generate file define sort rule definition first generate file contain parse version rule definition run separate know binary generate actual file read rule body generate file read syntax actual file know binaries include commit former commit formerly former commit
+remove extraneous exceptions improve generic infrastructure log errors former commit formerly former commit
+merge branch former commit formerly former commit
+merge branch former commit formerly former commit
+refactor build system use maven change code file make build system work former commit formerly former commit
+fix test use commander former commit formerly former commit
+fix dwight grig ore comment remove vargas map replace tweak definitions make code bite readable former commit formerly former commit
+merge pull request remove extraneous exceptions improve generic infrastructure log former commit formerly former commit
+first step resolve compilation errors former commit formerly former commit
+fix method call form sort equal string former commit formerly former commit
+merge pull request serialize context instead try recreate former commit formerly former commit
+revert remove since behavior better capture quote string unquote string revert commit formerly formerly formerly former commit formerly former commit
+make clear separation string string use former commit formerly former commit
+remove sort move sort former commit formerly former commit
+separate function former commit formerly former commit
+refactored map set add builtin operations former commit formerly former commit
+merge unify builtin former commit formerly former commit
+merge unify builtin part former commit formerly former commit
+merge branch former commit formerly former commit
+forget change merge former commit formerly former commit
+add support anywhere rule former commit formerly former commit
+remove con attribute everywhere front end former commit formerly former commit
+merge branch former commit formerly former commit
+stop use attribute store term information like location filename label former commit formerly former commit
+fix notserializableexception former commit formerly former commit
+address dwight comment former commit formerly former commit
+progress support heap pattern oil former commit formerly former commit
+remove obsolete test generation code former commit formerly former commit
+create case sugar cells compute cell sort former commit formerly former commit
+original former commit formerly former commit
+add attribute term specify bite width mint variables former commit formerly former commit
+ids precede number either former commit formerly former commit
+refactor build system use maven move file former commit formerly former commit
+add naut reject tag tokens also fix check empty productions also consider combination rule note round tag add back line ant clean remove basic directory code avoid cleanup issue git former commit formerly former commit
+fix rad comment former commit formerly former commit
+temp commit former commit formerly former commit
+remove code call former commit formerly former commit
+start work add case insensitive terminals former commit formerly former commit
+find bug valid reject former commit formerly former commit
+strongly type attribute former commit formerly former commit
+implement builtin list separate list update different class former commit formerly former commit
+verification fix mint former commit formerly former commit
+add constant class production reference superclass term con allow better error report new parser ambiguities also allow simple disambiguation filter former commit formerly former commit
+minor refactoring former commit formerly former commit
+fix flatten syntax new constant class former commit formerly former commit
+refactor rule metadata java back end use type attribute former commit formerly former commit
+add list append copy specification file former commit formerly former commit
+improve index algorithm traverse subject term retrieve index pair cell structure modify previous rewrite step former commit formerly former commit
+change cell label representation class java back end former commit formerly former commit
+fix bug symbolic unifier former commit formerly former commit
+merge pull request reduce index time former commit formerly former commit
+fix ape former commit formerly former commit
+part two former commit formerly former commit
+part change former commit formerly former commit
+extract escape sort string sort terminal fix dwight comment former commit formerly former commit
+implement cell collection former commit formerly former commit
+clean maud helper make never modify basic sort constants set private maud helper expose basic sort constant methods move mutable separators collection maud filter place use former commit formerly former commit
+fix sequence concrete collection former commit formerly former commit
+use pattern match macro expansion former commit formerly former commit
+split pom distinct modules former commit formerly former commit
+switch java former commit formerly former commit
+rename file former commit formerly former commit
+fix various find bug errors categorize correctness bad practice former commit formerly former commit
+separate java back end separate maven module plugin former commit formerly former commit
+progress unify list seq former commit formerly former commit
+fix bug lead index outbound exception former commit formerly former commit
+implement pattern expander evaluator use copyonwritetransformer instead preps transformer former commit formerly former commit
+clean matcher interface pattern matcher implement new nonacpatternmatcher non recursive former commit formerly former commit
+minor former commit formerly former commit
+remove useless methods unifier symbolic unifier former commit formerly former commit
+remove builtin properly implement later former commit formerly former commit
+modularize maude back end test case abstract module class former commit formerly former commit
+add pretty error message back end support tool former commit formerly former commit
+examples work list instead seq former commit formerly former commit
+extract selection generator new file former commit formerly former commit
+minor cleanup former commit formerly former commit
+minor refactoring former commit formerly former commit
+move static helper methods former commit formerly former commit
+switch new universal distribution format former commit formerly former commit
+add conversion label representation builtin data structure former commit formerly former commit
+merge pull request test bug former commit formerly former commit
+minor cleanup symbolic writer former commit formerly former commit
+temporarily remove unrelated test former commit formerly former commit
+add unify interface access file system former commit formerly former commit
+improvement cell representation map former commit formerly former commit
+minor cleanup refactoring former commit formerly former commit
+attempt orient rule variables right substitute res rule former commit formerly former commit
+simplify several check refactoring former commit formerly former commit
+remove unused stuff context former commit formerly former commit
+address long comment former commit formerly former commit
+merge remote track branch upstream master former commit formerly former commit
+refactor program loader run process remove static state former commit formerly former commit
+fix termination error former commit formerly former commit
+fix race condition former commit formerly former commit
+refactor remove former commit formerly former commit
+replace assertions exceptions former commit formerly former commit
+fix build former commit formerly former commit
+add module definition field transformers former commit formerly former commit
+merge branch former commit formerly former commit
+localize single definition former commit formerly former commit
+fix copyright former commit formerly former commit
+add better error message crash indicate line number rule question former commit formerly former commit
+move modules state context former commit formerly former commit
+merge pull request fix debug delete temporary file former commit formerly former commit
+merge branch former commit formerly former commit
+fix test error former commit formerly former commit
+merge pull request context transformers work former commit formerly former commit
+remove constructors handle set abstract visitor visitors former commit formerly former commit
+merge pull request add better error message crash former commit formerly former commit
+merge branch former commit formerly former commit
+add option run nail gun former commit formerly former commit
+file project former commit formerly former commit
+implement basic unification builtin set former commit formerly former commit
+refactor generate posters compile definitions former commit formerly former commit
+groundwork oil conversion skeleton unit test necessary scala java interior former commit formerly former commit
+create jav acc parser new last former commit formerly former commit
+bug fix former commit formerly former commit
+initial kor toil work former commit formerly former commit
+add last front end new syntax former commit formerly former commit
+merge pull request add parallelism compile former commit formerly former commit
+merge remote track branch former commit formerly former commit
+add test compiler inner use former commit formerly former commit
+add normal function use exit quickly unification former commit formerly former commit
+fix former commit formerly former commit
+fix cell stuff recent patch former commit formerly former commit
+test former commit formerly former commit
+add javabackendhooks method abstract module clean builtin function code former commit formerly former commit
+revert simplification substitution function evaluation former commit formerly former commit
+check style pass former commit formerly former commit
+remove map set choice class former commit formerly former commit
+former commit formerly former commit
+add compilation stub pipeline former commit formerly former commit
+somehow require former commit formerly former commit
+finish production wire former commit formerly former commit
+revert translate syntax associativity revert commit formerly formerly formerly former commit formerly former commit
+fix list translation implement enlist translation former commit formerly former commit
+add unit test former commit formerly former commit
+fix super eat supercooling java back end former commit formerly former commit
+address dwight feedback former commit formerly former commit
+minor former commit formerly former commit
+tokens become tokens apply former commit formerly former commit
+improve handle bottom former commit formerly former commit
+solve deep rewrite function rule java back end former commit formerly former commit
+fix issue partial evaluation infinite recursion former commit formerly former commit
+merge pull request remove remove include rule rule definitions former commit formerly former commit
+throw error sort exist check sub sort former commit formerly former commit
+parse rule also former commit formerly former commit
+remove cell former commit formerly former commit
+rename top term former commit formerly former commit
+improve reflection former commit formerly former commit
+draft work disjunctions former commit formerly former commit
+merge pull request remove cell class former commit formerly former commit
+merge branch former commit formerly former commit
+merge branch former commit formerly former commit
+zip former commit formerly former commit
+remove output mode raw former commit formerly former commit
+pass parse unit test former commit formerly former commit
+merge remote track branch former commit formerly former commit
+disable check style throw able former commit formerly former commit
+add rule audit feature former commit formerly former commit
+update change log poms release version former commit formerly former commit
+term construction abstract machine former commit formerly former commit
+merge pull request add rule audit feature former commit formerly former commit
+add better guide scoping order share definition serialization across invocations server former commit formerly former commit
+fix copyright former commit formerly former commit
+remove spurious warn partial compilation former commit formerly former commit
+fix bug former commit formerly former commit
+output mode smart replace sound speed pretty former commit formerly former commit
+convertors work pass imp former commit formerly former commit
+convert code work conjunctions disjunction test yet former commit formerly former commit
+merge remote track branch upstream master former commit formerly former commit
+add back end specific transition class former commit formerly former commit
+add class support java back end specific transition former commit formerly former commit
+fix serialization conjunctive formula substitution former commit formerly former commit
+merge branch former commit formerly former commit
+progress use new conjunction class former commit formerly former commit
+merge branch former commit formerly former commit
+slightly improve set match pattern matcher former commit formerly former commit
+fix former commit formerly former commit
+fix urls former commit formerly former commit
+final state bug fix graph former commit formerly former commit
+add synchronize block scope former commit formerly former commit
+modify login output former commit formerly former commit
+fix local rewrite former commit formerly former commit
+deep refactoring former commit formerly former commit
+patch semantics former commit formerly former commit
+patch semantics former commit formerly former commit
+remove context former commit formerly former commit
+merge remote track branch former commit formerly former commit
+merge branch former commit formerly former commit
+fix bug former commit formerly former commit
+first attempt former commit formerly former commit
+add support non deterministic lookup former commit formerly former commit
+merge remote track branch former commit formerly former commit
+merge branch former commit formerly former commit
+add rewrite seq cast disambiguation filter former commit formerly former commit
+make change former commit formerly former commit
+collect variables sort former commit formerly former commit
+disambiguate use type variables former commit formerly former commit
+work collect restrictions former commit formerly former commit
+type inference variables former commit formerly former commit
+add filter eliminate last ambiguities improve warn error report call parser former commit formerly former commit
+improve error message rewrite cast former commit formerly former commit
+fix storage eclipse errors former commit formerly former commit
+merge pull request eclipse fix former commit formerly former commit
+fix batch script windows former commit formerly former commit
+split transformation syntax semantics fix test former commit formerly former commit
+rename like suggest former commit formerly former commit
+make work rewrite former commit formerly former commit
+assoc attribute function rule matcher former commit formerly former commit
+work automatic follow restrictions prefix terminals former commit formerly former commit
+fix bug roscommon support former commit formerly former commit
+generate piece syntax depend modules include former commit formerly former commit
+add code generate configuration syntax declaration refactor compile former commit formerly former commit
+change back label list former commit formerly former commit
+semantics former commit formerly former commit
+fix brandon comment former commit formerly former commit
+fix configuration abstraction test minor fix former commit formerly former commit
+fix java back end imp former commit formerly former commit
+rename sort class former commit formerly former commit
+remove trust tag bubble sort spec former commit formerly former commit
+bite clean former commit formerly former commit
+fix new pipeline new add bracket class former commit formerly former commit
+last new pipeline external parsers resolve anonymous vars misc former commit formerly former commit
+make strict inner sort former commit formerly former commit
+fix type check cast former commit formerly former commit
+rule initialize former commit formerly former commit
+rename variable variable allow bind see former commit formerly former commit
+first revision local back end former commit formerly former commit
+fix indentation former commit formerly former commit
+merge branch former commit formerly former commit
+fix brandon comment former commit formerly former commit
+refactoring common part matcher unifier former commit formerly former commit
+address dwight comment former commit formerly former commit
+improvements local back end former commit formerly former commit
+extract implementation conversion former commit formerly former commit
+fix brandon comment former commit formerly former commit
+make change run former commit formerly former commit
+fix test former commit formerly former commit
+finally fix test cache right modules former commit formerly former commit
+hopefully fix last fail test former commit formerly former commit
+fast rewrite optimizations apply unification narrow former commit formerly former commit
+add main debugger interface former commit formerly former commit
+set something test debugger former commit formerly former commit
+merge branch former commit formerly former commit
+add time message verbosity level former commit formerly former commit
+fix bug dead variables former commit formerly former commit
+small change former commit formerly former commit
+change former commit formerly former commit
+functionality move utile class former commit formerly former commit
+fix test former commit formerly former commit
+merge pull request fast rewrite optimizations apply unification narrow former commit formerly former commit
+major optimizations former commit formerly former commit
+merge branch former commit formerly former commit
+tweak local many program compile execute former commit formerly former commit
+start work rewire search former commit formerly former commit
+start work rewire search former commit formerly former commit
+zip rewire search former commit formerly former commit
+zip rewire search former commit formerly former commit
+zip rewrite glue former commit formerly former commit
+remove necessary signatures symbolic pattern match java rewrite former commit formerly former commit
+refactoring user list two productions instead three former commit formerly former commit
+merge pull request improvements local back end former commit formerly former commit
+merge branch former commit formerly former commit
+fix bug string module former commit formerly former commit
+solve merge commit former commit formerly former commit
+improvements debugger performance former commit formerly former commit
+zip add functionality former commit formerly former commit
+add bracket map parse former commit formerly former commit
+speed single thread execution improvements comparison time former commit formerly former commit
+move module constants generate tuples apply former commit formerly former commit
+get change dwight branch former commit formerly former commit
+support operations pipeline former commit formerly former commit
+change way active state handle former commit formerly former commit
+expand macros allow ignore sort predicate former commit formerly former commit
+avoid race parser statistics use atomic integer counter rather incrementing ordinary field former commit formerly former commit
+merge pull request nice error configuration need map module former commit formerly former commit
+fix race former commit formerly former commit
+merge pull request substantial optimizations local back end former commit formerly former commit
+fix declare atomic integer former commit formerly former commit
+revert fix declare volatile revert commit formerly formerly formerly former commit formerly former commit
+minor fix local back end former commit formerly former commit
+merge branch former commit formerly former commit
+fix configuration generation optional cells previous commit stop generate unit attribute later pass use identify optional cells especially affect configuration abstraction always produce compiler errors non initial cells initial cells rule write close parent cell without optional cell generate initialize non initial cell contain cell like always produce error miss unit test generatesentencesfromconfigdecltest rely intentionally ignore attribute label test improve additionally check attribute reference output update expect attribute former commit formerly former commit
+move maximal post former commit formerly former commit
+fix merge conflict former commit formerly former commit
+change support termination execution former commit formerly former commit
+fix comment former commit formerly former commit
+work source command former commit formerly former commit
+add kernel former commit formerly former commit
+outline functionality implement prover front end former commit formerly former commit
+progress compile kernel former commit formerly former commit
+merge pull request add support cells multiplicity java back former commit formerly former commit
+fix change timeout atomic boolean former commit formerly former commit
+add end var select local binary former commit formerly former commit
+add back end specific pipeline former commit formerly former commit
+merge remote track branch former commit formerly former commit
+merge pull request kernel execution examples work former commit formerly former commit
+fix merge former commit formerly former commit
+merge remote track branch former commit formerly former commit
+serialize configuration variables former commit formerly former commit
+refactoring regard print former commit formerly former commit
+replace cells constant former commit formerly former commit
+split cell wrap add top cell former commit formerly former commit
+extra transformers former commit formerly former commit
+search type capability former commit formerly former commit
+merge remote track branch former commit formerly former commit
+make constants java style former commit formerly former commit
+work one definition former commit formerly former commit
+prove work find former commit formerly former commit
+use unix domain sockets server windows secure
+merge branch former commit formerly former commit
+insert delete prove former commit formerly former commit
+add java back end representation rule automaton disjunction former commit formerly former commit
+fix bug add macros former commit formerly former commit
+add assertion normalization former commit formerly former commit
+simplify cell fragment predicate sort cells commit extend sort cells pass simplify applications correspond cell fragment sort predicate cell fragment variable call appropriate sort predicate individual split variables also remove special handle bag call bag sort longer particular relationship cell fragment sort former commit formerly former commit
+parse completion cells proper sort generate modify productions allow incomplete cells feature dot omit parent cells modify productions individual cells place generic cell sort use flexibility allow parent cells instead keep original specific foo cell sort sub sort cell already generate cherry pick commit formerly formerly formerly former commit formerly former commit
+add patch evade unnecessary assertion error compile former commit formerly former commit
+remove unnecessary field former commit formerly former commit
+wrap bite set wrapper several optimizations former commit formerly former commit
+replace immutable substitution mutable substitution fast match former commit formerly former commit
+appropriate declare step field rewrite former commit formerly former commit
+fix evaluation function contain fresh variables former commit formerly former commit
+add one word bite set former commit formerly former commit
+avoid use expensive substitution transformer function evaluation former commit formerly former commit
+fix jenkins test failure due change rule order former commit formerly former commit
+merge master former commit formerly former commit
+try fast matcher search former commit formerly former commit
+transform variables sort variable former commit formerly former commit
+former commit formerly former commit
+support link static archive former commit formerly former commit
+try fix race former commit formerly former commit
+update sort latest case variable already annotate cell sort transform cell fragment cell sort pass former commit formerly former commit
+attempt list unit test former commit formerly former commit
+simplify code javasymbolicprover former commit formerly former commit
+add comment former commit formerly former commit
+modify file rename former commit formerly former commit
+merge remote track branch former commit formerly former commit
+merge pull request side cold former commit formerly former commit
+initial implementation former commit formerly former commit
+forget include lookup build los pattern rule former commit formerly former commit
+change assertion imp div test test touch non deterministic program assert one path get another path change assertion clean solution would use search seem work change assertion add track issue former commit formerly former commit
+merge pull request fix list terminators former commit formerly former commit
+merge pull request fix cell fragment issue former commit formerly former commit
+merge remote track branch former commit formerly former commit
+introduce indirection former commit formerly former commit
+merge remote track branch former commit formerly former commit
+temp former commit formerly former commit
+merge remote track branch former commit formerly former commit
+merge branch former commit formerly former commit
+allow direct reference initialize configuration former commit formerly former commit
+merge branch former commit formerly former commit
+work multiple inherit configurations former commit formerly former commit
+nice label free syntax former commit formerly former commit
+merge pull request compile refactoring former commit formerly former commit
+fix typo read former commit formerly former commit
+check variables res bind leave former commit formerly former commit
+zip former commit formerly former commit
+bug fix former commit formerly former commit
+fix bug variables side condition treat los former commit formerly former commit
+add test new functionality new file former commit formerly former commit
+merge branch former commit formerly former commit
+allow configuration res former commit formerly former commit
+add test program former commit formerly former commit
+update assertions former commit formerly former commit
+several fix towards assoc former commit formerly former commit
+ignorewhenunparsing former commit formerly former commit
+context validity former commit formerly former commit
+remove one dependence former commit formerly former commit
+parser til longer dependent file til former commit formerly former commit
+update former commit formerly former commit
+fix rewrite seq filter handle case former commit formerly former commit
+improve time spend parse efficient scanner parser definitions cleanup import semantics efficiency fix bug fix miss import fix location information fix unit test fix miss import fix test remove call new parser run use internal parser
+link final acc output without
+java back end work print cleanup sum work imp work without modification fix compile run remove unused refactoring search remove pattern refactoring match minor modifications change debugger rewrite revert change debugger rewrite revert commit revert minor modifications revert commit revert refactoring match revert commit revert refactoring search remove pattern revert commit reuse memorization transformer add substitution return option small fix bound search update key test add symbolic execution example change use conjunctive formula add strategies test back sort list ensure deterministic test result remove trail white space change conjunctive formula remove sort add symbolic test update output fix code ship failure new test update test update fix code ship failure boo token hack zip zip minor refactoring minor refactoring update output change internal representation consistent test result filter anonymous variables substitution ugh fix refactor refactor assoccommtoassoc refactor merge rule refactoring convertstricttocontexts refactoring refactoring zip change ensure print duplicate update output include anonymous variables update fail output file test change fix unnecessary print test fail update output make test pass change art comment fix minor bug address comment update examples instead book pass end compilation pipeline start work mini ore refactoring plain scala feature add test parse def cut dependency compile options rewrite glue add mini ore program rewrite work add mini ore modules rewrite change include mini ore pipeline add mini ore pattern rewrite work convert mini ore definition back end oil definition elimination dependencies fix fail build zip make java back end work mini ore zip temporary change make fail build pass update utile signature builder work zip definition cleanup work convert attribute back end oil attribute fix fail build work oil cleanup decode arts deal issue sub sort fix circular tie sub sort map need work add sub sort generation capability update java docs add fresh function finder initialize definition without module zip koretobackendkil pass refactored mini rentals make test pass work fix attribute builder change fix fail test simple optimization improve speed zip clean older code change mini rentals case class change code use module tip small bug fix fix tool work cleanup cleanup cleanup cleanup pull request implement parser module functionality add regression test parser hook fix regression test throw exception unimplemented hook java back end fix test fix test new mini ore relate change change allow work new mini ore change change work mini ore small fix work mini ore change ensure compatibility mini ore change make work mini ore ensure compatibility mini ore fix bug unify map refactoring rename legacy ore revert refactoring rename legacy ore revert commit rename small change add remain file fix work small fix rename legacy ore front end zip make change work scala adaptations new add cry support builtin change name hash mecca cry change hook cry fix cry add hook fix cry add builtin operation compute add test ensure intend one fix inconsistent name update work properly change hook use latin instead hex add functionality constant time key look use key remove regression output hook implement improve message token convert primitive site item token covert string via long avoid errors long insufficient precision hold number send wrapper print query debug pass fail give something though much help debug fail add miss case los term set fork term context case analysis case analysis occur multiple result result single rewrite context object share term hence create new copy term context term case analysis add case subject pattern list fix assertion error appear prove set revert add case subject pattern list cause test fail matcher never call list hence bug must somewhere else revert commit add end public key recovery function krypton module fix white space remove header byte output end recover functional test hash function use hash know encode data correctly cry unit test subsume functional test prover lose track los variables execution earlier variable side teachability rule drop leave hand side prover treat right variable make allow certain specs provable incorrectly prove true fix add ripe hash krypton module add catch block invalid point compression fix configuration builtin add test array module domains array add test cache implication query add redundant constraints apply rule comment constraint optimization elliptic curve builtin add hook add power modulo operator inc operations use exception manager miss lib translation output prover add lib attribute operations global context print miss lib warn debug require pass informative output regard set solver could prove something fix disjunctive normal form computation call recursively add test case reorganize test zip encode map operations array select store cherry pick commit add symbolic map test better debug add map int array option add ignore miss lib warn jenkins add concrete attribute function rule add test concrete function move java back end file new position remove old versions sample refactoring java back end merge back add file need java back end compile time fix java back end fix guide errors java back end fix add class miss java back end move bite set java back end fix lib issue list issue refactoring various fix java back end remain java back end fix ali eve proof fix bug escape variables lib fix array module fix warn fix error result incorrectly trim string buffer syntax make exit attribute optional import change
+key tool
+open source local back end
+fix allow eve semantics share semantics java local back end add support cell map mostly copy pasta match convert cells map spec support polymorphic sort productions java back end better verification support else fix bug pom crash rule never apply contain fresh variables fix bug involve bag cell collections introduce map change fix issue multiple variables name create remove split concrete symbolic equal
+imp clean exceptions code somewhat clean string behave sensibly clean another book else book add ore flag compile options use control generation unique label add several sort attribute compiler fix bug delete dead code back end generate sort predicate rule add imp regression test remove add hack sort cells java back end fix bug label sort declare java back end hack make local back end good compilation time add token junk axiom base sort attribute better workaround bug involve token prod
+update generate isle update impure attribute array function fix bug compilation disable fresh function back end temporarily add sort lambda function productions fix overload productions improve performance parse add error function rewrite correct sort add cast fix error generate function rule bug fix fix copyright fix overload fix cast tutorial fix attribute fix non strict add miss keywords back end
+add code generate last
+change support love back end better add back side condition heat rule fix bug advisor injections injection item item generate remove redundancy sort rule use equations heat cool boolean flag set fix white space
+extract functionality proper back end extract functionality proper back end add option translate heat cool rule equations update definition wise rule add functionality axioms sub sort instance roll back change last add sort injections default last fix small issue point review
+fix isle fix encode array module fix bug junk axioms involve sub sort fix injections involve cell collections fix well type map lookup configuration variables fix infer sort variables record pattern fix unit test fix white space fix bug involve stream cells another fix stream cells fix unit test fix bug program start symbol fix bug conf gear type fix sort fix duplicate production error call exercise add non strict parameter think wrongly necessary fix stupid typo fix bug involve non strict make int label explicit symbol add sort label use freshness label sort add cell name attribute cell production compute local label module fix fresh constants fix unit test
+add scala parser korea translator integrate initial commit add symbols import import zip fix parse error fix error true fix parse bug unit test refactoring parser rename unit test check error mag make platform independent add new line uniformity add test put comment non reachable ones add catch exception early zip fix new line anymore error message include part construct name add java doc code coverage fix bug man site scala doc minor bind allow module name contain number syntax capitalize capitalize scala doc comment zip zip zip zip zip zip top top zip constructor factory cleanup fold interface change interface change interface work interface change mini ore original test pass remove traversal relate test work make construct function work small change work interface change zip zip interface zip interface relate change update interface small change change change interface add default builders add type information builder default implementation make type inference work make type work compile make parser parametric builder parser texts pass make parser parametric builder zip test add test change apply small change make current build pass change mini ore change interface simple stylistic edit change cleanup remove default builder cleanup remove generics builder hierarchy style change format format fix bug suppress warn add test bug fix remove product nod simplify use product small change simplify variable domain value add constructor leaf change make build pass format build fix change cod change node binder subtype node add test coverage restructure change parser work true false restructure documentation change parser add comment java doc generation change apply build change discussion remove unnecessary verbosity format relate change newlines traits small fix fix symbol declaration work sort fix consistency issue test rename field add test substitution documentation adaptations comment small change update small fix code snippet comment first pass adapt kale symbol first pass main change make name sort symbol value abstract well new cleanup default implementation refactoring small change test pass refactoring sort change organization small refactoring change val def zip fix move change default implementation change variable builders small bug fix fix move imp test minor change seq set revert multiple commit small fix zip parametric sort parse sort zip parametric sort parse sort zip parser zip parser parser finish test major code rest unimportant code whose test write soon zip finalize parser fix test change declaration sentence add domain value change field sens class module sentence fit code introduce two extractor function symbol alias sync scala parser document add ceil floor class sync scala parser document change list remove subset remove next remove rewrite add ceil add floor rename sentence declaration rename symbol char char add scan logic block comment line comment add parse logic string unicode refactor remove trait module name separate object level meta level parse fix parse fix ceil floor match parser minor add comment fix parse logic symbol alias declarations add equiv check modulo white space update test scala parser document change simplify grammar sort declarations change mem change scala code allow comment support parse rewrite comment support parse rewrite update golden match change upstream attribute verification attribute verification make attribute symbols visible attribute implement domain value parse scala attribute integration test small documentation update add import multiple modules make canonical string tail recursive add hook sort hook symbol test change hook hook syntax fix indentation implementation aliases match specification semantics move parser place top add kor label map add kor label map kor eton transformation address review comment
+love back end refactor receive exit cod rewrite refactor generate exit code fix issue stein configuration variables definitions import string add love back end front end
+haskell search add search functionality various fix address review fix search test imp
+better fix resolve overload productions remove bad fix resolve overload better fix overload fix white space fix bug list terminator least sort fix bug involve productions update tutorial tutorial fix add anywhere attribute anywhere symbols
+fix array sort haskell love back end refactor excludedmoduletags control parse time update prelude new array implementation fix bug involve sort attribute module fix encode array fix hook att add local hook miss
+prove front end haskell back end prove front end haskell back end add
+fix format attribute enable generate format compile pass new compile pass generate cell format use builtin sort equality check
+java back end function cache evaluation result cache map cache map pair evaluation result yet term grind term constraint unnecessary evaluation always cache null performance increase team enable default user disable impure function cache evaluate time relevant run additional option clear cache begin spec evaluation free memory warn relate impure function moment detect statically traverse possibly incorrect dynamic detection evaluation might need warn run cache disable may slower item evaluate effectively return false time
+prove architecture extension make pretty print available rewrite prove architecture extension make pretty print available implementations rewrite use later prs
+java back end profile improvements options debug debug query profile implications divide categories base place invoke profile separately constraints similarly divide categories base context option log conjunctive formula reach solver along important information also log source code actual rule trigger formula order magnitude laconic debug recommend option work team proof option addition print actual query source anonymous variables essential debug separate set warn init time set warn execution time count fail query separately count separately prove failure query category minor additions better format conjunctive formula make formulas debug log legible print message whenever new path condition create warn message java back end log fix ape equiv checker due profile java back end cosmetic initialize writer var rename old log option debug update prettier log implications attempt prove
+global context function rule improve test global context function rule improve check function context rewrite test check test function context function context top rule update test update syntax remove lexical ambiguity revert unnecessary change parser update test output fix documentation
+use construct encode fix grammar imply fix grammar equal update output file extract syntax separate module encode rule ceil equal sounder computation sort variables construct fix format test handle construct handle operators polymorphism refactoring fix regression local back end add rule application feedback functionality add rule application feedback functionality symbolic writer add rule attempt update documentation include rule attempt end type update love back end sub module update sub module update docker file fix cache apt update haskell back end sub module version docker file new path haskell back end haskell back end update sub module docker file add haddock dept options stack build binary loader lock parse cache file save cache eliminate objection upstream exceptions several instance run parallel definition sort sub sort expect sort address review comment
+fix dry run issue prove haskell back end fix dry run issue prove haskell back end address review question
+bug fix love back end rename fresh fresh fix bug transformation initialize add syntax basic fix bug advisor injections add sort info generate guard pattern better fix sort guard pattern fix stack overflow error always call key print better error message advisor injections temp fix issue assertion error advisor injections add better diagnostic label variable crash delete old unnecessary code compute dependencies specific local back end fix nosuchelementexception set sort statically detect type violations function return type poly attribute prod another try prod fix poly att update love back end sub module update love back end sub module fix everett comment
+fix semantics latest version fix miss case splitter aspell local back end link pass link prelude
+refactored generation claim
+haskell back end update sub module handle exit code correctly haskell back end update sub module return exit code properly haskell back end
+fix fun
+fix regression involve function context add test fix regression involve function context back end
+haskell prove update fix dry run convert parse proof result error warn
+report error try heat sequence fix test use unsupported feature clean resolve strict remove spurious case variable type inference interfere check write add check strict attribute contexts hole sort add test fix unit test
+kim add bic function small refactor haskell writer implement kim tool address comment add kim script haskell writer bic return rewrite result add kim integration test fix copyright header add kim server contend fix copyright
+test fun one failure case require beacon chain test fun one failure case require beacon chain test fix handle ambiguities better function rule add
+refactor module refactor extract collecttokensortsandattributes refactor extract translate sort refactor extract translate symbols refactor extract gensubsortaxiom refactor extract gen assoc comm idem unit functional confusion axiom refactor extract gennojunkaxiom refactor extract genoverloadedaxiom
+remove poly attribute prelude change remove add paras production update syntax test cleanup module explicitly set parameters production place outer parse production parameters fix label info use poly string emit stuff grammar polymorphic productions sugar rulegrammargenerator update parser son emitter update helpers constructors define sort include sort parameters poly machinery replace paras reify label arguments advisor injections remove poly label local java back end fix binders reorder test output fix well type function correctly choose right parameters recourse function polymorphic return type remove dead code update documentation fix sync code applytypecheckvisitor refactor position
+make ambiguities report errors make ambiguities report errors remove irrelevant test fail test add test fix add test fix error message cache issue
+fix bug sort inference beacon chain add regression test fix lack cast infer variables
+new mint module polymorphic sort support new mint module add paras syntax sort natural number sort compute declare sort instantiations sort better debug info update sort define ness errors update grammar generation test test use sort place fix bug detect intel explicit sort head class fix parse stuff better split sort sort head fix parametric sort module add nat attribute natural number sort fix sort inference sort parameters parametric sort disable love back end fix white space compute sort apply properly fix error message use bad mint literal update output file fix bug involve pattern los shift take mint update test injections fix parse polymorphic sort injection fix
+fix add empty list pass parametric productions fix definitions fix add empty list parametric productions add test add start symbol update test fix another case empty list add fix bug error rewrite top term child polymorphic return sort top jenkins file add comment revert top jenkins file revert commit author
+rename package inner parser rename package update import author

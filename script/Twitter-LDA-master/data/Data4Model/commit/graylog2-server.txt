@@ -1,0 +1,695 @@
+fully work chunk self support need work beautify though
+mar
+add filter self message
+add
+refactored work
+unit test new blacklist stuff
+first part elastic search index
+current state
+decline incomplete self message lose change fix server god self handle need serious rewrite
+travis configuration file
+test gelfchunkmanager gel processor stuff stub stub
+sysop parse back
+test new fig options vibrato metrics output
+allow dot host name cherry pick commit ccfdeceecebaacbefe
+specify shards replicas fix server
+update plugin interfaces version
+handle message timestamp instead server current time
+merge pull request handle old message timestamp
+another sysop fix fix server
+work apis new web interface
+use back back processable amp message cherry pick commit bdeddabeaeddff
+move gray log server source sub directory
+jackson fix total count apr
+forget push days mega merge low merge branch
+user authentication apr
+create user apr
+build index range meta information next task implement index manager call system job trigger via rest system job track progress
+hack version multi node apr support
+push current state indexer refactoring deflector heal job
+many things
+multi node system job possibility trigger notification fix
+deflector heal notifications success
+pagination rest resources
+thread dump breadcrumbs node action menu
+use jersey via netty rest apr implement metrics filter jersey use jersey injection access rest resources fix path test need currently unreleased jersey netty module also git hub
+fix root resource paths
+work version plugin configuration request
+fix sysop test new fig store full message
+work dynamic input terminate
+use short node ids
+work extractors show source input node
+raw input
+work extractors optional field fix
+additions extractors delete
+sub string extractors
+work implementation converters
+split index extractor include tester resource fix
+extractor condition
+allow overwrite source field target field extractors
+self help input back fix
+restructure sysop package
+make load users saner fix store credentials session cookie encrypt actual security need switch sol course properly show error message authenticate gray log unreachable
+use basic auth put post delete log actual request debug use authentication help methods credentials override able get one need right
+introduce new client properly encode urls part authentication users search use new client
+fix escape query paras fix port apr test new class
+current state time range selectors
+new time range selector work relative
+raw top input fix
+travis campfire notifications
+replace node inject factory load node request inject use methods create node instance also change system job use factory use system job move class use factory load unfortunately return list
+finish search rest docs
+handle wrong time range format better fix
+organize search rest resources
+keyword search clean resources
+last resources keyword search rest resource fix
+first work part quick value stats
+merge branch
+highlight quick value button load
+search pagination fix
+switch sauce labs driver credentials set end
+change timestamp format something fix
+byte throughput counter raw input
+first work part static field rest apis
+static input field alpha check test fix
+input metrics open total connections fix
+first support field histogram relative search
+pass apr field histograms
+field histogram search type
+work metrics browser
+move apr controllers apr name space
+work dashboards
+add functionality stream make stream implement rest methods delete stream rule add association stream rule stream add cache stream rule stream router cache refresh every second choice interval quick shoot need tunable probably think appropriate default
+set widget cache time
+change widget cache time
+refactor messy lap code unify connection login check disable authorization cache fix
+basic functionality stream web interface reuse search controller display stream message add stream metrics
+fix stream search replace wrong query parameter query filter
+introduce filter query relativesearchresource need fix stream search stream search filter instead query parameter implementation search type follow
+give better error message misfire input fix
+improve stream message browse refactoring search controller extract stream search separate inherit controller search stream use filter instead query parameter fix pagination replace call universal search object generate static call object helper modify current call add pause resume stream index page
+add filter absolute search optional filter parameter absolute search request consider message index retrieval
+add filter keyword search
+move input maven sub module
+work radio
+radio register server cluster
+rest apis radio
+first radio input resource change structure things
+work input launch fix build
+jim info radio
+work radio
+work radio
+add optional return search result csc able switch serialization base accept header use jersey object mapper support require separate csc body writer also add support multiple content type apr browser fix
+properly show node find error page
+radio system apis
+properly handle null value csc export fix
+allow csc export search result currently output limit row stream support yet fix
+persist radio input
+proper delete radio input
+metrics radio
+metrics radio
+add session resource create actual shirt sessions save database
+default absolute path node file fix
+route restructure first part node detail page
+implementation stream match test add new apr method post message test stream rule specify stream result match add check invert flag stream rule match
+radio detail page fix
+token base authentication support authentication via session access tokens username password allow create access tokens user create session automatically need work figure create sessions maybe always want security audit ted longer accept hash password via username password auth need change web interface
+longer hash user password
+merge branch
+initial iteration stream rule editor
+message perm link message partial style change fix
+delete index apr
+style fix
+initial token apr docs need cleanup
+work log level management fix relate
+make field statistics query work stream filter
+make quick term work stream filter
+make message histograms stream aware
+make field value histogram work stream
+make range type work stream
+widget metrics
+replay dashboard widget search
+persist widget position
+basic metrics collection store tel base mongol collection turn default enable enable metrics collection fig parameter web interface support yet
+gracefully handle query parse failure longer show exception page expect query failures instead markup query pointers documentation fix
+add permissions rest resources add helper methods rest resource base class check per instance permissions see dashboard resource examples issue
+add permissions remain rest resources fix issue
+update stream settings fix
+first iteration add permission check stream rough list permissions user edit form basically useless iteration check different permissions stream page partials issue
+first part stream alert condition
+add permission check view message stream associations issue
+implement global input run nod introduce input state class hold current run time state input add proper display new notification class fail input nod without run input support launch management global input include extractors static field use master node direct apr call case global input fix fix
+create alert list alert
+delete alert condition
+field value alert type skeleton
+field value alert type
+implement simple stream clone fix
+implement simple stream clone
+make field stats threshold work double value
+field stats alert
+manage alert receivers
+permissions
+fix global input launch radio
+reduce code duplication due server radio create sub module gray log share suppose hold code part plugin apr still use server radio modules introduce metrics host process host interfaces move several class share module refactor reference partially gen verify class use interfaces instead core radio object
+reduce code duplication due server radio create sub module gray log share suppose hold code part plugin apr still use server radio modules introduce metrics host process host interfaces move several class share module refactor reference partially gen verify class use interfaces instead core radio object
+refactoring input registry introduce abstract base class input registry node type subclass add callbacks finish launch finish terminate call launch terminate input
+configurable limit message field fix
+test stream rule could apply message field apr return filter set field message retrieve add method return filter field methods rely keep full set field message result filter field access methods instead constructor add new route apr return filter set field return full set field per default fix
+add permission check templates prevent user confusion none hide action could execute user anyway server would disallow cosmetics really fix
+allow cut reserve field extractors fix
+merge different metric type
+position relevant
+load writable dashboards dashboards selector fix
+close top connections properly exception
+version check fix
+version check fix
+disable load recent message global input extractors enable like stream rule editor rest method implement return recent message global input
+add first step replace omnipresent core object someday still zip currently metric registry mong connection inject come
+add first step replace omnipresent core object someday still zip currently metric registry mong connection inject come
+add first step replace omnipresent core object someday still zip currently metric registry mong connection inject come
+add first step replace omnipresent core object someday still zip currently metric registry mong connection inject come
+add first step replace omnipresent core object someday still zip currently metric registry mong connection inject come
+add first step replace omnipresent core object someday still zip currently metric registry mong connection inject come
+allow injection configuration
+add filter registry injection remove metric registry place
+lower log level stream rule exception add exception track metric expose via show metrics menu item issue
+run field mappers non partial message view fix
+close underlie bootstrap case processor exceptions fix
+add factories output process buffer processors inject use core radio class
+remove reference stuff commit yet
+allow run web interface different path prefix set work assets ajax fix
+allow run web interface different path prefix set work assets ajax fix
+track store fail index attempt
+add root cause helper cut noise
+information indexer failures table
+merge
+first work part prepare graceful shutdowns
+first work part prepare graceful shutdowns
+merge
+refactored initialize allow central partial shutdowns
+refactored initialize allow central partial shutdowns
+modify numeric converter support float point value
+properly use rest listen address bind fix
+fix issue clean part radio code change start attribute input state proper date time object register input class radio class launch persist input ever work change scope radio transport extract base class processbufferprocessor create specific class server radio slightly different semantics persist input radioinputregistry launch proper persist change annotation class throughput resource guide generic annotation inject properly add default constructor register request properly serialize reference custom confirm contain fix inherit configuration repository class work upload fork repository reference one next commit
+fix issue clean part radio code change start attribute input state proper date time object register input class radio class launch persist input ever work change scope radio transport extract base class processbufferprocessor create specific class server radio slightly different semantics persist input radioinputregistry launch proper persist change annotation class throughput resource guide generic annotation inject properly add default constructor register request properly serialize reference custom confirm contain fix inherit configuration repository class work upload fork repository reference one next commit
+use natural order index failures set proper indices fix
+life cycle
+fix stuff change due rebate
+include load balancer status system call
+allow control load balancer status web interface fix
+load balancer status feature radio fix
+allow gracefully shutdown node web interface fix
+rest apr get alert stream since give date
+fetch relevant message messagecountalertcondition manually count result include search result due optimisations fetch message condition manually trigger change type pass around backlog search internal type anyway list fix
+merge branch
+add functionality stop suspend restart input
+mega refactoring persistence layer extract persistence logic separate service class leave value class extract persist service base class interface change static methods instance methods remove core object reference service class user mong connection directly extract interfaces model service class change reference model implementation class reference model interfaces add collection name annotation replace static field add bind service class jersey binder dashboard widgets break alert condition test need major rewrite
+implement pattern cache maximum size entries
+search alternative java java home define
+refactoring input input registry consume class
+refactoring away core object usage periodicals initialize
+remove reference core rest resources stream router
+fix typo
+start removal radio reference radio rest resources
+manual sort extractors
+allow load different radio transport type
+input
+radio amp input
+bridge jersey guide trim binder
+remove core reference dashboards lap class trim core
+merge branch
+set radio version snapshot
+merge branch also bump man version snapshot
+replace several core radio reference direct usage members
+merge branch
+merge pull request modify numeric converter support float point value
+replace initialize guava service manager add periodical radio gentrified usage input registry remove blacklist filter soon replace new drool base one extract plugin load separate plugin registry class
+share rental service radio server
+allow remove timezone user send null value timezone user change remove timezone fig user fix
+work extractor order
+use new plugin loader radio
+extractor export
+make sub string extractor setup view bite user friendly
+add management modular alarm callbacks refactoring form handle play data bind bump play version remove redundant code input controller refactoring alert manage view monolith partials
+vanish filthy radio class
+add chunk transfer encode csc export search result request use proper chunk transfer encode scroll search avoid buffer large amount data heap also fix arrayoutofboundsexceptions export fix fix
+use select field csc export limit number message avoid run heap fix
+merge branch
+merge branch
+import export extractors
+support amp host fix cherry pick commit
+support amp host fix
+move class new package prefix
+move rest client class separate module remove class replace set dependency change package prefix rest client class
+merge branch
+fix ape help sanity check
+minimize jar break log
+fix rickshaw memory leak dashboards replace dom element rickshaw attach enough get rid linger event listeners keep avg dom elements alive one level dom element fix issue allow garbage collector work fix issue
+merge
+merge
+improve rest transport fri default value set use value rest listen fri add exception rest listen fri use first non loop back inv address
+list instal plugins node detail view need style
+add term stats apr keyword search
+remove unit usage dependency
+avoid generate expensive log debug enable
+check minimum user password length
+use star available fall back tar instead linux build machine
+close tag write text
+initial functionality start stop input web interface
+add field parameter support regular search call introduce search confirm object avoid add another parameter search method search class test need write
+add miss annotations search universal relative endpoint show apr docs also remove outdated comment
+first commit support plug able output modules stream forwarders
+merge branch
+add empty cache interface use upcoming cache back end support size relate
+add management output association stream
+add support dynamic configurations output modules
+return consumable error message per default essential validation errors return apr caller need dig older code remove place validation exception cache explicitly allow bubble specific handler
+properly remove terminate input run list also fix bug restart input fail metrics already exist fix
+add private commit method improve log
+remove obsolete statement
+fix several bug stop resume restart functionality radio
+synchronize radio input view node input view
+fix removal output stream delete
+use query time range display graph help users see data available fix
+add correct import enable partial
+add clip parameters dump configuration gray log server follow clip parameters implement dump default configuration define per default value class dump effective configuration process fig file fix
+add clip parameters dump configuration gray log radio follow clip parameters implement dump default configuration define per default value class dump effective configuration process fig file fix
+implement fig override use environment variables system properties configuration set gray log server gray log radio override use environment variable system property environment variables need uppercase start prefix gray log gray log master system properties need start prefix gray log fix
+make timeouts versioncheckthread configurable refs
+load new extractor example instead pass example text urls parameter load use message index fix
+remove indexer argument deflector methods instead inject indexer use
+fix visibility race sometimes prevent input start convert previously cycle atomic reference ensure visibility across thread also use instead null initial state help
+basic support rest controllers come plugins use static rest resource look resource path good solution basically jersey jan implementation unfortunately add rest resources come plugins child resources resources fig object work properly
+remove unused force sysop run allow override sysop date configuration settings
+remove indexer class inject specific class deal various elastic search feature directly instead access via indexer object still throw exceptions periodicals client node connect yet startup harmless annoy remove future
+merge branch conflict manually add change
+replace self gel client
+fix self message generation gel output previously gel output would produce incorrect self message timestamp wrong kilo second instead second since epoch level could null default alert use fallback facility field optional deprecate nonetheless would overwrite
+get rid reflection base monkey patch instead try override hard cod default injections class standard java spa service loader use require injector instance create hold new guiceinjectorholder class use graylogservicelocatorgenerator
+move server status class gray log plugin interfaces need able access server status input plugins require base configuration processingpauselockedexception move well
+add rotation strategies beyond simple message count deflector cycle strategy simple size base strategy include usefulness limit due fluctuations relate segment merge relate issue fix
+fix accidental import collection helper class
+empty unset fig value print null
+make loggers static final appropriate
+add organization mail list metadata pom
+update prerequisites maven require find bug maven plugin
+improvement dashboard performance fix prevent thrash data request limit amount concurrent ones trigger data request base cache time reduce overall number request
+optional disable default metrics report
+add flag page example output one password
+add field query responses
+fix issue resolution histogram depend time range search make reasonable
+merge branch
+rename monitor service telemetry service
+clean indices resource
+fix potential ape
+move ring size configuration parameter share base configuration cherry pick commit cherry pick commit
+inject radio transport radioprocessbufferprocessor single radio transport instance pass radioprocessbufferprocessor constructor instantiation every processor transport instead single one share cherry pick commit cherry pick commit
+add tvs support rest apr
+bump version
+update documentation link new page
+extract mongol field name input extractors
+shuffle around initialization check configuration input add actual launch persist input radio nod fix
+add configuration bundle export functionality
+update license headers remove unused wrongly merge file
+remove extractors input instead run input refs
+rename bundle receive bundle importer
+improve error handle export bundle form
+sub tree merge master
+add branch identifier play project version
+remove print plugin resource
+superficial cleanup jan resource class
+improve custom swagger generator add support head options add support method parameters multiple annotations add support header aram form aram remove superfluous jackson propertynamingstrategy see
+add value class rest apr use auto value
+properly handle set previous implementation problems white space inside list host host host handle properly list size without handle properly fix
+initial work split input transport cod commit introduce transport cod handle incoming message transport create raw parse message cod transform raw message message object process exist input already alternative implementation base transport cod still work interface change necessary allow build custom input sysop kafka code reorganization necessary help class visibility expect change
+add generic kafka input use transport code remove unused injection parameters netty base transport add kafka transport radio pack code
+convert amp input transport add
+clean rest resource
+convert path help poller code transport fix timestamp handle use timestamp raw message instead message contain timestamp self sysop
+first version histogram
+convert local metrics input transport self code add raw size metric input track process raw message payload size
+refactored input metrics handle transport return metric set instead register metrics directly avoid leak message input instance metric registration
+pad histogram data zero
+throw ape search without
+avoid create message input object list presence attribute avoid initialization work outside constructors input configuration description name doc link etc independent create input force create actual input object
+ensure date time object use etc
+add parallelism amp producer consumers cherry pick commit
+add instrumentation executor service thread factories
+align server radio main class add error handle radio
+additional field count widget
+first iteration use photo base raw message many raw edge suppose work yet
+add select button content pack export form
+add initial spool handler option enable message journal journal handler actually anything yet stub separate message encode serialization write spool allow scale multiple cup step
+ensure node consistently use rest apr client fix issue mention
+first step migration single binary add bootstrapping module generate single binary add airline module modular command line parse add server radio version command bug periodical bind via reflection need revert
+align bootstrapping code radio server inject list package scan jersey resources
+remove processbufferwatermark query ring buffer directly instead
+make sure read least one entry journal
+fix deprecation warn guava object first annual
+add benchmark output lot hard cod stuff configurable
+add versions timer histogram metrics base coda hale histogram metric gil teen histogram get better accuracy percentiles mortimer use histogram internally initially use new metrics
+new stream router implementation greatly improve stream match throughput since iterate stream execute rule stream order lose execution time metric stream get execution time per stream rule instead stream router engine rebuild periodically replace exist one stream stream rule change also add performance optimizations message persist mph class new code execute regex stream rule timeout code hang move stream fault handle stream metrics separate class
+simplify count payload size
+increase timeout test make flap less slow build machine
+remove usage message factory input registry
+use repository use master branch better manage repository least control upgrade make change need
+add journal cleanup test age commit offset
+remove duplicate method
+extract inputted resource rest controller
+extract message input launch separate input launcher class input registry hold input state remove object input registry collection implicitly stop associate message input
+add sugar binaries download
+add web interface part input update method
+split query parser visitors several file
+work new batch elastic search output block fix ape around miss remote address add local file input type benchmarking remove hide final version new block output initial information throttle input via event bus clear process raw message aggressively garbage collect earlier
+align radio server input handle use value object request rest client server code change client accept arbitrary object request body
+fix response radio apr server apr inputsummaryresponse change adjust return response server break message input display web message receive via radio
+add tvs support top transport
+stub service add security context duplicate rest resources work share rest controller class radio server therefore supply special security context provide special allow everything subject stub user service move use rest model module use apr return type later extract several semantically associate methods system resource separate resources
+add resource get single extractor
+add resource get single extractor cherry pick commit
+add front end edit extractors squash commit add edit extractor form zip modify form support edit extractors unify edit extractor visualization extract common part extractor form show condition value input field edit extractor load save converters extractors edit form improve converters form layout add controller method update edit extractors cherry pick commit
+add front end edit extractors squash commit add edit extractor form zip modify form support edit extractors unify edit extractor visualization extract common part extractor form show condition value input field edit extractor load save converters extractors edit form improve converters form layout add controller method update edit extractors
+bump version snapshot
+align metric resource extract clean interface
+refactor handle invalidrangeformatexception change set add invalidrangeformatexceptionmapper remove individual handle invalidrangeformatexceptions throughout code
+enable plugins announce require server radio capabilities
+extract simplify buffer resource
+add dependency pom provider guide
+merge branch
+check user permissions extractor controller cherry pick commit
+disable stream output temporarily fail initialization repeatedly handle output way input right know output run nod start lazily output stream catch message keep run server restart output delete mean flag fail approach temporarily refrain try instantiate certain configurable fault count threshold cross fault count track use internal counter reset fault penalty time frame pass even threshold cross plus fix output removal actually stop output fix
+allow arbitrary character user name fact resource urls two issue rest rout urls escape path parameters create implicit dependency guava apr client use message format create path template could kill certain escape character like quote users single double quote username able successfully log fix fix
+fix typo amp transport fig description
+catch exceptions edit extractor example catch exceptions raise input message load message contain field extractor edit show error message user case fix
+add rest endpoint retrieve list reopen indices somewhat duplicate close indices rest call live right forward change anyway
+properly extract level message forward via self fix
+guard ape disruptor exception handler mask actual exception event object could string find
+fix typo cherry pick commit
+note deprecate radio nod cherry pick commit feeedeefcffb
+upgrade elastic search
+use latest travis install issue update help
+first version count widgets use react
+bump version
+merge branch
+replace elastic search facets aggregations
+start work system overview page
+respect rest transport fri generate entity urls add helper method rest resource base class construct builder populate fri define rest transport fri rest transport fri define either take rest listen fri pick first external network interface help generate proper location headers newly create entities allow user override base fri gray log server radio run behind proxy change scheme host name fri request fix
+upgrade kafka
+create match regexp match example fix
+add new logger resource cherry pick commit
+remove version test gray log rest client
+fix metrics name syslogtcptransport
+add persistence test fixtures alarmcallbackconfigurationservice dashboard service persisteddeadletterservice rename fixtures make file name precise
+support change server change class name
+upgrade elastic search due removal optimize apr behaviour change block non block see detail
+add flexible update widget method
+add simple cluster event bus base mongol event bus cluster event bus use send events one gray log node gray log nod trigger configuration reload underneath cluster event bus use cap collection mongol regularly poll gray log node document process particular node node add consumers array document read serialize payload cluster event post local server event bus part node react upon every event send cluster wrap inside cluster event must serial table desert liable jackson otherwise receivers able serialize payload cluster event
+verify publish type events test cluster service
+display agent version agent list
+replace toggle inactive agents show hide inactive agents
+try make clustereventservicetest robust instead wait hard cod time try robust use await city await method asynchronous test
+use guava function retain java compatibility
+minor fix
+add map minimal hardly viable product search result page use react components much work progress keep menu bar title think
+add unit test formattedemailalertsender
+add clusterconfigservice relate class
+compile typescript
+split clusterconfigservice interface implementation
+initial stream rule form list
+merge remote track branch
+add notification clean improve email template generic notification raise stream alert suppose send email recipients define stream description add default email template fetch message backlog clean
+add assert await city default test dependencies cherry pick commit
+implement stream support apr client currently use stream content verbatim browser csc export data method execute stream give input stream request bytes fix
+remove elements menu items add click handlers
+add histogram metric time range search
+limit receive buffer size transport bytes
+avoid show action menu non admin users would empty regular users
+filter input information ajax call need expose detail input input store reuse input description decorator class move somewhere generic find better solution
+make rawness agreement field volatile guard cross cup visibility issue cherry pick commit
+add pagination alert resource
+replace time zone text input select box flex date converter
+refactor static dashboard widget creator methods dashboardwidgetcreator
+merge pull request remove jersey rest client
+add generic pagination component
+safari require special treatment anymore use shims form validation
+merge pull request make rawness agreement field volatile resolve cross cup visibility issue
+add test search first index search last index
+add methods find oldest youngest message timestamp index search findoldestmessagetimestampofindex search findyoungestmessagetimestampofindex methods ultimately replace search first index search last index
+add method calculate timestamp stats give index
+set node message input inputserviceimpl getmessageinput cause problem node set null database input get update commit different code path use construct update input object miss node set getmessageinput notice fix
+maven release plugin prepare release
+get rid nosuchelementexception index alias exist fix
+add additional test stream resource
+clean seed add son support add search paths logic find seed test method check resource test class directory contain son dump check resource test class end son check resource global seed path correct name directory contain son dump check resource global seed path end son annotation present locations array empty mean database clear seed
+add stream test
+add stream test create stream stream rule
+add esindexrangeservice
+implement find find index service
+move timestampstatsofindex esindexrangeservice resolve circular dependency
+allow save index range read indices
+add unit test timestamp stats index range
+store string match type add unit test
+add test case
+remove null able property set creator non null value
+merge pull request fix dynamic keyword time range dashboard widgets create content pack cherry pick commit
+initial support roles lap group lap group map incomplete work commit yet roles crud apr complete shirt support complete support yet relate
+implement lap group role map add endpoints manage map correctly resolve user roles permissions retrieve user web interface get correct set permissions cleanup regard bind add new permissions read edit lap group mappings independently configure lap system settings group map use object roles name work correct role rename issue
+add forbid apis checker pedantic build profile
+use string relate method call fix violations report forbid apis
+upgrade elastic search
+use jersey templates encode query paras jersey use internally contextual encode query parameters mean data include percentage treat percent encode parameters see order avoid add yet another replace value add query parameter use templates whose value need provide build method call fix
+add prefix index range relate field elastic search
+first version dashboard list react
+add content pack information dashboard detail
+add version classifier
+merge branch
+add additional default group settings also expose new attribute group support request response entities spencer
+index comparator take begin index name account sort collections look use comparison equality instead determine whether element add since default empty index range always begin end timestamp unix epoch lead strange effect calculate check index range
+move usage statistics dependency bootstrap server fix miss usage statistics plugin assembly
+make field stats request return nan invalid stats value instead take count stat filter aggregation doc count stats one identical filter work every field enable differentiate invalid value nan actual
+make lap group object class configurable object class differ lap systems must configurable determine attribute name check membership base common object class use group default member fix
+correctly handle incomplete index range mongol
+remove unnecessary attribute seed document
+add warn data volume enable metrics collection skip
+include count field stats non numeric field
+initialise persist widgets wrong time range persist widget contain invalid time range initialise widget nonetheless edit delete web interface case error log gray log server log exception raise compute value affect widgets fix
+add miss short circuit stream router engine fix
+let lap referral exception bubble prevent authenticate users log group could resolve user fine group map possible scenario figure support lap referrals group map manually warn log message link proper documentation page fix
+fix typo class name
+remove unused deflector information class
+remove radio reference
+add information lap usage stats cherry pick commit
+update netty final fix bug sol handle see cherry pick commit
+replace jersey netty grizzly instead maintain custom jersey adapter netty gray log use grizzly help server tightly couple jersey glass fish project
+remove unnecessary complete index range recalculation close delete index via gray log rest apr require recalculation index range information indices cherry pick commit
+remove dashboard registry useless indirection dashboard registry come time dashboard service therefore good idea collection keep available dashboards useless also create implicit cache produce synchronization issue mutations call non master nod therefore dashboard resource operations mutate exist state restrict master node neither useful desirable necessary remove dashboard registry usages
+refactor processbufferprocessors use message processor instead message filter instance message processors transform message message iterate register processor pass single message exist message filter handle messagefilterchainprocessor preserve backwards compatibility exist filter plugins message processor plug able order control run time messageprocessororder cluster configuration result message directly contain message object first step unify two view onto message
+add configuration options boilerplate code web init
+make index rotation strategies plug able change rotation strategy interface require rotate method add addrotationstrategy helper plugin module move rotation strategy configuration cluster configuration add configmanagementperiodical migrate settings server configuration file database timebasedrotationstrategy still need keep state move database later step
+move current deflector selection abstractrotationstrategy remove index name argument rotation strategy rotate interface
+rename indices resource methods responses emphasize purpose
+make index retention strategies plug able convert retention strategy interface add addretentionstrategy helper plugin module move retention strategy configuration cluster configuration move index count base strategy logic abstract class
+fix grok pattern integration test miss content pack attribute cherry pick commit
+turn input resource plain crud create inputstatesresource
+replace div paragraph contain dive may case highlight enable
+skeleton lap settings page issue
+add start stop methods cluster input state
+upgrade mock beta
+use chain delegate class loader plugin class order use poly morph class jackson object mapper must able access class load plugins live class loaders chainingclassloader class loader implementation query register class loaders sequentially class resource find one child class loaders
+make easier find elements input page add ids local global input section easier select elements selenium test
+parse rule text allow save parse request start type stop use ace annotations show parse errors know issue tip position somewhat break ace parse errors surface yet format could improve
+pipeline edit basic parse error handle check miss reference rule
+upgrade swagger
+update random message generator time field
+use date time instead date calendar fakehttprawmessagegenerator
+initial rough interpreter rule pipelines zip currently need message change branch gray log server
+work pipeline interpreter interpreter depend data structure rule collection fully load rule set memory cache update via event bus pipeline collection load set memory cache update via event bus pipeline stream assignment cache update via event bus pipelines run attach stream use stream default identify incoming message stream assign yet pipeline updater resolve function rule stag inside pipelines name internal execution follow incoming message interpreter determine pipelines possibly run base stream message assign pipelines stag execute ascend stage number order stag order number run stag rule condition evaluate gate rule action run match clause determine whether subsequent stag particular pipeline run message run pipeline per stream pipelines run interpreter determine whether additional pipelines need run well base new stream assignments loop stop new stream assign message note implementation yet guarantee stag isolate run
+add benchmark project update snapshot reduce log level debug interpreter
+implement simple query time range limit order guard system accidental query cover large time range query time range limit set provide limit query search query exceed time range give query time range limit query modify fit within limit adjust start time
+allow override web server fri gray log server urls header allow help clients include proxies define server fri use web interface code contact rest apr especially useful reverse proxies expose internal gray log servers outside proxy configuration set gray log server urls pass back end urls visible outside enable access server web
+separate budget persistence strategies add strategies bind
+improve performance string function special case know class use reflection detect whether override string class use thread local map cache declare class instead use reflection every time add benchmark previous current versions laptop show
+extract widget relate functionality dashboardwidgetsresource
+add anon mize property address remove last octet add address short circuit string conversion class add test
+rename java package class
+fix test
+replace geoid message filter message processor make possible change processor order online remove run extractors fig need anymore extract resolver engine separate class
+refactoring feedback remove builder rest permission rename restpermissionsplugin plugin permissions add rest permission create use collections empty set instead new set instance rename methods plugin module gray module
+rename pipeline assignments connections
+change operator precedences
+add version eye plugin license security check
+ensure impair writable generate self sign certs top transport fix
+initial commit
+add support tag
+use lightweight apr get index name aliases rotation retention request index statistics multiple time overload cluster could lead shard failures due timeouts failure log could lead use wrong older index base rotation decisions effectively rotate indices early change make gray log use lightweight apr determine index name include aliases reduce usage expensive index statistics indices page current rotation retention strategies need know index statistics require touch every single shard cluster fix cherry pick commit
+add loop index retention strategy add loop retention strategy return retention strategy fig configure strategy miss help configure new retention strategy previously instal plugin get remove add system notification rotation retention work add miss license cherry pick commit
+wait index range calculation switch deflector alias fix
+always use height title message show ensure title height regardless wether display message action
+interfaces simple implementations audit log add simple audit log add audit log jan resources create audit log entry shutdown better audit log create session audit log startup process audit log index rotation retention remove append make stop append configurable
+decorate search result initial version decorators search result fix search sidebar event handlers make decoration shippable use query parameter decorate add message decorator use pipeline processor add add decorators stream add per stream decorations add license headers fix reset configuration form return full info available decorators move search sidebar add license header add edit delete decorators allow create message pipeline remove unnecessary function sort permission name add permissions add edit decorators make decorators bite resilient miss decorator plugins slight name change adapt intermediate change dead code removal typo fix remove useless property decorator type info
+handle situation one index deflector alias happen nod index rotation retention kick absent nod back might bring back already delete index include deflector alias detect one index deflector alias throw exception case index rotation thread try cleanup aliases remove indices latest one
+change decorators interface operate search response instead result message add builder search response change decorators work search response refresh search result decorator fig change improve refresh decorator change prevent refresh load remove trace message decorator provide abstract class plugins implement simple decorators add license header
+switch message filter poll subscribe change events switch stream router poll subscription update previously every stream router instance poll stream change every second listen server event bus update stream relate rest endpoints post events update stream configuration switch extractor filter poll subscription update every extractor filter use cache expire second extractors basically poll extractors every second switch static field filter poll subscription update every staticfieldfilter instance use cache expire second basically poll static field configuration every second switch rule filter poll subscription update every rule filter instance use cache expire second basically poll new rule every second fix
+check forbid apis default build profile move forbid apr check default profile update forbid apr signatures add suppress forbid apis warn add forbid apis allow file file input output stream ensure check test class forbid apis allow remove bogus forbid apis signatures fix forbid apis violations fail forbid apis violations add forbid apis
+render dashboard actually change avoid render dashboards every two second update state dashboard change
+move transport test correct directory
+fix test directory structure
+proxies request query nod parallel call nod concurrently proxies request inject executor service proxies resource configure max pool size explain proxies request max thread fig parameter sample fig make fig value consistent change default explain size cherry pick commit
+implement contain stream rule implement contain stream rule make sure run contain match regex match least complex rule run first enable short circuit logic streamrouterengine work
+remove deflector usage search index helper determination indices search solely base index range time deflector parameter unused
+auto value memory service fix
+support message bytes beatsframedecoder fix
+create benchmark harness file base rule pipelines initial zip version parametrized runner rule pipelines implement memory rule service able use guide benchmarks reuse production bind need memory variants service order avoid benchmarking database access mongol back service rename bind default zip add memory rule service use memory grok service add license headers memory service still miss pom package need work add memory pipeline stream connections service dummy stream service implementation upstream change anyway near future use memory module instead anonymous module make memory service singletons load data actually read benchmarks disk populate store etc see example set benchmark split pipeline plugin parent benchmarks actual plugin lot refactoring need benchmarks need build separate module due requirements explicit mention annotation process necessary something override set make class path auto detection barf require update manifest work gray log project push separately slight tweak benchmark class support fork mode profile run single benchmark debug profile add kit profile command comment useful enable dig benchmark slow manually include kit resist jar class path use add another multi stage benchmark baseline stage performance make build work another web parent artefact need disable globally enable front end plugin add benchmark move misplace file due debase madness move saint file remove old file leave improper rebate
+make index set configurable via gray log rest apr
+extract pipeline state updater interpreter separate state computation update interpreter control state want use interpretation allow cleaner simulation without interfere current process also make code little easier follow separate two different concern
+zip code gen
+move stage iterator fig cache interpreter state configuration option toggle cache mostly benchmarking
+route message different index set able write message different indices index set map stream index set handle write elastic search track match index set object iterate stream map assume usually fewer index set stream message add add legacy default index set stream need change load index set stream database adjust write one message index set message depend number index set message actually write multiple message message slow index work batch behaviour change still flush configure batch size method take small object decide index message index reason behind put index set message instead look later iterate index set instead iterate stream look index set since rebuild stream router background thread stream soon index set configuration change expensive work outside hot code path probably several improvements implement make efficient first naive version make work minimal change
+resolve rule make inviolable copy fresh instance generate code present avoid make generate code thread safe would severely impact run time performance
+upgrade drool final
+replace deflector index registry replace deflector index registry simplify signature index helper geol destinies reload streamrouterengine creation deletion index set rename ongoing set calculate range setindexreadonlyandcalculaterange add unknown index range new indices improve log message deflector cycle properly throw exception index creation fail
+assign message default stream add default stream message enter process engine unify legacy processbufferprocessor class sole subclass turn provider factory save mutable state create singleton provider default stream prevent update create edit delete default stream stream rule default stream rule show action necessary modify prevent use apr mutate default stream stream rule check service test remove obsolete default recreate marker
+allow remove message default stream allow remove message default stream use defaultstreamprovider instead default stream streamrouterengine use directly gray log suffer endless loop defaultstreamprovider startup rename remove message remove match default stream
+assign index set stream assign index set stream move stream set index set one index set add field stream collection mongol add methods stream add method stream add migration assign default index set stream add migration assign default index set stream save default stream without validation avoid index set error need index set migration run validation index enid add code migration create
+adjust several helper rest resources index set adjust several helper rest resources index set add methods index registry adjust methods indices index set add methods index confirm static need migration adjust deflector resource index set adjust indexeroverviewresource index set adjust indices resource index set add miss rotation retention strategy class name index confirm need one index template per index set different prefix remove index prefix methods indices make methods indices either take single index index set configuration remove methods fix stream integration test field require add method take index set fig use count message index set also switch indexeroverviewresource use one return correct result rename missingrotationretentionconfig migration add field index set mark oldest index set default avoid iterate index set mongoindexsetregistry get add index registry get default retrieve default index set use default index set deprecate apis make work use index set instead index confirm indices methods get fig index set situations actually need methods index set object run getallmessagefields request manage index prefix remove unused method add miss test set
+filter indices search accord stream filter filter indices search accord stream filter search stream need take account index set prefix avoid touch match index range assume single stream search time like decorators fix test filter index prefix determine index range use index set index range test instead prefix string
+migrate alert receivers add list configuration field need field move email receivers email callback model add miss prop drop downfield add support get list move email receivers make user email receivers part model add configuration field callback ensure offer user auto completion user permissions list users move logic resolve email address class clean alert receivers clean front end code relate alert receivers add builder alarmcallbackconfigurationavimpl allow modify object instead create new ones clean alert receivers time remove unused back end code adapt previous apr add remove receivers use available convert emailalarmcallback migration migration need ensure run upcoming alert receivers migration also change event get store cluster fig still release harm run migration development machine move exist alert receivers emailalarmcallback migration move alert receivers stream least condition emailalarmcallback fix condition run emailalarmcallback migrations also modify test ensure work expect
+index set use document title component indices page extent index resource support pagination start index set allow creation configuration index set add fig type retention rotation fig save store add standalone prop input field rotation retention fig let index registry return list figs keep order add comment mongol date issue cleanup index set deletion check assign stream allow index set deletion stream use allow deletion default index set via rest apr create index set cleanup system job delete indices index template implement components index set deletion return correct page press cancel index set fig show index set detail settings overview index set page add miss endpoint fix manual index rotation index set remove magic cycle complete function list cycle change word recalculate index range fix add miss cancel link
+upgrade mongol java driver
+adapt clone apr request accept index set options also use give options clone stream fix
+index set fix create unique index index prefix index set handle duplicate exception throw bad request error add warn rotation retention plugins upgrade improve index set creation apr robustness check index prefix already manage index set allow update settings like index prefix index match pattern index wildcard via apr create index validation use run check new index set fig avoid conflict exist index set extract apr error message error handler index store fix test add descend index index set creation date rename class
+add custom jackson serialize zone anytime date time add custom jackson serialize zone anytime add custom jackson serialize date time
+extract field every type beat fix
+upgrade equal verifier
+upgrade soda time
+replace deprecate mockitojunitrunner monitor use
+update index range manage indices instal index change monitor get change indices elastic search cluster check events trigger index manage gray log check index trigger event actually manage index set fix
+upgrade memory leak versions
+ignore deprecate default field index confirm due object graph construction guide migration remove default message field moveindexsetdefaultconfig run index confirm class create mongol query run since mong jack strict document field thus fail error message cause unrecognized field default class mark ignorable know properties index optimization disable index template name index wildcard index match pattern rotation strategy class creation date index analyser rotation strategy shards title index optimization max cum segment replicas description index prefix retention strategy class retention strategy source littleendianinputstream pos reference chain default fix
+show stats index set index set overview page introduce parameter method enable index set stats computation switch code use flag need refs
+add metrics extractors add metrics extractors change add follow metrics extractors add condition hit number time condition succeed add condition miss number time condition fail add condition time time spend evaluate condition completeexecutiontime total time spend extractor fix recreate timers extractor
+add simple cache index set mongoindexsetregistry
+ref parser pipeline function
+lookup table zip domain object start lookuptableservice zip data service fix botch rebate add resources cache adapters lookup table extend object mapper provider allow register name type subtype resolution plugins cache data adapter figs polymorphic require proper bind fig class add miss property annotations cache apr add even property annotations make ids null able rest forget builder annotations quickly become favourite bug consolidate resources one without single hierarchy get cache adapter type awkward would shadow get ido name call convert data adapters factory descriptors simplify life cycle management easily instantiate descriptor without complete data adapter return information call convert lookup cache metadata factory descriptor order get metadata cache providers present default fig need expose descriptors since want instantiate entire cache break metadata class provide factory also create instance actual cache base configuration build lookup table start change assemble lookup table configure cache adapters get resource data expose move adapters cache package make easier eye introduce null cache type none disable cache send update delete cluster events lookup table underlie object mutate adapter cache deletion deny use lookup table system fix lookup cache adapter usages fix wrong ids warn log message recreate cache adapter fig change update lookup table need take care throw away exist cache grateful adapters would make lose state even though nothing change add generic lookup table support guard nulls initial skeleton lookup table lookup table resource optionally resolve reference cache data adapters page result fewer apr call simpler code three new page available underneath minor cosmetic fix lookup table detail view skeleton cache list detail page skeletons data adapter skeleton zip make adapter plug able actually give random number generator fig showcase zip data adapter simplify data management adapters page page load data pass components remove obsolete page import use correct validation annotation fig use correct state store attach promise correct action always lookup value cache cache handle lookup data adapter cache miss add license headers great cache page copy fix rout import cache plugin export definitions core use correct guava type name plugin registration lookup return lookup result instead object lookup result contain map hold multiple value key lookup also provide cache tel value allow custom expiration individual result expose simple guava cache configuration remove data adapter field cache accessible table always get lookup table actual lookup execute way avoid keep reference lookup table long would issue lookup table get update zip lookup table add create edit form lookup table possible save yet neither pick adapters cache load pagination twice adapters cache extract common ass refactor lookuptableservice rename create table update table remove duplication initialize update table methods move table creation separate class always return promise minimize accidents implicit return add debug warn log statements lookuptableservice update table add life cycle management lookup adapter subclasses data adapters need life cycle management handle thread pool background job etc create edit form lookup table return without unlock safe check start stop grab lock support optional documentation component adapters cache audit events create update delete lookup operations add csc file lookup table data adapter disable file documentation use apr create file input stream set char set add information csc file requirements reformat look nicer return delete table cache data adapters response use char set standard charles please forbid apis add time input core component extend guava cache configuration include refresh key expire options add documentation edit create form pass explicit update confirm prop handler support complex fig update plugin field set fix wrong attribute name remove dummy random data adapter
+convert manual life cycle management guava service simplify code avoid implement state handle yet another way lookuptableservice manage service directly without use service manager instance service globally register implementations need anything special
+add value lookup form lookup table adapter detail page cache inspection form need life cycle implementation cache yet
+consistent data type error state
+throw field exception aggregate non numeric field change throw instead generic search request try aggregate non numeric field allow retry get non numeric statistics show accurate error message try generate chart
+refactor life cycle lookup adapters cache add initial life cycle cache make service use auxiliary service managers start lookup table use listeners maintain dependent service state refactoring lookup table entity life cycle cache data adapters run without lazily load lookup table use greatly simplify update creation logic make trivial query system state update delete events fill resource yet add error state cache users yet expose errors error state apr endpoint actually start cache adapters update avoid race condition wait run service create lookup table fall back check lookuptableservice table live table might populate yet send proper cluster events cache adapter update improve service log add object identity fix wrong state log service listener make start adapters cache resilient exceptions start improve log object ids use property throw able interfaces version convert cache load manual cache since share instance across lookup table cache adapters longer back reference table mean lookup table need orchestrate load cache load cache use refresh rewrite remove option fig make sure restart cache adapters properly synchronize wait instance run remove unused throw able interfaces dependency create lookup cheney use key lookup cache lookup cheney consist actual key object prefix string make possible cache key value different data adapter since cache instance share data adapters cache value might overwrite different data adapters otherwise move data adapter refresh handle lookupdataadapterrefreshservice decouple data adapters cache handle refresh logic outside data adapter remove license comment make license check happy fix saint errors add property creator annotations lookup cheney
+add content pack import export lookup table cache adapters add content pack import export lookup table cache adapters post lookup table update delete events bundle importer add content pack field lookup table cache adapter set content pack field import content pack show content pack marker table cache adapter overview detail view adjust change lookup table database class
+add default value lookup table start default value implementation lookup table make forbid apis happy add default single multi value lookup table fig content pack fix equality check componentwillreceiveprops compare table avoid delete value form validate lookup table field fix condition compare name urls request body fix issue jump cursor jsonvalueinput handle exceptions lookup table service fix multi value case multi value default set multi value single value single value set serialize null empty field httpjsonpathdataadapter avoid annoy fig form errors
+support net low version close close
+add support read log stash net low definitions
+fix net low type parse netflix parser ignore unknown invalid type definitions lead wrong byte offset process net low flow additionally custom length specifications ignore convert field type unsigned integers many bytes would read
+rename probe net low cap sample add test netflowcodectest
+add net low version assertions netflowcodectest
+add probe net low cap sample netflowvparsertest
+add probe net low cap test
+add another probe net low cap test
+add test case cap
+properly handle empty miss templates net low fix
+improve net low support move template cache flow buffer custom message aggregate much still zip remove template cache zip code aggregation parse custom format currently fix test zip migrate test fix parse preserve complete packets buffer aggregate data flow set work record base packet timestamp simplify parse code aggregate collect templates option templates photo add receive buffer data flow parse net low packets preserve completely also contain templates code use though aggregate remove duplicate license header update photo comment update comment tweak license header avoid diff fix guide setup transport fix handler setup code aggregate null super class put call add raw message handler thus code never run screw parse change packet cache work previous implementation check single template present packet general wrong templates arrive time might happen large number active templates new implementation manually check packet template requirements ids receive templates current combination prefix net low field remove unused optional template atomic ref prefix unknown field name centrally fix double prefix field forget fix test add flow timestamp field infix fix test field definition list update
+upgrade jackson
+migrate elastic search test nose unit elastic search help adapter upgrade novel unit test dependency congo need add explicitly dependency scope nose unit mongol change provide drop database test accesstokenserviceimpltest database drop thus collections indices purge fail follow error message unexpected error read data set file cause duplicate key error index dup key foobar cause create unique index token attribute fix various mongol test drop database test nose unit mongol adapter drop databases test test expect start clean slate prevent travis kill elastic search test make elastic search test real integration test test use elastic search previously rely nose unit elastic search adapter create embed elastic search instance unfortunately embed elastic search nod unsupported since elastic search test rely externally spawn elastic search instance case utilize elastic search maven plugin spawn elastic search node maven verify life cycle phase integration test precise use gray log integration test end instead test run integration test travis use unique index name indicesgetallmessagefieldsit disable elastic search maven plugin default elastic search node start gray log server sub module skip sub modules remove index template use indexcreatingdatabaseoperation remove maven fail safe plugin gray log project parent add support run test elastic search system property control whether elastic search default elastic search start prior run elastic search test also mean test ensure run either version elastic search add assumption disable incompatible test wrong version elastic search use example use port default avoid collisions avoid socket collisions locally run instance elastic search integration test run port respectively upgrade nose unit elastic search help jackson remove custom indexcreatingdatabaseoperation
+add support common event format ref also see arc sight common event format ref guide ref ref
+add support textual numeric severity value close
+initial class model search request
+split raw ref sysop ref input
+add use full name parameter parse ref function
+add filter allow multi stream search
+add query search store search widget components
+use lenient delimiter base frame decoder transport use lenient delimiter base frame decoder transport contrast standard netty derivative emit last bytes receive channel even end configure delimiter fix retain original copyright notice skip
+implement quick value improvements fix list errors migrate fieldquickvaluesstore first stab make quick value configurable add fig form toggle make order limit table size configurable still problems order data table least fix sort bottom configure add stack support term endpoints incorporate feedback add cancel button quick value configuration fix horizontal scroll quick value configuration form remove unneeded custom event handler radio button add label radio button remove unused form tip input event add stack field quick value remove debug refactor fig handle quickvaluesvisualization put sort order debatable title data delimit limit prop exist fig prop make way easier handle usages quickvaluesvisualization dashboards search page adjust dashboard handle new fig options quick value implement review feedback move style sheet code ass file remove unneeded prevent default avoid input component nest use group controllable use button toolbar instead manually add space remove custom error handler
+make message sort message list stable
+implement quick value time widget extract histogram boundary parse tool first stab term histogram apr endpoints add term histogram endpoint absolute keyword search make interval optional build sane default base time range use logic use web interface construct interval initial quick value time visualization make sure chart container use complete width add link back histogram overview disable animations rename stackedchartvisualization quickvalueshistogramvisualization nowhere near generic component moment move code search resource helper reuse move code quickvalueswidgetstrategy base class reuse soon add quick value histogram widget strategy make possible add quick value histogram dashboards move quick value fig query configuration add mistake field need separate file show data table limit histogram remove unused show chart legend restrict chart legend max entries otherwise would overwrite axis label improve histogram render base graph visualization handle resize issue fix chart size issue chart get smaller every new render pass chart modify value every new chart render chart get smaller use immutable value account label margin fix bug stack field wrap term query stack field additional filter ensure main stack field actually exist message otherwise would get null value result cleanup quickvalueshistogramvisualization remove unused variables simplify code cleanup quick value configuration form fix bucket sort quick value histogram
+fix scroll query use search scroll scroll query break number different reason fork jest use gray log bug regard scroll query elastic search multi search apr support scroll query due default help request length limit elastic search resolve affect index set use index wildcards instead separate index name fix
+upgrade hibernate valid tor final
+add execution state application query search type clients pass execution state execute query apply top store query configuration avoid create new query object pagination relate view settings modify
+multi query zip multi query support use correct property auto value java bean extension otherwise extension load old version refer non existent class zip multi query support add search top level class hold query expect self assign ids user zip remove obsolete annotation query execution zip traverse first level execution plan graph run multiple query first level query run parallel add miss annotation query
+add group group histogram search type initial implementation group search type add operation group might add future add post search sync endpoint search resource allow block execution give search add search job query arguments search handler generatequerypart add group histogram search type
+upgrade log
+migrate netty migrate netty revert change centrum censer javascript esse depend add support native sol open bind wait transport start completely udptransporttest refactor upgrade netty final fix throughput connection counter netty base transport use read bytes gelfchunkaggregator refactor nett transport belloc address upgrade netty final allow configure number worker thread per netty transport remove support netty oil old transport remove outdated use locale metric registry transport specific metrics
+merge net low plugin gray log core close
+merge beat plugin gray log core close
+merge pipeline processor plugin gray log core close
+merge pull request merge pipeline processor plugin gray log core close
+retain legacy behavior beat input copy new beat input revert better support generic beat additional metadata revert commit rename old beat code beat legacy display name fix license headers
+collect expose index field type information add indices get indices index set string new method return indices give index set optional filter open close indices start code poll indices index set field type mappings measure index poll time make indexfieldtypepoller poll index public add indexfieldtypesservice upset method index field type service improvements add periodical schedule regular update index field type update index field type set index read add comment run master restore upset test invert condition avoid delete type information change field map set need allow mongol index field create database indices add suffix field type class add two new stream methods indexfieldtypeservice handle empty type value look nest value add first version field type lookup remove duplication indexfieldtypesservice add field type refresh interval fig option index set use field type refresh interval index set schedule poll job fix log level add comment add geo point type mapper make indexfieldtypepollerperiodical interval configurable
+upgrade mongol java driver close
+start back end code view database service apr resource
+implement view deletion
+add paginate service findpaginatedwithqueryfilterandsort use filter function filter result stream
+zip parameters search object
+remove unused prop
+implement help proxy server authentication okhttpclientprovider fix
+back end pivot search type zip query generation record aggregation type peel row group series result actual result object build yet process series part column group recursion column group implement yet leaf non leaf series produce value far change pivot search type parameter work correctly allow suppress series calculation intermediate bucket zip multi series support refactor pivot query generation use individual bucket series handlers simplify code refactor spec handlers bucket series bucket handlers need return stream bucket series handlers return stream value key correspond column plain metric key row group optional series roll implement column handle yet add column handle without roll fix duplicate row roll column group repeat column roll bucket make sure consistently name series share handlers unlike aggregation search type spread metric aggregations across multiple bucket either need copy specs difficult maintain map instance simply name accordingly record aggregation name type per search type previously two search type declare latter override context map former lead hash lookup failures add field pivot series value series spec include something sensible generate configuration treat treat opaque value caller use determine series generate value possibly look relate state display name etc use empty string instead doc count series
+use indices contain time range use indices contain time range fix improvement instead use indices present determine indices include time range current search proper fix would include parse evaluate filter query determine stream include exclude query therefore indices remove list indices search build block add test cover change
+check user allow see stream search change permission enforcement perform search additionally indices query perform limit give time range stream search change several things add method class return reference stream ids check user allow read stream ids reference query execute stream filter give query implicitly scoped stream call user access indices use search contain give time range contain least one reference stream set indices use execution query empty fall back use use nothing instead refs fix
+avoid create duplicate grok pattern avoid create duplicate grok pattern possible create grok pattern name different pattern change set ensure unique index name field grok pattern mongol collection handle duplicate grok pattern mongodbgrokpatternservice add miss license header add enforceuniquegrokpatterns migration module
+ensure mandatory parameters search resources valid mandatory query parameters search resources absolutesearchresource range relativesearchresource keyword keywordsearchresource check basic validity null empty negative lead unfriendly error message users send invalid request one resources refs diff git index add import import import import import import import import public abstract class absolute range extend time range try return parse teatime catch illegalargumentexception throw new invalidrangeparametersexception invalid end range throw new invalidrangeparametersexception invalid end range public abstract class absolute range extend time range try return parse teatime catch illegalargumentexception throw new invalidrangeparametersexception invalid start range throw new invalidrangeparametersexception invalid start range private date time parse teatime string private date time parse teatime string string null empty throw new illegalargumentexception null empty string final date formatter formatter formatter isolate reformat date time else formatter tool timeformatterwithoptionalmilliseconds use withoffsetparsed keep timezone return formatter withoffsetparsed parse teatime return formatter withoffsetparsed parse teatime diff git index read bbl public class absolutesearchresource extend search resource public search response search absolute name query value query lucent syntax require true query string query name value time range start see description date format require true string name value time range end see description date format require true string name value time range start see description date format require true string name value time range end see description date format require true string name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter public class absolutesearchresource extend search resource public chunk output searchabsolutechunked name query value query lucent syntax require true query string query name value time range start see description date format require true string name value time range end see description date format require true string name value time range start see description date format require true string name value time range end see description date format require true string name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter name field value comma separate list field return require true field string field name field value comma separate list field return require true field string field checker permission filter final list field list parse field field public class absolutesearchresource extend search resource public response exportsearchabsolutechunked name query value query lucent syntax require true query string query name value time range start see description date format require true string name value time range end see description date format require true string name value time range start see description date format require true string name value time range end see description date format require true string name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter name field value comma separate list field return require true field string field name field value comma separate list field return require true field string field checker permission filter final string filename gray log search result absolute return response public class absolutesearchresource extend search resource query string query name stack field value field stack require false stack field string stackedfieldsparam name size value maximum number term return require false size int size name value time range start see search method description date format require true string name value time range end see search method description date format require true string name value time range start see search method description date format require true string name value time range end see search method description date format require true string name filter value filter require false filter string filter name order value sort field field desc require false order string order checker permission filter public class absolutesearchresource extend search resource query string query name stack field value field stack require false stack field string stackedfieldsparam name size value maximum number term return require true size int size name value time range start see search method description date format require true string name value time range end see search method description date format require true string name value time range start see search method description date format require true string name value time range end see search method description date format require true string name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name filter value filter require false filter string filter public class absolutesearchresource extend search resource name query value query lucent syntax require true query string query name size value maximum number term return require false size int size name value time range start see search method description date format require true string name value time range end see search method description date format require true string name value time range start see search method description date format require true string name value time range end see search method description date format require true string name filter value filter require false filter string filter checker permission filter public class absolutesearchresource extend search resource field string field name query value query lucent syntax require true query string query name value time range start see search method description date format require true string name value time range end see search method description date format require true string name value time range start see search method description date format require true string name value time range end see search method description date format require true string name filter value filter require false filter string filter checker permission filter public class absolutesearchresource extend search resource query string query name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name value time range start see search method description date format require true string name value time range end see search method description date format require true string name value time range start see search method description date format require true string name value time range end see search method description date format require true string name filter value filter require false filter string filter checker permission filter public class absolutesearchresource extend search resource field string field name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name value time range start see search method description date format require true string name value time range end see search method description date format require true string name value time range start see search method description date format require true string name value time range end see search method description date format require true string name filter value filter require false filter string filter name cardinality value calculate cardinality field well require false cardinality boolean include cardinality public class absolutesearchresource extend search resource return buildhistogramresult field histogram field query interval filter buildabsolutetimerange include cardinality private time range buildabsolutetimerange string string diff git index babble abba import import import import import import consume import delete import get public class decorator resource extend rest resource value return configure message decorations note value return configure message decorations public list get check permission return decorator service find public class decorator resource extend rest resource value create message decoration configuration type public decorator create name son body require true decorator imply decorator public decorator create name son body require true decorator imply decorator check permission decorator stream present check permission decorator stream get public class decorator resource extend rest resource value update decorator type public decorator update name decorator require true decorator final string decorator name son body require true decorator imply decorator throw notion exception public decorator update name decorator require true decorator final string decorator name son body require true decorator imply decorator throw notion exception final decorator original decorator decorator service find yid decorator check permission original decorator stream present diff git index public class keywordsearchresource extend search resource public chunk output searchkeywordchunked name query value query lucent syntax require true query string query name keyword value range keyword require true keyword string keyword name keyword value range keyword require true keyword string keyword name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter name field value comma separate list field return require true field string field name field value comma separate list field return require true field string field checker permission filter final list field list parse field field public class keywordsearchresource extend search resource public response exportsearchkeywordchunked name query value query lucent syntax require true query string query name keyword value range keyword require true keyword string keyword name keyword value range keyword require true keyword string keyword name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter name field value comma separate list field return require true field string field name field value comma separate list field return require true field string field checker permission filter final string filename gray log search result keyword keyword return response public class keywordsearchresource extend search resource query string query name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name keyword value range keyword require true keyword string keyword name keyword value range keyword require true keyword string keyword name filter value filter require false filter string filter checker permission filter public class keywordsearchresource extend search resource query string query name stack field value field stack require false stack field string stackedfieldsparam name size value maximum number term return require false size int size name keyword value range keyword require true keyword string keyword name keyword value range keyword require true keyword string keyword name filter value filter require false filter string filter name order value sort field field desc require false order string order checker permission filter public class keywordsearchresource extend search resource name query value query lucent syntax require true query string query name stack field value field stack require false stack field string stackedfieldsparam name size value maximum number term return require true size int size name keyword value range keyword require true keyword string keyword name size value maximum number term return require true size int size name keyword value range keyword require true keyword string keyword name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name filter value filter require false filter string filter public class keywordsearchresource extend search resource name query value query lucent syntax require true query string query name size value maximum number term return require false size int size name keyword value keyword time frame require true keyword string keyword name keyword value keyword time frame require true keyword string keyword name filter value filter require false filter string filter checker permission filter public class keywordsearchresource extend search resource field string field name query value query lucent syntax require true query string query name keyword value range keyword require true keyword string keyword name keyword value range keyword require true keyword string keyword name filter value filter require false filter string filter checker permission filter public class keywordsearchresource extend search resource field string field name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name keyword value range keyword require true keyword string keyword name keyword value range keyword require true keyword string keyword name filter value filter require false filter string filter name cardinality value calculate cardinality field well require false cardinality boolean include cardinality diff git index cheese body import import import import import import baroque exception import default value import get public class relativesearchresource extend search resource public search response search relative name query value query lucent syntax require true query string query name range value relative time frame search see method description require true range int range name range value relative time frame search see method description require true range int range name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter public class relativesearchresource extend search resource public chunk output searchrelativechunked name query value query lucent syntax require true query string query name range value relative time frame search see method description require true range int range name range value relative time frame search see method description require true range int range name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter name field value comma separate list field return require true field string field name field value comma separate list field return require true field string field checker permission filter final list field list parse field field public class relativesearchresource extend search resource public response exportsearchrelativechunked name query value query lucent syntax require true query string query name range value relative time frame search see method description require true range int range name range value relative time frame search see method description require true range int range name limit value maximum number message return require false limit int limit name offset value offset require false offset int offset name filter value filter require false filter string filter name field value comma separate list field return require true field string field name field value comma separate list field return require true field string field checker permission filter final string filename gray log search result relative range return response public class relativesearchresource extend search resource query string query name stack field value field stack require false stack field string stackedfieldsparam name size value maximum number term return require false size int size name range value relative time frame search see search method description require true range int range name range value relative time frame search see search method description require true range int range name filter value filter require false filter string filter name order value sort field field desc require false order string order checker permission filter public class relativesearchresource extend search resource name query value query lucent syntax require true query string query name stack field value field stack require false stack field string stackedfieldsparam name size value maximum number term return require true size int size name range value relative time frame search see search method description require true range int range name size value maximum number term return require true size int size name range value relative time frame search see search method description require true range int range name interval value histogram interval bucket size year quarter month week day hour minute require false interval string interval name filter value filter require false filter string filter public class relativesearchresource extend search resource name query value query lucent syntax require true query string query name size value maximum number term return require false size int size name range value relative time frame search see search method description require true range int range name range value relative time frame search see search method description require true range int range name filter value filter require false filter string filter checker permission filter public class relativesearchresource extend search resource field string field name query value query lucent syntax require true query string query name range value relative time frame search see search method description require true range int range name range value relative time frame search see search method description require true range int range name filter value filter require false filter string filter checker permission filter public class relativesearchresource extend search resource query string query name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name range value relative time frame search see search method description require true range int range name range value relative time frame search see search method description require true range int range name filter value filter require false filter string filter checker permission filter public class relativesearchresource extend search resource field string field name interval value histogram interval bucket size year quarter month week day hour minute require true interval string interval name range value relative time frame search see search method description require true range int range name range value relative time frame search see search method description require true range int range name filter value filter require false filter string filter name cardinality value calculate cardinality field well require false cardinality boolean include cardinality diff git index import import import import import baroque exception import consume import delete public class savedsearchesresource extend search resource code message validation error type public response create name son body require true createsavedsearchrequest throw validation exception createsavedsearchrequest throw validation exception title take title final string mag save search title title already take throw new baroque exception mag public class savedsearchesresource extend search resource public map update name search require true search string search name son body require true createsavedsearchrequest throw notion exception validation exception createsavedsearchrequest throw notion exception validation exception final save search search savedsearchservice load search title take search title diff git index dec import import import static import static throw public class absolute angeles public class absolute angeles assert string isolate reformat date time quarto public void nulloremptystringsthrowexception assertthatthrownby instance message invalid start range assertthatthrownby instance message invalid start range assertthatthrownby null instance message invalid end range assertthatthrownby instance message invalid end range newline end file
+use react router link component link container think use react bootstrap components replace want render anchor element
+upgrade spot bug
+content pack add custom subtype resolver handle auto value class add remove deprecate methods version class add new content pack overview use static list content pack show overview obviously change later development use control list create new content cyclist need list filter pagination implement first iteration class model content pack add upload modal add view upload content pack move store simulation store proper apr endpoint simulate result via store way build everything later fix store endpoints content pack constraints view content pack status view content pack show page add example show content pack content store wire showcontentpackpage content cyclist add component select revision content pack add install view add apr endpoints send list content pack add upload apr help endpoint move help endpoints exist content pack model code upload list guy real model use action instead store directly better error handle upload rename directory fit convention use string model instead quid crud functionality content pack rename content service contentpackpersistenceservice update snapshot content cyclist add jan parameter converter model add annotation test resource modelidparamconvertertest use get help apr point retrieve show content pack wire remove button help apr endpoint fix fall content cyclist test add support read convert legacy content pack remove dirty hack build add download modal download content pack content cyclist make content cyclist easier testable move store code page initialize store add class test find row add test deletion pagination filter test since query plugin typeface input reachable test add test content versions add render enzyme test add test ensure change event add test content detail fix drop overflow also add miss snapshot add download content versions ensure model model version model type blank add remove single revision content versions add content list return value swagger show set map return value want show interface return value endpoint set content pack add new auto value change return value get content pack revisions add test content resource add grokpatternservice bulk load method test allow proper versioning entity model fix typo auto build fix inmemorygrokpatternservicetest bulk load add implementation test dashboard service load kid add implementation test input service load kid add implementation test input service find kid stream imply add implementation test output service load kid add skeleton createcontentpackpage suppress forbid apis inputserviceimpltest fix streamserviceimpl load kid fix java build linux reason java oracle open compile code intel value get cast variable assignment work add parameter page content content content pack wizard parameter page add list delete parameter store via onstage change use content detail preview content pack creation need able show content pack without value fix style also add parameters list detail add content pack selection content pack selection general information actually content pack selection add afterwards add step component dependency resolution add content preview show preview create button content pack add entity catalogue converter add new components createcontentpackpage add expandable list select content update snapshots move selection state createcontentpackpage since want keep state select entities user want come back change selection move state page give prop content selection fix disable next wizard step first form fill fix content pack parameter deletion sync parameter type back end use affix fixate position preview adjust name type parameter back end add test remove single entity remove need resolve dependency page add help resource resolve entities remove unused entity dependencies class add audit event entity resolution give header formatter data table sane default decrease size main content wizard give selection table offset view get bite straighten make size bootstrapped wrapper configurable content detail fix parameters add entities add apply parameter functionality hide preview last step wizard save apply parameters content pack entities fix snapshots refactor entity converters entity encoders extract commonly use type reference helper class properly set description stream lock return converter get type add filter content pack entity selection add validation default type content pack parameter refactor dependency resolution include stream widgets base dashboard dependencies add validation ensure correct unique parameter name small change fix javascript test use catalogue endpoint get select entities fix merge entities apply parameters add support export pipelines rule close close fix find review edmund remove front end part old content pack back end part need stay replace migrations use content pack use dash instead splice cleaner remove object array add support entity specific constraints introduce value reference content pack entities apply parameter fig key one time update javascript test snapshots move parameter form modal edit create parameter use form render modal add edit link page make possible create new content pack necessary edit exist content pack add test content credit enhance style contentpackapplyparameter fix modal header edit create parameter fix content parameter remove reference parameter parameter delete change reference parameter parameter alter also small winter fix fix validation parameters name uniqueness add username creator parameter adjust entity render new data structure send server add fig overview fetch content pack entity catch entities without title add constraints content pack preview page remove text area use debug move entities list component share detail parameter move parameter list component use detail page remove view button content version since already show everything detail filter parameter options base type fig key conf key string parameters type string available convert default value type server except default value correct type fix show action header content detail add edit button show content pack page fix header entity fig modal add string default value add download button content credit page also leave page successfully create add support value reference type identifier jackson fix style content detail set focus title create parameter add content install component install content pack use stub implementation store fix fail test move removal events dashboardserviceimpl remove dashboard first part edmund review fallout move update delete events pipelines pipeline service rule service move update delete events grok pattern grokpatternservice second part edmund review fallout add confirmation modal delete parameters move events stream stream rule service remove stream events migrations stream events emit directly stream service stream service implementations third part review fix edmund remove unnecessary index set event migration already emit event remove dashboard relate events dashboardwidgetsresource events emit dashboard service implementation move lookup table cache data adapter events service add support constraint checker use search form search entities add search form entity list parameters list replace fill parameter regular value reference add help resources content pack installations zip add support version expressions constraints java server library use gray log support valid semantic versions version expressions example dead beef valid semantic version fail version expression dead beef additionally look like java server actively develop anymore last commit commit add actively maintain server library implement version expressions content pack would eventually make sense replace java server server part gray log add test contentpackinstallationrequest add install apr endpoint use store also refactor use convert string convert value run ext fix fix saint warn errors move contentpackpersistenceservice local latest logic gray log instead rely relatively new version mongol get latest revisions content pack logic move gray log load content pack database filter sort memory give expect low number content pack per gray log cluster problem otherwise bump minimal system requirements mongol merge entity catalogue cod entity facades try solve race condition grokresourcetest wait result grokresourcetest add content pack support collectors collector configurations fix wizard test rebate master update snapshots migrate custom fork server add graph utilities content pack installation add parameter resolution reference pupils value remove output facade add support create pipeline stream connections remove legacycontentpack always use exist default stream stream facade fix connect data adapters cache lookup table avoid ape exist mongol allow create invalid stream mongol miss disable field create stream enable state fail create disable field stream mongol actually save stream stream rule stream facade move exceptions package add test merge catalogue sex content service add test dashboard facade add test grokpatternfacade add test collector facade use model type constants instead manually construct model type instance add test input facade support plugin version constraints facades add test lookupcachefacade add test lookupdataadapterfacade add test lookuptablefacade cache facade adapter facade table facade add test output facade add test pipeline facade add test pipeline facade add comment code walk revert remove deprecate methods version class revert commit fix injection pluginversionconstraintchecker add migration fill rev field legacy content pack add nativeentitydescriptor contrast entity descriptor rename entity facade export entity exportnativeentity clarity rename entity facade resolve methods clarity add java doc entity facade interface fix plugin discovery input facade output facade ignore duplicate exceptions create new index content pack collection legacy content pack rev field lead index entry null null content pack cause duplicate exception add miss import fix typo fulfil fulfil
+adjust buck ting interval time base pivot accord time range change implement simple strategy choose buck ting interval accord query time range select number step roughly proportionate intervals relation size time range still use intervals easy read calculate user boundary interval relation look like lower boundary upper boundary interval min bucket max bucket avg bucket minutes minutes minutes minutes hours hours hours days days days days days days days days days days depend return data suppose visualize intervals multiply divide arbitrarily still retain proportion roughly similar min max number bucket
+generate column pivot aggregations row pivot present generate column pivot aggregations row pivot present due regression column pivot sub aggregations generate anymore row pivot present change fix add test pivot change adapt apr change rebate test
+add grok pattern dependency resolution content pack resolve grok pattern dependency installation add dependency resolution creation grok pattern content pack fix indention try block make local variables final add parameter search grok pattern dependency resolution fix
+parameter substitution widget filter check widget filter undeclared parameters test search query fail widget filter undeclared parameter iterate widget filter replace bind parameters
+create random ids entities content pack use random instead database entity test reset unrelated change
+port support branch fix
+add constraints entity move constraints top level content pack entity fist step add constraint class value entity fix
+fix fig paths handle value reference object add valuereferencedata class test take entity data object generate fig paths well modify data path encapsulate knowledge value reference object server avoid duplicate rest code base replacement object tip get paths get value set value replace object tip usage valuereferencedata remove unused object tip get paths get value set value also add simple test empty clone add documentation valuereferencedata class update content pack test snapshots change sort order use natural sort sort entity paths fix saint warn
+include alert condition alarm callbacks content pack avoid ape use empty stream miss stream rule field fix java doc comment nativeentitydescriptor create include alert condition alarm callbacks content pack since bind stream decide put stream entity fix
+refactor code prior change unused import still present change remove unused import declare function private instead public
+implement permissions search search job add owner field search optional legacy add method return search readable user add method return view reference search assign owner new search return search user permit allow overwrite search users create one correct constructor call test add owner field limit access owner extract service resource qualify view remove unused reference view service remove unused reference test register resource qualify view lookup return search instead save object null remove duplicate annotation add board event annotation qualifyingviewsresource parameter separate test add test case add test case search execution add test qualify view resource service fix test
+remove possibility use parameters name pattern groat serenity fix
+fix open content pack detail legacy content pack need check content pack legacycontentpack return empty set constraints case
+allow user share view others implement share strategies implement service view share register view share subtypes add subtype name specific users class ignore field serialize view share instance return create remove view share service throw exception remove nonexistent view share add class view share type register view share subtypes bind qualify import add store view share configurations add share action dialog view handle non present view share object get fig properly serialize type view view share object show roles user select share view dialog add son serialization builders view share value class overwrite complete property subclasses constructor show current user user select format users use full name track change user roles selection limit accessibility property also allow access search share view reference search add action save new view allow access list view share current user differentiate create update view adapt test apr change differentiate create update view store use different action create update view view action update add test view save action adapt test disable save share action user able edit view also check view share look qualify view add test case share view include qualify view throw exception delete non existent view share disable share user option permit fetch user list add endpoint return user summaries use share modal add test viewsharingresource summarize users show roles user admin extract share check strategy class allow inject dept add test share modal
+duplicate message beat input new beat input configure add beat type prefix every field default would duplicate entire message field message fix additionally keep field prefix need show message button sidecar view
+extract interface
+move java file place
+rename package test
+add support
+add new events alert system add new events alert system add miss license headers add audit type scheduler events add miss audit prefix events scheduler
+content pack integration even definitions add skeleton eventdefintionfacad prior change content pack interface even definition change add minimal set entities entity facade export import event definitions aggregation fig content pack implement content packable interface even definition know kind fig hold create content packable interface implement tocontentpackentity function interface implement even definition figs way need worry type fig add new interface convert content pack entity prior change content pack entity event definition processor figs could convert back native entities base type change implement interface convert entities back native entities also use subtypes register module file instead declare via annotation add miss license headers fix annotations fix return value testeventprocessorconfig move type definition model type fix white space error
+implement permission check events search remove duplicate code make methods search accessible implement permission check events search events search code check user execute search allow see events base source stream field example event get create message stream event stream source stream field user read permissions stream event visible user events search close clarify comment fix format search fix source stream filter event stream source stream user allow see event must part search result format code
+work comment
+add per widget stream selection override add stream property search type wrap filter tree traversal optional consider optional search type stream ids affect indices make optional fall back query affect indices search type stream add test per widget stream override make stream optional add stream property widget class generate filter clause widget stream default query stream add stream override generate search type add stream property add license header incorporate change generate request adapt expect request format test
+create compound type type differ properties create compound type type differ properties change compound type create also type incorrect map type vary capabilities change merge two type single non compound type property set intersection give properties merge type fix add license header
+tie theme able components style guide library button components documentation documentation examples update dept style utilities test pass fix test contrast color test revert color change snapshots revert sidebar change
+add service retrieve map field type per stream replace bulk load call stream make public available reuse add service retrieve map field type stream simplify field type resource reuse add license header clear variable purpose adapt test add license header need export helper methods anymore
+use widget time range time buck ting auto interval present use widget time range time buck ting auto interval present change query time range consider auto interval time buck ting could lead widget show large time range small bucket size auto interval would use query time range default second change optionally use widget pivot time range present query time range otherwise add license header track override object override query query apply directly instance parse search execution state make invisible change global override happen case want determine time range set query global override therefore commit introduce internal object track optional override also implement method object allow search type determine time range global override query order precedence use consider time range global override add effective time range result mediate license escalation
+bump clean web pack plugin gray log web interface bump clean web pack plugin release note commit sign
+add track number visualization fig
+add saint rule forbid usage general agreement react components still use rewrite class functional components add saint rule forbid import module indicate necessity rewrite
+use paginate list instead messagetablepaginator message list
+add basic service retrieve exist dashboards
+add even list search type add even list search type search handler construct result suitable response add even summary subset event add new search type module bind add test add miss license headers fix forbid apr warn fix white space error find small enhancements suggest
+extract base class implement search result chart strategy
+ensure aggregation events always source stream value fix
+extract randomness allow create static result
+replace absolute intervals auto interval possible
+create dashboard widget unknown
+migrate dashboards view identical ids
+compare generate son output object test
+update test upstream change
+roll back migration exception throw
+import spy
+ignore case serialize dashboard widgets migration ignore case serialize dashboard widgets migration prior change case widget type field must upper case fig subclass resolve properly content pack use lowercase instal dashboard dashboards migrate properly add custom type resolver serialize widget fig subclasses upper case type ids resolve fix add license header use locale upper case
+fix event aggregation empty field string place event view back end fail field empty string fix author
+handle request entity large errors elasticsearchoutput try bulk index batch message exceed elastic search set default elastic respond help entity large error case retry request split message batch half respond help error server allow close connection immediately mean help client jest simply report exception break pipe instead actual error avoid send request expect continue header also avoid send data discard later fix move jest client execution request confirm jest tip please forbid checker correctly handle batch unevenly size message batch message end exceed entity large limit could end duplicate message thus keep track already index offset report within entitytoolargeexception make use expect continue header configurable
+allow permit stream load empty list change forbid exception would throw every time stream load users without access stream remove exception allow reuse method place exception appropriate add exception one place actually need
+add map stream ids view content pack add map stream ids view content pack prior change create content pack contain view stream stream collect dependency content pack stream entity get new need use reference stream therefore also view entity stream persist also instal content pack instal stream new yet view need know well change add map widget widget entity dashboard widget search type entities easily map stream creation installation content pack query need add generic builder access filter could change stream stream filter rebuild filter refer query entity query add test stream map add miss license headers small improvement find fix annotations
+change color chart map list value class change data structure widgetformattingsetting prior change data structure store widgetformattingsettings use user input store map mongol allow store key dot map change change data structure map list object way mongol need store key migrate exist data structure color chart prior change change data structure color chart generic map auto value class change prevent exist installations run change migrate exist data structure mongol new auto value class add miss license fix annotations add test
+remove rickshaw
+make session response creation plug able
+implement custom exception miss stream permissions prior change provide information stream user lack permissions change implement new exception set stream ids pass front end display orderly fashion fix
+send message prevent audit export variants
+add option enable disable event definitions split eventdefinitionhandler code smaller methods make bite easier reason behavior add schedule unscheduled methods eventdefinitionhandler fix log error release trigger anything happen trigger get remove job run disable schedule job also check place add eventdefinitionhanlder createwithoutschedule allow conditional schedule event definitions content pack add optional context paginate response add getallbyconfigfield dbjobdefinitionservice add dbjobtriggerservice get job add miss license add option enable disable event definitions show scheduler info fix make possible create update event definitions without schedule add checkbox enable disable schedule event definition form show schedule status edit summary add java doc eventdefinitioncontextservice update author update author simplify dbjobdefinitionservice getallbyconfigfield use stream instead mongol aggregation word allow schedule use content pack parameters author
+add separate audit event request export allow audit case export export request never reach point log success data could still retrieve
+extract interface class isolate specific detail extract class make integration test abstract reuse make elastic search support plugin rename remove unused import move test correspond suite add license header
+extract interface class isolate specific detail extract specifics class separate simplify usage fig flag reuse add license headers bind adapter module correct configuration property name
+extract interface class isolate specific detail add test dependencies add field add class add interface add test delegate bind implementation adjust test add revert adjust test revert commit extract specific code adapter adjust test handle record process timestamps class minor refactoring pull message size account back class extract index failure creation helper methods format fix remove unused method dependency add test traffic account resolve helpful annotations
+define key sort sort direction select trigger render value change
+new input color
+update color usage
+implement implement change implement create bind implement abstract integration test also include require class generate instance remove unneeded intermediate method add safeguard scroll extraction implement scroll result limit add test case implement scroll result limit remove unused constant extract constant give class better name give method better name reuse introduce

@@ -1,0 +1,1790 @@
+rename space
+refactoring
+add fix complex array test
+add complex number
+add pool add put index
+add max pool sample
+add broadcast
+save array blob databases
+create
+update rename
+add dim shuffle
+fix dimension shuffle switch augment dimension
+fix max pool shape
+fix transpose max
+add cat along dimension
+rename cat horizontally vertically
+fix
+update gnu complex array
+cub las complex array fix
+implement dot opus
+add net lib las back end
+add eigenvalues boolean index read
+add sort subtle fix vectorsalongdimension
+add indices
+diag dual behavior
+add
+update
+bug sub array
+put near index fix
+add numerical precision exp cause unstable gradients precise result return exp value fix allow arbitrary precision
+add type neutral data buffer well jim configuration via system properties run time elements news properties
+corner print
+slight update string
+non contiguous index
+complex array put
+update
+clean validation bite
+add basic solvers
+get rid ambiguity net lib las wrapper
+lot fix
+add data type neutral operations
+add disk back mode via memory map file allow optimize part code call flush double float return reference get put relative current mode buffer either return element via file memory map via normal buffer already memory affect current code part default mode memory
+add dive
+update
+basic fix cuba handle either double float data type
+add int buffer
+huge refactoring dimension wise operations
+fix comparison bug also add miss feature complex number complex array
+fix comparison bug also add miss feature complex number complex array
+add edge case scalars one row column input
+ada grad update basic read text support input stream
+make julia little flexible add instructors also fix examples
+numerical stability knobs
+split adj different cuba versions
+refactor cub las multi module dependency
+add cub las
+remove examples put project
+new broadcast also
+allow drop fat convolution implementations similar las
+change reference element wise ops scope otherwise multi thread seem mess direct return type element wise
+update
+pass test gnu
+remove ill version control
+update
+add kernel function
+strip cuba kernels work
+element wise arithmetic run opus
+update data buffer array apis
+add element wise function
+update scala apr
+add factory creation
+add derivatives ops
+add executioner next cuba refactoring
+add init function ops
+add cuba reduce function
+update cuba ops
+refactoring name begin look complex number
+add support matrix cache gnu
+merge remote track branch upstream master
+binomial sample ring abstraction
+add binomial sample
+update gnu test
+fix test refactored name inline standard scala name adj seem break
+add generation value within range
+fix memory error
+add log status
+fix read write serialization float double
+fix scalar cat edge case
+significantly improve cuba
+add scala notebook project
+add avg sum pool
+refactor kernel launch judas kernel launcher
+fix loss function documentation
+fix null pointer serialization
+fix stride bug complex array
+sync context place
+update dup linear view
+add joel
+merge pull request uniform distribution kernels match call function
+fix reshape bug get rid slice ops
+create stuff heap stage necessary heap allocation
+single dimension fat update new
+fix pad zero
+fat little sensible output
+merge pull request fix comparison transform
+play around use closable resources
+merge pull request rearrange test source file
+manage resources manually cuba remove buffer reaper resource manager
+update fat
+well test fit need finish index convolutions remove compilation errors last pull request
+update index complex array
+complex array test
+whole load memory stuff
+stash
+update convolution
+sort byte order get rid orig file
+move kernel paras tool file use elsewhere
+wrap pointers cub las function neatly
+treat column vectors like row vectors accumulate
+array bound exception kill
+fix reshape lie complex array
+change data buffer type integer end make sense less liable break
+use cuba pointer lot place wrap data transfer device host much reliable one single place java docs make easier understand fix cub las function miss copy host resource management
+merge branch
+add index
+add rectify linear
+zip bug fix sample complex array index
+find huge memory issue rand function try use host memory also memory allocation incorrectly calculate array stride
+minor convolution update handle different shape
+merge branch
+generate buffer serialize float array
+update array
+update pull request
+fix test enter
+track allocations device pointer length along device pointer ensure context set new thread kernels call
+improve multi thread gnu support
+improve index
+add new cuba binaries linux
+zip still need sort test
+zip test run
+update linear view complex array
+merge
+update change
+test separation zip
+add convolution misalignment fix
+fix index complex array
+get rid extra service
+update test
+fix index complex array
+zip order test
+vectors along dimension modulus
+reduce storage requirements linear view
+fix complex real interactions
+test pass still stream sync issue
+unit test fix
+add information read information adj installation resources
+new byte buffer implementation use netty
+test pass gnu
+update fat test
+add test
+fix fat interactions cuba allow multi dimensional fit strange index via default fat
+update cuba fat still work last bite convolutions
+add directions set yum
+update per
+test back end pass
+fall back reflection service loader fail
+rip las adj java
+add redirect las gem
+fix maul offset
+buffer serialization
+add level las
+port las use level
+migrate stride base las wrapper las buffer
+add new las bind
+add level las function
+add assertions baseball wrapper
+zip need add operations cuba ops net lib las
+add rest cub las ops
+add net lib las level
+get gnu test pass
+add level net lib
+add mix cup back end
+change subtraction operation line element wise ops
+stash
+ensure slice array also count
+las cant handle stride offset
+bug fix offset stride cuba
+invoke net lib gem rather las
+update array test
+test generate adj pass
+merge branch
+add flag sync thread
+add unit test sort fort order
+plus plus
+add native executioner
+clean pom
+fix negative log likelihood
+add strange operation
+expand assert multiply check allow matrix leave row right column match add test method
+fix cosine similarity
+handle oblong case offset length array
+add option
+add wite read data buffer
+performance optimization order allow linear view static array offset zero array take whole buffer
+generalize append
+order opus need test
+improve vector along dimension handle lead
+gnu fix offset
+fix element wise subtraction opus
+add inc cuba kernels pairwise transform
+set copy serve
+fix lead ones
+fix lead ones linear view array
+less load dup copy need data
+handle lead trail ones tensors
+add tensor matrix multiplication
+add executioner multiple dimension
+fix order vectors along dimension
+use back end class loader
+add index check
+add bound check executioner
+add loop multi thread
+increase soft max add row vector throughput
+add new score function
+soft max fix
+add test assertion soft max assert
+get rid extra log moment
+add delta
+fix soft max reference change
+stabilize adam
+add learn rate nest ross
+fix add column vector
+add arbitrary dimension array function
+add index swap still need fix offset
+merge pull request newvectoralongdimension
+index test separation
+add sum fun alias array
+shape test pass
+date suite unit test errors miss constructors attempt find constructors subclasses base test take string name back back end parameters class constructors match prototype fix add constructors call superclass
+resolve merge conflict
+get rid force coerce columns
+remove hack statements
+run time cast errors complex array number unit test fail run time cast errors complex real value array problem base array sometimes call directly return real value array derive class complex value lead run time error fix put call inside create wrappers call either complex appropriate
+fix get double
+run time cast errors complex array fix issue fix address earlier pull request get overwrite recent merge check reinstate change
+linear view longer require
+merge conflict
+fix complex number calculation issue
+add basic index test
+add order matrix constructors
+fix bug test run due filename set
+add formalize shape stride resolution
+fix put scalar
+adjust call con issue
+add colin apr pull lead one check shape
+update matrix index
+ravel fix push index forward search scalar
+index opt
+zip add byte code imply arithmetic operations
+fix array float value offset
+clean test
+fix test constructor run
+fix bug basecomplexndarray dup copy real
+merge
+fix activation derivatives add test
+remove naughty log back fig
+force dup tensor maul
+add soft sign activation function test
+fix mix order maul vectors
+keep flatten
+add shape index
+add basic time test
+add sort row column unit test
+update version maven central
+also copy trail lead stride unit
+fix reshape test fail due double delta
+refactored remove unused statements etc
+fix soft max derivative
+add match stride check
+fix index default executioner
+add optimization input zero offset entire buffer
+add array generation utile post give certain shape add unit test
+call reshape copy
+new test
+loss calculation robustness zero log infinity produce overall score nan better use log
+merge pull request loss calculation robustness
+improve test repeatable seed better output debug
+add fort test apache commons
+merge pull request fix fix wrong delegation near factory create mix char int
+stash
+merge branch
+gem improve
+mix order maul
+add jul div test
+add flatten order
+add partially implement gem functionality unit test
+finish gem implementation add improve test simplify
+add place shuffle
+remove delta loss call
+add low level strip loop compute offset arbitrary dimension
+duplicate dup still need dup optimize array assign
+add dup order
+minor improvements dimension wise ops
+decrease run time dimension wise ops
+transform ops
+optimization cleanup
+merge master fix conflict
+cat far
+add fork join framework parallelize dimension wise operations slice operations broadcast operations far dimension wise operation execution time cut half
+optimize boolean index
+get back old parallel change
+initial work element wise ops via tensor along dimension etc
+parallel exec add back methods
+add additional copy ops data buffer offset increments
+fix accumulation join
+stash
+first full pass element wise ops
+merge branch
+shapeoffsetresolution interval special case improvements
+implement array row column vector ops
+add row column wise test
+row col wise fix fix test
+synchronize vector
+improve selection tensor dimension
+improve test
+update distance along dimension
+maven release plugin prepare release
+parallel execution
+add remain kernels
+update cub las
+add methods class array creation unit test
+merge pull request
+fix bug resolve scalars well tad scalar view
+add element wise ops via tensor methods work improve test
+merge branch
+add test array element wise test
+fort element wise test minor test fix
+fix
+handle special case row column vector
+add lib
+first pass parallel tad transform ops
+add parallel transform ops
+fix compilation error
+tad parallel add scalar ops etc
+accumulation via tensor split accumulation bug fix
+index accumulation implementation fix
+fast tensor calculation buffer ops array
+index accumulation fix test cleanup
+refactor buffer ops separate class avoid ugly switch statement default executor add ops add fast
+push tensor calculation fork thread original thread
+max dot sum data buffer methods fast buffer ask methods
+gnu fix
+force stride pointer contexts
+buffer action task support direct allocation buffer update default executioner reflect
+add stride removal
+add triple refactor package
+ensure cub las operations use
+fallback java las
+merge branch
+default executioner complex array handle serial fix native executioner
+copy use possible use copy remove old array methods test
+parallel exec along dimension general cleanup
+bug fix ops unit test ops executioner
+local change
+merge
+change fork join task back future base await
+various fix accumulation along dim test parallelize soft max pass fix soft max pass give
+bug fix shift along dimension tensor calculation fork thread add transform along dimension
+fix maximin add index accumulation along dimension test
+java docs new methods class add index accumulation ops olfactory remove parallel executioner default executioner longer use
+cleanup misc fix execution erotic test fix
+fix handle data communication gnu
+force certain kernels use specify number thread
+make parallel threshold settable via executioner interface settable via system property default executioner
+minor change tensor dimension selection algorithm
+merge master fix conflict
+update new cuba context
+first pass task refactor
+add task along dimension remove old
+add vector various bug fix add task factory methods refactor cup task
+add cut factory test
+add vector cut factory test
+merge master fix conflict
+numerous bug fix significantly improve cut factory test
+setup adam interface pass learn rate decay rat pull old incorrect calculations ada grad well apr
+switch cputaskfactorytests get cup back end via reflection avoid build failure
+stash
+simple bound check
+fix element wise stride
+switch default executor daemon thread
+merge master fix conflict
+rework cup task optimizations greater flexibility art sub ask creation
+shift cup task tensor calculation parallel thread
+add loss tax
+add additional validity check cut factory
+rework cup task use join still support execution
+fix data buffer load heap allocate data
+vector test fix cup vector ops
+cup index accumulation via tensor fix basic mean sum test
+optimize cum along dimension cup task
+optimize col colin
+update
+stash
+test update
+add git modules
+merge cud context
+make dup bite faster
+add broadcast common abstraction vector ops scalar ops
+update kernels
+jul row vector work
+fix broadcast operations
+duplicate dlr deprecate one push use towards dlr
+fix
+add executorserviceprovider combine instance
+add detail obvious warn message native las failure
+cud broadcast
+update cuba kernel imply
+fix test
+merge pull request cud broadcast
+update data set merge support merge time series
+implement updater combine test minor data set change time series
+update cuba kernels
+add gradientupdateraggregator implementations unit test
+update
+shuffle wrong dimension
+overhaul gnu buffer communications use host allocation strategy properly call get device pointer avoid copy
+overhaul data transfer
+stash
+merge
+add create buffer via byte buffer
+add flu activation function
+remove adj byte buddy android
+fix issue relate pointer storage
+revert ops back original design
+fix action
+fix action
+remove
+collapse master change
+fix import issue
+update cup accumulation task use
+adjustments cuba need finish las handle
+add invert matrices
+update las offset
+update latest index accumulation
+fix las synchro
+add block accumulation index cum
+fix cup action use netty
+add fix scalar edge case
+clean cuba executioner easier modification cuba kernel call
+fix additional test gem
+add support mask data set score calculation
+add basic tad collapse java
+add get label
+add function call post process
+add post process kernel call arts
+update cuba modules build
+update recent commit
+merge branch
+bug fix assign number view add test
+memory leak fix
+force page able test
+page able memory strategy allocation fix
+subsequent view call test
+nest allocation bug intro
+nest allocation fix
+page able copy back fix
+merge branch
+buffer allow test initial commit
+update test comment
+buffer base allow test
+scalar kernel call unpolished
+cedar get opcode
+stack size approx remove index etc
+new adj back end begin linda consolidation
+merge
+merge branch
+get rid sci java dep use lib tip
+fix offset array
+progress fix var
+update variance
+pro
+pro
+pro
+add test native
+pro tic tax toe
+update
+add test cup change executioner use summary stats reduce
+add extra arts direct buffer
+ensure shape full row vector
+pro
+local
+fix shape scalar creation issue
+pro
+pro implementation
+test reproducible
+transitional commit
+update shape buffer
+rest test pass
+update
+imply transit las test
+imply transit simple las test pass basic zero host copy back work
+imply transit simple las test pass zero deadlock probably happen ghost survivors
+native cup improvements
+merge conflict
+add new offset
+imply transit cuba context change split separate thread significant speedup cub las call
+imply transit proper device deadlock
+offset test pass
+redirect element wise stride properly
+imply transit proper device deadlock
+imply transit proper device zero fallback configurable zero reallocation intensity better device memory track
+pairwise test
+remove necessary code fix
+imply transit view everything break
+imply transit single entry point pointers offset cub las idea offset anymore
+ensure offset zero
+kernels voc kernel loader switch fat bin art device cap
+kernels voc kernel invocation tick tack kernel arm create destroy contexts anymore
+update reduce handle whole dimension
+kernels voc scalar kernels work data change track properly yet
+kernels voc pairwise transform kernels work
+kernels voc broadcast work scalar copy back fix
+top commit
+merge branch
+debug note proper tick tack sync jud executioner
+stash
+allow normal test run
+update add byte buffer
+final commit entrant toe try sync buffer amnio etc registration avoidance amnio etc
+add byte buffer unsafe methods
+update
+add new native operations interface
+merge branch
+new cuba executioner
+add new cup interior
+add compilation native lib
+update buffer new interfaces
+update new library paths
+merge pull request add implementation pow complex need
+remove cuba
+add dependency proper resolution source file
+initial commit
+test parametrized
+update adj
+update adj
+fix heap allocation
+fix adj buffer native load
+change
+make cup runnable
+pointer arithmetic
+add extra assign unit test
+refactor test modules
+refactor directory layout
+add bias correct java interface
+fix slice use tad
+fix parent name adj apr adj native apr point adj apr parent
+initial commit
+prep cuba run
+fix address retriever allocation shape
+consolidate lib tip
+fix initialization allocator
+test resurrect shape buffer fix
+cub las work
+add new
+scalars work transform work rest execute give wrong result
+merge pull request load native libraries native ops adj las use loader java
+etc tackle debug info
+new
+reduce work
+index reduce work higher kernel share mem
+update test new cup coverage add miss std bias correct
+avoid execution reduce along dimension need actually execute
+add test logo tax
+get rid bias
+update summary stats execute variance rather reduce
+proper host pointer byte buffer
+add test square matrix reduction
+add reduce along dimension
+clean comment code
+reduce tad work properly
+cub las cleanup
+auto tack shape buffer add
+add set
+add thread device jud executioner call
+work
+cum ret fix
+daily commit debug
+speed improvements
+migration cleanup
+fix power null pointer
+primitives get set work
+view primitives work
+introduce long index data buffer
+migration external memory
+generalization primitives pass
+add test multi dimension
+merge branch
+test ones
+add sort
+add sort dimension
+memory put one sync strategy use instead
+indexer
+add new reduce test
+proper notifications memory limit
+add new broadcast test
+legacy revisit
+new flatten
+revert new assign code
+device memory get use first pin memory fallback
+assign test pass
+add new test
+silent fallback pin memory
+temp commit
+merge branch
+gem test
+gem test seriously time
+gem test
+disable cache optimizations
+offset edge case
+add new test
+minor change data buffer equality check
+index reduce executor
+add index reduce stability test
+indexreducestabilitytests add new test add index reduce stability test
+june presence add new test add index reduce stability test clean unit presence change test
+strange strange fix java serve issue move away java serve binary serialization array java current bug area
+add ism top
+ism top strange add ism top
+top
+read reload option add comment stay
+ism top strange add ism top update
+remove scalar exec along dimension executioners
+fix merge conflict
+remove max along dimension test use old executioner method
+top
+merge branch
+test serialization
+local merge
+optimization turn
+merge branch
+stress test kernels
+stress test kernels
+fix offset calculation point interval index combinations
+stress test broadcast memory state fix cox restore
+fix index edge case give array vector first point index provide offset second index interval index offset add twice fix problem
+reduce stress test
+test
+expand long index support elements per array expand long index support elements per array bring long index ops
+minor change
+minor change
+mar test edge case
+temp
+transform fix
+cuba flatten initial commit
+merge branch
+cuba flatten
+concurrency kernels
+add new colin test
+coli test strange add ism top local merge add new colin test add back old test without allocation type
+concurrency kernels
+local merge
+test
+merge branch
+coli test fix shape length clean colin test
+local
+col vector test max along dimension
+test pass
+local
+merge branch
+new test fix shape length clean colin test local local get mission test
+temp commit
+ensure cup test pass
+ensure cup test pass
+merge
+test clockwise operations
+merge branch
+nero vector local ensure vector matrix return
+minor fix test
+merge pull request mallow
+switch stream cub las
+minor update log thread use open
+decade minor cuba cleanup add test sum edge case
+fix relate mode device initial memory
+atomize grind zero launch
+flow control intro device host memory cache separate
+sync tackle
+pointer workaround
+pointer workaround prorate
+sync sync shift pro launch race condition possible
+shape buffer static host
+value array
+cuba eradication pull
+cuba eradication share buffer work back
+adjust exception clarity
+get rid extra buffer reduce
+merge pull request fix ape amnio methods wrap buffer null
+context pool interface
+update tad
+basic test pass
+test pass equally synchronize controller
+debug info
+unbounded cache
+fix pass configuration
+update tad
+softmaxderivativetest update tad add soft derivative test
+force tensor shape
+add additional test data set merge
+warn double initialization cuba context test
+rework data set merge merge data set example mix run data type etc
+fix java serialization array fix serialization view
+limit thread per block
+fix ndarraycreationutil give new tad design add test
+fix tad add new better test
+limit thread per block
+handle tad edge case add edge case test
+merge test local test change test
+memory tweak
+merge branch
+merge branch
+fix base array
+assertion happen
+new cat
+add random number generation overload output array order
+add test
+add test
+shape info host pointers pass
+uniform host paras across kernel call
+back shape info immutability launch
+shuffle data set generalize
+early add test shuffle data set generalize
+modifications base prevent epsilon add every step initialize value zero epsilon
+mask shuffle data set shuffle
+newton new cat add java side native code merge commit merge
+cache shape info prototype work
+edge case fix
+intermediate shape max
+add new test
+newest new cat add new test
+intermediate shape max
+test max
+merge branch
+cuba cat initial commit
+enhance support native components build time automatically place compile binaries separate jar file use classifier name detect provide platform linux etc load time jar file automatically add maven dependency without user anything special also bundle necessary file open las obtain easily self contain application still prioritize libraries find paths remove obsolete dependencies adj prevent build succeed new feature
+get rid amnio call data buffer init
+moreno new cat add new test get rid amnio call data buffer init
+hack around long
+merge branch
+additional cat test
+cat test order
+test cat
+merge branch
+add additional cat test
+merge branch
+cat test alex
+default flow controller sequential
+test soft max allocation pointer back device
+optimize column vector
+shape static overload add test
+switch shape byz shape info shape byz shape information base array avoid point buffer object creation
+constant memory tad shape initial commit
+change externalize tad
+change externalize tad
+device cost memory introduce
+add manual convolution test know value
+add additional col know value test
+cache fail
+add col colin methods arg result array
+merge branch
+temp commit launch
+null tad offset workaround launch
+requirements tad less gnu call
+requirements tad less gnu call
+merge pull request prevent reload libraries build paths user paths run time
+fix row columns field permute
+debug spam
+sync enable partially work disparity solve special stream sync launch
+standard scaler bug fix
+sync test disparity tackle launch
+temp commit launch
+fix serialize immutability
+cache dimension array cup
+fix type pickups buffer creation
+separate test soft max input
+merge branch
+sync crash anymore
+test pass sync still bad
+first step put scalar optimization
+preprocessed additions
+merge branch
+get rid code configuration limitation implement constructor basecudadatabuffer byte buffer
+cup change initial commit
+tad manager prototype work
+ensure update always place add test
+add remove ada grad code actually need switch handle epsilon rms prop align note
+vector index ignore test fail even old version fail need due diligence yet fix rank assertion change back find adj meh ignore ill reroute byte buffer allocation java add zero shape order add validation cat get rid old java parallel class get rid old java parallel class add kayo support adj new pack interface initial commit better cache handle tads shape local local fix bug vector index
+add new test
+update test new specify index
+merge commit
+local
+hard serve fix edge case get row get column local fix row vector index hard code data type element size serialization
+extra arts initial commit
+test revert reprocess
+remove print
+switch native method pointer parameters
+add test label name functionality add
+merge branch
+data set preprocessed warn
+bug number argument
+delay seem work
+tad change delay memory
+force read method route
+negative index
+mistyped negative index change negative index mistyped character update date test
+sync next device
+write read unit test string leverage son add static method adj
+ryan
+fix equality fan roans test
+precision split support
+test precision separator
+fix large nut commas
+test precision split sep array string
+sep test
+delay
+add set scala versions script
+merge branch
+fix test
+get rid setter call normalizer
+string delete file create
+add test mask string
+multi asset print
+get range include mask test
+persistence type
+add jackson bind new array text serve
+add jackson bind new array text serve
+add write string jackson
+writextstringjackson add jackson bind new array text serve fix dep issue jackson adj base add write string jackson change write text file use general version update
+conflict
+temp limit
+thread trace
+auto generate mini batch balance
+spark workaround
+createjavacpppointes auto generate mini batch balance add create methods java pointers add baseline test array creation expose indexer data buffer level update data set work image shape update
+data normalization auto generate mini batch balance add create methods java pointers add standard interface data normalization
+test localization
+back end independent array
+shape view auto generate mini batch balance add create methods java pointers add standard interface data normalization add load input stream add write read data set stream reduce view array add shape info data buffer call element wise stride
+merge branch
+fix squid resources close
+limit pool draft
+test
+cuba data buffer fix diff data type
+exception double float int
+fix squid utility class public constructors
+fix squid condition unconditionally evaluate true false
+cleanup squid redundant cast use
+test different datatype load
+pull master
+ensure mask save load data set fix make load save robust efficient
+test
+new branch
+patch back
+test data type
+save datatype change
+save datatype change
+length dimension fix
+add class path resource ability get temp file archive
+draft
+check avoid ape
+remove deprecate utile
+draft serialization work
+data set normalize
+draft general data type introduction
+support mask
+scalar prototype work
+fix load normalizerminmaxscaler
+reduce index reduce transform executioner
+reduce cat flatten
+time series norm test
+add test mask
+update kafka
+happy gem wrappers
+debug
+force news permute
+sum native wrapper las call
+warn misuse data type
+cup wrapper test
+fix bug logic cachingdatasetiterator
+test
+first pass updater view array
+refactor updater view array set require gradient shape order
+dashboard
+change class resource handle paths directories extract
+view relocation check
+las count dashboard
+matrix inverse common match wrapper
+label reprocess
+fix shape
+data set list label rank separately
+cuba shuffle prototype
+bundle mil libraries well find system
+cup shuffle test adj test
+one test shuffle
+test
+fix row col vector validation
+test new signatures pseudo random shuffle data set
+test pass
+bundle mil open las mac well prioritize accelerate framework
+merge branch
+add loss function interface
+add script file
+min max scaler range fix
+label feature stack
+compression unit compression draft
+compression
+compression serve init
+bundle mil libraries old cup well find system
+native type conversion cuba
+time check
+merge branch
+internal time call
+loss mae
+loss ape loss see fan
+time call cache overflow check
+compress dup workaround
+grid first test add
+grid
+cup arg max fix
+grid launcher draft
+grid
+dashboard match detail
+method predicate draft
+grid cuba grid executioner
+grid cuba grid executioner draft
+log loss
+grid linda strip prototype adopt
+grid
+grid reduce top
+tensor jul fix
+grid basic block work intend
+grid
+grid
+grid lend run properly seriously time
+grid imaginary flow break
+fix ada delta equations
+grid fallback alex
+temp commit
+bug fix boolean index different sync approach draft
+merge branch
+launch daily commit
+merge branch
+fix reverse flow method register action
+flush queue permute
+various merge tweak
+bundle open libraries intel expect mil
+fix parallel mode
+double tad broadcast cup
+add updater
+square hinge loss
+give type pointer parameters
+sync data set creation
+amp
+merge branch
+sam multi class
+soft max der issue
+add rearrange artefacts support cuba
+singleton wrapper native ops adj las optional override las max thread
+norm norm square
+test half
+sad prototype java cup
+double signature miss
+sad java
+scalar linear ops set
+transform array image preprocessed
+min max extend fit label
+merge branch
+add ability allow user set format decimal serialization
+documentation improvements compression
+compression improvements add test base test array local documentation improvements compression
+compression improvements add test base test array local documentation improvements compression add better support debug compress array compression fix
+read module
+data set metadata enforce serial table add metadata multi asset
+fix data set split rank feature sorry metadata split present
+code clean
+merge branch
+merge branch
+clean test
+fix mask copy data set
+java device info
+test interleave vector
+fix second term binary cross entropy
+merge pull request fix second term binary cross entropy
+issue warn increase precision
+aero node add parameter average test change subscriber node allow separate peer urls add scaffold test respond array send response work prototype client add zip tet another update parameter server test force separate context various daemons subscribers
+implement min transform
+cuba gem pass target device arch
+merge pull request minor fix improvements
+lossbinaryxent compute gradient incorrectly originally array output der adj get executioner expand return adj get factory create transform activation output dup derivative grad output der multi label grad dive output multi first line compute derivative second line output der output der label grad output der third line grad grad output end result seem grad output der label output incorrect output label ever think version fix
+test
+fix updater test
+tweak min max scaler test avoid intermittent failures due ring variability
+tweak min max scaler test avoid intermittent failures due ring variability
+compress stuff
+compress stuff
+compress stuff cuba
+fix loss old
+aeron add new parameter server client module add documentation server new status check master unit test test validation
+aggregate test change
+fix java issue new interface declaration switch play scala versions
+aggregate skip ram gradients test
+aggregate cuba batch
+aggregate integration
+zip fix issue infer run fix issue infer run revert change zip
+fix build issue relate pom duplicate definitions
+paras surface cuba work
+paras surface bow negative gradients check incoming
+add test format back end
+bow inference gradient check
+cuba half aggregate batch
+initial weight loss function implementations
+weight loss function implementations
+double triple arts call dropout dropout invert test
+reproducibility test
+merge pull request add ability allow user set format decimal test
+pull row fix improvement
+cuba pull row
+merge branch
+test random binomial slide probe
+adj rand update
+add cube activation function implement
+fix derivative test
+random test move adj test
+update pull row test order
+fold data set
+fold item test
+test neg value
+initial drop cuba pack sample serf
+non news dot wrapper
+partial update fix java issue new interface declaration switch play scala versions local add cap number try connect add new command line parameters test use pull row fix partial update add shape dimension subscriber work compression ensure publisher send array message ensure publisher send array message partial update work
+grid fix multi gnu end
+implement multinormalizerstandardize normalize multi assets
+add check empty label list call get become
+vectorized run mean std update make work unequal batch size
+cuba bias correct fix
+normalize standardize take constructor arguments
+merge branch
+test
+signatures test
+test fix switch back initial datatype
+java doc update
+test pass
+fix cube derivative test
+first cup test
+abstract normalizer
+sad part
+work sad first step
+add multi subscriber pub sub
+add multi thread support
+diff seed tweak test
+add auto closable subscriber
+change subscriber away context
+ethos pointer imply
+correct
+note matrices update standardize workspace mechanism
+additional test multi dim reduce
+add col test pad mode
+double tad reduce
+additional test pad mode
+add fragment handler piece together miss bits
+add higher length
+legacy restore
+colin test
+merge branch
+add extra multi asset merge test
+add test reproduce issue
+merge pull request fix determine column rank merge multi assets
+context pool fix
+reductions dimensionality check
+add media driver context fig larger array
+use byte buffer allocate direct put rather wrap byte
+add new chunk message
+add new chunk message
+data set fix
+merge branch
+ensure add message chunk
+update large array
+profile
+fix bug normalizer try add fully mask time series data run mean std calculator
+merge branch
+profile operands per validation test
+profile tad access check
+profile tad always non news dim length
+merge pull request allow index size
+fix multi asset list
+gem fallback java side
+gem fallback java side
+change support raspberry pull
+local
+move fallback cup las imply allow fallback via environment variable
+make sure send int array native ops
+additional int array check cedar executioner
+handle zero std
+wrong sync remove dream disable
+sort result
+add new status server module
+zip update
+run test
+tad profile attach well
+merge branch
+attach profile stack tree polish
+leaky rely test
+fix basendarrayproxy serialization improve test
+use via java presets instead linda pull
+temp commit
+opp filer las attachment
+void transport intro
+merge
+fix adj back end build windows pull
+implement multinormalizerminmaxscaler serialize refactor lot relate things
+add initial pack support cup cuba pull
+allow cup cuba back end coexist
+void assembly add continue test handle data initialization
+add test row vector index
+java doc
+merge branch
+implement fix
+get rid print cheat invocation
+test
+add broadcast test
+comparison
+loss change
+test top test
+special test alex
+add customization number update per epoch
+activation
+fix recent
+test tads equality jim native
+test maintenance
+test maintenance
+temp fix tad equality
+void draft test pass new message process minor fix message
+datatype validation
+update dependency java release version pull
+datatype validation las
+merge branch
+void distribute dot
+finish hybrid multi normalizer code
+void message log
+update version snapshot
+delegate preprocessed cachingdatasetiteratortest
+adj son version
+void set gradients test
+daily commit
+void first gradient test pass
+pairwise test
+miss setter
+non block standalone stress test
+multi cast stress test block message
+tweak around multi cast transport despite useless
+add new method access java base tad mainly mean test debug
+update import
+uni cast transport
+add imageflatteningdatasetpreprocessor
+mar test
+uni cast stress test
+fix scalar ops input validation print startup
+train frame reconsider block
+special stall test adam
+transparent train message batch
+retransmission handler
+merge branch
+set element wise stride
+merge branch
+attempt fix element wise stride mainly push review
+add process native java
+update test
+fix fan cosine prox gradient
+interleave frame delivery
+space fix
+fix element wise stride row vectors tad
+spark local
+request descriptor instead task
+chain request descriptor principal test pass
+clean default value update
+numerical overflow fix value
+add simpler test multi dim broadcast
+rms prop constructor fix get push last
+add new change master new edge case
+handlers
+fix scalars
+better loop back handle spark local
+local
+local
+merge master
+add test
+bow infrastructure
+multi dim max fix
+fix
+merge branch
+update
+update
+better new tad shape tensor long dimension new test mysterious crash
+merge remote track branch
+add compactheapstringlist
+fix back end priority load use reflection
+merge branch
+assert shape
+merge pull request corner case tad assert shape length
+merge branch
+trainer
+bow run fine
+bow negative sample
+merge branch
+isolate mode
+add new environment information
+tad offset fix
+arg max test threshold
+get rid jackson dep
+switch adj jackson scope provide avoid dependency conflict
+shade improvements ignore generate dependency reduce pom upgrade plugin version tighter scoping shade group
+towards automate syntax format project configure formatter java fix copyright header adjust configuration settings accord see also example run man formatter format subdirectory want avoid formatter mess initial star prefix paragraph change initial would allow comment line execution would check code correctly format pass build grep validate force validation
+revert force validation revert commit
+local
+get device array affinity manager
+merge branch
+new specify index solution
+enforce format except adj back end imply
+additional validation new array shape audrey edge case
+fix build format source remove enforcement build break format errors commit show enforcement manner useful
+enforce order solver simple test ensure order work intend
+handle per output mask soft max case
+local
+local
+panic
+check las
+add integration allow automatic type registration interfaces
+first draft sparse implementation
+additional shape validation
+test
+temp commit
+basics
+fix typo
+test
+variable datatype workspace test
+add methods create sparse matrix
+merge pull request make surefire report test make robert report test coverage
+basics
+test
+signatures test
+check scope
+back end specific init
+back end specific init
+cuba
+add method put value sparse matrix test
+merge branch
+endless spill test change spill purge
+get rid set
+refactor implementation sparse matrices
+event release even test
+move presets platform dependencies adj platform artefacts pull
+tweak rearrangements
+refactoring adj init
+create detach
+refactor sparse class name
+dummy workspaces block dup primitive ops
+loop
+fix sparse array test
+type init fix
+fix per output mask input case
+borrow fix additional test
+add bumpy loader
+refactor sparse array add first cuba implementation
+cache experimental
+merge trunk fork
+rebate
+load data bumpy array
+actually add code
+merge pull request add issue templates
+gnu decamp
+update read proper data buffer
+add chomsky factorization
+ensure capacity set adj create buffer
+adj pile test
+update
+add auto diff prototype
+tear temp commit
+merge branch
+cuba tear test
+add function
+minor cleanup
+add java preset mil
+add graph data structure store operation state
+change vertex add functionality
+add index
+error handle
+graph test
+run formatter
+update constant function update graph
+add function name interface
+get rid extra connection node edge least
+fix conflict
+clean name duplicate vertex name wrong
+start higher level apr
+add initial stub reduce function
+fix build cuba miss cusolverdnsorgqr cusolverdndorgqr
+add function
+add level las operations
+stub test
+add function differentiation
+spill spam
+migrate end buffer reset change scope fix
+allow shape computation
+flip shape
+add scale rot operations
+merge branch
+add norm gradients need test one sit
+add test binary reduce function graph
+implement array basesparsendarray minor fix
+zip
+remove gradientupdateraggregator stride optimization adam updater
+add tensor matrix multiply normal matrix multiply
+add test tensor matrix multiply
+minor tweak fix
+add exec method
+add test level operations
+graph test
+size shift fix otoscope order fix additional test fix
+better scopes handle
+serve workspaces double allocation fix array serve
+micro tweak
+special cat
+cuba special cat imply test
+special contact memory update
+signatures
+better reset circular workspace
+debug info
+optional leverage migrate host memory
+remove mini batch file
+fix tweak better put scalar performance
+migrate affinity fix new signatures workspaces
+disable default automatic update snapshot artefacts use snapshot repository prevent interference locally instal artefacts still pull manually
+merge branch
+sizeable circular mode
+sizeable circular mode reallocate circular buffer
+sizeable circular mode cuba reallocation work
+update arts execution
+merge branch
+instance leave
+add initial grad check
+implement get method use index sparse array test
+cup average cuba fallback test fix
+variable input fix
+add ada max updater imply
+first pass refactoring update
+java doc
+homogenize type
+builders default value add momentum schedule nest ross
+sum along dimension custom
+pull legacy ada grad methods separate class
+grad check run
+merge
+fix get method sparse array
+merge master fix conflict
+update ada max implementation new updater apr
+adapt get method order make work view
+fix scalar reduction scalar
+pwt edge case double vectors
+adam updater fix
+sum edge case alex
+fix test
+merge pull request updater refactoring
+merge branch
+test
+fallback
+add see code
+merge master sparse
+new threshold compression test new compression
+configurable threshold
+add coo format
+add reallocation method data buffer
+change cuba lib
+abs condition abs threshold
+flexible threshold code java side
+add test
+make equal string blow stack add miss equalsandhashcode array field
+see add cuba compatibility fail run time support error
+test
+cup accumulation test
+cuba hybrid accumulation
+see override fix
+issue move loss function size assertions loss function accommodate custom loss function label size output size
+fix test add reallocation method cuba data buffer
+cuba threshold work draft
+create user jar configuration adj
+remove extra delimiter write bumpy add test fix
+implement put methods coo format
+better apr cup cuba test pass
+threshold support data type
+free audrey
+fix put methods
+fix unit test except test distance
+reallocate buffer within workspace
+implement get method coo representation
+remove extra log file
+upper boundary option threshold encode test
+new match ops cosh sinh tan tan derivative
+void configuration change
+fix
+correct find bug configuration bug
+threshold serialization fix test
+merge pull request data buffer reallocation
+add test
+fix merge conflict
+first pass measure loss function
+number know shards clients
+sendmessagetoall
+debug info
+majority class preprocessed
+sample binary class butt
+refactor coo format
+update reallocation test
+fix conflict upgrade master
+support view coo array
+broadcast fix
+generate broadcast shape
+thread safe throw able
+add small test
+support specify index fix data buffer reallocation
+add new shape maul operations
+merge mixture density loss mainline
+pwt micro fix
+test new ops
+reduce along dimension test
+local
+local
+add fun keep windows minority class intact
+add new binary module split aeron functionality
+additional lengths validation reduce
+automate format pass fix copyright stanzas format resilience automate format pass extend format code automatically generate time seem right prs mostly additions without edit present bother ping contributors open prs head merge soon shout lot edit want rebate format fix
+distance draft test distance
+entropy bind test entropy
+even distance test
+log entropy shannon entropy test
+test
+scalar result change
+java side shape info
+test distance
+change
+pile fix reshape dim size test pile
+fix stack overflow adj buffer
+java side
+update versions
+test
+percentile number test
+update reduce account scalar shape also logistic regression test
+java side sparse coo indices sort
+add sparse information provider
+network organizer move adj new test routines local selection
+fix merge conflict
+diff bear
+sort coo indices
+one test audrey
+step
+step
+fix sort sparse array
+step
+fix matrix multiply name
+test funny index issue
+fix redundant graph operations
+java bitmap side test
+fix translation view original array
+add place ops
+java side update
+graph run scalar improvements
+java side update
+fix grad check
+merge master
+shape fix
+ensure accumulation elements propagate graph
+merge branch
+fix array unique identifiers
+ensure allocate call
+fix compression index
+encode constants
+merge pull request bitmap encode
+tweak long tads test
+new long buffer tads
+merge master resolve conflict
+fix view creation specify index
+fix
+fix dimension wise reductions
+get back loop branch regular accumulations reduce
+initial commit
+copy work fine
+get rid adj field
+merge branch
+read shape file
+fix rely test
+average
+cache info everywhere
+add non zero mean test
+micro tweak
+add binary search index
+merge pull request tree
+tad ape fix two new distance function test
+test gaussian distribution ring
+index fix
+fix test
+update
+merge conflict
+reference preservation maul ops
+initial commit
+cup cat optimization
+add invocation name function
+pool comparative test
+add new name function
+merge pull request pool native
+merge branch
+graph fix
+resolve merge conflict
+fix data buffer length reallocation
+fix new axis
+prevent vertex override
+add evil variables
+add test graph resolution
+map workspaces
+dependency plugins cleanup value properties
+improve array reference
+add test level las ops coo array
+fix merge conflict
+clean differentiation ops add graph validation
+add clip soft max moment avoid numerical underflow
+remove need reference anything diff
+add gem las operation sparse matrices
+add test gem
+overhaul function factory break ops
+clean unit test diff
+add test broadcaster alto
+fix log gradient
+triple letter
+add sum gradients change default value variable gradients
+add sum gradients change default value variable gradients
+fix repeat gradient
+update adj soft max copy
+soft max derivative
+update tanh derivative
+local
+fix
+fix merge conflict
+add shape ops
+initial commit
+update
+update
+graph disassemble
+add differential function array field reference upstate
+result read
+update diff reference array field differential function upstate
+name opium
+broadcast convenience methods
+new broadcast ops test
+add soft max derivative grad test
+add new soft max derivative
+col dilation arts
+dilate col fix test
+add gradient operation addition graph
+implicit var space test
+refactor binary transform
+add extra col test dilation stride
+refactor binary transform
+photo java
+refactor derivative ops
+fix compilation errors refactoring gradient ops binary function
+fix sigmoid derivative
+test truncate normal distribution log normal distribution
+add tanh gradient
+fix exp log gradients
+get rid deeper diff check
+loge sum test
+merge branch
+add new list ops differentiation
+fix compilation errors
+fix negative shape resolution
+add derivatives clean function invocations bite
+add specific ops
+add registration function array field diff instance
+log exp rename
+ensure reference integrity variables
+introduce optional profile remove prior artefact versions project essential keep local reps trim useful developers esp reliant mirror
+add maul transpose overload
+local
+add new maul transpose mode
+alpha dropout test
+ensure reference arguments
+let read something
+fix differential function pairwise transform
+add scalar ops skeleton
+add schedule
+custom ops introduction
+remove generics
+customer execution prototype cup
+add descriptive exec
+ensure ops variables attach
+next step
+merge branch
+updater fig add schedule use lombok builder annotation
+pow pairwise div opium change
+conflict resolution
+change name variables
+compilation fix
+java update
+customer hash change meet windows hell
+add debug mode diff
+fix ada max default arg constructor
+scatter update wrapper
+remove bad import
+add imagemultipreprocessingscaler
+test
+add depth
+new distributions wrappers
+add marker separate forward backwards graph
+update diff
+clean gradient set
+add new multiplication test
+add basic place test
+local
+add conversion list list array use memory efficient implementation add unit test
+condense diff apr
+checkpoint change
+update ops compilation errors
+merge pull request consolidate diff module adj apr
+reference check
+fix resolve shape bug array creation
+failures leave
+upgrade cuba upgrade cuba sparse reallocate logic micro fix change java presets back release version cuba
+get rid subtle bug negative gradient
+graph relate change flat buff dept update temp commit extra fix intermediate representation intermediate representation intermediate representation reshape contd intermediate representation ultra early draft pair fix output map temp commit default paras contd weight permute java quid replace byte order mattel test stuff compile back miss type dept
+add convolution operations zip change custom bite clearer
+custom ops output shape beefier include cup new native ops call calculateoutputshape available java
+release shape pointers
+add convolution operations dynamic improvements add convolution operations zip change custom bite clearer add initial declarations minus diff ops refactor make everything dynamic local change local compile ops multi input output array field add basic test input output add convolutions diff add convolutions diff add derivative implementations
+name init
+mini add convolution operations zip change custom bite clearer name init add modules linear module add new weight init scheme diff understand weight init scheme add test basic matrix vector broadcast add test basic matrix vector broadcast diff support auto broadcast
+module test add convolution operations zip change custom bite clearer name init add test interval negative indices add new module test update paras use input diff
+update dec presets map new native operations update dec presets map new native operations pick ops automatically header file linda
+add definitions std vector adj ada type linda
+local
+local
+change updater fig builder class name back
+add statement execution
+add execution
+fix variable compilation
+conditionals update prototype strip variable improve loop loop run add multi level top sort
+presets update presets update presets update
+checkpoint merge initial commit temp commit swish activation wrappers java side scheme bind update new paras flat node update presets match latest change linda let start linear scan screw linear scan let recursive temp commit three arg another temp commit condition scope loop scope loop scope index reverse map presets flat buffer time
+add test operation diff methods boolean methods add variable assertions test loop minor bug fix array propagation add conditional derivatives statement test skeleton fill test local execute
+fix fix colin paras order catch class mil special test
+refactor convolution operations use builder configurations refactor convolution operations use builder configurations update pool produce correct output pool update colin fix norm argument norm comment final commit
+loop import scope export scalar shape fix cost shape import fix loop opium skip init loop vars pass linear view fix let map something expand design generic rearrangements default fallback converter mappings code reduplication yet another graph reduce wrappers wrappers two new reductions change handle variable fix return map nest loop nest loop parser cat dimension update
+get rid array information arid checkpoint get rid near information get rid near information get rid arid ensure array set add test proper array allocation reference propagation across diff instance test minor java doc update
+set shape set ride deprecate set shape set ride deprecate add netscape astride array
+update invoke graph copy update invoke graph copy add differential function dummy variable checkpoint local remove zero one update gradient propagation improve encapsulation fix commit utile import
+new stuff swish activation wrappers java side text list model model test double type fix double type fix new legacy ops wrappers merge commit
+diff reference purge purge get rid variable boilerplate collapse get rid vertices restrict map add exceptions gradient backwards marker fix maul shape resolution ensure proper map use get rid duplicate vertex generation minor test improvements name space function fix fix dimension fix function instance copy replication fix loop test minor checkpoint commit add int array key set replace instance tree set gradient relate test fix update
+fix gradient reference
+diff conditional loop derivatives add zip derivative run need add assertions zip derivative support add new derivative constructor test
+fix
+tensor array loop presets update one soft max test presets update strip slice mask stride slice update mask tensorarraywritev index export loop frame track one step stack pack axis graph update
+presets update
+presets update
+call overload initializedevicesandfunctions initialize special las function call overload initializedevicesandfunctions initialize special las function pass las function pointers include cub las
+add basic onyx import add basic onyx import add miss onyx pro def get rid external node fix name conflict get rid extra conversion method add basic intermediate ops base class add check input length everything compile everything compile add intermediate representation conversions various ops refactor differential function name methods one add basic mapper abstraction create intermediate graph representations base disparate photo type generalize tensor low import get rid redundant variable creation code import code delete old node mapper class ops load onyx test add gather update
+change ops lookup order
+add diff edge calculation minor compilation error fix add computation mappers logic base graph mapper get rid intermediate representation get rid intermediate representation finish delete intermediate representation class minor additions test get rid legacy methods import bump miss ops code run fix input output edge accumulation add ops recommend ops intermediate rep add back flat buffer
+flat buffer scheme update scheme importer update minor update
+tensor low change import test pass fix son ignore differential function ensure shape cant negative upon creation variable purge upstate handle accumulation onyx check variable existence test pass
+assertions adam
+add import directly diff rather intermediate representation update update connect ability nod add initial loop tensor low import minor update test
+array export import better array export import handle array export import refactored test export import stub instead nod
+minor clean minor clean remove adj test resources add egg test local add flat buffer test account skip
+load reset
+add maven compiler plugin declaration add maven compiler plugin declaration add maven compiler plugin declaration add placeholder variable support
+delete repeat auto decompress
+samediffbroadcastifxes various fix flat buffer update dimension resolution place holders temp work around make compatible change test framework use proper place holder resolution add various fix shape computation update
+las import initial commit test debug verbose setters one strange test scheme update type update las equality test change bug build fix let run stuff java test update yet another test tweak
+tot fix update test pass minor fix add sort add custom minor fix
+cuba relate change let push stuff equality test cuba shortcut ops restore test top commit merge push
+get rid direct access get rid direct access fix test dynamic encapsulation well fix reshape add input rearrange input bias add
+git ignore update
+range output fix fix node order fix range output
+clean shape inference clean shape inference place holder errors variable resolution cleanup deletion
+reshape fix clean shape inference clean shape inference place holder errors variable resolution cleanup deletion update pack unpack import update pack unpack import note sort fix log add miss methods miss ops merge sum fix partially fix shape info add old ops local fix compilation errors diff test add dynamic shape computation basic ops fix shape propagation tensor matrix multiply ensure byz vertex ids set add broadcast get rid scalar complex number constructors add new function instance ids reference
+fix differential function instantiation
+fix differential function instantiation
+per execution initial commit cuba presets update graph reuse draft graph reuse prototype proper delete tick cuba write two commit disable debug master pull
+skip model name test clean search change def test fail threshold skip model add
+test pass
+sub fix change number correct test pass test fix
+ops validation java side meh java side
+import fix single int vertex ids multiple vertex ids per variable test pass test fix fix diff null check update finish vertex var name conversion need finish map vertex ids yet add new bootstrap graph add vertex variable map fix native graph executioner import fix map identity
+update presets match latest change java
+purge graph apr fix unit test test pass test fix fix diff null check update finish vertex var name conversion need finish map vertex ids yet add new bootstrap graph add vertex variable map fix native graph executioner import fix map identity checkpoint merge
+jul ladder error null pointer check addams
+test fix scopes test fix distance functionality restore
+fix map ops error null pointer check addams checkpoint checkpoint byz fix properly map byz ops update test
+allow null shape ops fix execution flexible miss shape
+gem stride fix test gem stride fix test get rid vector
+matrix multiply soft max fix checkpoint soft max fix new matrix multiply
+fix mum transpose null checkpoint soft max fix new matrix multiply fix variable name reference fix infer shape test import fix null mum transpose
+additional null check
+limit travis branch master
+node map fix fix bug shape resolution maul fix minor test fix node map local add recurrent units local fix floor dive map update diff test
+generate photo dependencies compilation generate class onyx pro compile time avoid import line tool generate code process adapt recent onyx change tensor low
+diff update diff update function properties function properties function properties function properties
+calculateoutputshape use buffer
+convolution divisor test add convolution divisor test improve test order arts order translate linda unit test test translate test test update avg pool test use new mode option
+add full shape validation support placeholders add full shape validation support placeholders local update new import local local local update fix various map errors sync add variable name resolution use unknown value input function remove cat axis swap update cat fix update input variable resolution ensure resolution shape happen properly get rid date secondary post init method micro tweak micro tweak local sync update unstack fix alex issue add scalar test diff smaller fix fix diff add mean along dimension convenience method fix increment arg index create new function fix reduction shape fix dynamic resolution variables byz ops ensure variables properly cache dynamic custom add function instance invoke graph fix reshape add cube activation add back workaround rely get rid work around fix extra arts init rely add verbose mode push fail test handle scalar shape gem update minor fix updatevariablename minor fix updatevariablename use correct test add definitions tensor low onyx fix col fix dilation arts convolution class fix overload fix convolution test add extra test issue add function properties support local fix accumulation result propagation fix variable arts arg output variables add new buffer fix add initial figs fix output variable generation initial push ops audit pow derivative update update split update properly resolve arts output indices minor change name local output work update reduction fix gradient check fix diff mean sum side validation test fix fix max min new gradient check methods fix side gradient check improvements fix fix closer array clone change array class infer use one closer configuration everywhere comment tweak additional reduction gradient check undo comment log final test change
+slice vector edge case offset resolution fix calculate output shape edge case add slice back
+add attribute mappings ops base properties vector edge case offset resolution fix calculate output shape edge case add attribute map base properties add new properties resolution logic update add miss gather ops add
+scalars vectors initial commit vector initial commit reshape test test vector squeeze meh accumulation validation fix allow shape string relate tweak gem vector awareness reshape special case one comment test tweak
+misc map fix add cross fix food exam mappings add test comment line add squeeze pool test pass fix order initialization ensure base name propagate local merge
+important fix linda execution
+loss function gradient fix add test comment line add squeeze pool test pass fix order initialization loss function apr design first step implementation zero like ones like test pass loss function implementation test tweak gradient check additional test ensure base name propagate pow fix loss function cleanup code duplication implement loss moment gradient check moment expand dim fix transform gradient check fix gradients scalar division scalarreversedivision tan derivative check expect result transform gradient check fix transpose gradient implement sort gradient pow pow derivative tanh fix fix gradients cos sin additional grad check tweak cleanup bad test convenience methods min max grad fix gradient fix norm norm max check expand dim gradient check fix cleanup java doc review fix
+gradient fix fix leaky flu log sigmoid swish derivatives update tanh new correct number logo tax attempt derivative fix pairwise transform gradient check fix gradients comparison ops bop fix gradient divot add min max pairwise methods fix min max pairwise gradients remove skip fail test
+diff test fix fix prod gradient permute reshape gradient check backdrop fix expand dim squeeze test fix
+xor test xor methods test fix loop condition test
+fix dilate pool test max pool backdrop add map old backdrop test improve max pool test test pool dilation test fix pass switch back divisor modes average pool minor test fix
+diff methods fix slice slice creator methods fix test throw exception slice backdrop instead return incorrect gradient
+remove call system get
+stride slice fix constructor methods test
+diff test fix test pairwise boolean ops switch add instead add gradient accumulation side variance fix reduce along dimension case mean fix broadcast case norm max along dimension gradient fix slice strip slice gradient check fix cosh derivative expand squeeze test fix grad check use get double int squeeze expand grads pass loss function gradient check weight array add reduction mode test condition loss function gradient check loss function test case add diff fix index reduce specify result array backdrop fix issue variable name multiple smaller fix test fix
+diff map ops already available linda diff add assign assign gradient ceil clip value add clip norm test cat constructor partial test add backdrop backdrop ops backdrop ops jul sub div sub fix output shape calculation minor fix merge
+add fix statement conditionals add cross fix food exam mappings add test comment line add squeeze pool test pass fix order initialization ensure base name propagate local merge local scalar support local update local add unit test dual statement add scope name add graph import add basic scope diff add special case ops ignore ensure statement node int include import add back switch add new maul shape calculation fix reshape add new depth ops space depth local get rid workaround shape fix maul update fix contd inheritance name resolution add new scalar interior minor touch update add arts contd update add arts contd local add minor comment around failures add new test add calculate output shape switch space depth depth space large order local add map space depth depth space gather test update gather add arts current snapshot change fix tile fix auto node map unpack
+diff add components typos docs merge add basics test merge add increase counter onyx name different add
+fix pairwise accumulation plus minor fix fix accumulation along dimension execution check better proper fix cum along dimension case fix minor issue reshape native executioner also allocate new null add miss son ignore
+onyx attribute map add cross fix food exam mappings add onyx property map update contd use property map minor fix onyx map
+test test negative axis distance fun
+array conversions routines
+cumulative initial commit compilation change bind update simple cold preparation temp commit ids tweak get rid spare scalars avg old fix import var ids tweak skip scope panic circular workspace mode
+linda compilation fix hill dept fix
+byte buffer fix java
+byte buffer fix java
+support skip placeholders scopes export initial commit next step next step next step next step top java time next step false draft next step comment loop single loop double loop test iterations count work prototype special methods alex java doc next step better rewind handle idea comment clear last frame comment one fail test nest pass first part change adam second part change adam frame name reference export special skip handle merge
+revert adj sub
+change back sub operation old byte buffer fix java revert adj sub
+get rid sun dep
+reduce fix length check reduce scalar ops type resolve properly
+fix one fix better exception non freeze graph
+first set initial commit map fix contd map contd map fix import wrapper change floor mod wrap add remapped proper name
+second set initial commit cast map arts check fix keep dim one shape tweak map tweak tile fix
+add miss space batch test clean prev test space batch test
+diag diag part diag imply diag diag part fix diag test
+third set skip boolean array test improvements random uniform map change map change update dimension fix
+diff depth space space depth gradients std dts gradient check
+fourth set initial commit tweak
+add zero pad arg cud executioner col exec intercept
+detach fix detach view fix test detach fix presets update
+one fix alex
+data set improvements add data set check null array instead throw ape without explanation add multi asset shuffle
+schema update bind update bind update meh one update
+add shape position map add shape position map minor fix update comment test add map get rid specific test
+add pointer pointer thread local native executioner minor usability update add new para external ring random number generation range add thread locals pointer pointers custom ops get rid extra arts data type validation cause extra allocation local add new distance calculation add assumptions allow base array ensure max shape handle null shape add choose handle null array empty case filter local test add new list integer index add new put get add test update add bumpy import input stream
+make getcustomoperations map unmodifiable cache cuba
+add property set custom paths
+add truncate div exclude grad check
+rely
+zip diff convolution layer expose contd way ops contd test contd integration typo minimal docs pass sep con test depth wise con add second remove local vars second
+sigmoid send logins
+test
+soft max logins test
+weight send integration
+test zero fraction
+fix test
+contd imply
+max avg pool test
+pimp things yuri new versions fix name conventions
+len
+typo fix
+ignore update unused test
+scatter ops add add diff add test add author
+diff test
+stuff broadcast able boolean wrappers get rid useless call meh improvement condition transpose shape fix special ignore test list diff map space depths data format fix cud executioner tweak top compression fix name fix index accumulation ops tear fix index accumulation fix fix test update tweak presets update resolve conflict
+parallel stack add sequence ask test add add diff add test type fix final
+fix change proper handle mix type workspaces test fix legacy test ignore date duties test fix ads load fix usu test tweak
+minor change dlr workspace optimizations additional workspace method near factory pull row result array also add new method sparse factories additional debug info workspace exceptions add remove condition move workspace mgr adj java doc add workspace mgr configuration workspace validation leverage detach dup etc add additional validation additional methods
+fast fix fix new factory methods test opp filer support custom ops
+wrappers relative error
+various fix data buffer string limit add view iterator fix
+add grad updater add grad updater minor comment update
+tracker initial commit prototype better internals hook everywhere fill environment information couple test cup cover well fix accumulation without arts cup get rid bad import
+test fix test fix adj broadcast avoid view test fix fix fix
+long shape initial commit next step next step next step next step next step next step next step next step next step next step next step next step next step adj apr compile next step next step next step next step next step next step schema update schema update next step adj native compile next step next step test compile next step next step adj compile next step current ser legacy serialization test test fix one small fix graph restore long tweak graph restore cuba relate fix cuba test pass update master meh compile windows one fix merge serve work cuba create romney work cuba back cup

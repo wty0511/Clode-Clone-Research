@@ -1,0 +1,508 @@
+first commit
+chunk know implement global tessellation player physics work fix bug
+hello dave
+yes
+overhaul player physics still perfect get default block create delete player view direction use determine larger position add place holder tree move jump key space add random number generator berlin noise generator add seed variable world class use tree generation berlin noise optimize render display list add possibility render translucent block leaf
+work render system
+new light system many optimizations write class tree might useful later clean
+replace single open call vertex array split generation chunk terrain generate chunk tree generate press player reset press come soon
+replace single open call vertex array split generation chunk terrain generate chunk tree generate press player reset press come soon
+add new screenshots
+rewrite light look much better new tree add sun stone randomly place within hill
+rewrite light look much better new tree add sun stone randomly place within hill
+bug fix improvements
+many many change optimizations
+many many change optimizations
+finally finish first prototype infinite world still bite sloppy fix soon still work along negative though
+finally finish first prototype infinite world still bite sloppy fix soon still work along negative though
+optimizations new demo feature
+optimizations new demo feature
+modify terrain generation
+modify terrain generation
+fix light still problematic new chunk generate tree get cut adjacent chunk present
+fix light still problematic new chunk generate tree get cut adjacent chunk present
+optimize chunk update generate
+optimize chunk update generate
+many fix optimizations update etc work almost perfect
+many fix optimizations update etc work almost perfect
+make noise look good
+make noise look good
+etc
+etc
+add day night
+fix update neighbour chunk still little slow get
+fix update neighbour chunk still little slow get
+change
+begin rewrite world illumination
+merge branch
+clean
+rewrite light fix errors generate terrain
+change color grass change way light update still slow
+work new recursive light model
+brand new light algorithm still finish though
+chunk outline toggle create separate queue update illumination
+performance improvements
+many change count refactoring many part code soon
+add transparency water leave currently rethink whole collision detection player finish though
+add book animation improve collision detection still work improve terrain generation add sand beach player movement fluent
+add bob animation improve collision detection still work improve terrain generation add sand beach player movement fluent
+fix collision detection improve change terrain generation add day night cycle add fast random number generator add log information come many small fix change
+fix collision detection improve change terrain generation add day night cycle add fast random number generator add log information come many small fix change
+minor fix optimizations add miss source file
+fix break light
+fix break light
+translucent block absorb light important ocean instance small fix change
+fix bug chunk selection process
+refactoring block represent class add possibility render billboards add wheat flower generation population process small fix
+fix sun fix god mode
+improve light shade fix flight demo mode minor fix change
+many change fix refactoring
+optimize memory usage minor adjustments change
+minor change
+add simple save mechanism rewrite illumination still work
+intermediate result
+many change optimizations things quite buggy moment
+rewrite light cache optimizations new console command new worlds generate fly
+rewrite collision detection bus minor change fix clean
+vastly improve memory overhead chunk display jim heap size whereas problematic make sure computer gnu handle value chunk remove loop view distance chunk change dynamically run game set intensity fog depend choose view distance fix small bug invisible chunk periodically remove normal update queue add pool vectors refactoring
+drastically improve performance switch collections trove collections library minor fix clean bite
+reduce fog intensity click map spawn player choose position collision detections less cup intensive
+add second layer light support block light source previous world file longer work support add torch lava block
+start work light spread
+renew complete terrain world generation process grass frequent appear bush flower less frequent add resources gold coal add resource generator add lake generator implement separate mountain generator change way light absorb within water change way flora generate extend fast random generator small tweak
+add funny cloud tweak color brightness
+add funny new tree help flex add new dark leaf pine fir tree change way stone layer calculate change probability function use generate tree species refactoring
+update cloud add gradient sky box increase display list update per cycle fix fragment shade change
+add sky box gradient sky color rename long configuration parameters add shade manager add fog shade fix render bug cleanup
+remove separate mountain generator add ridge multi fractal noise algorithm tweak multi fractal noise algorithm tweak terrain generation accordingly fix jav doc
+height map linearly interpolate see min craft smoothen terrain terrain island like add large mountain feature forest build large chunk tree tree less frequent outsides cleanup
+new dynamic day night cycle night day take minutes light value store texture coordinate process within shade block light tint reddish light night tin bluish minor bug fix
+reduce redundant code passages
+fix cloud change colour dawn morning optimize draw quads
+many optimizations remove textures git hub nightly build add new update mechanism download textures server currently quandary pack available tweak light colour new initial seed test nice terrain
+etc
+split chunk mesh actual chunk optimize render accordingly
+split chunk mesh actual chunk optimize render accordingly
+cleanup comment
+optimize way chunk update render improve terrain improve chunk shade change cloud bite change overall light tint bite nights completely dark shadow completely dark minor change
+replace display list vertex buffer object chunk optimize fly duplicate vertices get eliminate
+overhaul cache render many performance improvements fix rare deadlock finally minor improvements add miss file
+many many optimizations reduce chunk size fix possible deadlocks
+massively improve playability terrain look natural replace simple occlusion light real ambient occlusion increase grass density change forest density adjust overall colour minor change fix
+new light engine begin implement biome add cacti optimizations
+update configuration file
+simplify mesh generation code add support different form block add cactus form rotate billboards
+reduce shadow intensity
+add new lower block water fix ambient occlusion look much better switch texture pack good morning craft pack fix blend cloud fix blend translucent block clean small optimizations
+finally add spread sunlight block light source
+include optimize collision detection
+fix draw lower block almost refactoring
+player longer place block adjacent every form block minor optimization refactoring code cleanup
+address overhaul render architecture add slim example mob
+architectural cleanup
+extend biome allow generation base humidity temperature add support colour grass flora base technique also include add pig colour change intensity shadow daylight change overall gamma bite change color leave grass high grass make color change sky sphere fluid base humidity temperature change initial time change darkness nights
+optimise sun
+improve biome terrain generation especially mountains
+fix sun fix psychedelic bottom sphere
+add particles always face plane perpendicular players view direction
+separate light ambient occlusion block light longer affect occlusions shadow adjust light ambient occlusions intensities accordingly
+move definition block external cml file ease access block type change properties block add block hardness indestructible add liquid block type swim lava fix minor tessellation issue
+git ignore
+test git fix typo
+test starry night width alpha animation
+add primitive belt support tool bar player pick active slot trigger tool slot via leave right mouse also prepping future support custom tool provide via groovy plugin several hack present part system pretend since real inventory yet add visual representation via second spin cube lower leave fool think block place placeholder graphics dirt block link current tool standard place remove block
+change bella block mania
+remove old static configuration class replace new class base conflict lurker also move debug console separate class console solely base groovy test thoroughly
+add minor optimizations clean
+starry night cloud
+replace ugly cml file initialize block stylish groovy script remove colour block moment add optimizations speed chunk update near player
+merge creator example plugin first version mob manager class
+add groovy support create generator modules also add new leaf type new system grammars generate really large bushy tree
+starry night
+redo check portal mob stuff work little back time copy paste master branch mess develop branch include file move game package little portal block create near player start pop slim occasionally attach additional code update tick method world also cloud update frequency every every
+gelatinous cub invade block mania add new gelatinous cub different color size replace old slim new slim affect light optimize way portal place limit amount gelatinous cub per world bus longer move wrong position support frustum cull
+add framework create simulators nothing work yet minor performance tweak optimizations
+slightly tweak world render remove unnecessary loop also add detail terrain reduce height mountains
+early prototype new heavily modularized groovy base block load system able support internal default block external add block much potential use similar system creatures meta block object kinds stuff
+extend world renderer support occlusion cull arbitrary amount sub mesh per chunk mesh occlusion cull disable default disable generation bullet physics mantle mesh default add tune parameters fig file
+move block mania one step direction become actual game add new toolbar add new health bar remove rotate block update sound currently select block visualize bigger block player hand add properties character class add methods heal revive damage character class add self kill key fall deal damage players die spawn need work though since animations completely miss moment add message player die update liquid generator lava stream quite frequent grind water stream frequent higher regions like mountains clean project add update documentation
+add additional berlin noise generators terrain generator produce detail base terrain produce awesome start area fix tree flora snow biome fix flora desert biome
+integrate creator block manifestation system game add tweak harness full power system god mode toggle double tap map map generate fly new block manifestation atlas replace default slick texture loader customize implementation merry christmas
+clean large portion engine reorder package structure change many vectors use double precision float point value allow precise calculations distant regions world add minor additional fix
+add minor adjustments lower block like liquids correctly influence light leaf destroy two poke clean groovy script
+come big one add tool item prototype add axe pick axe inventory default enable physics default modify default block tool accordingly add explosion item inventory default add advance light effect chunk shade rewrite way custom block create much
+update windows launcher fix color transparent overlay
+update tree tree generators tree much thicker trunk four block instead one
+change main thread high priority thread low reduce starvation issue affect frame rate add thread track performance manager set exist thread track move creation chunk rigid body update thread occur initial check previously thread create every frame would stop initial check
+integrate profile framework recent optimizations immortals tweak render bloom effect
+fix disable sound gelatinous cub reload footsteps audio resources every new one spawn cause lag probably audio cache sort instead sleepy prep right
+optimize render add stylize depth field effect increase radius bloom filter adjust maximum exposure add depth field effect optimize concurrency relate part use lock adjust bullet physics renderer reduce distance far plane fps camera optimize way chunk remove cache limit reach
+create blender add export block shape groovy fig file change performance monitor enable metrics visible add protection multi thread use performance monitor
+add chunk tessellation performance test aid development fiddle chunk tessellation performance
+merge branch
+add shape loader add shape manager refactored common code load class resources classpathresourceloader
+start add shape support game proper shape load block texture chord map rotations handle yet chunk senator use shape render block properly handle indices yet safe shape cube quite yet note lower block work correctly need lower cube shape
+fix applet tidy assort bath log git intel quirk
+add block group wrap collection block shape definition different orientations add stairs extract block fig load block manifesto set class
+players carry block group instead block enable correct orientation place stairs improve give block console command accept name block group block quantity optional put performance monitor around urtext render appear performance issue
+global change structure game main menu work
+new torch block group new torch tile compress blender mesh fix stair mesh backwards make chunk tessellation robust presence miss block
+merge branch
+change
+change fix work
+reset minimum require version open add check support extensions support versions open startup make sure check log file post process effect get automatically disable fob support
+add abb colliders shape onward block add initial support use block colliders movement calculations
+fix calculation collision plane entity movement previous method incorrect non cubic bus stair collision work except step step
+merge branch
+merge
+add binary persistence framework review
+break item graphics element dependency implement icon class single instance non block icons
+remove dead code fix warn
+optimize shade program integrate engine enhance overall light effect significantly fix bug cause side liquid block get render time
+inventory keep track item count implement cubbyhole use inventory elsewhere
+remove toolbar responsibilities handle inventory
+new guy element input status
+squash commit follow commit author small deeper date wed feb delete list master branch commit author small deeper date wed feb add first version new menu game mode system input field commit pull request commit author small deeper date tue feb change commit author small deeper date tue feb change input commit author small deeper date mon feb commit workspace commit author small deeper date mon feb arrow leave right work nut correct commit author small deeper date mon feb change input commit author small deeper date mon feb bug fix add cursor input commit author small deeper date mon feb new guy element input status commit merge ufa acid author unknown date thu feb oops forget add file commit author small deeper date thu feb change fix work commit author small deeper date thu feb change commit author small deeper date wed feb global change structure game main menu work
+merge remote track branch
+fix possible null pointer exception exit game via main menu
+refactored block manifesto remove block clone rotate code replace system load block rotation apply rotate shape need provide ability modify fig value different set rotation per torch two shape block image name store lower case access case insensitive manner
+fix java doc warn close
+update main menu add new track exile resurface game add option return main menu pause menu remove singleton pattern bullet physics renderer make part world renderer minor adjustments make work smoothly
+merge pull request add refactored teratology class
+pull upstream change
+tweak event system behaviour list components need events receive start work prefab manager
+new audio subsystem blackjack whore
+refactored use new fig
+merge branch conflict non issue integration quirk actual change
+merge branch
+merge remote track branch
+move integration test new integration folder
+merge branch
+clean various things add minor tweak fix rename clean game mode class call game state state rename remove dependencies game state main teratology class fix fix faulty render block item icons add sound effect block loot increase default stack size inventory work properly reduce maximum amount mob reduce sound issue cause many gel cub overhaul menu load background image
+refactored fig use photo serialization human readable debug debug output
+try add scroll bar commit workspace work
+implement character movement simple components systems drive gelatinous cube entities
+merge branch
+ads rail gun tool enjoy
+merge pull request prefabs
+merge pull request improve components
+improve character movement add swim support improve console command support automatically prefix suffix necessary
+add render select target block
+lot work inventory item system point peaceable block work need cleanup
+improve package structure component systems
+add initial mesh import obj format support mesh support data variations tex chord normals color optional
+reduce default value add new button configuration menu adjust
+merge branch
+merge branch
+start add serialization support entity system
+remove son library duplicate inclusion grade break sign jar fix excessive slide character movement fix inventory display
+implement use chests containers create give chest console command chests retain inventory pick carry
+start integrate prefabs entity system proper prefab use create entity retain prefabs store restore part entity save
+start work persist entity deltas base prefabs also refactored persistence entity manager come
+merge load world list delete world create world
+add support store component type via index refactoring entire sister
+initial wave project restructure adopt maven style directory structure move performance test source set run per test task split resources groovy separate source paths change compatibility level change output use target folder exclude folders idea project keep things neat run execute produce jar solve class path issue pending improve resource resolution
+fix build file handle resources work towards load mods add asset manager
+console add scroll adjust overlay improvements
+new item icons
+add asset loader system add asset cache change sound music use asset loaders change sound start support mods music fully support yet
+add support mesh assets fix bug maintain parent prefab information serialize entities
+temp commit
+add texture load support asset manager
+still fight open book
+add texture load support asset manager
+tiny tweak
+minions minion toolbar
+minions disappear component save
+add shade load asset manager
+refactoring keyboard input
+add label inventory items mouse
+basic implementation shade material assets possible change material entity well mesh
+remove abstract component change prefab system make use component library small tweak minion less jittery
+guy cleanup guy render front
+fix minions attack air liquids
+adjust vector hash function reduce collisions chunk provider near cache add lock prevent parallel creation chunk
+add basic comment
+add netty reflections libraries add reflection base registration components component systems start work multiplayer state
+basic network test
+stat effector via potion purple potion
+merge pull request minions
+work mouse events
+merge branch
+refactoring world chunk preparation remote world support change chunk identify position hash position due collision concern start remove dependencies locator provider
+add queue patrol option gather fix queue
+move paras email email solve multiple minion command
+add mouse button events
+world refactoring experimentation
+merge branch
+experimental work world structure
+initial incomplete integration new world apr
+add three stag generation chunk first stage background thread add overly aggressive chunk disposal
+minor improvement cleanup mod orient split code add minion command item
+fix light issue
+move class
+start work minion message queue
+base move block develop branch
+finish add support light propagation block change
+temp push switch console
+console update path
+merge bath tweak game console overdose import cleanup fix
+switch phase chunk system port tree generation new system various fix optimisations
+summer cleanup
+colour minion update
+fix bug fetch far cache replace old world system new one
+add entity system wrapper around world provider send blockchangedevent block change implement liquid simulator throttle physics chunk generation
+merge branch
+merge branch
+change screen metrics etc handle manager rather state player change number display windows use better add toggle visibility approach move ray race common static method moment move escape close modal windows manager moment
+fix bug introduce removal brace nest ifs fix bring code line code standard
+merge branch update minion system use new input events
+merge dusty commit buff get lose conflict benign import reorg accept source clean merge tidy import know issue cure potion leave icon permanently yet provide immunity
+reintegrate growth simulation
+merge branch
+rudimentary direct integration world physics
+add chunk event send chunk complete load surround complete chunk send world entity new entity world component
+miniatures block large awesome
+initial options modification change water option require restart
+toolbar hot fix fix mouse wheel toolbar hotkeys
+switch term bullet ray race via term bullet
+merge branch
+add bulletcharactermovementsystem step support
+merge pull request
+block
+start add physics support entities currently box shape rigid body support add support create entities list prepare components create prefab specify location add cube mesh default texture test add spawn prefab console command
+first version flatworm generator
+entities use drop block
+add support sphere capsule cylinder shape charactermovementcomponent capsule use shape specify slight refactoring around asset manager move assets package change bite deterministic handle duplicate mods prefer directories zip report duplicate log fix character bounce ceiling hit jump
+finish load save chunkgeneratormanager
+fix default bind move forward leave swap mouse button regenerate fig matter fix asset manager move
+update new version supply courteous fix
+integrate collision group ray race
+update settings menu
+add chunk generator selection create world screen
+chunkgeneratormanager catch exceptions
+add miss headers allllllllllllllllllllllll file could find lot incidentally probably tweak header formally move block thing get update whee
+block sphere colliders support ever need
+add immortals blasphemy goodie chest
+integrate
+zip
+increase amount support wave block
+organize block definitions little better minerals stone polly split later dir new build package build materials add new marble block
+initial work block handle improvement clean block properties bring world top level package move block block shape world change block block families identify blocker add block part enumeration specify different part block add block definition block tile support asset system move block type load state player allow block load mods remove groovy block definitions loaders add initial support son block add core block definitions fix bug entities remember prefab change enumbooleanmap implement end set
+add toggle button
+implement align surface block load
+work drag drop inventory lot little fix guy
+merge branch
+merge branch
+merge branch
+inventory drag drop update
+grade remove media mods
+tweak use entity system preparation tighten usage
+merge branch
+integrate manager entity event system inventory update
+expand death screen change mouse grab behavior
+merge pull request grade createversioninfofile
+update light propagation better support block shape light propagate non full edge block
+guy update
+guy clean
+initial door implementation fix light bug could result overly long recalculation time fix light bug cause light recalculate properly door open close add replacement allow block set represent whether block replace block placement add basic blockregioncomponent multi block entities
+extend guy functionality
+check style rule add comment new comment new rule indentation remove rule illegal import
+merge branch
+preparation manager theme able
+organize blocky stuff add soil matrix set block eleazar move soil block minerals mod pack new soil pack add eleazar soil block use auto setup generate block pure image delete obsolete shape block definition file append shape block request update goodie chest use block shape instead shape name
+implement basic shape system shape divide complex derivation rule complex rule subclasses grammar symbols symbol shape terminals terminal shape rule give grammar store production system grammar asset general grammars
+add chat
+integrate change immortals give block command
+create jenkins zip
+add block list screen add multiplayer screen visible yet add shadow style interface change optimizations
+rename
+merge remote track branch
+add type game
+fix picker screen fix list game type delete override update layout methods
+convert vol windows calf add notice
+add annotation base registration bendable button update build exclude directories intel add new mods book potions move various code mods disable mod guy bits moment
+integrate input confirm uimenuconfigcontrols
+merge pull request remove file extensions
+replace direct use java log self change log format change level many log statements debug
+minor update read mineral rename
+add new sub menu part create world select mods world use add descriptions mod info exist mods
+add support set components explicit support region remove unused photo definitions
+improve handle load double float int long value entities automatically convert type change versions change equity handler case insensitive
+bug fix mod potions
+update netty version
+first draft portals mod functional define spa enable able spawn spanners set exactly categories stuff want able spawn also cleanup java doc
+add noise interface white noise noise multiyear generator
+add choose guy multiyear generator
+add variation multigrain generator
+fix notice division zero
+merge branch
+bug fix incorrect handle adjacent chunk local unprovided check unready
+fix fix replace unnecessary loop statement
+fix tree gen comment anymore small guy fix back button place command kill damage style fix
+merge pull escape
+revision command class add java doc add several help texts add feedback message command
+merge manually solve tweak
+fix crash around handle mods assets stop try load code zip mods jar directory mods support code
+implement first version bite sparse array implement automatic pack completely generate chunk
+class chunk use bite term array block sunlight light liquid data rename method pack deflate add method inflate class ter array rename method pack parse rename method pack deflate add method inflate class trade array teradensearraybyte teradensearraybit teradensearraybit rename methods pack pack accordingly add stub method inflate currently throw unsupportedoperationexception class teradensearraybit extend method deflate support detection best case deflation class terasparsearraybit change method deflate throw unsupportedoperationexception add support best case deflate array
+finally dense sparse array work class chunk switch appropriate dense array implementations block sunlight light liquid data deflate chunk produce nicer log message class ter array move header field size half size half class make header field private add letter make read inherit class add class ter array add class ter array simple bite shift operations class teradensearraybyte teradensearraybit teradensearraybit move common methods teradensearraybyte simplify implementations bite bite variants finally fix bug bite variant greatly simplify implementation methods read external write external class terasparsearraybyte terasparsearraybit terasparsearraybit move common methods terasparsearraybyte simplify implementations bite bite variants finally fix bug bite variant greatly simplify implementation methods read external write external implement better memory consumption estimation
+add bunch new class new package centralize chunk deflation change ter array use new deflation class change class chunk use new deflation class
+add comment class terastandarddeflator calculations regard deflation process add constants class terastandarddeflator base calculations
+lot stuff new mob fix
+add mod support simple locomotive block
+initial multiplayer work connection handshake activate modules server use use block map server use relevant chunk replication test code send message currently single player game servers join game connect local host
+adjust stuff along tweak tell applet fence funny block make normal berlin terrain gen mode default bite variety shuffle rename dangerous new gel cub danger cub adjust bunch comment fix typos enable global spawn throttle second attempt bits misc cleanup
+server change block replicate clients
+various performance optimizations term array
+add touch extra debug block change message start add backbone entity replication
+fix use right stream time
+overhaul entity prefab component persistence modular start support feature need entity replication entities persist without ids provide fieldserializationcheck determine whether individual field serialize entityreftypehandler switch create normal entity reference network entity reference add titre work network ids rather entity ids allow reference maintain entities currently replicate add replicate annotation mark component field network replication
+initial implementation entity replication initial update removal overhaul component metadata handle begin add support event metadata support event replication
+initial implementation event replication
+fix render relate things fix blur set global options screen effect fix cube map sky dome overly bright run game without post process effect enable change water default always reflect sky sphere costly reflection world enable via options rename reflective water water world reflection respectively finally fix break ambient occlusion algorithm cause leave right back front side block occlude time tweak ambient occlusion intensity accordingly remove blueish tint water block plan update menu background image
+add abstract factory class ter array
+implement new menu advance configurations currently chunk deflation
+rename teraadvanceddeflator teravisitingdeflator use visitor pattern
+implement bite dense sparse array
+implement serialization handlers factories term array add interface add abstract base class add interface change class chunk use new factories change class advance confirm use new factories
+numerous fix event entity replication remove initial chat code replace event base system add client info prefab player information replicate players fix dump entities command dump entities even set persist add local client indicator client component fix initialisation order client prefabs register receive entities process remove irrelevant scoping message manager
+implement serialization handlers use byte buffer every term array implement benchmarks different ways serialize term array add describe simple message chunk term array remove stream base serialization handlers due massive performance problems
+switch log implementation log back
+adjust water clip plane disable water reflections block side top fix
+jig serialization handle allow creation multiple entitysystemlibraries type handlers customise different situations network remove entityreftypehandler network ref hack split separate type handler fix bug entity serialize serialize onto remove components remove load entities step client load process wipe initially replicate entities clean network class move server client specific handle class
+add benchmark measure performance term array serialization photo add photo file implement message chunk term array
+implement registry term array factories serialization handlers implement ter array encode ter array encode supply term array photo message implement ter array decode supply photo message term array add type identifier photo message future use mod supply term array implementations
+add position state photo message chunk
+change require field optional photo message chunk term array
+add photo support chunk class switch photo store new worlds add chunk class responsible mod extensions chunk data support encode decode chunk photo message add interface implement encoders decoders photo message add static class proton handler chunk class add chunkstoreprotobuf use photo internally store chunk internally rename liquid data extra data add check advance confirm make sure throw settings find update support mod extensions chunk data update world renderer use chunkstoreprotobuf instead chunk regis
+basic network player character system implement character create server link clients enable link player character movement chunk relevance thus send chunk clients move around players mesh mostly test purpose see first person bad implement client server entity replication entities must still create server field replicate owners implement restrict component systems load base network mode implement ability remove components consideration network serialize location component replicate position rotation owner input events send local client client character
+fix water surface flicker
+add command full screen toggle button video fig menu
+add craft system
+fix add new feature inventory
+merge chunk store improvements
+merge full screen option
+banana fix
+move craft system mods want start craft press right mouse click
+implement basic network support item attack add support around block entity replication restrict client events propagate send entities
+optimisation network message replace use string component event field name ids
+make grammar system module add module grammar system move file relate grammar module
+add improve format entity data pack entity general tweak fix metadata system
+merge branch
+add time synchronization server add support batch network message
+implement client server character movement delay character interpolation add ability fine grain control field replication components implement replication check
+add lag compensation support server events cause server rewind character position time event receive enact timer thread safe cleanup
+set event field replicate default replicate annotation prevent send add skip instigator option broadcast events send everyone except instigator useful event simulate client side fix issue send events block move look pitch yaw character component add pitch input mean need send events simplify attackrequestevent network enable block damage add prefab block particles
+item specifically block placement work multiplayer
+rob set multiplayer probable things work correctly though
+port fix develop ambient occlusion block mesh part rotation fix update grade fix chunk generate multiple time fix block change events send circumstances mod dependencies support
+second pass inventory refinement preparation network inventory change transfer slot second entity make inventory handle smoother
+add support clients specify view distance connection change game yet
+complete move configuration new son system
+add support replicate block registration clean import
+update copyright
+copyright update
+fix handle block change affect chunk yet ready modification get hunk return complete ready chunk chunk view obtain chunk provider may contain complete pending full light propagation chunk rename world view chunk view review methods change block remove check set style operations lower level add settle force method world provider
+implement jump land footstep sound net support add configuration server upstream bandwidth dynamic bandwidth per player base number clients move network class internal package
+merge branch
+implement multiplayer death spawn several systems change deal players necessarily character add entity builder feature entity system allow addition components set components occur entity create enable entity desire state creation network serialization code update use prevent race condition type errors entity ref prefab entity builder inherit common base component container interface remove locally component good run longer appropriate local player helper singleton client component local property replace
+client entity determine chunk relevance attach player character alive fix unit test improve behaviour location component parent add location system handle destruction location components
+switch java refactoring remove drop renderer change drop items render standard mesh renderer fix pick drop items
+update photo netty partially implement client identity authentication server certificate generate user first run teratology client join server first time provide identity use server disable compression temporarily need work bug cause data lose
+implement second half authentication process authenticate previously provide certificate add timestamps handshake message
+add initial support persist players leave game restore return add fix handle null audio manager sound load current manager develop terasologytestenvironment unit test game like setup refactoring package
+clean console message command handle component system define command instead command providers command may return value write console add message type system filter colour fix behavior screenshot rename screen console turn chat command rather special case
+bug fix fix initial replication block ids include family ids allow client know freeform families register fix issue network ids set correctly start host network ids remove server shut fix issue block entities restore correctly receive client side due prefab apply functionality add debug target command print entity information current target console
+initial refactor block network signal mods multiplayer branch
+merge remote track branch
+fix bug handle transition active transient block fix bug cause block prefabs keep active implement block life cycle events except beforedeactivateblocks
+improve performance introduce block collection methods block network add remove multiple network nod one call
+introduce dynamic block family creation new block family type introduce mods use registerblockfamilyfactory annotation
+fix health component save entity remove
+connecttosixsidesfamily work almost correctly issue rotations need look
+merge branch
+merge pull request fix shape texture coordinate cable
+simplify chunk load unload process remove ready check surround chunk fix deflate happen chunk mark complete add system detect problems chunk load unload events fix bug introduce cleanup
+add screwdriver
+prefab inheritance work properly prefabs support remove components list property components remove parent prefab load handle much asset system fix cleanup memory return main menu include number memory leak fix dubious location multiple thread change synchronize set
+prefab inheritance work properly prefabs support remove components list property components remove parent prefab load handle much asset system fix cleanup memory return main menu include number memory leak fix dubious location multiple thread change synchronize set
+try apply better code gate gate change signal configure time
+improvements time handle long tick break sub tick component system process really long tick cap game time reflect sum deltas world time relative time day world time number real time day various interface cleanup
+game time persist bite refactoring save game format preparation multiple world support remove old class unused
+game time persist bite refactoring save game format preparation multiple world support remove old class unused
+remove residual headless settings fix time progress load world change world start time little later day add events dawn midday dusk midnight
+fix issue cause light propagate correctly case light block clean diamond iterator parameters correspond grid distance vectors return origin
+introduction asset asset data split exist assets currently use compatibility class base class allow use refactored
+add miss copyright notice
+add miss copyright notice
+change generate asset register asset asset cache generate asset fri exist asset exist asset reload new data instead move textures new asset structure
+convert font across new asset structure
+switch shade across new asset structure
+move materials across new asset structure
+move mesh new asset structure
+move skeletal mesh new asset structure
+move skeletal animations new asset structure
+move skeletal animations new asset structure
+remove print statements clean unit test
+adapt new apr version
+block entities longer alter switch block family prefab unless force
+initial refactoring preparation update persistence start new storage manager
+switch use path rather file operations unit test use memory home path use shrink wrap work new storage manager player store correctly invalidate reference entities destroy unload disable disposal materials moment due delete shade fail reason
+continue develop new storage manager start add support save disk restore
+implement core entity storage chunk store add setblockretaincomponent functionality force block retain refactoring around storage manager
+move owner network component make central entities add always relevant field entities store chunk player store
+change storage manager place chunk pack zip rather individual file create lot small file slow
+finish move new chunk store old chunk photo class
+fix miss copyright
+integrate extend character sound
+clean import code style generally
+update check style settings line develop ignore overly strict package name convention change add term jar
+integrate core render change outstanding issue water render incorrect cactus block invisible
+style fix
+integrate term switch hook reflection annotation base system split world atlas calculate prior block fix issue block textures apply incorrectly condition fix bug world save space path actually work around bug java update block particle system
+add term launcher style fix
+style fix fix unit test
+add type handlers vector texture rework module manager module engine treat module add world generator implementations
+finish integration world generator extension support
+check style fix
+cleanup copyright fix
+style fix
+style fix
+fix issue progress bar allow value overflow result open exception add extra check open asset reload methods
+overall clean refactoring metadata low level serialization support separate copy handle serialization split field constructor access allow alternate strategies future
+major physics refactoring commit significant game play code behaviour change intention refactoring allow multiple different physics implementations exist use general method create layer interfaces physics class teratology code detail change new interface physics access physics engine interface interface return character collider rigid body sweep callback interfaces new physics interface link event system physics system class update physics also relocate physics system class since bulletcharactermover class physics dependant refactored rename kinematiccharactermover name describe behaviour better refactoring commit make class independent physics implementation allow independence low level character movement calculations move character collider sweep callback interfaces class use old bullet physics class refactored use physics engine interface previously exist merge old physics system bullet physics class instead physics system handle events bullet physics class make implementation physics engine class besides major refactoring documentation add various place various minor implement
+fix skeletal mesh fix creation bone entity network fix offset root bone animations
+modules versions store save game send network handshake
+port develop multiplayer minor shade cleanup
+extract interface module manager implement module selection build validate dependency chain update ideal modules indicate invalid modules
+merge branch
+fix issue cause save game fail load due reliance engine mod fix interact correctly selections make ideal modules ignore add new module malicious test module san box add annotation mark engine interfaces class modules may use expand module security manager add module class loader enforce allow access disable commit pending set white list
+establish initial module apr enable module san box
+net code restructure preparation module download server
+remove unused method
+implement module download server connect rework load progress monitor little add log java version startup tweak error handle load world
+tweak various render relate things improve light shaft artefacts increase default light shaft sample count increase default sample count available highest video set could provide video set sample count later improve depth relate artefacts offset generate hemisphere sample center
+add volumetric fog shadow prototype approach compare effect see crisis add scatter render property default enable add minor render relate cleanups tweak
+initial work new light propagation implementation
+tweak error log application errors occur logger initialise report console start work new system nut implement beginnings canvas support text render text render create mesh cache across frame use add new color class overhaul recti
+restructure move sec lib new engine dir
+implement mesh draw canvas either use provide material default light material probably need work plug defer light
+add support asset resolvers provide access assets correspond individual file add rect add texture atlas asset support describe map texture number sub textures add sub texture asset type implement support sub textures nut improvements world time events add items texture atlas
+add support define siskins son format add partially integrate manager polish nut main menu screen still mess layouts
+add nut implement main menu settings screen video settings progress add getcountofentitieswith method entity manager flip mouse axis implementation correct code let know issue add support annotations screen fix tile loader handle non tile
+refactoring core module code refactoring complete need fix test benchmark code
+add mock test dependency modules fast random
+extend skin system additional part level elements compose multiple part add support drag interaction system implement slider element add bean bind helper refactored videosettingsscreen bite
+replace intuitive string methods external loggers
+simplify onenterblockevent likely things care location block better serve use move event
+merge branch merge use
+checkpoint unit test tweak yet
+convert number menu screen assets
+implement purge world command recreate world run time
+merge eclipse tweak conflict minor unit test class move new engine test sub project
+select module screen create game screen fix window position configuration mess close game minimise make family bendable replace pad options apply elements various margin fix add option use content width content height relative layout row layout add support bind nest
+remove less useful base class make gas material inherit base material
+add new component system life cycle methods probably break every module suggest switch insert basecomponentsystem avoid number empty methods protect future change hopefully much add auto create component system prefabs automatically instantiate
+allow systems influence character speed systems work client server client simulate movement
+refactor copy movement code add flight mode

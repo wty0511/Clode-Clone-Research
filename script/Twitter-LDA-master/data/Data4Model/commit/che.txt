@@ -1,0 +1,7 @@
+eclipse che initial contribution sign
+set maven build core plugins dashboard assembly add maven build sub modules remove duplicate resources code conduct contribute docker file license number read move root please set default maven jim fig move dependency management che dependencies che dependencies hear party dependencies leave che dependencies remove unused travis figs remove outdated sam figs sign
+fix launch che linux sign
+index reconfigure port server common configuration need specific use case start che agent case agent different port configuration sign
+merge pull request index reconfigure port server
+che fix get git fig property value fix get method jgitconfigimpl class previous behavior property present global git fig file git repository fig file execution git connection get confirm get return property global git fig file
+fix create pics per workspace strategy sign

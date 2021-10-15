@@ -1,0 +1,215 @@
+start factor way options set start easy boolean downside approach full proof plug developers think acceptable compromise
+introduce abstractchecktestcase provide common functionality test check use java grammar tree walker able parse improve whitespacearoundcheck add test
+check redundant modifier
+implement new version checker use check intent able reuse exist checker due problems unable receive email moment
+port illegal instantiations check still need remove old code
+pull common functionality
+add initial guy oliver please check file headers lead license problems sun maybe need remove header exclude guy package target
+start port java doc check type
+java doc method check
+wrap global properties check configuration configuration class integrate check least
+correct check style errors
+make automatic bean configure final provide define extension point prevent program errors user class
+test input file indentation check
+move javadocvariablecheck see involve
+move another java doc check see involve surprisingly small amount love eclipse refactoring support smart tvs operations
+refactored white space check
+bug add check typecast parent involve bite refactoring
+refactored cod check
+add interface check
+implement requirement bean class abstract
+new java doc style check chris still well
+rename filter package filter consistency check incorporate filter package name
+update severitymatchfilter
+indentation check refactoring fix bug
+add illegal type check simon harris request add getter illegal assume property illegal catch check
+multiplevariabledeclarations request
+scoping java doc check
+hide inherit field hide static method check bel contribute daniel brenner
+support suppress errors miss java doc property access methods still need document docs
+fix abstracttypeawarecheck work type type arm pretty big refactoring type aware check perform also add handle type paras current handle algorithm precondition restriction work case sure cover situation type para name real exception think critical also add column number java octal mainly able use class info javadoctypecheck also affect add new logger tree walker loggers use
+add write tag check output java doc tag information patch thank daniel brenner brenner contribution
+clean use
+convert test unit
+add suppresswithnearbycommentfilter filter use nearby comment suppress audit events thank mick kill provide patch
+move standard directory layout
+issue make handler index child method call get proper suggest indent level
+add base separator configuration option translation check
+issue add comment support antler grammar add new token type token type class tree walker treat comment nod hide skip change superclass detail commonastwithhiddentokens
+hide field module accept settercanreturnitsclass attribute
+illegal type check fix false positives file name add support analyse import issue
+prefix java doc
+fix java doc comment java doc tag java doc inline tag relate nod
+fix add support windows line separator fix uts
+visibility modifier check add option allow public immutable field issue
+fix finallocalvariablecheck clause variable report issue
+issue suppressioncommentfilter suppress strictduplicatecode warn
+issue magic number detection option ignore magic number field declarations
+final local variable name check fix bug lambda paras issue
+fix link check violation depth first algorithm link
+introduce new handler synchronize handler check indentation fix issue
+replace fast stack array que avoid nulls issue allow element avoid null object introduce initial context
+delete system exit delegate exit control separate method issue
+fix empty separator violations package issue
+move test input file resources issue file move exclude check style analysis
+make message base check invariant locale issue
+magic number annotation detection enhance arbitrary parent nod issue
+extend return count check treat lambdas separately
+change location leave curly brace end line
+fix throw count check violations check style code
+extension singlejavadocline
+solution wrong variable report name shadow finallocalvariablecheck solve
+add possibility configure target pare pad check
+fix cml structure
+change package rule customimportordercheck
+solution magic number detect properly
+coverage increase missingoverridecheck
+switch options reorganize easier read
+java type check parameters inner class
+coverage increase needbracescheck issue
+add test coverage import handler indentation check
+add test coverage indentation check
+java doc deprecate support
+hack let app eyer cache maven rep
+fix right paycheck option rise expression single line block issue
+issue nowhitespaceaftercheck refactored coverage improve
+remove class coverage robert exclusion list
+issue coverage increase translation check
+issue fix indentation check accept proper right parenthesis annotation
+issue improve coverage return soundcheck
+coverage increase uniquepropertiescheck issue
+fix problem lexical order customize reorder
+coverage
+add new option right paycheck issue
+issue improve coverage variabledecalarationusagecheck
+additional experiment fix build app eyer
+fix build problem idea windows
+fix uts windows conflict windows server
+coverage increase trailingcommentcheck issue
+issue add test validate commit message
+remove unnecessary consecutive line check style code
+issue add lambda support indentation check see
+coverage increase comment suppressor issue
+extend message customize reorder
+issue output stream close
+correct link web site addition issue
+issue hideutilityclassconstructor violations fix
+issue class resolver coverage increase
+doc update
+provide uts getrequiredtokens getacceptabletokens issue
+issue suppress warn deprecate remove
+make getrequiredtokens getacceptabletokens abstract issue
+remove unnecessarily fully qualify name test code fix inspection violations test code description report fully qualify class name shorten quick fix inspection shorten fully qualify name add import statements necessary
+rename static methods follow convention test code fix inspection violations test code description report static methods whose name either short long follow specify regular expression pattern
+mark methods static fix inspection violations test code introduce recent commit description report methods may safely make static method may static synchronize reference class non static methods non static field override sub class
+fix broad scope variables additionally obsolete assertions remove fix inspection violations description report variable declarations scope narrow especially useful pascal style declarations start method variables broad scope also often leave refactoring
+replace deprecate method hide enfield
+decrease scope variables fix inspection violations description report variable declarations scope narrow especially useful pascal style declarations start method variables broad scope also often leave refactoring
+issue abstract recheck coverage increase
+issue refactoring javadocmethodcheck reduce method length
+issue partial fix return count violations
+utile class move utile package issue
+remove unnecessary keyword fix inspection violations description report unnecessary use code use disambiguate code reference may easily become unnecessary via automatic refactoring discourage many cod style
+issue narrow scope variables fix inspection violation description report variable declarations scope narrow especially useful pascal style declarations start method variables broad scope also often leave refactoring
+issue switch case clauses many line
+issue add suppression intel idea inspection inspection case right parameter replace work fine check style break binary compatibility maven check style plugin acceptable
+issue detect nest end mark static redundant modifier check
+issue fix nowhitespaceaftercheck
+issue block code duplicate
+deploy snapshots versions
+issue improve code coverage tokentypesdoclet
+doc update comment
+issue fix usability java doc check
+issue unify test input locations
+issue goal test check activate forbid apis plugin violations fix
+issue unify test input locations
+issue unify test input locations java doc package
+issue enable line length test folder
+issue unify test input locations metrics package
+issue start enable check folder
+issue enable final local variable test folder
+issue exclude line import line length check
+issue enable check folder
+issue clip print file name exception happen
+issue add visible test annotation applicable
+issue add new check regexponfilenamecheck
+issue remove excess hierarchy require check
+issue fix spell errors package
+pull update find bug maven plugin
+issue finally variable false positive switch solve
+issue fix stringindexoutofboundsexception indentation check
+issue fix restatement perlite lambda validation
+issue optimize java cuties
+doc add set check style plugin list active tool
+issue make white around allow double brace initialization
+issue add exception invalid automatic bean children
+issue rename check abstract check
+fig automation release process
+issue new clip option print java doc comment parse tree
+issue add skipnojavadoc option miss deprecate check
+issue allow miss java doc tag allow annotation put
+issue forbid multiple violation line indentation check
+issue duplicate error message static final field declaration recheck
+fig self simple update
+issue restore indentation throw indent logic
+issue improve code coverage checkstyleanttask
+issue german translations correct
+issue remove dependency commons lang library
+fig maven project info report plugin
+issue fix false positive variable assign multiple time
+issue fix false positive variable assign block inside catch block
+doc add today list active tool
+issue fix indentation test verify content input
+fig ant version bump
+issue remove duplicate validation line wrap
+issue wiki page info
+issue change fig fix throw indentation violations
+issue fix lot commentsindentationcheck false positives false negative
+issue add indentation check
+minor remove unnecessary count correction indentation test
+issue illegaltokentextcheck illegal recheck work comment content token
+issue update java
+issue macros java support
+issue remove requirement right curry must first line
+minor introduction uniformenumconstantnamecheck send
+issue fix require find end block token
+issue require check see outer class anonymous class
+issue add try resources redundantmodifiercheck
+issue change test make assumptions order map
+issue prevent static variables check require
+issue add execution exclusion file filter
+issue add redundant modifiers final abstract methods
+issue resolve intel idea inspection violations java migration
+issue allow regex sub package import control element
+fig suppress robert exceptions output due robert java syntax parse problems
+issue replace line base suppression inline ones
+issue cut check style dependencies guava part
+issue parameters recheck new scope exclude scope properties
+issue save file cache suppress violations
+issue split guard class two
+issue add new tokens whitespaceaftercheck
+issue remove warn package def precede java doc separate line
+issue thread local usage single thread check style
+issue make hard cod map module name check style
+issue add lambda right paycheck
+issue verify type check
+issue verify tokens use check style fig
+issue increase mutation name package
+issue fix ape java receiver parameter
+issue modify indent check handle multiple stack annotations
+issue docs fix
+issue add varas support nowhitespacebefore
+issue fix catch indentation wrap
+issue update reason google operator check fig
+issue add new case operator indentation check
+issue enforce abbreviations check style
+issue fix funny message
+issue reevaluate tokens illegal context
+issue update reason google emptyblockcheck fig
+issue try avoid non run time exceptions code
+issue control character skip google check fig
+issue refactoring
+issue test fail due locale message settings non english locale settings
+infra add simple binary encode error test
+issue uts use root locale test violation error message
+issue modify move input file generic interspace subdirectory

@@ -1,0 +1,376 @@
+first commit
+add sol support netty introduce possibility communications transport help run sol original commit
+initial commit infrastructure code base security four modules auth realm base authentication module auth role base privilege permissions authorization module node node authentication module incl filter auth audit audit trail module include log file audit trail original commit
+build add bic test release script commit add ability run bic test release process ensure current release backwards compatible latest instal previous version instal mean available configure bic test path close
+netty add filter capabilities pipeline use exist infra structure filter netty pipeline handler hit order reject soon possible right connection simply close configuration simple yam file use allow deny rule original commit
+properly test client auth allow require fix issue client auth never need help change parameter name add test remove useless code sslintegrationtests original commit
+change privilege permissions work change privilege class move away end use constants instead imply work type privilege introduce replace generic compound fix filer store use new privilege permissions change file format filer store instead array indices permissions define object indices key privilege value move configuration pure yam format add option authorization service extract indices aliases permit specific user privilege original commit
+tool add options edit roles list users roles two new command command line tool add users list allow list users roles single one users roles allow add remove roles roles configure consist lowercase alphanumeric character original commit
+suggest add suggest request request fix break java docs client close
+internal fix rare case corruption compression use internal cluster communication see corruptedcompressortests detail bug hit change also remove ability use unsafe variant chunk encoder remove support set
+change version snapshot also add shield version track version change code base original commit
+add transport filter request auth transport level well addition transport action level require internal request execute action thus auth process transport action since authentication also assume request associate authentication token internal system call auth request system user also add system realm handle system request original commit
+return correct help headers security exceptions change always return add wow authenticate header result user pass input browsers add test assertions class close original commit
+internal auto create index keep around headers context request cause close
+mappers better validation map son close
+mappings add support empty field array close
+fig file parse improve parse edge case create test improve parse file importantly fix endless loop yam parse make non yam parsers bite error resistant close original commit
+snapshot ensure bic layer read chunk blob
+test create shield integrationist test inherit integration test contain configuration need run shield base improvements close relate original commit
+clitoral fix add roles exist users roles file check instead users file check user already exist lead wrong user find error message original commit
+test apply default settings call method provide test specific methods
+lap add open dap active directory test reactors sale fig sale fig split sale fig ssltrustconfig open test active directory test connect via tvs instance original commit
+term vectors support artificial document add ability term vector apr generate term vectors artificial document document present index follow similar syntax percolator apr new doc parameter use instead specify document interest parameters index type determine map therefore analysers apply value field close
+test add proper error message bic test fail due true system property system properties typically set via command line therefore override node settings one result cryptic error message test run
+authentication service resolve auth token rest request also make sure fallback system token system permission action change bind different service run singletons close original commit
+bug fix module report whether enable disable correctly also fix bug module disable injection fail inject appropriate value also update latest change core action filter apr change original commit
+test ensure security plugin load via class path original commit
+test create rule start stop apaches ensure resources clean appropriately original commit
+filer store make sure default path load correctly startup wrong path use default path also add log information file one least check paths original commit
+test make possible run rest test shield add extend allow run rest test shield test run default require additional configuration rest test spec location file system activate via rest test spec location provide follow test need blacklist moment follow close original commit
+add key service key service provide functionality initially use scroll ids scroll apr original commit
+add clip tool generate system key file original commit
+test fix scrollidsigningtests never use sign scroll ids tamper one include thus tamper could stay sign scroll ids case would make everything work test fail also clear scroll finally block otherwise test fail scroll stay around might make test check fail original commit
+log suppress long map log map update unless trace currently debug log get verbose indicesclusterstateservice log complete map every map update suppress long debug mode always log full one trace close
+initial skeleton original commit
+maven fix run license verification test original commit
+internal let negative compute base system clock negative clock time update execution search request commit protect case replace elapse time negative close
+test pass second iterations still lot original commit
+update documentation release
+update python sound like python leak thread python issue python fix typical error run test close
+multi line multi statement python script raise null interception call multi statement score use curl possible current lang python possible write script use semicolons multiple line get compound statements list comprehensions embed statements work limit complexity score process use latest lang python work example run simple query use score modifier create wait script reload monitor log call calculate result achieve use line call ignore however use statement fail example use split statements legal python create script directory contain call script make two statements split two line errors throw note experiment equivalent groovy script semicolon allow multi line script script allow close cherry pick commit fra
+update snapshot original commit
+test two corruptions fix file test corrupt multiple place file randomly corrupt place twice fix file mistake
+docs update update sample close
+major refactoring license manager initial integration license service still lot original commit
+test bump benchmark apis version
+change users roles format key roles roles key align lap role map file linux group file group serve key also add support comment line start file original commit
+core remove leftover unused constants
+update document parameter completion suggest query
+complete license notification test original commit
+cat apr add node name add source node target node field recovery cat apr also fix update documentation complete concern field name close
+change cache hash algorithm cache realms passwords hash memory use default instead original crypt also possible configure memory hash algorithm original commit
+first round refactoring licence manager longer static singleton original commit
+docs update fix mistyping close
+core add warmer listener index service set order prevent possible ape indices warmer get set internalize service get set lead small time window internalize service set close close
+docs miss quote fix miss quote close
+package system refactoring zip original commit
+major refactor make license consistent restructure license manager original commit
+search pass fie data field non array cause room pass simple value instead array end infinite loop create parse elements null value commit validate incoming token close
+reroute shards automatically high disk watermark exceed add listener interface cluster service use diskthresholddecider add listener check nod pass high watermark node past high watermark empty reroute issue shards reallocate desire reroute issue every default reactors internalclusterinfoservice delegate nod stats indices stats gather separate methods override extend class stat gather method return countdown latch use wait process part successful call listeners fix
+initial node level test minor cleanup original commit
+alertactionmanager add alert action job queue change add alertactionmanager alertactionentry old alertactionmanager become alertactionregistry mean result alert queue job queue execute separate thread alertactionmanager composite member alert manager change basic test run single node fix action registration action happen different node thread directly construct thread pool use cluster listener alert manager responsible start job queue original commit
+test reproducible due late cluster initialization cluster test must initialize static manner first test run otherwise random context use initialize cluster take test randomness rather suit randomness mean test cluster different setups single test execute even test might entirely different random sequence
+test fix wrong assertion test introduce
+test beef test replace deprecate apr
+test remove wait events multiplenodesshutdownnonmasternodes test validate minimum master node honour shut nod nod restart may couple master election master elect discover old nod leave new node join process node failure master elect self fine start new master election test however run cluster health call wait event implement use cluster state update task fail master step longer term fix require rewrite cluster health apr code quick fix check events need test
+merge branch original commit
+remove license specs original commit
+fix dangle timeout set auto import dangle set yes dangle indices delete mistake removedanglingindices runnable add every dangle indices without consider auto import dangle set
+clear realm cache file update change behaviour users realm whenever file update realm cache expunge change lap realm file update realm cache expunge also clean unused code mainly around users different store original commit
+internal engine
+move stream parse original commit
+refactored improve licensestransporttests ensure invalid license never make cluster state original commit
+test upgrade test run major minor version differ
+improve licensesservicetests include randomize stress test multiple client registrations minor pom fix original commit
+update lucent close
+add serialization test add license signature test refactor unit test test infra cleanup license tool nuke filebasedlicenseprovider original commit
+update fix invalid asci doc
+test add description parameter
+test assign name transport client create within external cluster transport client create within external cluster need name follow name convention otherwise thread leak filter barf run test external cluster use transport client external get incremented every time new external cluster get create update thread leak filter rule ignore thread create transport client
+alert transport action add update action oops fix test original commit
+merge branch original commit
+test make field define map sort fail
+update status shard info header work
+delete alert add delete response deletealertresponse commit add delete response deletealertresponse original commit
+update documentation release
+refactor shard recovery anonymous class shardrecoveryhandler previously bulk shard recovery code line anonymous class make difficult find difficult read factor code class add java docs function phase recovery well comment explain esoteric function perform recovery hop help people understand elastic search recovery procedure major functionality change typo corrections minor allocation improvements log clarification change
+core cut path apr file deletion today use file apr file deletion well recursive directory deletions apr return boolean operations successful hide actual reason fail path apr throw actual exception might provide better insights debug information close
+trans log trans log leak file handle corrupt truncate trans log file corrupt truncate stream never close file handle leak commit close stream case exception
+test add master node test original commit
+core make sure delete unscheduled ape return alert delete twice core alert search index exist fail original commit
+test disable compression bic test version compression bug fix still strike since run bic test version commit disable compression forcefully compatibility version prevent debug already know issue
+docs expand log documentation update log link point log version clarify format support briefly explain loggers append plus add link log docs close close
+rest add stats get alert rest handlers original commit
+test replace temporary older rule utile provide randomize runner need use temporary older rule test since depend randomize runner create global media whose clean already manage infra dir file create global temp dir specify also desire duration suite test close original commit
+rest fix render get alert original commit
+lap change group lookup include nest group expand activedirectoryconnectionfactory lookup nest group non standard way fix original commit
+log broadcastoperationaction add trace log successful shard level responses order able trace exact shards participate operation
+add option trigger search alert default close original commit
+geo fix geo shape query polygon fix add simple consistency check intersection edge appear pairwise polygonal boundary test pass false positive eastern side dateline simply due initial order edge direction intersection edge polygons eastern hemisphere test correctly fail inside due attempt connect incorrect intersection edge edge even intersections patch fix add broader test coverage intend long term solution mid term fix work refactor geo spatial computational geometry use end eco coordinate systems higher accuracy eliminate brute force mercator check conversions close
+docs document support load multiple log conf file
+drop binary request response field rely fully response request object field close original commit
+test fix cleanup bootstrap test original commit
+aggregations make size parse consistent string close
+test delete index test release file handle
+fix typo java doc comment mapper service close
+log provide template usage information index creation close
+typo change real word real word close
+bloom fix bloom filter ram usage calculation bloom filter actually return size bite set size bytes factor plus constant close
+add start stop restart apis close original commit
+add utility method countrequestbuilder allow add query countrequestbuilder content builder close
+filter use settings file instead configuration allow future make dynamic set also share access cluster instead use distribute file another change order matter anymore allow win deny last change order align rest elastic search documentation update accordingly original commit
+improve start stop logic alert manager remove synchronize add stop state expose alert state stats apr let test framework disable alert close test cluster original commit
+core upgrade current lucent snapshot elastic search longer unlock lucent index startup dangerous could possibly lead corruption add new serbian normalization token filter lucent nolo factory longer support none typo lock hit store exception instead silently use nolo factory close
+internal override user context already exist bug cause fact serialize user authenticate node anymore auto create index end override user context system due wrong check would check headers instead context bug reveal rest test also refactored method readability remove check token original commit
+snapshot restore fix compilation issue
+fix update exist alert work expect original commit
+add sample log output verify functional shield installation get start section original commit
+alert history make alert history index time base commit make alert history index time base index alert history time base index prefix alert history time format lyly commit make alert history index time base index original commit
+test add additional log memorycircuitbreaker test
+add forget cluster block check original commit
+merge branch
+versions add constants
+meet query support ignore docs add parameter meet query simply tell algorithm skip term give document could useful order better guide nearest neighbour search tell algorithm never explore space span give docs essence interest characteristic give item ones provide thereby force algorithm deeper selection term note different simply perform must boolean query unlike items syntax exactly parameter close
+merge branch original commit
+test add test use age trigger original commit
+health mark health time desire state reach today mark cluster health request time request already time yet implementation detail health request wait events take quite time machine busy already reach valid state wait events process mark cluster state time help test wait green state lot nod shards fail cluster health call
+increase log original commit
+test remove outdated test log annotation
+typo error message point geo polygon filter close
+internal remove bic leftover cause test failures read method sync anymore write
+change payload merge original commit
+package set core provide dependency also update assembly configuration commons code version close original commit
+romani romani
+cleanup move catch exception higher stack reduce number try catch clauses
+test take account inclusive range expiration callbacks original commit
+test check total shards number shards instead request send two shard copy case shard relocate show shards header therefore must check greaterthanorequalto
+test make shield leftists check posit support original commit
+add version build information stats apr also set current maven version snapshot original commit
+minor hygiene remove redundant inheritance close
+refactoring code base original commit
+refactored alert packable way define trackable alert hold represent back status hold represent state last throttle throttle yet change hold intuitive value preamble introduce additional info method original commit
+export host name environment variable mention docs
+introduce construct payload represent payload originally create trigger pass way execute action action may use payload execution example email action may use payload model behind email template transform represent transformation payload core accept payload apply transformation output outcome transformation payload simple design make transform chain able mean list transformations apply well define order payload transform apply payload initially generate trigger output transformation provide action payload execute currently two transform type former transform construct actually transformation instead output payload apply latter perform search elastic search use output search search response payload output original commit
+package add antler dependencies
+refactoring move alert execution logic history service history service listener schedule events introduce use alert service history service lock alert across service history service responsible execute previous yet execute fire alert rename rename improve action result parse logic field mandatory rename alert history type use rename fire alert original commit
+replace trigger condition rename trigger notion condition main part make alert schedule determine often alert check condition determine whether alert execute action define alert life cycle terminology fire alert change well follow fire schedule fire event indicate alert check check condition associate alert check either meet indicate alert execute indicate alert execute throttle although condition meet system decide execute alert base throttle logic execute condition alert meet system decide throttle fore action alert execute change reflect new life cycle describe original commit
+clean commit resolve
+add shadow replicas share file systems squash commit follow commit author lee hin man date wed feb use end primary preference commit author lee hin man date wed feb use preference primary automatically real time get operations commit author lee hin man date wed feb move engine creation protect creatine engine method commit author lee hin man date wed feb factor assert searcher use mock engines commit author lee hin man date wed feb use helper commit author lee hin man date wed feb rename usessharedfilesystem isonsharedfilesystem commit author lee hin man date wed feb add mockshadowengine hook use commit author lee hin man date wed feb clarify comment predefined mappings commit author lee hin man date wed feb add test shadow replicas use field data commit author lee hin man date wed feb revert change commit author lee hin man date wed feb rename commit author lee hin man date wed feb remove shadow factory add newreadonlyengine method engine factory commit author lee hin man date wed feb add warn predefined mappings use commit author lee hin man date tue feb remove unused import fix index creation example docs commit merge base author lee hin man date tue feb merge remote track branch commit merge add author lee hin man date tue feb merge remote track branch commit author lee hin man date tue feb add asci doc documentation shadow replicas commit author simon auer date tue feb remove last commit commit author simon auer date tue feb simplify shadow engine commit author simon auer date tue feb fix test commit author simon auer date tue feb revert change indexshardgateway leftovers previous iterations commit author simon auer date tue feb back non share code second iteration commit merge era author simon auer date tue feb merge branch conflict commit merge edda author simon auer date tue feb merge branch commit author simon auer date tue feb add test fail shadow engine remove commit commit author simon auer date tue feb remove commit index metadata commit author simon auer date mon feb remove commit simplify delete logic commit author simon auer date mon feb reduce change compare master commit author simon auer date mon feb fix primary relocation commit merge ref author simon auer date mon feb merge branch commit author lee hin man date fri feb throw unsupportedoperationexception write operations shadow engine commit merge etc author lee hin man date fri feb merge branch commit author lee hin man date fri feb replicate document request use shadow replicas commit author simon auer date fri feb add one commit commit merge area end author simon auer date fri feb merge branch commit author simon auer date fri feb revert unneeded change store commit author lee hin man date thu feb add documentation shadow shard remove commit commit author lee hin man date thu feb add documentation shadow engine commit author lee hin man date thu feb remove commit document candeleteindexcontents commit author lee hin man date thu feb refactor share methods abstract engine commit author simon auer date thu feb simplify share file system recovery use dedicate recovery handler skip phase enforce shard close source target open engine commit author simon auer date thu feb fix compile error upstream change commit merge author simon auer date thu feb merge branch conflict commit author simon auer date thu feb first cut catch primary make flush refresh factor shadow shard index hard identical master least intrusive cleanup abstractions commit author simon auer date thu feb fix primary promotion commit author lee hin man date wed feb make assertpathhasbeencleared recursive commit author lee hin man date wed feb add testshadowreplicanaturalrelocation commit author lee hin man date wed feb use check share file system primary primary relocation also add commit commit author lee hin man date wed feb add test check indices shadow replicas clean commit author lee hin man date wed feb fix segment info shadow engine remove test commit commit author lee hin man date wed feb remove commit shadow interest testa start commit author lee hin man date wed feb remove overly complex test commit author lee hin man date wed feb fix miss import commit author lee hin man date wed feb add test replica primary promotion commit author lee hin man date wed feb remove test apply shadow engine commit author lee hin man date wed feb add testshadowengineignoreswriteoperations testsearchresultrelease commit author lee hin man date wed feb add start shadow engine unit test commit merge author simon auer date wed feb merge branch commit author simon auer date wed feb shortcut recovery share need compare file etc commit author simon auer date wed feb utilize new delete code commit merge dub csc author simon auer date wed feb merge branch conflict commit author simon auer date wed feb long adder available java commit author lee hin man date tue feb add test restart nod ensure shadow replicas recover commit author simon auer date tue feb make test evil commit author simon auer date tue feb make test pass commit author lee hin man date mon jan add shadow engine
+test never flush test rely recover trans log
+internal fix field mappers always pass index settings currently many meta field mappers take index settings simple constructor document mapper use instead pass null empty settings parent abstract mapper change fix pass index settings add assertion abstractfieldmapper settings null close
+template formalize template definition introduce interfaces main template implementation parser bind also content templates yam son render model content use fallback web hook action update action use new template infrastructure also introduce mock unit test remove effectively test template functionality add proper test web hook action later commit original commit
+transform fix add unit test search transform also search template script populate fire schedule time also payload original commit
+internal clear alert execution thread pool queue alert plugin stop shutdown alert execution thread pool cause use hack workaround get thread pool start alert run clear thread pool queue sufficient stop fire alert run fire alert already execute stop also remove volatile previousfiredalerts field execution fire alert need alert service anymore purpose field exist original commit
+client reorganize test add alert source builder along set source builder different construct make alert condition input transform action provide structure approach build alert client side instead force clients use content directory fix test already use builders reckon still quite need convert time move integration test package change integration test randomize alert structure make sure serialize serialize content fix small bug find test original commit
+add test history service execute original commit
+test fix test issue original commit
+docs add docs input schedule condition also remove file throttle cover page fix cox model parameters templates script use prefix add dedicate section alert anatomy execution context template script model write first page section original commit
+standardize script template model variables responsible create model script templates across board access payload alert name fire time schedule fire time via prefix original commit
+test fix discoverywithservicedisruptionstests isolatedunicastnodes start node cluster instead node cluster isolate uni cast host also master node local cluster state get unusable source ping disruption stop nod cluster state node list remove time ping never find nod nod ping already follow new master
+add support template paras search request original commit
+move testalertswithdifferentsearchtype test aggregations unit like test original commit
+test flush refresh query indexwithshadowreplicastests
+align result construct transform parser registry parse transform result every transform result may format chain transform result output transformation trail chain transform great tool debug remove redundant transform define alert transform remove instead execution hold input result transform result potentially transform result action change content represent transform result change interface clean accept execution context original commit
+fix test original commit
+attempt fix correct mime type handle java mail apparently sometimes java pick correct mail cap file therefore handle mime type correctly commit statically set mail cap relate original commit
+test add test history store close original commit
+add web hook index action test commit add test web hook index action also add docs web hook index action fix urls escape web hook action urls original commit
+recovery cancel primary complete relocation primary move another node cancel ongoing recoveries retry primary new home moment happen primary relocation start shame cancel recoveries may close completion finish primary fully relocate commit trigger cancellation primary relocation complete next fix race condition recovery cancellation recovery completion moment may trigger remove recover shard complete instead use recovery cancellation logic make sure one code path follow cause recoverwhileunderloadwithnodeshutdown test fail see test create index increasingly disallow nod node leave allocation filter rule normally mean stay green premature recovery cancellation plus race condition mention cause shard fail stay unassigned test assert fail happen due follow sequence shard finish recover send master shard start command recovery cancel locally remove index shard master start shard delete copy local node get cluster state shard start cause send shard fail make master aware shard fail assign due allocation filter recoverwhileunderloadwithnodeshutdown also adapt bite fit current behavior allocation filter past use really shut nod last test class give better name fit current terminology close
+change project name elastic search watcher package package longer use term instead use documentation still need update original commit
+add help input help input allow let help interface input watch help input configure follow options optional help method default get host help service port help service urls path optional urls query string options optional help header optional authentication help head optional body response help request expect valid son close original commit
+add option filter key input via option array key define extract input response stream manner use payload instead entire input response help example search example close original commit
+add option input support value help tip close original commit
+test make sure refresh run original commit
+test also run shield help input integration test original commit
+add hot request support web hook action also add docs hot request support web hook action close original commit
+improve benchmark original commit
+rest add son request body scroll clear scroll analyse apr change add son support analyse scroll clear scroll add close
+change action format add notion action action identify unique action watch definition key instead array construct hold action action optionally transform action structure base template help request hold need extra element actor construct use inconsistent state hold input stream could already read original commit
+enable script transform return value commit enable script transform return value value type use payload otherwise value type take value put map key map new payload simplify write script require script build map original commit
+add support test rest endpoints change add support test watcher rest endpoints also update apr docs current latest code change getaway response information need getaway response use contain get response need contain need field close original commit
+fix eclipse integration update eclipse core press eclipse luna overwrite press file put settings alphabetical order remove comment cause press file modify git workspace update file version generate eclipse prevent modify every time settings value modify change also add another plugin life cycle map miss
+commit contain major refactoring core construct watcher use name fact always execution context simply name wrong place wrong place code new package create contain execution relate construct include new role execution process extend also enable control execution control since provide default result contract example provide default input skip execution input also enable simulate action bellow two implementations use trigger service trigger execution watch enable manually execute watch latter configure different phase normal executions watch skip great simulate watch execution execute watch without actually fully execute action create email email action would normally send without actually send new context implementations also sit new package change describe action consult execution context actually perform task execution context indicate action run simulate mode action semi execute return result action type define simulate mode example email action create email render template actually send return result contain email would send run normal condition non simulate mode action actually index anything create index request would execute action create help request actually send new apr introduce utilize enable manually execute register watch apr provide tool control action simulate enable skip execution watch default also skip record execution watch history though enable desire apr expose java via dedicate rest endpoint documentation around new apr add well close original commit
+shield exception watcher exception parse exception extend watcher exception shield exception original commit
+cleanup templates introduce implementation change hold template fig render engine introduce render give engine model rename method give model engine create construct also fix bug help request build configure scheme set clean make immutable use builder build also fix bug content render scheme get rid old template implementations also parse template simply need special change action builder deal action know anything action pass watch builder directly add action original commit
+cleanup refactoring action split action two construct former hold action configuration latter execute action base configuration executable action hold action code clearer understand maintain also enable pull common implementation code reduce implementation detail executable minimum require also extract top level class rename main thing parser delegate parse class construct wire clean align log message across action introduce introduce parametrized exceptions exception message construct exactly like log message use paras introduce notion watch execution help build action much intuitive client perspective original commit
+merge branch
+test testtranslogreplaywithfailure allow mockdirectorywrapper optional
+date time watcher use schedule trigger time always etc change date time construct without provide time zone cause non etc time leakage particular watch record ids create non etc date watch record wrong watch history index add clock date timezone allow callers get etc also construct date time etc timezones construct mill add constructors date time specify time zone forbid apis change make construct object without provide forbid much safer make time zone errors much unlikely occur statically import everywhere use call use reference etc fix original commit
+improve error message attempt snapshot close index currently error message index close miss shards commit generate specific failure message user try create snapshot close index relate
+persist need execution change persist need mark status status mutate watch execution status dirty persist end execution execution lock hold change record history record execution also control weather status update fix original commit
+docs fix miss comma context suggest docs close
+log esrejectedexecutionexception better let bubble thread actually fire trigger print uncaught exception esrejectedexecutionexception log debug level original commit
+double watcher executor thread pool size tune index templates higher index throughput trigger events process index sync manner move job name trigger event add support fire multiple events time multiple events fire time use sync bulk persist watch record cut simple ticker timer ticker fire multiple events time fire events time also may result large bulk request original commit
+test wait green restore indices
+core fix ape field set different thread close
+mappings validate dynamic mappings update master node commit change dynamic mappings update synchronous entire cluster validity check master node important consequences commit fail index request non exist type implicitly create type anymore dynamic mappings update create inconsistent mappings different shards index request introduce new field might induce latency spike overhead update mappings master node close
+log log error message fail parse fail parse startup currently get stick behaviour undefined commit add log tell happen original commit
+merge pull request export host name environment variable
+add watch metadata template script model watch metadata accessible templates script also change default email attachment include cox model whole payload provide context watch execution watch execution time metadata etc original commit
+show proper error email password specify fix original commit
+settings validate without index set prefix move validation logic metadatacreateindexservice add shardclustersnapshotrestoretests add validation restore service close
+fix restsearchscrollaction also accept source parameter instead request body
+rest add utilities source body handle rest action
+rest render rest errors structural way commit add support structural errors failures exceptions elastic search rest layer exceptions render least correspond exception name message exceptions like ones associate index shard additional information index exception trigger shard respectively render response also contain list root cause list distinct shard level errors return request root cause lowest level elastic search exception find per shard response intend display user indicate source exception shard level response default group type reason reduce amount duplicate return yet exception return different indices group close
+better handle sensitive data register watch watcher settings watch may contain sensitive data typically want expose plain text expose mean store plain text indices store memory plain text access via mem dump return user via apr plain text examples sensitive data email service configure watch help input use basic auth web hook action use basic auth new hear right secret service add handel secrets across board watch first add watcher service convert sensitive data secrets moment sensitive data associate watch whether store index memory hide behind secret service also use reveal original sensitive data demand need example email send send original text two implementations default one plain text create secrets really hide anything second implementation base shield shield instal enable use use shield cry service potentially encrypt sensitive data potentially shield system key must define encryption take effect without system key cry service encrypt instead return sensitive data plain text note even shield instal encryption sensitive data apply set set default set apis update filter sensitive data use special hide secrets parameter shield integrate use shield settings filter filter sensitive settings rest nod info apr shield instal enable filter change several refactoring need take place help auth code base refactored modular like modular construct watcher separate former configuration construct latter applicable executable construct change accept watch instead watch source natural way look store also create return addition directly store watch source send user instead first parse watch important step validate source convert sensitive data secrets serialize watch back way sure secrets store original sensitive data implementation update properly propagate docs add shield integration chapter original commit
+test run randomly shield original commit
+test ensure shield enable field set httpinputintegrationtest sometimes unsettle shield enable field subsequent test methods cause help errors nod start shield enable original commit
+analysis add multi value text support add support array text multi value analyzerequestbuilder add support array text multi value analyse rest apr add docs close
+move action level king throttle functionality apply watch level major drawbacks different aspects multiple action define watch king watch effectively act action conceptually wrong say two action likely like back email action avoid receive many email time continue index data action right possible different action type may require different throttle action probably need longer throttle period compare action also different action throttle ultimately determine party system call commit change throttle king move functionality action level king action watch ask separately execution action determine whether need throttle throttle associate action watch throttle period enhance default throttle period configure watcher whole use set next define serve default throttle period action watch lastly action throttle period set since throttle action thing package rename move package also rename change change well execute watch define execution mode per action execution mode offer type execution execute watch normally actually execute action may throttle skip ignore throttle execute watch simulate watch execution yet may throttle skip ignore throttle simulate watch execution part change structure watch status change along content represent new introduce part always set every action watch status hold current state action last execution state success failure reason last successful execution state last throttle state timestamp reason original commit
+back compact add test miss filter field name field fix correctly disable index however exist filter update check enable flag miss filter branch still check field type see index cause filter always try use field name field old index change add test old index test miss filter close
+test add test transform feature original commit
+test enable test compilation elastic search version elasticsearchintegrationtest method call hot client different return type watcher abstractwatchertests hot client change rename original commit
+test add test verify execute watch record await election state watcher start phase original commit
+apr remove global parameter source individual apis way define pretty anywhere source
+script compilation validation parse time change attempt compile script construction time throw exception script bad miss change script compile executable actor compile script use get executable fix original commit
+test add web hook integration test original commit
+execution service try send empty bulk request close original commit
+add support headers hot client hot response hold response headers add specific support content type response base create content payload original commit
+merge branch
+upgrade lucent snapshot
+unify search request construction search transform search input step old change unify logic generate search request prototype search transform search input change also add field miss add test parse different tempt options search transform along test handle search type search transform miss previously fix original commit
+java apr remove redundant bytesquerybuilder favour use wrapperquerybuilder internally bytesquerybuilder introduce use internally phrase suggest collate feature end expose via java apr exist wrapperquerybuilder could use instead add wrapperquerybuilder constructor accept bytes reference argument one reason filter builder remove get way query parsers refactoring give query builder allow build query java apr without respective query parser close
+attempt resolve permissions users tool users tool read list roles provide validation feedback user however since add custom roles tool know roles come outside shield custom role find warn print confuse users validate roles read name file close original commit
+make sure skip watch watch record malformed watcher start phase original commit
+test fix fail test original commit
+enable inline content structure help input body body help input may hold content data problem today body accept text write escape son text make hard maintain commit introduce another field settings use inline content text content use keep around content type help request execute include content type header match content type input original commit
+automatically thread client base action listeners today rely user set request listener thread true client side order block thread heavy operations prove crappy users end create problems hard debug instead right thing automatically thread listeners use client client node client transport client change also remove ability set request level listener thread effort simplify code path reason around something thread close
+index template add support add additional settings index templates also remove version check index template support settings change settings always get store index template mean always put two index templates watcher start also shutdown watcher cluster service stop cause deadlock integration test framework stop test cluster multiple nod stop node may briefly try run watcher test cluster shutdown part start always put index template block start stop call watcher service node run put index template call part start procedure start framework would stop node stop call would wait lock yet put index template call return cause stop call keep wait reason put index template hang fail return anything node stop likely put index template request get queue wait change cluster state cluster service get stop request get lose watcher start procedure still wait stop watcher stop cluster service avoid scenario describe original commit
+merge pull request remove shutdown hook permission
+test randomize trans log settings
+fix bug prevent actual job schedule engine adjust watch interval update interval unit close original commit
+throw appropriate error input empty watch empty object need throw appropriate error indicate problem instead ape currently throw close original commit
+merge branch
+java apr unify search response broadcastoperationresponse code around shards header different responses hold shards header search count flush etc code duplicate two different place centralize rest action turn search response print status field reason add broadcast responses close
+disable response metadata cache cache use diagnostic purpose force object every response old generation fix
+change content structure rename rename rename rename update template reflect change also add concrete mappings action type field anal zed map fix bug document type ignore also change aka object array action part action object indicate field example reason change make path action field predictable deterministic object structure action key path action field depend action unpredictable continuously change one action another make impossible properly analyse action data use aggregations age require full path aggregate field change mappings change well define nest type yet still configure include field root object future appropriate support add diana able apply nest aggregations action enable correct safe multi dimensional aggregations mean time however diana support nest aggregations still need field index root least single dimensional aggregations safely apply also change object mappings disable main reason fact lot input use elements configure many ways mappings strict accept example template configure original commit
+add force parameter delete force delete change add force parameter delete allow force delete happen ignore lock mean watch executions may fail update watch watch execute scheduler fail fast watch suppose execute remove also move history store update outside watch lock fix original commit
+change search template format search input search transform new watcher template format also watch rutile always use search template support core never use script service template parse extend watch context variables normal request body convert search template watch context variables use template paras original commit
+add set disable watcher follow node set disable watcher enable default original commit
+highlight nuke post highlighter fork lucent post highlighter easy maintain give add value point particular introduce support require field match option discrete per value highlight use case one want highlight whole content field get back one snippet per value two feature make lucent slow things support day one end probably one customization support wider range query via custom rewrite etc yet another way slow things get add lucent work much much better use instead rewrite term pull automate multi term query remove fork mean follow term feature drop support require field match post highlighter highlight field query custom query support anymore mean highlight one find phrase prefix post highlighter rewrite empty reader avoid slow operations like ones perform fork remove thus prefix expand term post highlighter instead pull automate multi term query support moment multiphraseprefixquery close close
+test enable inline script test
+centralize content parse time value rename original commit
+test fix block test run windows
+make default constructors need serialization public
+expose current execute watch part watcher stats apr follow additional information show per watch execute whether execution input condition action useful customer report issue stats apr default include execute watch response order control option add specify query string argument last path element stats apr urls default watcher stats apr return basic statistics already option follow value include current execute watch response include metrics stats response useful expose metrics apr useful original commit
+test ensure license enable start watcher change add check make sure license enable start watcher test avoid race condition test might run license manager chance start original commit
+merge pull request improve path get init better error message sym link support
+fix escape moustache string think escape moustache factory extension jsonescapingmustachefactory core break escape control character stick front example new line character render line break simply pretend result new line add support different escape strategies base content type template moustache engine currently son escape support use templates pretend content type set set son son escape content fix original commit
+add migration note analyse request
+add dynamic index name support search input transform rely users configure search request sometimes often search request execute time base indices problem way define dynamic index name bind time force request search indices example marvel watch commit add dynamic index name resolution work follow way index name simple string indicate static absolute index name search incl wildcards index name also template template enclose within officially illegal character index name safe use template static part place holder part place holders enclose within place holder hold expression resolve default date format resolve resolve one custom date format resolve follow example search input search marvel indices last days rely default marvel indices format action also update work dynamic index name possible index daily indices set index name original commit
+update watch history template disable search request body template field volatile mappings apply input transform disable watch level transform result payload original commit
+test apply property rely help header send shield authentication finally omit manage watcher role test user original commit
+test fix build failure randomly restrict header use original commit
+test add await fix
+merge pull request mappings remove smartnamefieldmappers
+use releasable lock try add test
+stats add queue watch metric queue watch metric give insight watch queue execution per watch queue execute information share like watch trigger execution start original commit
+test add simple runner allow run watcher work box sense original commit
+doc feedback
+disallow negative time value settings consolidate set validation use settings errors need consolidation guide deal well exceptions constructors instead inject use registry settings errors since service register errors throw start fix original commit
+test filter colons test section name windows colons illegal file name since use path check test blacklist test colon test section name fail change simply remove colon name match blacklist
+test remove original commit
+stop triggeredwatchstore history store current executions may current executions still stop try wait current executions complete otherwise run situation delete watch trigger watch index insert history index upon start lead documentalreadyexistsexception already store history record shutdown introduce handle synchronization always first store watch record remove trigger watch original commit
+add support multi doc index index action commit add support index multiple document action introduce special field action execution field look payload find value field consider document need index value array object object array treat separate document document array bulk index commit also change result action hold rather payload avoid map creation explosions also extend support list original commit
+make prompt placeholders consistent exist placeholders introduce prompt placeholders different format exist placeholders change prompt placeholders follow format exist placeholders relate
+test reduce replicas indices sync flush test make sure shards start know sync flush hit shards still initialize sync flush may miss confuse stats call
+move input errors input result input fail exception would throw would capture globally watch execution watch record message problem approach information input lose commit failure return part input result new field add input result either value set field set error message change enable functionality mainly instead rely exception execution input result check status execution abort failure also two place watch execution handle consolidate single method also watch execution context end add context model accessible via script templates mainly debug purpose original commit
+refactored apr plugins module original commit
+add connection read timeout support help today connection read timeout help directly support mean without set oracle specific system properties startup call bad help service would default hold watch execute thread forever net good commit introduce connection read timeouts connection timeouts timeouts set connection read timeouts timeouts wait data read default timeouts set second override default indefinite possible customize default timeouts settings settings also possible override default per help request mean per web hook help input configuration watch original commit
+move condition errors result condition fail execute whatever reason exception would throw watch would abort problem approach error message would log watch record message result condition would lose commit move condition execution error condition result like today action input field add condition result either field add condition result case status condition result status watch execution abort update rest apis verify status type result execution original commit
+analysis add detail response support add explain option fix char filter bug close
+move transform errors transform result transform fail either watch action level exception would throw would capture globally watch execution watch record message commit bring error transform result new field add transform result either value set field hold failure message change enable functionality mainly instead rely exception execution transform result status check fail watch execution abort original commit
+test remove validate query rewrite yam test
+fix shield relate errors original commit
+fix rest test original commit
+mappings remove smartnameobjectmapper previously container object mapper along document mapper object mapper come however one use need associate document mapper actually use
+fix field type test
+make slow false test pass original commit
+merge branch original commit
+docs update replace previous example leverage range filter cause unnecessary confusion use range filter create single bucket range aggregation exactly one member range close
+rename email action result close original commit
+add miss mail jar distribution original commit
+get watch apr return watch status separate watch source status maintain user rather watcher idea get watch apr return watch provide watcher via put watch apr status report top level field original commit
+add timeout option transform input action add default timeout set set timeout action timeout define action set timeout input timeout define input set timeout transform timeout define transform add general watcher wide default timeout settings operations expose client proxy search relate operations index operations bulk operations original commit
+address comment
+fix recovery state timestamps use system currenttimemillis wall clock time use system nan time delta fix
+index templates change template tip template registry responsible maintain watcher index templates template registry add templates base index templates exist cluster state components rely index templates register template fig template registry template registry add templates background cluster state update occur add component index settings index template also component index settings change index template update template registry register index template get delete add back template registry background cluster state index template miss original commit
+initial migration watcher original commit
+initial migration shield original commit
+merge branch original commit
+finish clean exceptions commit finish exception cleanup resolve leave last set exception change enable mute test close original commit
+need check primary shards history indices start since load watch record watcher startup process original commit
+merge pull request remove dependency indexfielddataservice mapper service
+field data field exist field info always return non cache empty atomic reader
+add template support search resource much like already search add tempt support search resource close
+license checker check existence specify package try unpack
+marvel add dedicate settings service commit add dedicate marvelsettingsservice centralize marvel settings original commit
+release add version number bic indices
+merge branch
+build rename site example plugin site example consistent plugin name convention today plugin
+fix basequerytestcase merge master
+marvel add additional stats index node stats close original commit
+marvel add simple launcher run marvel original commit
+test refactor class plug test use package private extension point previous use something like load mock class test would set set suppose use test change make imply package private test change implementations test plugins close
+also deploy top level artefacts commit add wagon release profile also tool rest apr spec make actual repository path bucket configurable
+introduce hip chat action action capable send notifications room users hip chat action support three type hip chat apis deprecate legacy apr token register group level version apr use apr support room notification users notify multi room notification support basic integration one create hip chat use apr version notifications send single room user notification unsupported apr apr use apr token specific user admin user create apr token configure access room notification user private message apr support multi room multi user notifications settings similar infrastructure nature possible configure multiple different hip chat account associate apr type profile respective configure action watch one specify hip chat account would like use specify account use account also specify unique hip chat server full flexibility close original commit
+add license acknowledgment mechanism consumer plugins notify users attempt install new license close original commit
+marvel mute indexstatscollectortests original commit
+stub acknowledge callbacks commercial plugins original commit
+query del remove unsupported option match query builder option remove parser commit data parse anymore however still setter builder get render use potentially lead parse errors remove setter unsupported option
+marvel test cluster state cluster stats node stats collectors close original commit
+docs update docs version beta original commit
+reject older cluster state master
+marvel rename cluster license cluster info add additional stats close original commit
+marvel wait shard allocation indexstatscollectortests original commit
+call listener earlier listeners may need work shard path access create directory plugin listener call anything happen name imply
+test ensure bind local host host consistently current netty multi port test bind local host try connect may fail local host resolve inv default randomly choose local host available bind use throughout test
+remove use immutable list shield original commit
+surround logic log filename quote parameter strict filename semantics script specify surround make java think send logic fail quote need since valid character include space character need worry quote resolve
+merge pull request add compare condition handle array original commit
+allow environment optional clients service change make environment optional clients service use transport clients also use lap client connections since use clients service lap connections still need environment run node security manager resolve paths configuration directory close original commit
+remove disableallocationdecider replace deprecate remove
+introduce watch today add watch watcher always active active mean watch register trigger engine schedule execute trigger trigger quite often pal want option deactivate disable register watch watch definition still exist watcher inactive never trigger way today use hack change watch schedule iron expression target really far date future say somewhere around hackish require change actual definition watch loose original trigger commit introduce notion active inactive watch differences two state active watch register watcher trigger engine execute trigger fire engine inactive watch register watcher register trigger engine inactive watch never fire regardless trigger commit also add two new apis activate deactivate exist watch addition put watch apr accept parameter indicate initial state put watch default set active close original commit
+marvel store shards individual document marvel shards close original commit
+marvel add heap cluster stats close original commit
+update
+enable xtestsecuritymanager
+remove forbid use commit remove forbid use across code base one many step eventual removal guava dependency relate
+remove dynamic index name favour date match index name original commit
+merge pull request remove forbid use
+add stack trace log exceptions miss relate
+fix compilation errors cause change wipe method commit keep behavior exclude index audit trail template wipe future commit original commit
+document user group attribute set lap realms close original commit
+remove transl service fold synchronous index hard apr commit move size ops base flush synchronous apr index hard remove time base flush together since basically cover inactive sync flush apr today functionality need cover schedule task sync apis actually make decisions sync manner way easier control test close
+shield integration add internal add bind internal marvel user request send original commit
+prevent watcher start set restrictive close original commit
+clean also add additional unit test class original commit
+fix integration test prepare grind shield integration test disable integration test exporter able turn shield original commit
+add local exporter implementation original commit
+cleanup local exporter original commit
+use utility
+remove start stop exporter original commit
+introduce bulk abstraction top exporter remove queue bulk processor local exporter start adjust test shield require lot helper methods move index name resolution functionality share exporters original commit
+fix groovy test pass son anymore need double escape quote
+another format fix
+merge pull request build task gulp file original commit
+merge pull request switch geo validation end
+fix typo
+add disk use indices set store flag request
+fix cluster state handle local exporter add additional test local exporter original commit
+test fix compile errors due break java apr change query builders original commit
+remove static stuff marvel settings original commit
+merge branch
+change find license plugin use standard value install name initial smoke test find license plugin original commit
+marvel mute clusterinfocollectortests license stuff update original commit
+query refactoring set parent child type context properly refactoring child parent query lose important detail around type type inner query get execute main type search request parent child type set parent query use use queryparsecontext settypeswithprevious part content structure class delete without take care though set type restore part inner query query call meanwhile also make sure original context type restore percolatorqueriesregistry close
+settings log fig file overwrite custom parameters
+test disable flaky test original commit
+marvel fix integration test package close original commit
+docs update release note change original commit
+geodistancerangequerybuilder change state call query geo point get normalize call query happen copy point though state request never change part query execution also update correspond test support point normalization close
+introduce primary term every shard group elastic search select copy call primary primary shard fail new primary would select exist replica copy introduce track number time happen allow follow work among things identify operations come old stale primaries also first step road towards sequence number relate close
+merge pull request expire license page original commit
+merge pull request add link swagger elastic search
+watcher adhere new license requirements basic license equal disable trial gold platinum everything allow expiry action watch execute put get watch disable close original commit
+marvel fix shardscollectortests close original commit
+fix compile errors due search request refactoring core original commit
+merge pull request fix single character reference docs original commit
+merge pull request name index rout search rout info date
+remove lucent empty doc set filter ban method use anymore
+marvel remove snapshot condition hot exporter close original commit
+marvel index recovery type need data index close original commit
+marvel ignore indexnotfoundexception index shield enable shield marvel instal together indices exist cluster yet shield return indexnotfoundexception commit ignore log debug level indexnotfoundexception shield enable set empty close original commit
+docs console multi search search template docs relate
+migrate file original commit

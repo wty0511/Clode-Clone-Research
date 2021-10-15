@@ -1,0 +1,119 @@
+move core third party half test still need move later time create moe moe migrate reid
+remove spy support create test gee properly initiate help gee create moe moe migrate reid
+copy frame class new transport tweak apis create moe moe migrate reid
+implement netty base client transport server side implement follow overview nettyclienttransport entry point client transport create stream well nettyclienthandler nettyclientstream client stream implementation send command nettyclienthandler via command callbacks stream make directly nettyclienthandler channel thread context nettyclienthandler netty handler act bridge nettyclientstreams netty process create moe moe migrate reid
+extract netty negotiation logic separate utility class create moe moe migrate reid
+add client transport session temporally keep server side use test port transport help server host local host server port transport help create moe moe migrate reid
+improve client transport handle away add unit test create moe moe migrate reid
+upgrade java netty draft create moe moe migrate reid
+add inbound flow control netty client server transport create moe moe migrate reid
+remove dependencies google common internal change use make copy code base need anymore create moe moe migrate reid
+server mph interfaces correct channel mph update use style exception handle server mph create moe moe migrate reid
+rename java new transport package transport create moe moe migrate reid
+move abstracttransporttest third party require make longer depend gap client instead use builders make use gap client almost completely obsolete create moe moe migrate reid
+use abstracttransporttest test case imply testserviceclient create moe moe migrate reid
+implement standard integration test almost preexist test slightly different integration test implement language change implementation match unfortunately standard test actually trigger netty flow control bug decrease stream size workaround test compare golden responses detect cup server send instead fix receive errors hit cup server empty nary various stream test java cup enable create moe moe migrate reid
+dedicate client interceptor interface utilities replace channel wrap technique official solution intercept call client side manner server interceptor create moe moe migrate reid
+handle exceptions throw application create moe moe migrate reid
+update code use latest netty application level flow control support create moe moe migrate reid
+remove client stream stream methods block client interface current signatures useful sync counterparts rather specific requirement come create moe moe migrate reid
+remove service apr server mph fix
+correctly handle disconnect notifications netty previously code close help stream prior notify application layer wrong order code depend enumerate open stream notify application layer create moe moe migrate reid
+update git ignore grade
+remove reference stubby
+add check style check slightly modify version upstream google check style configuration change comment describe lot warn correct examples project warn still necessary change require think
+netty add option set max concurrent stream
+solution code gen deployment
+swap netty sslcontextbuilder provide utility configure context usage change necessary
+cache grade really maven artefacts grade cache maven central need locally instal netty
+replace operation exception status exception operation term longer use status exception seem clear concise move status class remove stutter return type exception explicitly status exception type
+flush headers immediately server aware stream receive real data half close resolve
+clean stream error happen resolve
+flake transport test see detail reproduce failure locally guess timeout short travis travis machine get high cup usage short memory cause full tolerate longer wait time sure whether change fix flakiness like give try
+add open loop client benchmarks
+fix issue close call entrant fashion framer write cause exception throw transport
+remove block nettyclienttransport fix motivation currently block channel active tvs handshake complete certain case may lead deadlock even loop see detail modifications remove block buffer write channel ready receive active tvs negotiate help upgrade successful result block part use netty client side
+allow people skip code gen compilation resolve add project property false default people change code gen pro file set true need set compilation check generate file
+make channel server abstract class abstract class allow greater ability change time previously interfaces allow use guava abstract service
+fail travis build code gen commit catch problems run test run however almost photos use main limitation big deal become problem change script script also need include grade build instructions
+add unit annotations list methods check style ignore
+add ping
+simplify build instructions netty fetch maven
+enable tvs hotpot hottest
+use exit integration test client machine client currently take run test however exit take lot integration test second add know one second destroy delay second sharedresourceholder part another second appear netty create thread previously create shut
+commit code gen file miss allow users use skip oregon true
+make fast path lock free resolve
+make test certs shareable use test certs module depend interior test module really make sense move certs test module mean sort test common area modules
+add compute engine reds test fix manually test run ice netty server port server host server host override default service account raaqavqoagmvmsm mel auth scope test case compute engine reds
+add default user agent netty
+avoid gym unit test gym slow provide benefit unit test even use native gym fast use available cipher test still make sense change build java work although reason change machine parallel build cut full build time second second incremental build change interior test build time cut second second
+add android interior test app far build separately components
+enable warn raw type would prevent miss generics
+upgrade photo grade plugin
+implementation context apr allow propagation limit amount state call stack across thread boundaries strongly model context apr support cancellation propagation cancellation listeners type value bind timeout deadline major difference thread local use propagation instead parameter pass consider idiomatic java
+use max payload size benchmarks avoid exceed netty buffer pool default max buffer size
+add client interceptors inside channel mph fix
+add call options pass call options channel new client interceptor intercept remove timeout add deadline store call options inside stub deadline nanoseconds clock define system nan time convert timeout transmit wire fail call deadline exceed already expire
+simplify flow control window fig netty fix
+add handle stream exhaustion netty
+support non fallback android
+set hard cod deadline year years exceed maximum systems moment change year workaround systems get change since default large number instead present temporary fix anyway
+enforce request deadline use scheduledexecutorservice channel mph terminate request close client stream status deadline exceed
+remove use instead
+fix invalid data share metadata merge
+use mutation methods stub reconfiguration make reconfiguration code concise remove configure stub add mutation methods withdeadlinenanotime channel etc return reconfigured stub
+add executor wrap context
+add support non fallback take step towards fix officially support open due fact alan non fallback support jetty since one bootstrap plugins provide
+send stream frame server deadline
+implement transport reconnect
+sync error map spec
+permit override channel executor per call
+reorganize package reserve public apr internal stuff core internal include non stable transport apr raise sub package one level public apr entry point users detail rename transport internal move sharedresourceholder serialize executor internal rename transport netty process netty process
+include source file fat binary jar fix
+add coveralls support
+annotations unstable internal interfaces add annotate annotate annotate channel mph ping annotate context annotate add
+set max concurrent stream connection connect write message queue inside pending stream instead serialize executor
+improve documentation client
+remove headers
+annotate server essentials build essentials server mph constructor
+remove unnecessary instance check
+link java doc photo java doc break havana link value normal lite pro seem important
+remove transport shutdown hook channel builder current process build channel bite complicate transport provide shutdown hook channel builder order close share executors somewhat entangle creation pattern make difficult separate process channel build transport build better separate two make code readable maintainable move forward
+implement unimplemented method test
+extract fully qualify service name public static final field service container type
+enforce content type client server fix
+fix race condition send cancel send frame
+add way distinguish advertise message encode add test
+annotate method descriptor file generate code experimental
+add test prove close stream remove hack transport force closure
+add miss run annotation test
+add override authority nettychannelbuilder although functionality currently available pass manually create address require user call apr work name future
+load balance managedchannelimpl add name resolver load balancer interfaces managedchannelimpl use name resolver load balancer transport selection may return transport multiple address transport still managedchannelimpl implement transport manager interface provide load balancer load balancer worry transport life cycle channel builders create target accept fully qualify target name fri test old address base construction pattern support use anna resolver simple balancer currently incomplete merely work single address scenario
+fix hang tvs nero fail negotiation failure result exception properly handle code result client hang refactored code shutdown transport tvs negotiation fail
+prevent construction container class reduce apr
+run make many core available
+upgrade
+put nan generate code nan package unless option havana use deprecate package set also fix behavior java package set empty
+prepare channel layer upcoming load balance change listenable futures transport instead actual transport pass multiple layer client limp name resolution load balance may delay creation transport block creation client also simplify reconnect logic move transport management single address separate class transport set later managedchannelimpl multiple transport set instead one client limp buffer request delay stream transport ready
+use one code gen class nan factories reduce number class define reduce memory usage also reduce number methods define important sex limit virtually zero performance ration contiguous switch use table switch byte code arg arg prefix otherwise could name collision oddly name method since field prefix method collide
+allow non host base authorities transport
+cover low hang fruit
+increase code coverage context minor bug discover fix
+load balancer load balancer round robin address list receive separate load balancer service via protocol define everything put sub project dependency photo updateretainedtransports accept equivalentaddressgroups load balancer merge normal server address group call
+initial basic implementation context bind clients limit test add utility function work contexts interceptors use name make conversion metadata simpler
+move delay stream file
+update android interior test app use managedchannelbuilder
+integration test test cascade cancellation
+revert lazy connection connect reconnect transport request lazy connection safer desirable mobile environments also core warm connections call even periodically want maintain live connections
+cancel server context call cancel context close server close client cancel
+fix bug server declare negotiate compression
+use gotcha loader instead thread current thread getcontextclassloader android see detail
+change android interior test app call run test test require internal code turn pro guard debug app catch throw able run test errors like outofmemoryerror would fail test compare message size velar response test otherwise compare two message would create two large byte array
+fix guard
+split new stream start
+add initial integration test tvs support test run use jetty alan use open
+move resource free test methods avoid try finally would get even larger shutdown channel
+create new abstracttransporttest transport lower level exist abstracttransporttest use transport process transport one part commit
+add transport test netty netty client shutdown would race negotiation handle circumvent abstractbufferinghandler use new command order leave channel close available abrupt kill connection connect ping termination previously race make succeed fix test netty would consistently fail call callback fix netty fail callback use right status netty channel close none handlers run reliably fail future closedchannelexception useless special case exception fill reason shutdown prevent accidentally report transport longer use call transport shutdown status already longer consume since key whether transport ready call helpful fix
+enable transport test okhttpclienttransport fix shutdown start prevent transport terminate call also longer fail pending stream shutdown life cycle management general revamp hopefully simpler precise process away handle send receive improve change log spam generate immense unhelpful since many exceptions part normal operation shutdown change reduce amount log spam nothing
+core remove usages android reduce number methods bring substantial application see different number though depend usage dependencies rough count number methods include android interior test reduce change count include guava ohio nan actual reduction methods discrepancy due reduction methods remove methods removal cost increase methods total within

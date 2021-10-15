@@ -1,0 +1,630 @@
+rough cry code refactored name conventions
+mess around mtg authenticate apr
+merge cleanup
+clean
+refactoring private trade account service tidy output use template methods throughout update appropriate exchange service implementers require
+refactor move
+knock mtg trader service
+add support stream web sockets initial code spike demonstrate change apr would handle asynchronous events
+tidy code convert demo swing app better presentation data fee
+create change generic account info class introduce new change mtg account credentials
+clean trade apr internal code
+add trade units test test apr call mtg
+introduce symbol air apr flexible encode currency information add support inter sing public market data apr
+add support inter sing public data private account info retrieval via authenticate apr add cover important considerations
+merge recent change add support soda money soda time see money tip date tip add interim break support stream data feed inter sing
+refactor move
+move inter demo class examples module
+refactoring light implement mtg stream trade market data service
+rough mtg socket stream apr
+delete move
+preliminary vertex support
+format organize input
+add ticker builder due size constructor need new error message tidy code
+etc exchange module public poll apr support depth trade ticker
+add etc example class
+add bite stamp apr
+bite stamp add trade functionality create cancel list limit order
+add job money csc file remove hard cod etc code make traceable identifier appear
+add campus apr use warn
+campus market data unit test
+campus ill clean
+add debug log statements currently disable
+add test poll rest demo
+mtg order book implementation
+mtg trade ticker
+add examples stream ticker trade market depth
+upgrade jackson tidy fix bug mtg stream ticker demo uncover whole new one
+bite coin poll market data implementation
+fix mtg apr urls change
+rough web socket code remove code
+clean mtg stream order book code add unit test organize unit test
+add bite coin example code
+purge bite coin module leave code dormant state
+stream account info
+user order improve add lag add unsubscribe
+account info
+add
+rough mtg examples class
+update fix mtg apr code
+add mtg code
+forget add last commit
+remove raw mtg account apr call
+mtg deprecate unit test reorganize package bite
+implement mtg poll apr
+switch unit test fest
+add note deprecation message state longer support
+get rid raw paras mtg apr preemptive solution future case mtg suddenly support raw para like apr
+add logic reconnect network timeout web socket apr
+refactor move organize package better
+fix issue add unit test
+etc china market data implementation
+china example test class
+bite cure module
+merge branch
+add date order book implement mtg poll bite stamp also new example order book bite stamp
+fix order book timestamp issue
+implement fuller
+code style
+implement currency pair son test adapters test adapters ticker test refactored depth know bug partial depth seem effect
+add kraken use package
+handle exceptions come network call rescue
+add bite cure demo class skip
+mtg trade change trade drop millisecond timestamp precision
+issue
+example bitch chart chart data
+bitch average module ticker
+etc refactor step
+etc refactor step
+bice deprecate
+update etc china market data apr use new endpoint urls
+adjust kraken george book method return full order book default remove customer timestamp logic client plus bug
+add test patch kraken open order description contain eur transaction currency eur
+initial bite index examples commit
+update fix miss trade fee mtg account
+rough bite minium module update bite cure methods change get ticker signature
+add bite minium ticker demo add certificate trust helper class change core
+remove redundant poll class name class name get long
+add real time chart demo
+add real time order book chart demo
+implement trade service get request work post delete request work fix dependency package rescue add support help response cod
+add posture response handle return create order
+raw generic refactor issue bitch average
+merge remote track branch
+update coin rescue dependency new rescue snapshot need fix handle help response cod need work coin apr
+full implementation kraken public market data apr also improve serial action respect use raw service
+manually add vic rex module pull request fix forward merge issue clean bite
+merge branch
+refactored mtgoxtradeservice
+update demo run raw generic service
+update mtgoxmarketdataservice per code review
+full raw implementation kraken private user data
+complete demo refactoring mtgoxmarketdataservice
+complete refactoring bitstampmarketdataservice associate demo
+complete raw implementation kraken apr
+clean adapters update adapters test misc kraken update
+add raw demo kraken
+fix bite cure demo
+raw generic refactor issue bite index
+raw generic refactor issue cavite
+manually add beer module pull request fix forward merge issue clean bite
+general clean assistance detector java docs light refactoring
+date serialize helper
+fix incidental incorrect mac signature bite index change minimum width signature hexadecimal base algorithm use bite key way lead zero get trim anymore
+merge pull request fix incidental incorrect mac signature bite index
+merge
+update demo skip
+merge branch
+progress coin base raw authenticate methods
+implement coin base transactions methods
+implement coin base button
+add live getter order status
+implement order users tokens
+doge beer
+complete raw implementation coin base
+update apr methods work latest rescue
+java docs account market data raw service
+coin base account unit test progress
+issue get rid big money redundant currency field bite index
+issue get rid big money redundant currency field china
+implement raw ticker
+issue get rid big money redundant currency field cavite
+coin floor implementation complete
+minor demo update unlatch methods test
+final change coin floor module return data directly methods
+complete beer implementation plus test demo
+multi thread synchronization fix unit test reformatted code
+dynamic init currency pair exception getexchangesymbols
+lazy init currency pair bice
+update websocketeventproducer message fragment logic
+merge remote track branch
+add support
+vault satori poll market data
+add bite stamp stream depth test case
+complete work atlas apr
+crypts test add pass crypts module functional
+vertex implement public apr refactored deprecate apr new currency pair update vertex examples
+piggy back module access mine apr
+merge pull request initial commit atlas ats apr
+crypt nit poll market data
+add null check bocci response
+add order query
+initial effort add bite index total return swap capability change implementation currently test raw function relate get active swap order book send offer swap order box apr terminology retrieve responses cancel offer work expose generic trade service would like make sure acceptable add loan type generic interfaces bunch notimplementedexceptions
+merge remote track branch upstream develop
+change nonce longtimenoncefactory
+full bitt rex implementation implement bitt rex public authenticate methods also add builder limit order
+add bitt rex demo
+add bitt rex bulk tickers response
+colonies full implementation still need figure handle errors
+fix merge conflict
+merge pull request fix date adapter
+error handle add case crypts return nothing
+bite index exception handle error message return bite index catch throw exchange exception message bite index
+apr update cryptogram exception get tickers
+make market order order type configurable
+introduce market metadata
+initial commit coin
+colonies add order book depth limit trade history start end time parameters
+update
+add miss coin
+bite oman order book ticker service bite oman exchange
+add coin market demo refactor code bite
+introduce factory method implement examples coin setter hit
+switch end contract new futures imply
+unmatched crypts pair change null null accurately represent unmatched currency pair
+support diff order book channel
+trade full implementation
+mercado icon mercado bite coin almost full implementation examples test miss generic extra history function possible access information use raw service getmercadobitcoinuserorders method
+bitch bitch full implementation
+merge pull request mercado icon bug fix improvements
+replace marketmetadataservice
+hit get trade fee hit exchange init use get account
+move trade metadata raw service class
+general cleanup examples module
+use synchronizedvaluefactory throughout exchange implementations
+format organize import
+misc cleanup remove necessary throw declarations coin cleanup
+copy builder class pattern market order limit order class
+rename test class
+refactored package name add rough ticker vic rex
+add raw metadata adapter
+coin socket stream initial commit
+apply exch spec paras instantiate ads due refactor
+add coin stream demo
+use depth timestamp available oct depth
+rename class refactor raw trade class
+rename change bite change hub
+move generator remove generators module move currencies pair respective core class
+bits add trade service trade serviceman place order trade history retrieval
+add taurus exchange implementation
+hub stream support
+user trade history
+independent reserve market data
+independent reserve account data auth
+add test bitch adapters
+merge remote track branch
+update demo test avoid hard cod apr key
+futures service modifications allow leverage contract spec
+remove print statement earlier debug
+calculate correct fee currency
+fix bitcoindeorderbooktest accommodate sort order book
+fix bitcoindeadaptertest work sort order book
+add bits ticker
+error code decode stream
+add case insensitive end lookup fix
+add explicit loop count bitcoindetradesdemo modify
+add get history operations obtain commission history trade
+merge pull request reuse rescue serialize remove duplicate class
+gate coin apr change
+bice support market order use limit order min max limit price
+ripple trade fix enhancements
+remove change bitch entirely library issue
+format
+remove get request
+add ether currency
+ripple add support trade present pass payments fix bug cause incorrect buy sell direction report adapt
+fix withdraw fund add requestdepositaddress
+work version bice withdrawal support test
+hit update flush poll apr
+add new order multi cancel order multi methods bite index
+crypts update son file unit test update unit test self
+colonies switch order number long colonies order number long integer since saturday eth market order overflow integer value
+core refactor make currency class
+core rename wallet balance
+zip commit merge develop change partway split account info balance data wallet class remove deprecate methods
+zip merge develop account info
+bitt rex implement withdraw deposit withdraw history retrieval
+cry facilities derivatives platform implementation implementation change apr client cry facilities derivatives market
+cryptofacilitiesbalance retain order map entries cryptofacilitiesbalancejsontest sometimes always fail
+uts trade module test coverage
+uts bite market module test coverage
+uts bite market code review fix
+hub add support order info
+uts bite market code review fix
+uts check style fix
+uts data converters fix
+uts fix
+uts fix
+merge branch
+fix
+fix fix hopefully break etc china btcchinaorderstatus replace order status
+crypt facilities fix enhancements work around fwd contract case sensitivity currency pair constructor crypt facilities tip apr return order book bid reverse order reorder standard descend order implement cancel order order implement createtradehistoryparams
+fix
+update chart
+prevent necessary extra call ticker resolve empty array map issue add market point
+change bite market fix buy bid ask sell conversion
+name space refactor sorry inconvenience might helpful find name bar type exec dir bad
+fix
+add support bite stamp eur
+support bite stamp eur apr deprecate apr methods supersede improve bite stamp error report simplifications
+support bite stamp eur apr user transaction history
+trade history bug fix
+merge pull request fix
+merge pull request trade history
+bite index remote init
+colonies order flag support inc market maker order amend add raw interface remove open order poll order cancel method
+colonies check null return trade history find trade
+independent reserve eth trade support
+independent reserve fix order book support eth fix available total balance bug update metadata add eth aud eth ned currency pair
+add class methods trade service operations service methods rock trade service relate test template integration test
+quadriga market data account trade implementation
+add trade
+initial commit gemini
+merge branch
+colonies add post immediate cancel flag move order request
+order book trade live coin exchange
+add new exchange obit order book trade
+sex add account service withdraw fund support apr
+kraken add deposit withdrawal status request
+sex implement apr
+issue
+bite bay private apr implement
+implement cancel order method rock exchange
+new camp colonies exchange propose
+bump snapshot remove poll code
+refactoring rename maven modules
+add timestamp attribute inmate ticker
+inmate open order rewrite support openordersparams currency air
+change hub fix check bite exchange specific paras case present
+fix end apr conversion kraken retype
+update remove add file change
+coin floor core coin floor implementation add multi currency option trade order paras
+remove ltd mexico
+add generic apr fund information deposit withdrawals
+stream support day exchange
+code cleanup accord intel recommendations
+code format
+update idea code formatter
+map deposit withdrawal status bite index coin kraken china fix adjust unit test
+create class dix market data
+implement marketdataserviceraw saba service
+implement demo examples market data fix bug code
+implement methods extra service
+finish extra service start implement examples trade service
+implement extra demo
+implement test adapter class
+merge pull request judi get trade
+rename package know know
+fix timestamp parse
+dix start transition trade withdraw apr
+ticker depth trade place disorder handle currency etc
+merge pull request
+implement extra history mexico support tradehistoryparamlimit tradehistoryparamcurrencypair tradehistoryparamstimespan paras
+fix day live coin metadata adapters longer destroy static currency data provide respective son file
+merge pull request merge
+dix delete useless import
+merge pull request merge
+implement extra history lestrade trade
+implement openordersparamcurrencypair bittrextradeservice
+fix build add test
+dix add new method cancel withdraw
+merge pull request gemini remove reference bite index
+remove logic add fbfdbadddfdfa logic break ticker ability bitt rex
+cleanup
+lung initial commit
+bott rex additional currency pair example
+unit test cleanup
+merge remote track branch
+add fine support set additional order field support get order method
+public market data service fix update
+update currency pair son
+trade implement withdraw fund
+update gdaxproductticker obj name bits sticker sticker look copy paste mistake update name reference day oppose bite stamp day example
+add bach market mexico son
+exchange support cry topic add market service cry topic
+obit implement batch request tickers trade order book clean new implement ions fix order book parse
+add kraken endpoint
+bite stamp implement lite coin withdrawals
+trade history work
+kraken adapt limit order
+bite stamp add eth withdrawal support
+add null check market service class
+first approach backward compatible change
+get ticker work
+bitt rex file move directory
+account service implement need test
+add limit trade para gemini get trade
+add trade test
+merge remote track branch
+coin floor delete redundant null
+bitt rex single currency get balance support
+core fill miss tag descriptions
+dix fix incorrect son return cancel order method
+change tradable amount original amount
+merge
+correct limit order builder trade test
+add cancel order bite stamp exchange
+merge remote track branch
+mexico fix extra history filter cancel trade fix timestamp agree website
+china recap initial import
+add getallorderbooks live coin specific apr call fix string
+add httpconntimeout exchange specification
+cry topic fix user trade history
+add bitt rex ripple withdrawal support
+bite stamp update resource file update min amount update min amount mac
+fix bite stamp order book demo
+dix delete redundant timestamp fix get trade method
+minor add withdrawals fee exchange meta data
+bite index update resource file see post
+bite index update resource file see post
+liquid add public apr implementation
+bite stamp add support refund history fund history retrieval currently unsupported bite stamp bitstampaccountservice createfundinghistoryparams throw notyetimplementedexception add support fund history retrieval bite stamp implement createfundinghistoryparams refund history refund history implementation commit able retrieve one page transactions currently entries may therefore miss fund events however consistent current behavior also unable retrieve one page transactions
+day add support requestdepositaddress request deposit address currently unsupported day add support request deposit address add getcoinbaseaccounts getcoinbaseaccountaddress day retrieve list coin base account link day account request deposit address give coin base account add gdaxcoinbaseaccount gdaxcoinbaseaccountaddress store result aforementioned methods implement requestdepositaddress gdaxaccountservice
+implement remain amount via cumulative amount order class already hold cumulative amount remain amount directly retrieve via original amount subtract cumulative amount add order getremainingamount purpose update accordingly relevant exchange adapters update note consider remove
+liquid add liquid trade apr implementation
+update contributors
+day bite index stream enable service netty day order book bite index stream enable day order book stream multiple products channel subscription allow null websocketclientextensionhandler fix typo message handler stream support bite index exchange fix gdaxwebsocketsubscriptionmessagetest issue
+support bite mex stream enable service netty day order book bite index stream enable day order book stream multiple products channel subscription allow null websocketclientextensionhandler fix typo message handler stream support bite index exchange fix gdaxwebsocketsubscriptionmessagetest issue support bite mex stream
+colonies stream enable service netty day order book bite index stream enable day order book stream multiple products channel subscription allow null websocketclientextensionhandler fix typo message handler stream support bite index exchange fix gdaxwebsocketsubscriptionmessagetest issue support colonies stream apr rename timestamp seq add letter add colonies format timestamp readable string convert instant date format
+support bite flyer stream enable service netty day order book bite index stream enable day order book stream multiple products channel subscription allow null websocketclientextensionhandler fix typo message handler stream support bite index exchange fix gdaxwebsocketsubscriptionmessagetest issue support colonies stream apr rename timestamp seq add letter add colonies format timestamp readable string convert instant date format support bite flyer stream make observable pub nub service shareable minor change code bite flyer market service class change note
+support gemini stream enable service netty day order book bite index stream enable day order book stream multiple products channel subscription allow null websocketclientextensionhandler fix typo message handler stream support bite index exchange fix gdaxwebsocketsubscriptionmessagetest issue support colonies stream apr rename timestamp seq add letter add colonies format timestamp readable string convert instant date format support gemini stream update read
+support formal etc stream enable service netty day order book bite index stream enable day order book stream multiple products channel subscription allow null websocketclientextensionhandler fix typo message handler stream support bite index exchange fix gdaxwebsocketsubscriptionmessagetest issue support colonies stream apr rename timestamp seq add letter add colonies format timestamp readable string convert instant date format support gemini stream update read support stream
+fix coin market data format add oke stream enable service netty day order book bite index stream enable day order book stream multiple products channel subscription allow null websocketclientextensionhandler fix typo message handler stream support bite index exchange fix gdaxwebsocketsubscriptionmessagetest issue support colonies stream apr rename timestamp seq add letter add colonies format timestamp readable string convert instant date format fix coin market data format add support oke stream update read fix date time order book snapshot fix test case
+rest call implementation socket apr
+liquid add change public apr service implementations add adapters need change apr implementations none account service methods support liquid apr leave unimplemented add get stickers metal depths raw market service
+ataturk market data apr implementation
+overload limit
+rock support query parameters raw get order implementation contain single order method accept single argument commit add second order method support query parameters support apr endpoint filter order certain timestamp filter order certain timestamp status accept value active conditional execute side filter order side accept value buy sell position filter order margin position page use pagination result page see apr documentation
+bite coin
+issue bice
+beer
+kink market data ticker implementation methods support exchange apr
+update read release skip
+migrate authenticate part apr implementations add get book
+add product subscription connect method add product subscription connect method refactor day exchange
+resolve update coin base apr use new coin base exchange apr
+fix balance calculation
+bitt rex change default paras support tradehistoryparamcurrencypair replace tradehistoryparamszero defaulttradehistoryparamcurrencypair support openordersparamcurrencypair replace null defaultopenordersparamcurrencypair
+improve currency currency pair coverage
+mexico rename cexiosingleidrequest cexiosingleorderidrequest
+add one available parameter get tickers
+implement market order bite stamp
+market service
+colonies margin account implementation
+ponies margin position implementation
+finance stream order book finance stream order book add finance order stream support
+bite flyer new implementation
+day make fund history handle fork base deposit bach example
+update code style optimize import
+fix correct order exchange read
+resolve provide initial test coverage examples finance
+finance improve trade service apr resolve
+finance fix null interception due currency map exist remove unused finance metadata class
+add basic attention token bat
+merge remote track branch
+basic rough coin apr
+core bug fix
+bite flyer implement george book market service
+fix apr endpoint name
+day fix determinant precision calculate average price order status
+coin implement tickers
+fix day market order fee adapter pull wrong field add unit test market limit order
+add bitbaytradehistoryparams
+fix trade match number
+initial check support book trade via market data service
+add payment hit withdraw add payment hit withdraw code format
+add open day ticker
+fix issue get order day specifically division zero order fill big decimal equal misuse handle pending state handle settle state handle cancel state although convince stopgap solution add fix issue spot
+bite mex switch apr key urls safe base encode scheme use bite mex
+prepare coin apr move coin apr prepare apr
+merge branch
+post rebate cleanup remove format change
+day allow list check open stop order also introduce apr whereby non book order return without break exist assumptions
+minimum ltd order see
+merge remote track branch
+finance rewrite currency currency pair metadata creation
+core add exception indicate give currency air valid
+box retrieve order book
+fix end thread sleep set second instead normal second like test examples change thread sleep thread sleep
+bite market fix test java service use new wrester olfactory interface test mock wrester olfactory remove dependency power mock ignore unrelated work test
+build fix dependencies
+add query order finance well interfaces implement exchange
+add midsize size ticker
+coin add trade history use fill
+add maker taker field trade class
+code format
+maven release plugin prepare release change
+overwrite nettystreamingservice connect bitmexstreamingservice add handler compress socket message handler necessary bite mex test net suddenly start send compress message revert add handler compress socket message revert commit change visibility private members order allow overwrite connect method overwrite nettystreamingservice connect method order add websocketclientcompressionhandler
+kraken fix ape close order specify
+add bite index gemini kraken fee
+gate coin large structure refactor operation
+bite index pom reformatted first time
+bits pom reformatted first time
+bite stamp pom reformatted first time
+trade pom reformatted first time
+ataturk pom reformatted first time
+china recap pom reformatted first time
+examples pom reformatted first time
+mercado icon pom reformatted first time
+quadriga pom reformatted first time
+taurus pom reformatted first time
+format code fat maven plugin
+fix build fix build travis build error error abstract override abstract method uncompress message boolean
+implementation get tickers mexico kraken incomplete
+merge branch
+remove unnecessary default implementations interface methods
+bite index use utile currency adapter
+add colonies deposit key generation add colonies deposit address generation logic deposit address exist generate new one also format code
+add oke future stream support
+add hub george book apr add hub george book apr
+code format
+blue trade add limit para trade history
+add support oke futures trade
+fix connection bite mex book update
+code format
+gemini implement new transfer apr call fund history
+order update subscription bug fix
+support bite mex futures contract
+blk start blk trade service
+merge branch
+update dependencies
+add observable message delay
+cry topic market data service get tickers plug
+add get tickers liquid
+error handle refactor
+merge remote track branch
+merge coin ping pong
+coin add support
+apr start one implement test work apr call get tickers
+update bulk replace order command
+bite mex fix bulk order replacement command
+performance improvements add cache object mapper remove string node string polo conversion
+add apr maker taker fee schedule provide full implementation bite index
+merge remote track branch
+update china recap apr version add support convert para
+update china recap apr version add support convert para
+bite index add methods authenticate apr squash
+resubscribe message problem
+add get ticker add generic raw get ticker methods well get tickers bug fix ads member instantiation
+market add get order support trade service
+extract finance order book convention method
+city first commit city change imply
+city change imply
+support live coin ape fix mavens format fix
+bite box test commit
+crypt nit actual public apr
+add support withdrawal execution
+upload
+upload
+allow set lord link contingency type parameter support link order
+implement miss place order parameters
+add miss order parameter add place order call trail stop stop limit add docs
+update day rock trade stream trade
+hub add order book timestamp data timestamp provide exchange ignore
+fix error handle
+adapt day code brand effort coin pro
+bite stamp deposit address
+merge branch
+bite mex refactoring optimisation add parameter type use cancel order use cancel order parameter type cancel limit order optimize open order receive instead receive order filter request exchange return open order fix quantity silent trim int order place make big decimal fix wrong format bite exception
+merge branch
+compute bite index fee fraction trade volume instead use return apr
+bite stamp order ids fit bite integers
+use concurrent map order book
+fix volume
+day use fresh auth credentials time reconnect
+merge remote track branch
+throw exceptions long urls try fetch order book tickers
+blk withdraw fund
+rate limit etc
+move fee tiers currency metadata refactor appropriate complete day code get fee tier per currency base current volume
+sockets leak reconnect case network problems fix disconnect call add stream example test small syntax corrections
+zip
+bump change rename day coin base pro
+core fix class name
+add chain exchange work test demo
+thumb init thumb exchange module
+dependencies update
+bite index add cancel cleanup refactoring add cancel parse exceptions raise exchange symbols symbols detail request use big decimal instead string order amount price move order flag conversion adapter class
+remove symbols workaround adaptation
+connection rate limitation add bite index
+code review fix connection handler update accord discussion
+thumb implement demo
+thumb error handle refactor
+add cross exchange support order status update
+get authentication credentials exchange specification per standard
+start standardise three exchange around common apr define coin base pro challenge seem need initial snapshot moment implementation bare bone need start work order challenge three seem provide sequence number essential maintain sort snapshot balance yet
+merge pull request connection rate limitation add bite index
+china recap move old deprecate apr separate package
+expo add miss transaction block chain hash fund history
+add block chain coin deal like coin update
+coin exchange metadata tickers order book
+remove coin implementation entirely since disable still complete functional one one
+core add user reference order sub class define handle use reference order limit order market order stop order update builders test accordingly
+bite mex implement method determine contract active
+live test fix
+merge branch
+create simulate exchange implementation
+test functionality
+balance deposit
+run formatter
+remove ham rest dependency
+add user transactions support since timestamp
+bite stamp socket implementation
+der bite implement raw get instrument request
+add unit test test write use diff blue cover
+fix china textile delete directory project
+bump wire mock bump wire mock release note change log commit sign
+der bite implement exchange metadata update
+fix code format
+prepare release
+finance coin pro meta data load via apr base amount precision scale
+add support generic get tickers call
+server accept error kuching exception page size greater
+oke ping pong bite mex perpetual null
+new trade history transfer history endpoints
+new replace order apr
+bug fix fix test case
+implementation first step
+refactoring use apr time
+fix order builders miss copy methods method set cumulative amount instead fee miss java doc miss test
+cleanup test
+implementation fine apr add support
+oke enable query account info single currency sign
+add verify yearbook method kraken adapters order verify limit price sort correct use krakenstreamingorderbook
+merge branch
+simplify add level end change urls accord new scheme begin work market data endpoints
+merge pull request add dynamic trade fee apr support mexico
+chore add order book test
+core finance live coin unify retry rate limit proof concept
+feature place encrypt encrypt order live apr
+appear way safely serialize flag without much stricter exchange behaviour unsafe way add market order limit order support
+currency use trade
+move test
+hit format fix
+fix colonies trade parse socket
+merge branch
+make test son stricter previously allow serialization work new properties add fix number break properties
+fix handle unknown letter currencies kraken
+kraken make fetch full ledger crash adjustment discontinuation feb
+core finance sync resilience
+bite mex implementation
+kraken private channel open order trade
+add intention end stop order make finance order type base intention limit price
+kraken trade use trade synchronize share fix
+add support crypt watch market data service
+coin add margin apr support
+coin fix code style
+add userassetdribbletlog
+bump lombok bump lombok release note change log commit sign
+add asset dividend endpoints distribution coin
+name
+rename modules change stream per issue
+run cover fat
+merge pull request run cover fat
+thumb apr change fix
+thumb apr change fix cleanup thumb apr change fix thumb apr change fix
+thumb apr change fix transactions use transactions order detail update unit test
+thumb apr change fix response class really unit test remove
+merge
+add sub account transfer history
+bump bump update release note change log commit update release note change log commit update release note change log commit sign
+dix global new apr
+dix package refactor
+merge branch
+merge fix
+order book implementation order book implementation
+convert climate new pushpin socket apr
+bite coin apr add support market service get trade
+add bitt rev
+support minimum order volume
+add optional parameters pagination possible page size current page

@@ -1,0 +1,881 @@
+deck picker activity result instead main activity
+deck picker screen update due new count non cache version count new due card deck list deck picker port quite bite python code libyan make happen probably bug tag ids declare implement since call current code however need implementation possible future call
+merge different versions solve minor conflict fix bug subsequent executions timer whiteboard toggle button visible although preferences option select unify way log message format code
+code grade card sri implement answer card space desktop anti test yet code use guy yet include support leech know alchemy magic
+merge branch
+merge branch
+add external diff library store previous diff function remove diff computation perform diff engine result suppose exactly desktop anti
+study options new study options screen start default activity review card new activity call reviewer
+fix review correct amount new card reviewer would get one new card specify reward spray decrease review new card count happen get next new card
+merge branch
+add intel ignore
+add several new preferences question answer display options parse ruby annotations want choose relative font size absolute font size possibility show question answer show make categories preferences give better guidance
+start sync code implement get deck create deck summary apply payload
+implement fullsyncfromserver allow download complete deck online
+start synchronization logic
+add possibility download personal deck store online reorganize menus
+merge branch
+adapt download deck deck properties sync new design
+add control synchronism local clock online clock
+add control robustness device rotation card events
+make follow change add progress bar sync payload full add usage ruby annotations font size add option display notification bar add text view display current fail due new card anti style add text view display deck name study options screen change make display title obsolete perfect especially progress bar think improvement sign
+counter box debug
+first version download manager currently allow really resume download leave suspect connection online support yet range header allow user download number deck background still things polish like update one deck background put code service minor detail
+refactored database layer include database manager order manage lbs allow different open databases time
+convert download manager singleton service download deck update card even app run
+download deck update card top folder situate default deck path storage clear user deck still ready use
+refactored code involve download deck either personal share
+first complete version synchronization also start sync functionality
+implement first complete version sync functionality
+add sync log show deck synchronize
+merge master branch new design branch say merge android android still detail polish main functionalities seem work fine
+add mark menu item nothing
+integrate error reporter android
+completely refactored sound class implement new solution handle sound make code clearer release media player correctly card lot sound play correctly
+work progress issue new option add reviewer allow user card mark card new tag add fact relate card code remove unused tag still
+merge branch
+fix problem sound path relate issue audio work correctly independently location
+work progress optimizations
+work progress optimization step
+change show notification bar option review full screen title bar hide display options menu bring back notification bar useful example user want know time check mail arrive review unfortunately android allow display title bar hide
+status bar share deck download update
+move
+automatically format whole project format manually
+format ankidatabasemanager kid aikido idaho car editor deck picker image
+work progress card addition right crash press add card
+merge eds code format resolve conflict recent modifications
+long click context menu pause resume share download update
+comment log statements expose anti online password
+work progress download personal deck address mid download loss connection issue
+start add fact code menu item layout activity selection model currently click add close nothing
+merge branch
+use enhance statement whenever possible
+use unique tag log message
+use private field rename accord code conventions
+fix bug introduce field name change form young ease young ease
+compatibility work progress compile yet
+introduce constants
+create field fact adder start code add new fact
+merge branch
+work progress even think compile
+still work progress fix fix fix
+code refactoring
+work progress
+work progress compile yet usual
+merge branch populate field model selection
+fix conflict commit
+first pass translate python compile yet still miss exception handle place
+access via get method check null return query column
+add support remote media file change take advantage feature field model table desktop client use store media base urls android function properly setup anti deck media describe page
+reduce battery drain cause insanity high value widget update period period set hour still wake device perform update might consider use alarm avoid wake device asleep least let user configure update period
+work progress update kit change
+allow change layout base screen orientation reviewer set bigger button portrait mode fix issue
+merge branch
+merge branch
+leech fix
+fix conflict perfect least project build test
+beta version fact add
+work progress compile
+merge branch need test
+merge branch
+date libyan commit csc also add notification upgrade deck take place whether succeed link note specific upgrade sort work crash sometimes
+code refactoring
+improvements next review time show hours days months years
+fix cram space fix click ability deck picker item upgrade note fix crash deck picker
+sync name derive path dec name
+merge branch
+enable button review early learn finish
+minor fix code compile
+merge branch
+show add card active card templates
+add delete deck feature long click deck deck picker select delete
+check sol cursors replace string concatenations string builder efficiency smaller memory footprint
+add search feature download share personal deck close deck properly open download deck picker
+fix freeze card issue localisation
+libyan compile yet
+add option start deck picker instead load previous learn deck
+libyan change media support complete
+hint download deck search localisation
+better change dec value study options
+cancel deck list load download share personal deck ready yet
+change libyan media support
+media support change debug still compile
+improvements leo integration
+merge branch
+comment make android crash start android need find way avoid crash
+fix view onlongclicklistener bug prevent fire
+fix sync name issue sync name take filename sync name seem use determine deck move
+merge branch
+disable download personal deck deck screen well sync disable
+show tomorrow due new card congrats screen
+precautionary measure
+precautionary measure
+sync change bring code line libyan still sync one direction though
+sync change bring code line libyan still sync one direction though
+show result message single deck sync
+show result message single deck sync
+fix crash check unused media crash cure unused media check deck update download update
+add swipe study options leave start reviewer reviewer right return study options answer recommend green button answer fail button
+fix translation error two line mix swedish translation
+fix sync
+add swipe option deck picker implement right animation
+fix sync issue years due
+libyan libyan bdl kit dec
+several sync issue fix wrong count partial sync corrupt stats partial sync send review history partial sync error mag invalid password error mag synchronize clock remove log expose username password
+remove unnecessary log log expose username password
+subsequent sync change last partial sync correctly sync also bust reveal useless log
+better long click handle localisation
+conflict resolution sync work
+disable scroll work
+complete latest libyan change
+merge branch
+work select car model unfinished yet
+better undo redo behaviour show undo last show card
+unpack also reset timezone configuration day turnover appropriate loaders timezone port change see
+unnecessary unpack deck download share deck need
+fix conflict
+merge
+original moustache library change need use course
+sort string separate link string array always array constants translate constants
+disable sync button sync complete
+return study options last card mark fail start bury facts
+unsatisfying fix issue kos mean
+prevent crash see issue
+tidy fix issue crash personal deck picker due quick double click first personal deck
+log output instructions must single line log comment script work
+log output instructions must single line log comment script work
+comment line pollute log less app might even bite faster
+show deck competition deck picker white line mature card gray line card least learn
+check upgrade deck version contain latex expressions conflict
+russian localisation
+fix script
+fix issue crash deck upgrade android
+add card browser
+work car browser
+fix undo redo
+work car browser load card undo redo clean search field back press still leave change display order problems proper redo
+car browser add select sort order show suspend show mark leave undo redo test
+revert last change
+merge branch
+change report generate send time act add time zone offset separate field
+show download bytes personal download
+bump version alpha
+add last statistics improve detail dialog fix dialog issue study options
+localisation better chart droid dialog
+add feedback option button ideal place moment create new utility class handle help post use feedback error reporter activities update error reporter use new help post class update error reporter include information get send errors report
+switch chart droid chart engine base chart droid order get options
+preliminary work error report enhancement compile
+fix compile
+superficial fix issue list empty need remove guess understand issue fully though list empty consequence bigger problem
+send error report help use connection sync task feedback moment
+feedback button layout
+chart improvements
+button create new deck move deck picker
+button create new deck move deck picker
+newer charter diversion layout work chart
+bump version alpha
+please pull compile work error report
+statistics sync task
+error reporter still work progress safe pull
+merge branch
+add estimate study time
+better scale detail dialog card browser
+filter share deck even start download issue
+merge branch
+minor fix sync media prefix include son
+download miss media load media dropbox
+disable whiteboard default order save memory
+new study options layout session limit dialog better help icon small screen study options file shift options menu items deck picker add infrastructure delete bury card still problems therefore disable
+add limit tag
+progress bar study options make optional
+change ruby mode render japanese tag set model
+bump version alpha
+add tag support card editor
+start tag support fact adder tag save work yet
+add possibility add tag
+add bury card reviewer
+add tag support card browser
+fix error reporter block personal download login clock sync
+add land layout congrats screen
+better error log partial sync log remove release version info level
+sync relate info level log error exceptions catch fix
+fetch media sync fix deck picker sync
+french finnish catalan localisation
+force journal mode delete
+merge branch
+localisation fix master string
+merge branch
+add proper card add facts
+issue localisation
+issue
+add support dictionary app
+fix wrong initial set see bar preference
+move feedback menu study options deck picker way still central tokyo usual fine earthquake hope everyone fine
+add pure resources change issue minor change require setup
+issue add preference scale text size car browser view
+merge remote branch upstream master
+merge branch
+merge branch
+revert add date creation order card browser revert commit
+put commit close reviewer sync task order prevent guy freeze second
+update statistic bar rotate reviewer
+work proper finish reviewer
+log issue play sound
+first try fix sol request deck upgrade time
+fix issue
+merge branch
+work undo redo
+undo redo work
+undo redo
+bump version beta
+undo redo still test need
+merge branch
+add support action bar honeycomb
+undo redo
+fix crash deck could load
+fix crash deck could load
+invalidate whiteboard clear
+merge branch
+issue work progress ready
+darker button night mode issue
+fix issue
+issue add switch disable media fetch sync issue remove sync enable disable switch add text successful sync card change study options change
+performance boost filter share deck list allow german umlauts file name download deck fix several find bug issue file
+merge branch
+localisation
+connect answer card work
+show choose deck order preferences
+first work version button good fail easy
+greek localisation
+choose action gesture shake swipe tap
+add support custom fonts change introduce way load custom fonts view show card custom fonts must store fonts directory deck path default card generate set ass directives generate file find directory font family associate fonts name font file without extension example card template use font family verdant want use font render android device anti copy file call either use command add push mount card computer copy file directory card note file find directory add directive even file font font format recognize android fix issue use minho font
+add flag activity new task intent start activity service always need add flag activity new task since part task service since service task lead error start application click deck name widget since actually start server turn start application
+merge branch
+comment log use script
+open right deck click widget add fri deck invoke study options activity mean right deck open currently work application already open might want consider change logic study options activity always open deck receive view action fix issue touch deck name widget open correspond deck
+add extra main action specify deck avoid open study options activity open activity bring exist one front intents match exclude extras change allow one specify extra deck filename use start activity give deck open currently work activity already open case exist study option bring foreground instead need widget prevent open different copy study options make behavior back button inconsistent back previously open deck instead always close app
+merge remote branch widget state
+add list custom fonts preferences add way see list custom fonts preferences list right anything idea use choose default font
+first work version button good fail easy
+correctly show number card review store due card include fail card review since widget show number fail card well show number card review along side total due card issue due card count include fail card count
+date libyan fee omit sync relate change probably anyway date
+replace kanji fumigant question bug
+fix color button text room room use different theme button semi transparent text color white work well activities dark background like study options activity others like flashcard review activity readable commit introduce style apply button empty default define text color black version honeycomb achieve create value directory redefine style file name directory deck picker activity instead remove gray bar button screen seem necessary match content list prevent problem background text color close light gray white issue button bottom card hard read room
+move schedule code new file
+add ass class desktop android commit add two new class android desktop android always visible android desktop always invisible allow build card layout different android anti desktop simply add android display none card template deck wrap anything display desktop last wrap anything display android former display review desktop client former display review android
+libyan cad
+localisation
+work enable car browser car editor merge fact adder car editor
+create dialog max fail card
+allow user set max fail card
+stop review max fail card reach
+call car editor properly
+show choose answer colour point instead text
+fix issue crash cause deck open time time widget deck picker enable sync statistic button deck picker even deck unreadable
+statistics
+fix deck statistics crash
+close cursor finally block code incorrectly close cursor case error instead log error close cursor finally block
+merge branch
+solve conflict
+reset color next time due review early
+change ifdfecbfabddcaadeb
+merge branch
+add preference set timeout auto answer
+change iedafccaddcbdf
+higher zoom max
+fix issue font size car layout use relative ass units measurement value get change relative font size percentage preference embed outer relative ass unit measure fix take span tag account
+solve issue correct incorrect behavior regard check whole answer instead specify field compare car layout
+merge branch
+merge branch
+add group selection
+add theme support
+merge branch
+fix issue
+teem card browser
+add warn dialog swap
+add deck summary statistics
+add intent base card addition issue
+work issue
+fix crash delete actual deck return study options
+merge branch
+implement possibility send non stack trace report via feedback mechanism use report wal problems user approval still require usual feedback activity
+fix bug
+add option wal journal ling
+add convenient word selection fact adder card editor click ring word
+fix text select issue
+fix text select issue
+use two different view instance show card main reason leak view relate load fonts font load large amount native memory allocate allocate time webpage load quickly lead process kill use much memory solution apply release view time new page load release memory use load font first view address follow
+set journal mode necessary
+fix leo lookup problem
+reset clipboard lookup
+merge branch
+improve card editor text separation
+merge branch
+start backup system
+backup system work
+precise sync settings wal
+allow isolate undo card suspension suspend leech handle
+close cursors open
+fix flicker view issue
+theme dialog
+issue
+card editor teem
+style fact adder
+cram dialog
+dialog style
+revert modification feedback mechanism somehow break revert commit
+fix rotate phone close
+bump beta
+dialog teem dark bright
+merge branch
+statistics better statistics card detail
+naive fix issue
+comment log use
+merge branch
+fix issue sync button work honeycomb underlie reason issue honeycomb menu items generate whenever action bar show instead user press menu key device consequence study options activity get first disable sync button action bar deck load enable deck finally load disable deck close fix need call activity invalidateoptionsmenu time something happen cause options menu options change however method available apr level fix future problems sort introduce new compact interface mean contain function need implement differently different apr level number implementations interface currently company company may different things different platforms example need invalidate options menu items platform honeycomb compact invalidation menu activity simply empty function company
+fix issue crash download miss media style dialog builder incorrectly notify latest listener instead one set construction time mean builder use actually update listener use dialog button click case button miss media dialog actually call listener button restore dialog cause issue deck open time listener invoke remove reference members builder create static nest class instead use anonymous inner class fix possibly issue
+merge branch
+resume action log issue
+edit via git hub
+allow card browse huge deck issue card load chunk sort end process allow load bigger deck easier sort
+edit via git hub
+merge fact adder card editor
+bump alpha
+add small widget
+fix conflict
+widget work
+add preference set timeout next question
+zee mote navigation deck picker study options keep screen reviewer
+merge remote track branch upstream master
+add focus graphic deck picker
+add deck picker option choose lookup dictionary every deck
+prevent small widget show negative signal value rename medium widget class
+competition style dialog background
+style context dialog
+proper deck close card editor deck picker
+beta
+merge conflict
+fix bug
+tutorial deck creation still deactivate harm function
+minor improvements download script
+finish creation localise tutorials
+test pull request sign
+test empty progress dialog
+add deck summary deck picker context menu
+localisation
+translate read file test
+merge branch
+solve bug
+merge branch
+merge branch
+catch split exception load deck information show backup restore dialog properly
+comment improvement
+mark unused methods
+comment vars unused unclear reason new unused import
+merge branch
+merge branch
+merge remote track branch upstream master
+update value reload study options
+repair deck routine
+merge branch
+close deck background close study options
+deck picker
+deck picker
+change name move corrupt deck better readability
+merge branch
+close deck background card editor intent addition
+catch relate errors reviewer propose repair report nevertheless error
+merge branch
+merge branch
+minor feedback things
+show dialog send error report
+show dialog send error report
+merge branch
+localisation
+add comment another property probably sync
+merge remote track branch origin
+translate tutorial french show english
+sync also record order test
+merge branch
+fix script since ant compile
+refresh view nooks issue
+add repair deck deck picker context menu
+improvements small widget
+move notifications service order let work without widgets
+merge branch
+fix widget open deck twice prevent confuse review early
+start work
+merge branch
+fix crash android
+fix ape bug return study options activity destroy background android
+fix ape bug return study options activity destroy background android
+efficient tag retrieve study options
+merge branch
+merge branch
+minor change allow compilation apr level remain compilation errors could probably solve use introspection sure worth would make code less readable
+move widget class one folder repair card editor intent addition
+fix multiple line log line
+oops forget comment log
+merge nob ago
+proper deck repair big widget
+partial fix intent addition addict categories first entry
+merge branch
+move static object big widget service order make permanent available
+bump version alpha
+start new theme
+fix bug show deck deck picker remove one deck file manually file browser remount mount card
+add white theme finish yet
+teem work
+split line long method sub methods least android call method crash methods generate byte cod work see
+add new theme white theme progress dialog
+fix issue screen rotate automatically disable android global settings
+add night mode white theme
+merge conflict
+single line button study options
+merge branch
+wallpaper white theme
+merge branch
+merge branch
+proceed work libyan
+deck count study options
+solve ape describe issue execute null
+issue card sort work mismatch columns indices query use construct set card use card editor extract logic separate class add test guarantee consistency also fix null pointer exception sol query fail execute
+deck picker layout
+issue action bar miss honeycomb use white theme organize style introduce base theme use behave differently honeycomb without copy actual style
+support chess notation fen
+work reviewer
+clear study options
+add google translate filter
+fix sound question play answer show issue really understand need sound paths
+add duplicate check card adder
+fix sound play correctly right side card since recent modification answer show question sound play well
+card editor
+merge branch
+merge branch
+fix system orientation settings ignore sync study options view
+sync finish yet
+issue sol compilations errors log introduce upgrade mechanism metal
+issue whiteboard show monochrome despite set also make whiteboard show default right enable
+add estonian bulgarian localisation
+add option remove animation ink display
+better sanity check error report
+model change routines
+patch thomas sing see
+media support reviewer see media file
+code clean remove number unused import variables use static access static value move tag bottom manifest add generic type miss
+work car editor
+issue card count disappear open options menu something quite complex disable top bar menu open however cause number issue honeycomb since onprepareoptionsmenu may call menu actually open instead split logic two different paths post honeycomb actually remove logic test donuts gingerbread work well
+issue menu button review galaxy nexus restore previous logic add right items menu fix underlie problem problem call invalidateoptionsmenu current card change mean initially load set options menu hide never actually change content
+solve minor deck change bug card editor prevent crash move last card
+merge branch
+add methods determine device version make code slightly readable remove duplicate code
+fix crash donuts one piece use animation execute donuts however incompatible therefore crash back review screen
+change create time new collection
+merge branch
+merge branch
+add eta
+add deck stats
+add chart engine source code order fix bug
+reload collection android kill card editor activity
+catch exception download file fit card
+implement progress bar reviewer
+card browser layout
+handle case android destroy activities reload collection reopen activity return later properly mother activities
+merge big face merge trunk change time
+two fix frequent crash
+fix sync ape
+update widget properly
+big widget
+fix arabic localisation update others
+night mode
+fix issue
+add share deck
+customization zee mote action
+merge branch
+comment log
+comment log
+merge branch
+work libyan
+start work tablet layout
+move chart calculation sync task
+switch name space anti anti revert erroneous log comment still compile fully
+fix error miss file
+latex support various media methods use find miss media
+add ukrainian localisation
+merge branch
+work cram deck addition
+sync media enable
+catch libyan
+merge branch
+fix minor error cram screen
+libyan
+fix menu string deck picker
+pref edit
+merge branch
+merge branch
+move test class library separate project yet commit
+libyan new cram rewrite also many test support methods
+merge conflict
+merge branch conflict class path
+add register page necessary routines
+template handle clean close fix
+add cram deck options
+improvement hook enable fumigant
+latex support work
+fix issue
+fix crash media sync
+fix several bug media module
+merge branch
+minor change need card test
+fix typo
+reformatted accord conventions use claim file find name vim java format file
+merge branch
+merge
+merge
+check remove share preferences transfer aikido idaho class
+add back end model change
+merge branch
+merge
+fix redundant preset dynamic deck
+read night mode
+add collection load splash screen
+view use correct font style text
+fix fumigant regexp
+splash screen dpi devices
+fumigant fix please reverse without explanation
+fix korean string cause crash find help extend triage tool thank kos
+automatically resize image fit screen
+add travis configuration allow use continuous build
+merge branch
+start implementation amount listener
+merge branch
+add central broadcast receiver listen card eject mount close necessary send broadcast intent open activities order let show card mount screen respectively finish activity
+fix android bug prevent set margins work properly frame layout unless gravity set royal pain waste day track one thank good people stack overflow
+card browser register change tag edit issue
+finally fix endless korean translation format bug
+make sure non translate string mark translations
+libyan
+use file buffer sync upgrade issue possibly
+fix corruption sync delete media file android
+uniform way access level via final static field efficiency optimizations remove alternative methods redundant check version
+replace string concatenations efficiency
+unattached window work compact due super remove completely instead empty anyway
+fix bug
+fix bug
+copy media new location upgrade via web
+get col directory always aikido idaho confound default current directory
+add full sync option info
+notify user insufficient memory
+white theme master file
+merge branch
+override long click gesture long click workaround enable even gesture disable issue
+filter deck study options auto fill deck restriction search rework signal open trade options add filter cram button study options fragment since menu new dynamic deck option deck picker also fix cache value trade options preset change correctly update edit text field edit preset result
+merge branch
+fix issue reviewer count
+fix bug
+improve relative font scale
+add forget dialog line
+card browser search field
+merge branch
+share deck download within android
+canonical manifest format improve readability surprise less readers sorry diffs better sooner later
+localisation
+add safety question upload download option sanity check fail
+add replace import option
+import stuff
+forget something
+precise delete cram deck dialog
+fix card browser count issue
+update string sync login issue update swedish english text username post address
+start custom study
+fix media sanity error issue
+complete custom study fix issue
+fix crash call custom study detail
+fix issue crash certain card validate collection import
+comment log
+merge pull request change back beta
+change icons red beta version revert change icons back blue revert commit
+issue fix delete dialog
+merge pull request update branch next beta
+insert class attribute card specific style
+follow costa advice regard remotemediaserver exception cache report file anyway
+set mod full sync originate conflict sync fail sanity check also format extra check
+merge pull request insert class attribute card specific style
+merge remote track branch
+externalize upgrade wizard string resources translation issue
+fix upgrade wizard improve add replace behaviour import share deck always add upgrade import always replace
+optimize sync media remove local media transaction
+merge pull request issue handle failure fetch card count
+fix string replacement break templates alt close format
+improvements base feedback
+fix issue null interception set title call
+merge pull request catch merge init
+upgrade wizard auto pick clearer workflow screen orientation crash upgrade fix
+ability cancel upgrade via web issue
+fix time box clean old session code
+issue various improvements unzip code import progress message fix import media bug update accord feedback
+issue improve message offer create empty collection collection exist already fix crash bug backup manager fix crash cancel web upgrade early
+move sanity check server automatically force full sync
+issue prevent dialog hide press home return
+move sync account menu preferences
+merge pull request issue move sync account menu preferences
+merge pull request catch merge
+merge pull request import fix
+merge pull request catch merge
+merge pull request sort order new card
+back button tablet congrats screen return overview
+add settings disable view switch view switch add android fix bug custom fonts versions android however recent versions android seem fix issue commit add set force quick update view ask users test number devices next release see still issue device hopefully identify versions android disable workaround default possibly remove set future versions
+deck options cml format
+fix issue filter deck crash reveal answer
+save content card commit add flag allow content card quite useful debug purpose
+use ruby tag style span fumigant instead ass table make use native ruby tag support view fall back manually align span earlier versions android look better overlap elements like previous ass table solution fix issue
+merge pull request fix ass reviewer default font
+make dec task bite defensive add easy way check things call right task add dec task add easy way log methods call
+merge pull request improvements around dec task
+implementation multimedia editor commit contain change implement sophisticate card editor include ability import photos audio directly device squash version number change make edit remove change relate feature
+add indices new collections fix issue
+add miss indices integrity check
+use correct connection type share deck download download link may either help tip open connection return respective connection type need typecast correct type break
+remove escaper class class dubious copyright easily implement use android apis commit also add test project use create couple simple unit test newly add code project configure eclipse import test directory new project well ant run ant test see read test directory detail
+add font file wrong extension since user put arbitrary file fonts directory card simply ignore anything etc file extraneous file add fonts correspond directive add style sheet actually cause pop show review fix
+disable text selection set get ape use clipboard workaround issue samsung bug leave devices unable use clipboard android crash use clipboard devices every time reviewer open disable text selection set clipboard use android continue review card
+show correct fragment view custom study
+show custom study button congrats view filter deck
+highlight currently select deck deck list update visible effect fragment mode due choice mode set list view
+use density independent text size simple interface remove unnecessary simplification step
+solve code page problems explicit dash character character set problem straight line separator explicitly define string simple interface nook see unicode translation problem like instead string seem safe alternative across character set
+update latest version android commit update target latest prevent compatibility behavior latest version moreover update tool use travis latest greatest finally make download bite let verbose easier debug
+release note screen
+fix ape get text clipboard clipboard may return null clipboard contain something text document apr case consider code
+check collection open use count handler post execute fix issue
+handle screen size configuration change avoid activity restart
+null check
+modding schema also set collection modify require force full sync case
+update sibling bury behaviour line anti include change commit rework sibling handle change bury semantics injury open web injury open close make sure set bury bed change expose bury options include
+add inch screenshots opal
+include session key sync dec
+bump sync change meta return value fax
+issue annotate javascript interface methods native methods javascript bridge expose javascript without annotate mean trigger sound playback android
+extract custom fonts extension currently lot class large amount code implement many different feature mix together quite hard manage make code overly complex aim separate code relate things offer better paradigm implement new feature clutter exist code proof concept aim extract custom fonts support write therefore know reasonably well set class separate class define anything relate particular feature rest code need know work progress take bite time get perfect solution step forward direction probably things change along nothing really final yet
+add tag selection dialog custom study options dialog
+improve initialization queue change loop locales find current card language available cut question read card flip start answer immediately wait dialog initialize
+fix japanese string cml crowd
+add support samsung multi window
+correct code charge match regular expressions field problem need use different syntax sol lite java pattern class match expressions
+database check upgrade versions contain new fix last reversion value store string value package version name beta commit replace preference int value version code allow compare version number
+calculate next day cutoff correctly
+comment log line
+implement default font override font
+fully custom sable custom sable
+revert change logo blue revert commit
+change default force quick view update currently default use quick view update update content view change card due bug first identify gingerbread development android custom fonts support bug lead application crash native code due probable memory leak view trigger use custom fonts set introduce previous version recent devices view issue seem reproducible recreate view time introduce significant flicker devices however recently find bug relate text input reproducible quick view update enable since view bug probably obsolete recent versions android make quick view update default idea fewer people experience former latter issue therefore new default likely affect fewer users
+remove unused mind rod package class big date class use methods methods never actually use anywhere application
+squash commit follow commit author date wed feb fix bug preview button show add note also add decorator android compatibility commit author date tue feb add miss code jolt tech commit author date tue feb extract work jolt tech add preview button create manually bring latest branch
+merge pull request issue tag limit numeric value
+correct question audio repeat deck options
+oops forget commit merge conflict pull pull request
+vertically align congrats dialog
+use long click instead context menu display dialog
+instead ant install still work
+change mark suspend background color card browser
+replace mark star icons base action bar icon pack
+preselect deck new card way anti desktop implement add default current deck well change deck depend note type
+preselect deck new card way anti desktop implement add default current deck well change deck depend note type
+merge pull request possible fix issue
+always choose replace import file call
+cleaner fix issue
+add custom study button study options fragment move options button next like desktop change start review study like desktop
+new feature
+bump version beta
+make error report layout fill properly small screen
+fix injury available congrats screen
+populate new note model tag anti desktop
+update manifest change version bump
+skip release bump version beta
+merge release oops forget commit merge conflict pull pull request
+merge release cleaner fix issue
+comment log
+first prototype fix bug libyan render answer background second column
+propose fix issue duplicate save propose fix users attempt save duplicate note notify share primary key ask wish save regardless initially worry duplicate prevention functionality necessary reason unknown browse note update code look though entry collision issue update since use unique note anyway
+make background render task quit whenever new task start also remove question answer like desktop version
+fix conflict
+empty list new feature
+use spinners column head instead clickable text view
+include app compact library please reimport project eclipse
+push media button launch multimedia fact editor disable popup menu
+rename card item add dictionary save data add intent item make clear
+merge pull request propose fix issue duplicate save
+fix conflict
+merge pull request fix injury available congrats screen
+merge pull request show edit icon action bar
+fix conflict
+merge pull request custom table second column card browser issue
+fix conflict
+workflow image illustrate
+upload update translations
+add workaround fragment show action bar present
+bump version beta
+remove compact apr level
+fix removal white space issue browser second column fix remove question answer browser fix removal white space issue browser second column fix remove question answer browser
+hide timer default avoid flicker
+merge pull request remove compact apr level
+merge pull request fix unterminated string crash
+merge pull request move launch render task post execute task search card
+remove preview button string resource add preview menu option string resource
+merge pull request reorder button study options congrats
+fix issue huge lag show answer card slow regex replace simple index method
+merge pull request dangle open database cursor close
+merge pull request fix vertical scroll card browser widen column margins
+update string crowd
+grab answer audio even answer horizontal rule
+fix whiteboard state load change preference name show whiteboard enable whiteboard
+save note change make
+merge pull request convert menus cml
+cleanup update libyan reorganize code better match easier comparison use object instead native type parameters return value allow use null counterpart python none instead use add assert fix tag deletion modify list iterate update car editor dupe check use libyan return value
+merge pull request grab answer audio even answer horizontal rule
+merge pull request update match anti
+merge branch fix conflict
+preview class previewer remove gesture also fix indentation problems reviewer preview class inherit abstractflashcardviewer hopefully fix messy preview class
+bump version alpha
+remove zoom preferences build control
+merge pull request cleanup update anti
+fix issue allow image resize zoom android new chrome back end image max dimension specify already zoom correctly devices add user agent check continue use pure ass avoid javascript older platforms resort javascript determine suitable dimension manually set style image image exceed window dimension resize fit window thank initial work main daman solution serve guide resize code
+remove animations reviewer
+move clear whiteboard front action bar
+fix issue show text statistics dialog statistic dialog text options month year completely show
+issue type answer appear top comparison show place holder instead type location question show user answer instead type location answer disable show keyboard user want answer type card
+merge pull request fix issue show text statistics dialog
+make soft keyboard return show answer hide keyboard use type ass class make type text look like anti desktop also clean mostly trail white space tabs
+fix issue
+expose audio change card edit
+fix sort deck drop menu
+account ass zoom image resize
+fix issue filter select tag checkbox select tag filter tag add filter tag car editor use edit text already add tag others dialog add edit text field layout radio button custom study dialog base tag force white bin radio style
+extend fix issue browser note editor
+remove shake gesture
+remove internal memory preference
+merge pull request dim zero deck picker second try also clean
+merge pull request feature type answer fix issue
+merge pull request expose audio change card edit
+merge branch
+organize import accord android conventions import automatically organize accord conventions specify file third party package exclude
+translate string crowd
+merge pull request fix issue deselect search filter tag
+fix issue small problems fix problems note issue add tag add tag edit text text users tap select button open dialog note editor enter tag search box close either via select cancel reopen text search box still open via note editor list tag alphabetical order mix upper lower case whereas open custom study dialog order upper case first lower case
+new string crowd
+format source code accord android conventions third party package ignore package ignore sub package section spar auto format clear layout intend author
+remove unused import
+remove hide link statistics congrats screen
+play sound file specify absolute fri implement
+add miss break instruction
+inline local variable
+sure dialog item list sort alphabetically ignore case
+swap override font preference override behavior
+break insert media button inline text field much except popup menu
+clarify brace add
+merge pull request change current deck drop deck change
+merge pull request fix issue get rid swap button swap text function
+merge pull request improvements write answer feature
+merge pull request fix
+add option replace xxx string numeric change name prefix static variable name
+fix issue possible set custom language whose locale consist language country
+add miss import statements
+fix compile error fix bug initial search browser occur
+fix bug value browser column update note edit
+style type correct texts answer type use insert delete equal result diff engine supply time style input correct texts similar way anti desktop clean type correct texts bite emacs remove trail
+use latter seem work android
+merge pull request fix browser value update note edit
+bump version alpha
+remove random zero width non break space uhf encode boys
+cleanup update libyan move add function exist search state convenience class avoid pass parameter contain place use add miss search command find ids find dupe move android specific code function bottom file overload order instead unreliable check true string find deck check already contain wildcard search python version use set guarantee uniqueness automatically contain commit support search strip home duplicate check escape deck name fix find dupe field name case differ fix duplicate search browser failure find field break entire query
+add navigation drawer
+create class tag dialog extend dialog fragment
+fix empty search filter deck
+navigation drawer refinements
+correctly close open collection replace backup
+merge pull request fix close deletion implementation display fix bug
+make search card cancellable remove fast browser open preference
+add check collection path
+issue
+add title deck options activity make load properly deck picker
+make dim less ugly active deck tablet use alpha channel
+merge pull request prevent crash bug
+merge congratulations screen regular studyoptionsfragment
+remove unused script
+merge develop bug
+merge fab develop fix bug post create navigationdraweractivity call navigation drawer layout create
+integrate stats project android update libyan stats class new function
+remove bitmap process switch new custom view statistics combine statistics chart builder class one remove redundancy
+fix answer button statistics deck life non whole collections set fix statistics deck activity select time frame freeze app due infinite loop thread cause start end value
+skip develop bump version beta
+merge develop remove spurious call create
+configure travis branch commit update configuration travis build release branch well develop branch make pull request branch automatically get notification whether code build correctly
+optimize create attack guarantee serial execution make create attack cancellable optimize text size fix legend show android devices
+merge develop fix issue issue
+comment log
+quick fix throw non file urls intent deal issue
+merge develop update translations
+add today statistics new fragment type view small due chart change new chart engine move chart view main package
+bump version alpha
+fix web page available older devices today statistics
+add option menu action bar items switch deck time period statistics close
+use set build correct string type close function also cut hint correct string
+merge pull request fix issue
+change sub menu radio items
+remove dependencies old statistics navigationdraweractivity studyoptionsfragment remove chart engine old char builder class add transparency statistic graph change select deck icon statistics
+disable mess clipboard lookup dictionary select show hint user long click dictionary lookup enable
+merge pull request fix clipboard
+disable media sync android non file name find unicode normalization support android since new media sync protocol require file name normalize pfc form abandon media sync detect media file name entirely represent encode disable media sync device approach likely allow number users devices still able sync media without issue note dialog show media become disable sync collection sync unaffected
+skip back develop bump version alpha
+merge develop fix ape crash find bug
+merge mac develop quick fix throw non file urls intent deal issue
+merge pull request use field name show hint link like anti desktop
+update bump version alpha
+bump version
+merge pull request better audio record quality issue
+merge tag
+merge pull request today mini statistics
+refactor sync collection load single loader class
+fix
+produce log file collection port file desktop client produce
+add command line tool integrate change purpose tool help integrate change release hot fix branch back develop branch keep detail change integrate change merge individually develop branch change skip manual automatically add commit message skip change empty commit create record resolution avoid change like increment version number lead conflict later
+prevent crash post execute call create dialog force startloadingcollection sync aikido idaho get col
+fix bug preferences change apply
+merge pull request remove broadcast message rubbish deck picker
+merge pull request check null logger try close
+add fix export pkg functionality
+ask user choose add replace import
+merge pull request add fix export pkg functionality
+pull apkgimportaddreplace
+scan media every sync expose media check media check functionality complete expose user commit android longer scan even attempt scan media change every sync change make media android record media database directly media directory modify externally file manager user must use media check feature update media database scan file change add media file import deck also mark file additions media multimedia note editor use media manager add file instead copy file directly mark additions media fix issue non temporary media copy multimedia note include commit display feedback sync media need count download
+complete chinese simplify localization
+add export code libyan
+fix issue
+update remove license recent change list need
+bump version alpha
+add class latex latex imp tag
+add basic keyboard shortcuts review
+add basic keyboard shortcuts review
+merge pull request issue escape sign deck options name
+fix leech
+fix show dialog fragment sync task
+merge release fix leech
+update update new feature include new welcome screen notifications system
+rename anita activity statistics move rest activities load collection properly
+catch string change release branch commit update string base change previously skip
+catch sync errors
+repair deck picker graph wrong scale show red transition area
+fix crash sync due collection close
+bump version beta
+add internal check stats generator collection may close task queue
+merge release repair deck picker graph wrong scale show red transition area
+merge release commit catch sync errors commit port minor libyan update
+use slide layout instead action arabs statistics
+merge release fix sync error introduce beta
+merge release need body commit need allow shortcuts answer side show commit body add shortcuts space answer replay sound
+skip feb release bump version beta
+remove hard reference app compact library
+one commit globe fix
+add support play videos
+update string crowd
+fix bug pkg export

@@ -1,0 +1,452 @@
+initial commit work maven central
+initial commit
+organize import format code
+refactoring consistent implementation approach combine observable extensions observable match work observable methods
+change package
+update language adaptors package
+refactoring towards performance improvements convert operators implement fun instead extend observable change observable concrete instead abstract subscribe control concrete class control wrap fun execute subscribe call remove wrap inside operators atomic observable except complex operators like zip appear still need change package get move little well make sense atomic class
+performance refactoring operatorsubscribefunction migrate fun operatorsubscribefunction internal operator implementations wrap atomic observer trust operator
+synchronization contract refactoring longer synchronization ever add automatically synchronization need synchronize operator use atomic observer add observables internally trust ones ensure compliance contract auto unsubscribe generally mean wrapper top sequence chain change base discussion erik work net
+performance test class
+remove observables package main class
+make observable constructor arg optional unit test override subscribe simpler code
+scala support examples
+unit test take
+restore java doc
+update read
+code cleanup
+rename take fun parameter takewhilewithindex add take takewhilewithindex methods observable
+update
+implement sequence equal method
+take last basic implementation
+fix grammar add success log
+add take last observable
+merge pull request implement sequence equal operator
+merge operator take pull request manual merge contribute
+operator
+clean copy paste merge code
+merge pull request clean copy paste operation merge code
+merge pull request implement tolerable operation
+implement last default
+merge remote track branch add java docs suppress raw type warn
+implement operation next
+throw exception iterator next
+merge branch
+refactored take operator
+basic recent implementation
+implement get iterator operation
+implement defer operation
+add dematerialize apr observable
+update logic match
+refactored take use take
+draft group implementation
+groovy video example improvements make video example idiomatic groovy base feedback use new boolean subscription object
+merge branch add java doc exception suppress unchecked
+merge branch
+refactored iterator implementation observable operator iterator try keep massively large class focus apr implementation detail small class
+merge pull request implement defer operation
+merge pull request implement recent
+merge branch
+merge pull request format cleanup
+snapshot bump commit break change new package
+convert last non block block match see background note break change thus bump version manual merge branch last
+merge pull request confuse java doc methods
+implement operation
+naive schedulers implementation
+add pointer regard unit test inner class
+merge pull request alias filter
+fail test case show bug take
+test
+documentation
+implement operation
+update observable apr
+update test add another one try get expect behavior right
+make next type safe
+attempt implement correct combine latest semantics test pass adapt
+merge pull request take observables properly complete
+merge pull request remove use jar dependency
+merge branch
+split take take
+fix violations observer contract
+incorporate review feedback also restore errant change
+merge branch
+rename subject publish subject
+merge branch
+merge pull request manual merge pull request
+merge branch
+resolve merge conflict
+take protect call predicate
+improve error handle user provide observers
+restrict identification internal operators package base discussion wrap atomic observer anything outside wrap
+merge branch
+update java doc subscribe block observables run thread add test case infinity observable add test case unsubscribe observables run different thread non block
+merge branch
+basic unit test plan use expand unit test around various aspects schedulers inner class correlate one class cross functional many class thus fit best
+scheduler overload subscribe observable merge empty list operators add overload derive docs
+merge pull request schedulers merge pull
+first attempt sample operator probably use interval operator instead internal clock also still need test
+add scheduler schedule action swing event thread
+unsubscribed atomicobservablesubscription wrap unsubscribes argument
+add unit test sample operator
+add support sever connect method call
+correct name operator operation
+fix sleep action
+observe subscribe concurrency unit test rudimentary may determinism problem due
+currentthreadscheduler update unit test mix delay immediate schedule add counter resolve conflict case time queue take less
+merge pull request multi cast
+rename operator operation match convention
+minor rename remove unnecessary warn suppression
+initial implementation sync subject
+merge pull request add flat map alias map
+merge pull request
+add method
+merge remote track branch
+add sample methods observable
+merge pull request timestamp operation
+create subdirectory non core additions java move new sub project
+rename
+fix link java docs mostly
+add key events source swing observables
+find drop call skip finish generalize scan
+create wire implementation throttle operation observables
+switch away use take skip due concurrency issue
+add support switch operation
+clean import remove unnecessary final keywords operation throttle class
+merge pull request clean fix lot build warn mostly java doc
+remove synchronize block per java guidelines
+publish operator observable
+replay operator observable
+cache operator cache operator discuss similar except auto subscribe source sequence come caution deal infinite large sequence
+order count increment make unit test deterministic
+fix method signatures respective java docs various aggregate reduce scan overload
+remove debug statements unit test
+update
+add helper compute relative mouse motion
+improve generics combine latest pecs principle
+rewrite cat operation block subscribe cat operator previously block call subscribe sequence finish quite case result unwanted unexpected behaviour prefix infinite observable fix one example use start call cat upstream start subscribe print statement block indefinitely input stream infinite also finite sequence seem silly wait finish new approach incoming observables put queue instead wait whole sequence finish first observable complete next one take queue subscribe queue extend process observables complete call source observables complete observables queue read
+move implementation detail class public apr
+move block operators block observable see background
+switch operator propagate error subsequences
+add new unit test cover infinite observable first sequence
+add new unit test check non block
+merge pull request cat
+merge pull request add switch operator observable
+initial implementation wire buffer operators
+group group observables subscribe parent sequence refactored maintain single subscription propagate events correct child group observables
+group unsubscribe logic support unsubscribing parent child follow possible subscription parent cause new group stop send keep send events previously create group unsubscribed
+add object overload dynamic language support need finish work
+add marble diagram add several new specific marble diagram correct two bad image link correct typos
+commentary construct observable would like remove arg constructor ready pull trigger
+merge pull request several new precise marble diagram
+fix publish subject non deterministic behavior concurrent modification change take snapshot observers value iterate nest subscriptions add observers change value iteration single thread nest subscriptions deterministic multi thread subscriptions longer allow race get integrate loop always wait next also improve terminal state behavior subscribe publish subject already receive
+merge pull request error handle validation
+add zip collection observables
+new block observable specific diagram legend new diagram legend spell block observable specific marble diagram iconography
+add java doc comment individual operation foo file
+defer get diagram java doc lot java doc change observable operation defer java doc explanation marble diagram also make number change observable java docs
+change default scheduler use buffer operation remove print trace call
+diagram description combine latest operator
+add zip
+make java core type safe
+update get rid null interception null interception encounter test java lang class get package may return null package information available archive code base document feature
+merge pull request issue
+merge branch
+merge master buffer operation branch
+various java doc improvements corrections
+fix case resume sync original still emit events error
+grade release plugin tag commit java
+add java android build module fig share contrib parent module lot copy paste
+move source main android package exclude test support package include build jar generate java doc java doc comment add
+remove functionlanguageadaptor java core
+move observable unit test observable class huge nature facade operators due represent functionality test inside move allow break lot individual class
+organize import
+make fun variant return type clean warn remove bite unused code
+add variance action
+lot bose
+make dummy observable visible closure test class path java issue move dummy observable main compile available closure test task execute perhaps someone stronger grade skills figure put java class get things work correctly time several clean build cycle work fine
+unit test confirm compilation failure without super extend success test zip operator time
+zip order generics art tie change order generics zip combine latest match rest project add party zip operator order generics zip operator add rarities zip operator
+generalize everything observable deal covariance observables
+add compiler test
+merge window operator commit master commit
+merge remote track branch
+add unsubscribe function refactor support relate ongoing work relate variant support
+remove rather unnecessary
+merge master grade pull request build chance work
+remove unnecessary observable constructor fix unit test rely
+switch remove instance method rename switch next leave behind deprecate switch see
+merge branch update use new unsubscribe fun update use super extend generics
+merge pull request switch switch next
+remove raw fund chunk
+make public window methods generic via basic low super extend fluff also simplify apr remove useless super definitions super open close
+pull change master happen meantime
+remove unused import
+take operator error handle unit test
+merge pull request take operator error handle
+implement average operation
+implement skip skipwhilewithindex
+add interval methods observable still miss
+remove unused import
+add two variants first operator
+add first default operation
+merge pull request count sum average implementations
+merge pull request add interval methods observable still miss
+refactor varas overload varas cause compiler warn part also change document reason
+refactor varas overload varas cause compiler warn
+merge branch merge pull request also aliased first take first match take last
+unit test covariance refactoring everything entire observable end single class
+merge branch
+operator throttle first another take deliver first value window
+update java doc throttle timeout
+get rid wrapper around observer
+recount work progress
+recount work progress
+merge branch
+merge branch
+merge branch
+merge branch
+operators throttle timeout throttle first throttle last java docs explain differences link throttle last sample alias refactored throttle first efficient implementations concurrency change throttle timeout
+use denounce proper name throttle timeout unfortunately poorly name throttle operator denounce think group multiple events one imagine home enter elevator doors close suddenly neighbour appear hall try jump elevator polite open doors denounce elevator departure consider situation happen third person probably delay departure several minutes throttle think valve regulate flow executions determine maximum number time function call certain time elevator analogy polite enough let people secs delay pass must
+change zip method signature collection miserable fix java doc typos
+operator retry
+merge work recount
+merge work recount
+merge work recount
+warn java doc one miss scheduler parameter
+initial version distinctuntilchanged operator
+add methods take key selectors
+add distinctuntilchanged member methods observable
+fix java doc build warn
+fix java doc descriptions operator
+implement distinct operator
+restore old simplicity implicit test
+merge pull request implement distinctuntilchanged operation
+unit test work even stream use case
+add another test multiple stagger subscribers
+wrap subscription interval work multiple subscribers add test stagger subscriptions publish connect
+initial introduction equality comparator distinct implementation still need test
+add test comparator usage
+add new variants observable
+add comparator versions distinct operation
+add test multiple subscriptions safe side
+implement map index
+simplify error handle already outside
+implement operator
+solve conflict method name unit test
+follow correct logic operator see
+implement element elementary default operators see
+fix observe neither scheduler schedule observer bug work code find differences behavior java observe commit fix
+add marble diagram
+add marble diagram
+parallel operator operator come discussions work allow explicit compos able declaration block work schedule parallel execution observable event stream share use group use value scheduler degree parallelism default number cup core perform define work parallel instead various parallel operators like parallel map parallel filter parallel etc work generically operators sequence operators
+make instance method rather static
+merge pull request parallel operator fix
+grade change colin support
+change empty exist
+implement ruby function wrap support whenever ruby proc pass observable method wrap java class implement correct java interfaces avoid ambiguous method errors costly proxy instantiations ruby default method delegation logic
+add class parameter
+merge branch
+merge branch
+implement publish last
+run rascal demo build automatic test
+implement synchronize lock
+add documentation section read
+merge pull request implement cast type operators
+remove static variant recount
+implement contain operator
+add one unit test
+fix issue take last items
+implement skip last operator
+add exist empty
+add make link
+implement ignore elements operator
+merge pull request implement skip last operator
+use subscribe instead observe
+drop volatile favor fail fast subscribe thread
+fix path
+fix testonerrorviahasnext issue
+improve efficiency serial subscription unit test timeout
+remove unnecessary catch fail
+apache help recognize transfer encode chunk help stream
+fix operation switch incomplete inner outer subscription complete
+cache result internal implementation reflection get invoke every subscribe
+merge pull request implement serial subscription timeout operator
+implement min max operators
+add min max operators observable comment
+add utility function observables string useful process non block
+merge pull request implement time interval operator
+implement operator
+remove var arg overload add arts overload
+add rest overload timeout operator
+create test class test source folder
+move test test source folder
+fix ambiguous import mock observable never method
+organize format comment cleanup also include comment package accessible unit test private class make package public enable unit test
+move last remain unit test
+add miss license headers
+separate unit test due
+bug fix reduce empty observable fix issue fix base comment
+add beginnings operator
+implement use operator
+bug fix sync subject emit value observers subscribe
+zip conformance change
+merge pull request implement scheduler overload range start
+update scheduler add diagram standardize java doc comment range scheduler add diagram standardize java doc comment start scheduler add diagram standardize java doc comment
+refactored observe without schedule observer
+parallel merge operator
+update java doc change add link java wiki correct obsolete urls remove unneeded version string line urls standardize java doc format minor java doc corrections
+operators issue issue issue
+update correct overzealous search replace java doc comment
+operation join issue
+empty subscribe
+unit test suppress warn add test validate pull request fix issue
+merge pull request bug fix zip
+merge pull request operators
+update standardize java doc comment add wiki image link new methods
+operations map ultima
+merge upstream master operation join
+merge upstream master operation join
+add operation repeat repeat operator
+add test
+fix block non block first
+merge pull request operation join
+unit test demonstrate bug
+merge branch
+update improve java docs include diagram wiki link new operators
+visually distinguish operators use schedulers add distinct diagram
+operation skip
+fix case skip empty never match
+merge pull request netflix docs visually distinguish operators use schedulers etc
+merge pull request operation skip
+merge pull request scala adaptor improvements erik
+manually merge branch master scala constructors
+operation timestamp scheduler
+merge pull request create observables scala approach
+merge pull request operator group join
+simplify code units
+observe fix observe source scheduler two different observers
+implement sequence equal operator use operators
+clarify documentation cache
+add timer methods
+copy delay test source
+add delay methods copy source
+precise marble diagram case zip take observable emit observables
+fix null issue default equality
+update remove pest dangle
+use non lock state machine base atomic reference
+merge pull request remove open close historical artefacts
+merge pull request implement sequence equal operator
+implement start operator
+make bind private scala access need
+merge pull request timer delay
+migrate schedulers package
+backwards compatible deprecate class exist release allow people migrate
+customreplaysubject support various replay operators
+operation replay additional overload
+merge pull request operation timer
+replay timer java docs diagram wiki link
+observe fix fix subscription leak composite multiple assignment instead composite add unit test
+scheduler
+add fix
+operators switch case case
+operators delay subscription take last time take buffer
+implement block non block single single default first first default last last default
+subject refactor common logic compose inside subjectsubscriptionmanager replay subject block replay new subscribers add unit test fix behavior review compare use mostly non block approach believe correct unit long run test use prove test find concurrency problems development become stable get design correct concurrent code may miss
+license header separate per test
+operations aggregate average sum selector
+miss fix subject rewrite
+merge pull request serial subscription
+merge pull request operators switch case case
+merge pull request miss fix subject rewrite
+alias switch next switch latest match run keep next locally consistent next
+operators skip skip last take time
+java doc improvements diagram switch case delay subscription single single default take first take last variant form standardize java doc comment format standardize nomenclature
+fix take last remove singleassignmentsubscription singleassignmentsubscription remove one merge take last modify another merge
+new contrib module java sync home sync utility function action function etc need java core per discussions
+merge branch
+remove newly add aggregate methods avoid methods result selector overload
+repeat operator merge slight modification
+merge remote track branch
+add diagram repeat java docs
+collect operator
+manual merge clean pull request cherry pick single commit actual change avoid merge affect lot file original commit also include conflict unrelated change observable observable test skip manual merge
+lot java doc improvements diagram previously diagram methods link wiki docs available standardize format nomenclature
+update scheduler test recursion common test
+scheduler unit test pass executor scheduler
+executor scheduler memory leak fix new innerexecutorscheduler child subscription improvements unit test
+currentthreadscheduler memory leak fix schedulers pass unit test schedulers leak memory recursion test immediate use recursion otherwise stack overflow
+update schedulers unit test merge scheduler test package use inheritance test apply different scheduler implementations manual test slow normal execution run test memory leak
+java computation expressions conditional operators contrib module see
+implement rest merge overload
+merge pull request add connectable observable
+deprecate multiple parity add annotations part java doc deprecate duplicate keep early days match
+improve error handle stack race stack race mess error fail implement unsubscribe also fail far edge case mean code break break contract need clear stack race composite exception safe observer class dance wire together causal chain provide stack trace identity point error also standardize simplify work vicinity come ask help debug problem look throw exception use debugger step
+replace countdown latch fix flaky test failures
+port group function
+buffer observable boundary
+delay subscription item delay observables
+window observable boundary
+merge map miserable result selector overload
+add event merger overload
+denounce selector
+timeout selector overload
+zip miserable remove old aggregate version update test
+build grade require plugins also apply root improve scala support idea plugin
+modify conform
+merge pull request implement merge overload
+merge pull request delay subscription item delay observables
+merge pull request merge map miserable result selector overload
+merge pull request denounce selector
+separate android test code source
+merge pull request zip miserable remove old aggregate version update test
+organize import format code standardize source
+alphabetize huge class alphabetize methods give rhyme reason place new operators navigate
+revert build work build server handle odd issue unit
+make observable methods final behavior interrelate dependent therefore write observable make final limit reason inheritance group observable subject
+add marble diagram new operators variants add java doc use appropriate java doc comment reformatting overlong line
+create performance test move exist performance test source folder build via grade yet yet figure part
+start performance test operators examples proceed likely though want use something like caliper
+add new create signature new bind operator new subscribe overload operation replay fail unit test others pass
+implement take operator bind also simplify implementation worry thread safety per contract performance improvement ops sec ops sec
+bind implementation tenable list sort list
+add diagram java docs replay selector variants
+bind implementation map cast timestamp
+take fix terminal state handle even though unit test see safe observer take operator emit complete
+add java doc marble diagram merge map next complete error variety
+bind implementation merge work figure contra variance generics anyone ideas
+add support custom function combine latest
+new bind signature group operator change signature match variant discuss update code new signature implement group operator
+variety improvements java doc text
+bind implementation parallel
+deprecate old create method
+cleanup rebate
+become per decision
+move observer factory methods observers follow pattern
+move observers
+compile unit test fail observer abstract class mock issue unit test mess
+add join
+operator test retrofit use test observer work around inability mock correctly mock abstract class test still fail
+operator unit test pass
+fix bullet join bind simplify type group window buffer empty use nothing
+unit test fail
+implement android relate operators operator click operatoredittextinput operatorcompoundbuttoninput
+ignore question answer
+implement zip operator use lift use new lift operator implement non block synchronization approach concurrency model review colleagues unit test pass review justify welcome
+careful global search replace eugene
+get per source work
+set new sub project debug observable chain
+convert scan use lift
+improve switch next description java docs repair anchor link java wiki java docs
+subscriber observer restore observer interface subscriber implement observer subscription
+merge pull request netflix docs improve switch next description java docs
+work stuff
+restore use observer place
+merge pull request observer subscriber
+scheduler outer inner
+add subscription unsubscribed
+subscribers common factory methods similar observers
+operator miserable
+repeat count merge change
+observe merge operator repeat
+merge pull request run sync method output multiple value
+update java doc comment reflect change

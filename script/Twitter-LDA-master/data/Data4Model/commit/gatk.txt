@@ -1,0 +1,517 @@
+picard codeine swallow picard remove dependency
+print read bare bone basics add compare picard use test
+add printreadsbyreadgroup
+engine support read reference traversals query initial read walker interface read walker initial walker interface support iteration read optional reference contextual information printreadswithreference provide example read walker read source full support iteration query multiple file optionally bound intervals reference source support target query interval full iteration reference yet support comprehensive unit test
+analyse variates part integration test yet
+major change command line parse system use opt simple actual parse support short long help style support boolean flag without argument options case sensitive argument collections specify option full name respect specify default use field name several option value longer use override able nest options remove replace argument collection arguments must uniquely specify arguments target multiple field collection default replace rather append opportunistically fix break test createsequencedictionarytest
+merge pull request add printreadsbyreadgroup
+migrate part
+merge pull request analyse variates part
+rest best baser calibrator analyse covariances apply replacement use print read apply best
+clip read plus integration test
+merge pull request port rest
+feature support strip replacement old gate rod system replicate functionality old rod system code incomprehensible tangle nest iterators bind view state track trackers builders etc etc replace core class feature context feature source feature input feature manager feature context tool face interface replace refmetadatatracker allow particular source feature query feature source handle low level detail query source feature use cache scheme optimize use case query intervals gradually increase start stop position feature input use declare feature arguments tool replace rod bind engine discover feature input arguments declare tool class hierarchy initialize data source one specify command line feature manager manage pool data source well code file format discovery type check read walker interface change apply take feature context argument null source feature include example tool printreadswithvariants demonstrate use new read walker interface since feature file must index order query provide tool index surefire index feature contain file make require change argument parse system feature argument discovery couple possible main arg parser make require change best eliminate temporary hackrefmetadatatracker comprehensive test
+fix issue flag would consume adjacent positional argument move beta version opt simple
+change maven central version hts upgrade remove local rep entirely
+add commit dependent version number version output git describe always long tag version tag git describe fail reason use unknown version
+remove redundant command line parse exception
+remove dead code gatkvariantcontextutils
+update hts
+merge pull request improve test coverage delete dead code move test gate
+improve build process several ways change package installation part grade build longer reinstall exist package warn emit fail compilation longer depend installation installation test run parallel set use core travis locally add note dependency read travis change add cache travis dramatic installation speedup also cache maven download improvement update grade download use date link misc change add additional flag mark duplicate avoid garbage collection statistics integration test tag test depend future use
+interval walker variant walker enhancements genome simple interval migration engine create new class tool interval walker process single interval time ability query optional overlap source read reference data feature variants current implementation simple naive special cache performance issue address port traversal type data flow add ability variant walkers access contextual read reference feature data enable change migrate engine use simple intervals rather genome oct allow creation context object traversals necessarily sequence dictionary available variant walker move share arguments code walker class gat tool still issue relate mark engine wide arguments optional require per traversal per tool basis ticket create since yet hts release contain simple interval temporarily check copy rep remove next time rev hts currently still require sequence dictionary actually parse intervals intervalargumentcollection due entirely support intervals without specific stop position chr chr intervals must look stop position sequence dictionary mean interval walkers currently require least one input contain sequence dictionary although variant walkers look ways relax restriction resolve
+remove clone
+simplify remove useless variate code
+validate variants test
+add data flow pipeline read tool include wrappers present sam record tool also add simple tool examples flagstad airflow make use data flow build hierarchical aggregation count base simple walker make use sam record conversion count read say print read limit version print read walker print sam record string unordered text file could potentially useful method examine output proper writer tool exist two part transform extend transform subclass facilitate conversion sam record command line tool implement complete pipeline pipelines apply arbitrary read filter read transformers apply main transform list transform list filter apply currently handle efficiently though better come single meta transform currently test use local file run travis code include run file bucket test currently disable due travis configuration issue resolve separate ticket change make exist class make serialize properly test file move help normalize test data locations although test normalize separate ticket new storage locations base complete package name rather tool name
+upgrade hts
+tranches var
+improve tool output return value suppress tool output statement tool return null exit tool throw use exception exit tool throw exception
+common read interface data flow support convert core hellbender code base use common interface gat read work read whether happen sam record google genomics model read write necessary coders etc allow new interface type work google data flow port data flow portion code base use picard tool utilities convert prove tricky adjust new semantics gat read interface
+two methods compute difference covariance matrices
+rename package preparation upcoming sam record read refactoring want separate trivial package rename clutter diff main branch
+add tool count read overlap exons list arbitrary genomic intervals resolve functional issue
+best small tweak
+enable read variate unit test many test reverse strand read
+port pileup infrastructure keep lib
+port hmm pair mrs make public
+initial skeleton pipeline read process placeholders transform
+change code work outside normal environment
+add variant interface skeleton implementation
+allow use sparkpipelinerunner data flow test set system property data runner simple class name runner wish use grade test countbasesdataflowunittest ddataflowrunner sparkpipelinerunner
+calibrationtablesbuilder correspond test ability save textual recalibration report
+add docker file build hellbender container
+reduce iterations test use generate carlist number test use exhaustive cigar generator generate every permutation cigar string certain length reduce maximum cigar length test readclipperunittest splitncigarreadsintegrationtest splitncigarreadsunittest reduce time test take order magnitude reduce effectiveness test much also rename length variable case accurately describe
+add apache csc dependency add test segment segment class
+add cloud build every travis run matrix follow require pass non cloud non bucket test google data flow require pass non cloud non bucket test spark cloud bucket test google cloud bucket test spark move term matrix set service account guide add copy google rep fix path add key bucket test
+assembly engine holotype caller
+add goethe coverage perform pull allelic apse along test file make mini use sim
+local apply clean input
+update readcountcollectionsutil use read tvs file write
+fix warn
+port relapse caller
+help print require arguments first
+variant filtration port near complete rewrite gate site site independent unlike gate
+fix spark jar run cluster
+stop test put file hellbender root dir calibrationtablesbuilderintegrationtest create file call hellbender root directory create temporary file instead
+add rest skeleton include basic composite transform test rename cleanup hopefully last almost last comment fix make recap source usage smaller setter singleton
+add spark test travis matrix address
+move log log
+test quality redistribution
+add log help per debug
+variant annotations plus test
+add segment make minor change crosse enter correspond test file
+move methods segment tip
+add tool combine read count also improve unit test coverage dateline target
+port code readlikelihoodcalculationengine add simple test
+add group integration test use
+port select variants tool dependent infrastructure
+merge pull request allow feature contain file use source intervals arguments
+first part genotype work revert log transition
+rewrite code involve logarithms use natural log instead log
+fix bug data flow version bump break
+shortly change prototype work per segment tag candy unit test pass command line invocation pass still need integration test semi real data clean comment write simple output file result detect coverage dropouts add information output count unconverted fittings distance gym fit fix raise power two add another command line option advance users minor cleanup well doc update add comment field result update docs complete integration test get rid test case reflect real world minor change minor change address pull request comment get carry away protect private another round edit response yet another round edit response yet still another round edit response another round comment address fix boolean issue
+run spark write use library write file reduce memory usage since read need store memory also add miss call adddataflowrunnerargs integration test ensure correct data flow runner pick
+copy get writer relate file gate comment commit compile
+port get writer test
+baserecalibratordataflow
+instal git los download large file add test large file existence large test group
+standardize segment target file format
+test collect metrics
+add nonparametric small segment merge
+use sequence dictionary read one available
+complete integration test normalize fast
+merge pull request update
+implementation
+add tool create panel normals createpanelofnormals address issue test code new feature please squash merge add script use generate input pcs test fix issue arise merge update input test file match come home headcounts
+annotation engine
+add spark kayo serialize sam record improve serialize size considerably big effect amount data shuffle
+port haplotypebamwriter
+docs new model propose auxiliary variable enhancement
+add reference broadcast best add new file los human bite apply fat tobit binary kent csc utilities package similarly name fast reference already rep
+remove programmer name
+gaspar tool first step towards unify handle standard tool input spark create new base class spark tool gaspar tool centrally manage validate standard tool input read reference intervals allow enforce consistency across tool delete duplicate boilerplate code tool load input perform standard kinds validation sequence dictionary validation one place tool fit pattern establish gaspar tool still extend sparkcommandlineprogram directly first step still much work unify data source class transparently handle input different source gas file input centrally manage make remain task much easier
+change opt parse dependency
+meanqualitybycycle spark
+merge pull request add reference broadcast best
+disentangle spark data flow code remove static dependencies code outside data flow package code inside data flow package change code base compile delete package main test
+test read write share file fix
+add plot code tangent normalization segment
+test index surefire
+allow spark run test set system property
+remove irrelevant build travis run longer cloud build spark data flow build remove data flow mention
+best pipeline without save fix test best spark
+fix various typos warn
+add gibbs sampler markov chain monte carlo sample along test use simple gaussian copy ratio model
+allow spark write metrics gas change markduplicatesspark markduplicatessparkutils metrics write paths move metrics write code new metrics tip
+check contain order sequence dictionary validation gate use contain name rather contain indices need strict gate require contain occur relative order two sequence dictionaries check lexicographic order human dictionaries solve several major usability issue bite reference use spark best typically contain dictionaries non standard contain order since query contain name actually compatible reference blow many vhf dictionaries use lexicographic order gate would blow change also longer require variant dictionaries share common subset contain reference read resolve resolve
+time debug grade actually kinda work spark base clip work think need code cleanup test large data fix test run spark intention unit test pass test larger data set need code cleanup add command line program disable spark context without initialize use suggestion reason make aka error message disappear use spark standalone use suggestion reason make aka error message disappear use spark standalone first cut docker image update docker file update docker file update log sad attempt different slice scheme add log move slice back slowly calculate pink transpose avoid take transpose spark row matrix would require custom implementation use apache transpose pink transpose fast refactoring sad producers add test put back vector case since compile without delete method use test change spark conf fix minor issue update hellbender reference get update hellbender fix issue spark context initialization
+lookup reference assembly
+merge pull request update docs base conversation geraldine
+remove index equal apply simplify code speed
+new spark tool identify putative breakpoints emit data local assemblies regions
+stop file spam readthreadingassemblerunittest stop readthreadingassemblertest write dot file work directory add new field readthreadingassembler specify directory output file write
+address review comment
+allele fraction model
+use original qualities apply
+modify calcualtetargetcovarage calculattargetcoverage calculate coverage use two different units overlap read classic one average depth number overlap base call target width latter closer use hmm still need avoid duplicate count overlap pair read base also add mind filter discard poor quality base call count add mind filter discard poor quality base call count
+fix room error travis change beta trusty infrastructure travis offer memory instead add grade jim memory limit add test jim memory limit
+test broadcast best
+delete lazy record tweak samrecordtogatkreadadapterserializer
+make tool compare mar duplicate best relative legacy versions tool
+cram test spark
+read pipeline test
+consolidate standard command line arguments address issue
+spark coverage automatic generation file update alpha release gate dependency update new file gate public late alpha fix issue debase
+merge pull request change gat tool createoutputbamindex arg default true
+refactoring pull tangent normalization code back end class add refactoring create store ram move reduction result independent class use class add ability store string matrices pons though bite arduous due unsupported feature java add test ram clean methods extraneous normalizesomaticreadcounts collapse one method tangent normalizer add functionality make possible recreate run nothing different reduction step spark find test normal greatly reduce run time give normal sample obviously clear arm level events expose min width parameter lbs create class run pons change properly analyse contain quickly though small impact make one class serial table add reduce number time ramon create reduce ram consumption may need reduce tentatively switch oral pure java sad minor speedups collect suspicious sample much simpler detection suspicious sample add blacklist file output quickly play cum slice parameter avoid memory error use two partition per contain instead add logger message better performance diagnose massive refactoring bring creation back end object encapsulate clip first unit test pass add test data arm level event detector address bunch add log message docs add log message docs add log message docs add shift median calculation change threshold arm level event detection use median shift base median contain across sample use median shift base median contain across sample lot documentation fix unit test address refactored test extract utility class expose basic weight segmentation add functionality speed tangent normalization add broadcast spark find creation task get speedup calculate variance target minor change better log message write weight file hopefully better partition spark task fix issue file seek create log hopefully small speed increase set slice back upgrade beta hat calculation hopefully get speed increase spark wire take advantage spark beta hat calculation eliminate serialization issue spark adjust cum slice partition since seem bite low adjust thresholds issue detector revert back user exceptions case set issue threshold back docs write spark mini workflow tangent normalization still unfinished address address bottleneck add unit test variance calculation normals project add bunch documentation address add comment documentation purpose add documentation update grind truth pons value everything except target variances documentation testa generation dir additional git ignore rule address pons update target variance calculation include tangent normalization normals show work give external grind truth generation test data generation script provide clean java doc warn change correct unit test debase
+tool make shards readable
+faster simpler accurate initialization allele fraction model
+add new tool normalize read count subtract principal components example java jar subtractcoveragecomponents read normalize address issue
+split current calculatecoveragecomponents integration test one use spark another use apache common sad response difficult reproduce error test travis spark version one problems make likely race condition problem problem report issue travis run problem occur use spark sad disable possibility use spark
+bus gatherer test
+allele fraction segment plot code
+update coveralls badge
+ger line hmm base inv segment discovery add try state hmm model ger line call add segment discovery tool back hmm ger line call abstract part model segment segment common piece share ger line segment class copynumbertristatesegment small improvements dateline mostly unit test improvements gatkprotectedmathutils code address issue
+add flag plot chromosomes
+fix incompatible sequence dictionaries use indicate miss length
+suppress write arc file local file system second fix
+use sequence dictionaries variants file
+add ability get query name sort read mar duplicate eliminate one shuffle markduplicatesspark
+referenceconfidencemodel test
+update latest gate get bug fix regard spark cluster fix log issue change make spark cluster code work modifications make spark cluster throw ape test spark cluster make sure fast seem really fast also seem work standalone mode fix issue bin size add unit test bin size change remove cox close could use cox stop either order unit test pass
+add filter target tool identify target analyse use discard base properties annotations coverage stats
+add calculation mac credible intervals use lib kernel density estimation
+fix markduplicatesspark write output fix mar duplicate spark write output run standalone spark instance output path relative file path fix problem make relative file paths absolute file paths add check see part file find errors like crash future instead silently fail rename merge mergeheaderlessbamfiles expose merge test add test ensure merge throw part file find move exist read park test file standard location minor refactoring readssparksinkunittest
+refactored acnvmodeledsegment subclass model segment put functionality write see file format come gate inv
+expose lot lbs parameters perform segmentation clip
+fix fix bogus test never work fix change function generate simple gat report require sort order rename sort directly master time
+change hts upgrade read resource
+oral adapter
+write output file still populate cum set cum probe correctly address issue unit test pass though need add fix conversion fix error sample column retain need corrections output corrections output simple balance segment caller still need automate test revert acne refactoring fix compile errors refactoring better code use segment tip
+move similar segment merge control flow file output allelic
+common writer honor arguments
+add base map quality filter help
+merge pull request change acne segment union use segment call neutral
+merge pull request new spark tool identify putative breakpoints emit data local assemblies regions
+verify cram file cram content
+command line tool normalize read count sample average coverage
+excesses test refactor
+add ability count fragment rather read calculatetargetbasecallcoverage tool
+add plot acne put credible intervals plot refactored plot code
+merge pull request close
+track progress index surefire
+clean various piece code
+merge pull request add plot acne put credible intervals plot close
+merge pull request referenceconfidencemodel test
+spark best multiple know multiple variant file
+update
+add file
+add new tool createindexforhadoopbam create split index optional bad file bag add add
+calculategenotypeposteriors
+merge pull request add inter quartile range target stats target filtration close
+new tool dump evidence tvs
+harlot caller engine level piece include engine level dependencies harlot caller runnable harlot caller branch include part branch lie outside harlot caller package mostly consist new traversal assemblyregionwalker additions genotype package various additions tweak common utilities engine level class comprehensive test harlot caller package remove preparation migration gate protect repository
+merge pull request fix prs spark tool output file specify
+stop command parser recognize abbreviations previously command parser would accept non ambiguous abbreviations long pts cause issue would different mean different tool patch top simple add option disallow abbreviations update beta incorporate necessary change fix update test use abbreviations unintentionally
+select variants work non diploids
+apply cram test
+merge pull request fix bug baser calibrator spark
+add ger line segment genotype tool new tool take segment discover discovery tool ask question whether event present input sample result vhf quite similar one produce hmm close issue
+docs coverage model
+remove bad provide option skip bad
+detect handle miss reference file
+fix inefficient code computation add test
+findnumberofrepetitions make fewer useless array
+merge pull request build script jim arts line get lose
+add bad unit test port gate
+add tool transform genome strip vhf call segment close
+fix skip unit test hmm engine close
+spark cram write test plus misc change
+bra spark experiment
+implement locus walker
+set segment mean slice sample bound
+harlot caller initial port move harlot caller code public protect port remain miss piece tool gate assemble everything runnable tool top new assemblyregionwalker framework fix many bug port code process extract separate engine work separate runnable walker allow swap back end walker spark easily without duplicate code fuzzy integration test show concordance gate output golf vhf mode well traditional exact match test check consistency past result test come ultimate goal move away exact match test completely update snapshot public include new assemblyregionwalker traversal make necessary change get protect tool compile add necessary large test data public add git los support protect travis fig
+bin equal
+merge pull request add gate launch jar
+port genotype act port subset genotype act options currently support includenonvariantsites support gen type combine goof
+change public support genotype goof port test add test case fisherstrandunittest cover appear error case gate version verify use code include test move vhf assertions base test variantcontexttestutils make robust differences representation float point number parameter size assertvariantcontextsareequal annotations ignore add simple script scrub sample name vhf file update methods use locatable
+begin implementation caller incomplete first cut basic outline many hole leave need automate test still complete add utilities last objective function implement objective function still unfinished necessary class serial table need find nan generation correct since cause gamma fail successful first run iterations need make call address many add clip color caller rebate master get refactoring minor change fix automate test failure may issue test fix automate test color caller pass address docs fix case credible mode outside interval fix case credible mode lie one boundaries fix serialization issue make colo call singular update docs correct issue read acne see file bias variance correction add add documentation unit test titan conversion add titan conversion automate test add eliminate warn correct file output add columns call better debug evaluate result fix max indices bunch bug fix get inline prototype result look little better qualitative small sample size version last minute change unit test cover double gaussian last minute update docs
+enable multi thread ave pair hmm
+add option disable perform less mac refit similar segment merge
+add evaluation tool inv ger line call close issue
+test allele specific annotations
+add spark group many spark test
+use suffix share part file
+less array allow
+index table best table default
+port pileup
+allele specific annotations test
+merge pull request faster query link list allocation
+subset strand allele count intelligently
+select variants variant filtration update setfilteredgttonocall
+merge pull request ger line inv evaluation tool
+add python notebook justify gamma approximation allele fraction model
+enable query interval act include block zip act spark
+move allele reduction calculator simplify code
+new calculator
+add output posterior summaries acne global model parameters miscellaneous refactoring
+refactored splitncigarreads read walker move walker folder add test functionality splitncigarreads integration test index file large directory resolve
+allele fraction copy ratio infinite hmm
+pad target input output standard target file format
+bra
+merge pull request initial port genotype act
+remove command line bra uni
+miscellaneous boy scout rule improvements
+expose pair hmm base quality score threshold harlot caller
+merge pull request initial gel integration
+command line parser plugins read filter command line arguments
+implementation callvariantsfromalignedcontigs tool call tvs alignments assemble contain
+clean code matt read likelihoods use utile methods
+add createallelicpanelofnormals major refactoring coverage
+upgrade spark
+throw exception invalid picard intervals
+add check pass null hts fast file miss dictionary file resolve
+variant calibrator apply port unit test
+patch gate launch allow run standalone package gate jar look local spark jar directory gate launch script use find also check bin path jar environment variable override gate local jar gate spark jar take precedence everything wrapper script use find gate local jar set create local jar alias shadow jar change suffix shadow jar resolve
+merge pull request example metrics collectors
+add grade gate distribution create zip contain standalone gate distribution launcher read resolve
+ignore span deletions rank sum test
+merge pull request error handle non existent reference file
+fix inconsistent output nan value acne conversion
+add info change cromwell son template make templates like python templates update documentation fix forum read link
+change splitncigarreads produce soft clip supplementary read pass validation update splitncigarreads keep read together cluster could set supplementary relevant tag information repair write changeover affix manager handle read group descend original split read accommodate soft clip read newly produce splitncigarreads overhangfixingmanager take account mismatch reference correspond match cigar string read additionally add twopassreadswalker class allow two iterations read file use overhangfixingmanager store dependent overhang clip information use repair mate information break fix fix
+port detect
+joint segmentation
+table support index surefire non act move hts add support index surefire create table indices file act update hts resolve
+calculatemostlikelyalleles deal tie correctly incorrectly remove alleles best alleles tie numaltallelestokeep fix move test allelesubsettingutilsunittest gatkvariantcontextutilsunittest part typo fix notice
+add exampleassemblyregionwalker provide full integration test public assembly region traversal previously integration test involve assembly region traversal gate protect lead breakage resolve
+multivariate walker
+fix minor issue docker file cache could erroneous
+tweak fix numerical stability new equal
+make change
+rev gate public ensue refactoring detect
+read depth per target read depth per target add update code prob coverage model unit test use medians estimate read depth instead approximate poisson base estimator implement coverage deputies latter issue outliers apply andrew comment
+fix read source query intersect subset input
+bug fix
+initial commit contain pathseqfilterspark pathseqkmerspark
+code review change much clean matt
+pileup relate change refactoring lib add maxdepthpersample locus walker use read filter plugin pileup tool sam tool
+merge pull request eliminate deprecate perreadallelelikelihoodmap close
+ooh back end calculate actual score though still untested minor change score calculation rebate pull fix update test ooh score trivial removal comment wal basic score test work add new test score one read
+lot small code clean
+fix test use full score two dummy read rely non spark picard tool output input tool first round automate test start clip clip begin first cut calculate ooh clip create vhf theory fix parser error help laura format field add info header delete angle bracket delete angle bracket update get ready aggregate fix class cast error make utilities make traversal across variant contexts easier process sample optimizations first cut need lot test add test update filter code reprocess test ooh annotations etc test update update test cover scenarios add filter wal evaluation wal fix wal fix wal fix remove reference ooh favor adapter metric generic make small doc change better clarity move pair character artefact mode class test test write summary table fix get genotypes possibly filter test filter move filter test wal minor change remove warn unreachable minor change summary table wal update test bug fix change default value conversation chip change default value conversation chip fix issue could prune zero prune rename ooh adapter get rid weird character take wikipedia cut paste address many almost get rid task complete successfully add last automate test need finish integration test integration test minor change change pull request get ready gate public update update transition break rebate
+merge pull request integration test detect
+switch barclay command line parser
+switch spark dependency
+new strand artefact filter detect
+allow indices explicitly specify read input via new read index argument allow indices explicitly specify read input via new read index argument provide index must specify every must specify order allow one gas bucket index local file fast lookup resolve
+handle edge case fisher exact test
+make readposranksumtest issuable read account deletions
+normal artefact filter pass filter clip
+apply non zero reference length alignment read filter reassembly
+add spark versions walker class add spark versions walker class readwalkerspark assemblyregionwalkerspark intervalwalkerspark variantwalkerspark examples
+update inv docs separate doc coverage model
+move read filter plugin integration gat tool
+modifications exist class refactoring hmm relate class small feature additions target coverage sex genotype small feature additions read count collection utile unit test fork exist hmm processor class segmentation vhf creation
+main commit coverage model commit may still break follow modules computable graph relate class match routines algorithm integer copy number transition prior unit integration test
+better sample detect header
+implement alignment breaker base cigar gap call insertion deletion naive tandem repeat annotation addition inversion
+plotsegmentedcopyratio plot result require sequence dictionary input
+tool generate truth vhf crop sensitivity validation
+support path uris feature
+contamination tool
+crop sensitivity
+add collectables account
+implement trail code refactored allele sven variant compute cover new edge case insertion neighbour clip break map alignments change variant format output vhf len run change cigar field alignment region avoid confusion correct correspond strand mistake test update accordingly
+add possibility process comment line table reader extend class resolve
+almost finish first first cut wal test second cut wal test fix yam remove column fix yam fix build docker script fix path make explicit son path fix sub workflow find issue try diagnose cromwell issue try diagnose cromwell issue try pair list update emacs replace tabs space thank sarcasm travis debug move picard version collectartifactsequencingmetrics add picard jar file automate test wal yam fix shell script fix yam fix run extra unit test fix break wal fix break wal replace ref fax correct issue add unsupported rehear script process input file make sure yam fail redhead red bag picard choke validation test data refactoring script add tutor workflow test minor change add sud hopefully get rid error message allow parallel rehear allow parallel rehear minor change add failure case file read mat integration test pass roll back change get rid grep since return non zero fix tutor see fix list issue report branch hash case issue build system since docker test fail report branch hash case issue build system since docker test fail try depth change unit test one
+reconcile two expect alignment format one discover
+add add method convert raw rms map quality allow convert raw general port reducible annotation reducers fix typo
+base quality annotation
+edit
+fix inbreeding calculation match gate fix inbreeding calculation match gate change genotype count double instead weird gate add additional boolean parameter computediploidgenotypecounts control round behavior excesses need round inbreeding need add new genotypeutilsunittest class test exhaustive leave condition untested update inbreedingcoeffunittest test check match gate output previously divergent case
+set zero read coverage close port
+utility method validate state
+detect version vhf header
+handle scatter count
+assort wal change
+lot new annotations detect filter
+add tool copy large file full directories gas parallel use spark
+implement cigar extraction code annotate simple tandem duplications swap dup seq annotation dup ref span cigar annotation code refactored test update accordingly
+summary post change revert back adj time memory efficient release make computablegraphstructure serial table necessary better semantics add method ice nullify cache value use free memory remove neglect zero copy number state back calculate log copy ratio posteriors inclusion finite map error correction copy ratios obviate add integercopynumberreferencestatefactory essentially function take target sex genotypes give reference copy number state improve djibouti read write tensors tab separate file report log likelihood include normalization factor contribution hmm chain coveragemodelcopyratioemissionprobabilitycalculator take account map error laplace approximation well still replace proper laplace approximation ard bias variates affect many class mainly coveragemodelemworkspace coveragemodelemcomputeblock initialization bias variates remove unnecessary setters coveragemodelemparams add validation method code cleanup refactoring coveragemodelemworkspace coveragemodelemcomputeblock mostly relate posterior initialization new methods coveragemodelemworkspacemathutils calculate edge systems log get etc add methods clear cache value variable transition probability cache longer collect result master node large fit single machine memory copy number state instead hiddenmarkovmodelsegmentprocessor directly give voters result calculations worker nod add method forwardbackwardalgorithm calculate log data likelihood exclude emission line chain useful report correct log likelihood variational bay problems update posteriors affect emission probability though still use old copy ratio posteriors improve concordance statistics report coveragemodellergermlinesparktoggleintegrationtest extra unit test adj relate methods update unit test resources
+tool split interval list
+replace man whitney update version gate man whitney write scratch gate change never get port gate new version produce significantly different result version currently gate result different value rank test annotations harlot caller output inform update gate version validate much better test old version straightforward port version minimal change merge unit test rank unite gate single test class mannwhitneyuunittest port matt binomial coefficient write new test update rank test class test appropriate confirm change rank sum annotations produce gate harlot caller closely match produce gate harlot caller resolve
+fix round errors use solution
+prevent genotype act crash due remapping quality remove error check cause crash depth report less return match gate behavior
+new tool run whole process discovery actual work delegate refactored add integration test check three tool run local mini cluster produce expect variants exclude less important annotations evidence ctr name
+add countingvariantfilter
+track target applicable piece evidence allow assembly activate minimum number piece evidence agree distal target
+tag doc add example command clarify parameter
+merge remote track branch
+post repository merge fix completion repository merge start previous merge commit merge public protect travis file initial merge public protect unify gate gate protect large file track everything large directory change gate protect gate many paths comment exclude annotations variantannotatorengineunittest update docker file test resources instead expect mount checkout git los file docker build change somatic inv wal runners match new file paths rename fix accidental usage deprecate unit assert
+add hopscotch bloom filter class gigantic set long add hopscotch bloom filter class gigantic set long primitives
+ensure read coordinate sort use overlap partition join strategy ensure read coordinate sort use overlap partition join strategy
+implement pathseqscorespark tool test implement pathseqscorespark tool test
+update pathseqfilterspark paths builders tool update pathseqfilterspark paths builders tool
+package many class sub package sea relate package mark deprecate intend
+add argument sample data var model build also recalibration reduce memory usage production pipeline port code write read var model model output arts change enable scatter variant calibrator output tranches vol implement gatherer consolidate tranches apply request truth sensitivity level
+polish path seq add pipeline tool add path seq pipeline tool optimize spark change ambiguous base filter fraction number base update path seq tool program group summary string fix test errors close reference resources filter bra pipeline tool use max fraction ambiguous base default ambiguousbasereadfilter add ambiguousbasereadfilter base number argument path seq filter argument warn address final review
+honor creation amount
+respond comment branch fix miss read sparkle cause problems right gas output directories add gas connector spark unit test run locally test work must define hellbender test project google project use hellbender son service account key path son file service account credentials add test read write gas use connect close close close
+simplify detect annotations
+code cleanup discovery package fix
+prep cox step add constant gatksvvcfconstants change alignments align ontic order move several cigar relate static utility function gappedalignmentsplitter sci rutile change interface annotatedvariantproducer produce alleles rename annotatedvariantproducer produceannotatedvcfromnoveladjacency annotatedvariantproducer locations change interface remove unnecessary check one chimeric alignment actor move inner end class level public end class replace since really represent thing
+enable index surefire enable index surefire hts update solve several critical index bug fix fix
+cox series part add propose heuristic alignment filter long read associate unit test add new field hasequallygoodalnconfigurations align ontic accordingly flag read equally good alignment configurations add new boolean field hasundergoneoverlapremoval alignment interval prepare overlap contain removal also add new utility class file tip
+harlot caller omnibus update fix reduce memory usage assembly region traversal order magnitude load read shard lazily add share mode create one shard per user interval per contain explicit intervals make default harlot caller detect determine active regions consider loci within user intervals still include surround read final region mimic behavior serve empty pileup object uncover loci also mimic behavior fact responsible much remain difference gate harlot caller port gate use median rather second best likelihood non ref allele port change referenceconfidencemodel gate fix bug read likelihoods cause arrayindexoutofboundsexception add special handle raw harlot caller mirror handle raw genotype act add update concordance test data generate harlot caller resolve resolve resolve resolve resolve resolve
+update blame uni dependency add possibility align singletons engine class update blame uni dependency add possibility align singletons engine class
+cox series part add breakendvarianttype output format vhf record correspond method annotatedvariantproducer sven record add code path simplestrandswitchvariantdetector deal simple strand switch variants emit also add utility class utility class duties
+add utility methods read tip cigar tip add utility methods read tip cigar tip add additional constructor rosa record alignment interval
+support unmapped read spark fix
+upgrade mock
+repackage read filter plugin test
+fix alt allele count alleliccountcollector change unspecified alleles allelic count
+hostalignmentreadfilter scorer use identity score exp hostalignmentreadfilter scorer use identity score expose options customize score scheme fix test gen bank test
+update smithwatermanaligner preparation native optimize aligner add new interfaces smithwatermanaligner smithwatermanalignment refactoring spain misalignment smithwatermanaligner rename smithwatermanjavaaligner distinguish future native aligners refactoring renamingswpairwisealignmentunittest abstract superclass smithwatermanalignerabstractunittest create swnativealignerwrapper accept swalignernativebinding wrap smithwatermanaligner well test add option assemblybasedcallerargumentcollection allow aligner specify currently real option add aligner field detect harlot caller update library call use alignment accept aligner argument
+add kernel segment
+add supplementary alignment info fast output also additional add supplementary alignment info fast output also additional tag like change map field format bite map unmapped map map chr map chr last three number omit undefined define set chimeric alignments represent record separate sam tag base orientation still determine strand first map entry
+integrate picard tool via picard jar
+significant improvements calculate contamination
+cox series part add capability discover invert duplications breakpoints complications associate class expand cover new type variants well vhf annotation lift strand class fast quail upper level add test check headers test file
+add functionality test combine annotations operation allele specific annotations match gate behavior also add reducible annotation test suite base concordance gate combine act genotype act fix fix
+cox series part add capability discover inter chr translocations breakpoints disperse duplication breakpoints suspect add new subtype transom breakendvarianttype also add refactored method recorder date expand chimeric alignment include case cross chromosome split refactored generalize overlap read suggest ref homology removal logic simplestrandswitchvariantdetector new class contigalignmentsmodifier refactor breakpoints location fine tune code remove intend intend refactoring fix confuse bug alignment configuration score two configurations score score differ
+add abstract class unify table format model segment inv workflow update alleliccountcollection accordingly
+specify native dependencies explicitly previously dependent net lib pom dependency include number jar contain native code cause problems import gate use maven see fix add exact versions transitive dependencies want add bonus mean longer include native code systems support like arm bite systems windows
+add combine segment command line
+update plot model segment inv pipeline
+port call segment callcopyratiosegments model segment inv pipeline
+clean chimeric alignment change signature allow choice whether filter base length whether filter wholly contain alignments function test refactored accordingly add test coverage
+assemblyregionwalker add support output assembly regions activity profile ign format add activityprofileout assemblymen input arguments assemblyregionwalker allow assembly regions support activity profile data output format suitable load ign mirror functionality present gate resolve
+create database test downstream project use base test project depend gate trouble use base test try load specific file gate test resources project include file test would crash separate new gate database test contain file reference leave useful utilities base test downstream use make similar change test class relate issue fix fix introduce due pain debase entire test suite repeatedly address follow factor database test separate test resources test utilities base test repackage command program due project specific paths refactor targetstoolstestutils allow downstream project use custom reference
+bits piece clean work include move methods normal class various class notably move text code associate test utile package make members public move class camera account package evidence utile reorder function alignedassembleorexcuse rewrite move two function write file getsamfilewriter alignedassembleorexcuse lentils rewrite assembly alignments write findbreakpointevidencespark gatherevidenceandwritecontigsamfile
+output support print read improve sam writer unit test add cram unit test add integration test gas
+change test clobber gas file use test
+better error message
+harlot caller detect include read deletions active pileup previously read deletions current loci include pileup pass active difference default settings gate patch change default include read harlot caller detect resolve
+add support native intel smith waterman aligner add support native intel smith waterman aligner update unit test skip ave hardware available update latest version gel use default java smith waterman test
+fix allow sample rename work correctly genomics import fix allow sample rename work correctly genomics import involve fix code pull sample name golf header add test several rename configurations remove harmful assert
+port gate version combine act tool implementation gate combine act port test file implementation proper allele specific annotations create multivariantwalkergroupedonstart mimic gate partial locus traversal vhf file necessary tool gate version combine act fix test directory problems respond first round comment clean empty data edge case respond comment commit real work real fix test swear work really understand number get change back promise right
+change strand artefact warn annotate tell attribute miss variant context
+add denote tool model segment inv pipeline add denote tool model segment inv pipeline update coverage collection ger line legacy somatic inv fix documentation warn message minor update
+hookup breakpoints locate type inference tool exist discovery spark pipeline add optional string argument pipeline clip optionally add new result master vhf del inv currently add integration test modify bash script turn feature
+fixcallsetsampleordering support repair call set sample file headers match sample give genomics import fixcallsetsampleordering support repair call set sample vhf headers match sample give genomics import include test case generate use buggy version genomics import sample name declare vhf headers always match sample provide genomics import via sample name map file show tool could repair call set successfully
+argument long name kebab minor fix kebab long arts argument collections read filter arts update fix log possible nov output warn annotation use fix policy arg call makegenotypecall fix test file
+first version fun rotator gate annotator analog first version fun rotator gate annotator analog include functionality create annotations encode map ind els regions genome much work progress still consider beta tool fix
+add code wal complete model segment inv pipeline update callcopyratiosegments reprocess intervals reorganize copy number package add segmentation class test model segment inv pipeline add model class test model segment inv pipeline add model segment clip delete wal cromwell test add wal cromwell test model segment inv pipeline
+fun rotator merge update many issue implement many fun rotator feature merge many issue short quite exhaustive list feature include fix issue involve ind els handle simple tabular data source locatable gene name transcript match specify transcripts annotate specify transcript selection best effect transcripts annotations content annotation part encode reference context annotation part encode handle user specify annotation default override
+restrict fun rotator use transcripts add filter annotate encode transcripts tag fix small bug encode annotations
+detect sampler
+add necessary script retrieve reformat data source add necessary script retrieve reformat data source add unit test xsvlocatabletablecodecunittest stable feature fix bug script add script sort linear home data set fix couple small bug parse file
+python stream process executor
+harlot caller major performance improvements fix harlot caller major performance improvements fix set optimizations bring gate harlot caller performance line performance note haplotypecallerspark touch future summary change assemblyregionwalker query intervals contain simultaneously rather individually gat read cache adaptor boundary soft start end cigar length gat read add get snoopy getbasequalitiesnocopy read pileup speed stratify constructor lib lazyloadnextalignmentcontext keep pileup elements unnecessarily separate sample pileup creation restore faster gate version referenceconfidencemodel summismatchingqualities refuse result nest within referenceconfidencemodel allow direct field access remove redundant get base call readthreadinggraph fix base graph utile validate arg call read pileup replace collections unmodifiable list pileup elements iterator direct return iterator forbid removal kill expensive bound check gat read get base get equality get agreement kill null check pileup element kill expensive pileup element read pileup arg validation gat read adapter clear cache value upon mutation
+new gun kernel clip tool wal
+finally remove data flow gate remove data flow dependencies bump genomics apr dependencies modern versions remove auth older code base fix fix fix fix
+add support reference input cachingindexedfastasequencefile reference source take path use instead file many place remove reference resource file use path instead add time test path reference add path constructor replace referencesequencefilewalker file use path split referencefilesourceunittest engine data source part remove use getreferencepath instead restore serial ability add test improve treatment reference sam writer
+update apache commons bring version commons remove use deprecate function unblock update adam version rely commons
+best kebab case documentation
+doc update collectbasedistributionbycyclespark reptile summaries pileup pileup park collectinsertsizemetricsspark collectmultiplemetricsspark insertsizemetricscollectorspark compare inequalities ashlee multi tool doc improvement include reptile summaries diagnosticandqcprogramgroup coverageanalysisprogramgroup
+clean house matt address issue redundant product methods address issue move gatkprotectedmathutils matt address issue unnecessary array copy sub array sum methods
+refactor logic change commit discovery package part cleanup part preparation switch update logic type breakpoints inference sub package class several new package alignment inference refactored methods park group move infer type alignment signature new class breakpoints type inference chimeric contain alignments much work move insdelvariantdetector exist code park ready deprecate breakpoints evidence annotation evidence rethink code annotatedvariantproducer imprecise deletion call new class imprecisevariantdetector quick primitive breakpoints evaluation factor new alignment filter step heuristic score scheme develop filterlongreadalignmentssamspark level class assemblycontigalignmentsconfigpicker factor new strike svdiscoveryinputdata hold much boilerplate information send input inference move method gappedalignmentsplitter split class alamo type contigalignmentsmodifier centralize logic rename class better reflect test scope
+integration test check min argument hook
+add wal postprocessgermlinecnvcalls
+update haplotypecallerspark closer non spark caller migrate haplotypecallerspark assemblyregioniterator fix bring variant call closer non spark holotype caller remove unused code include locale shard
+first implementation annotations barclay plugin without connect rest code base
+port gate variant annotator tool beta port gate version variant annotator necessary change annotation engine client annotations support annotate variants independent holotype caller annotations closely match gate output include replicate exist bug case close close
+harlot caller fix contamination argument add test contamination argument hook properly harlot caller patch fix tool argument add test artificially contaminate data demonstrate feature work intend resolve
+commit reactors type inference code output seq alt holotype type symbolic variants clean refactor move signature classification methods chimeric alignment move inner class level class breakpoints inference merge inner class level class noveladjacencyreferencelocations new level class noveladjacencyandalthaplotype include boundaries affect reference regions infer type simple chimera well alt holotype sequence field rename simpleton adjacency evidence pair noveladjacencyandalthaplotype evidence simple chimera contain implement parallel class hierarchy breakpoints inference breakpoints complications remove redundancy logic purpose refactoring let class chimeric alignment noveladjacencyandinferredalthaptype evidence information holders contain less logic possible actual inferences happen reprocess breakpoints inference breakpoints complications path bubble construction simplenoveladjacencyinterpreter variant interpretation bug fix fix bug forget reverse order cigar string tandem evidence contain strand rep new feature output seq alt holotype type symbolic include simple dup expansion contraction complex dup expansion contraction change annotation dup inv orientations dup orientations add new annotation dup imprecise affect range small duplications whose duplication region imprecisely infer delete tool filterlongreadalignmentssamspark since finish task longer need
+bug fix commit fix homology computation intro chromosome strand switch breakpoints aka inv refactor test discovery package
+bug fix improvements commit implement improvement local assembly contain alignments picker contain could equally explain one alignment configuration hence ambiguity exist one fig mappings request threshold configurations mediocre mappings cover unique read region prefer one fig less mappings implement improvement local assembly contain alignment picker assembly contain good map non canonical chromosome offer coverage contain worse coverage offer mappings canonical mappings previously canonical mappings filter away non canonical map offer parsimonious explanation choose canonical mappings signal downstream inference units better non canonical mappings exist variant induce canonical mappings annotate new annotation ctr good canonical map contain tag description non canonical map implement improvement local assembly contain alignments picker assembly contain mappings one bad large gap fully save improve well may classify still clarify contain incomplete patch class later maybe incomplete still signal implement improvement local assembly contain alignments picker interface main method change return align ontic assemblycontigwithfinetunedalignments keep track alignments classify bad remove outdated fix remove hard cod canonical chromosomes associate change test
+change filter normal set overlap copy ratio intervals model segment consistent filter case set
+improve complex variant interpretation tool fix bug cox variant inference unit annotations evidence assembly contain miss improvement cox variant reprocess step problem use follow overlap homology yield strategy design alignment simple chimeras sometimes make variants look like involve micro deletions due head tail alignments yield overlap region middle alignments fix implement special rule enforce overlap assign head tail cox induce assembly contain also refactoring relate test add manually calculate result cox variant interpretation logic branch refactor refactored single giant class calvaria detector three class calvaria interpreter cpxvariantinducingassemblycontig cpxvariantcanonicalrepresentation group descriptions gatksvvcfheaderlines case also update descriptions relate header line test act
+add prototype mafoutputrenderer fun rotator many fix add mafoutputrenderer fun rotator add argument may add require may field add fun station getdatasourcename add contain name override add code convert vhf index position may index position add start stop position add argument ignore filter variants front process save time add script fully retrieve cosmic data source fix mafoutputrenderer handle map field value fix bug locatable cosmic parsers miss name version encode tutor allele allele allele fix problems vhf output update vhf output better header info refactored header output output renderer change logic create alt protein sequence fix bug locatablexsvfuncotationfactory cause annotations incorrectly associate factory fix several bug gencodefuncotationfactory fix bug handle str variants fix transcript selection mode order fix issue splice sit minor speed fix gencodefuncotationfactory cosmicfuncotationfactory open database read mode bug fix locatablexsvfuncotationfactories use override reference properly align ind els regardless length reference context always render strand create fun station transcripts without fast sequence minor change funcotatorintegrationtest add integration test file yet unused must refactor file actually reflect correct far produce fun station update reflect change fun station factories always produce expect fun station rather produce fun station data match target variant fix issue new variant classification code fix issue fix fix fix remove tutor allele explicit field encode annotation encode annotation end use map sternum lookup remove replace strand hts address comment reviewers sort data source pass
+replace collectfragmentcounts collect headcounts
+add cisco variants model invariant train cnnvariantwritetensors filtervarianttranches tool
+add vcffuncotationfactory add vcffuncotationfactory fix conjunction new data source release
+allow parallel copy tool take filename glob subset file copy
+enable zero edge sample specify createreadcountpanelofnormals
+somatic inv tag ger line events bring annotate interval line dribble read gear write well region merge add several clip start dribble support xiv spec read write annotate interval make clip much else still experimental simple clip tag ger line events tutor normal match see file refactoring control class decouple clip fix output string string error expose pad parameter create simple merge utility messy segment data little utility merge segment fix separator base master change fix debase branch beginnings support optional sam file header simple annotate genomic region first round refactoring seem make combinesegmentbreakpoints work second round refactoring seem work ease simpleannotatedgenomicregion parse restrictions mergeannotatedregions add another example build docker image add docs doc change address address merge issue docs test add test clean code better test ger line tag minor change move region merge utility class update docs adherence inv conventions initialize simple annotate regions dribble framework make columns fig file index column name remove tie inv collection framework add test update test update workaround fact code write capability update writer include add add writer look similar write framework dribble add documentation make abstractlocatablecollection constructors package private add docs writer interface add one doc writer interface add even one doc writer interface fix compilation issue miss fix taggermlineeventsintegrationtest rename couple methods make clearer fix issue bad data source name internally still outstanding comment write incomplete address comment address comment address comment heavy refactoring streamline annotatedintervalwriter spirit request interface remove methods documentation test leader generation sam file header test validation combinesegmentbreakpoints test answer comment docs fix comment make defensive copy create collections comment add functionality create annotate interval header address comment refactoring header mean make annotatedintervalheader remove header field annotate interval collection class add comment header field use add replacement structure comment fix break test make fig file method available make options alternate fig file fix silly error update test make code bite simpler address fix issue tag ger line events make format strict annotate interval write change like get rid comment field annotate interval begin notion preamble auto detect type xiv adjust test rename test file line conventions test change make code look like dribble standard test change make code look like dribble standard test change address address fix test test inconsistent region list input fix file path doc improvements doc improvements revert change add test resource determination fix test resource add small speed increase cost code readability fix test fix variable rename fix test make write interface bite easier fix test make write interface bite easier fix test support see extension add issue reference comment fix assertion issue file could create write would still cause failure fix integration test failure fix warn minor change right add ability specify multiple columns multiple column support another round comment test real life file test real life file fix typo data provider doc change rename annotate region package annotate interval fix default location fig file improve error message fix unit test file paths cause failures
+output support apply apply output bag gas add path support test
+referenceconfidencevariantcontextmerger fix span deletions use correct type median calculation
+markduplicatesspark improvements checkpoint author first part major rewrite markduplicatesspark improve performance tool still number know issue much faster previous version
+bug fix commit better exception message fix bug exist cox variant test data new cox variant scenario commit optionally add reference segment would segment long segment skip
+add new readquerynamecomparator add new query name comparator gat read operate gat read instead sam record match result samrecordquerynamecomparator exactly
+refactor commit move method parsons contain chimeric alignments park consider use refactor update svdiscoveryinputdata also rename svdiscoveryinputmetadata move contain alignment refactor simplify contain alignment signature basic type suspicious simple complex classification hence remove class simplify evidence representation change commit change sven cox variants difference alt holotype sequence length affect reference region length change replacement rpm variants represent new code path change dup variants short duplicate ref region represent new code path
+add new test companion target interval list snippet expand read chromosomes unmapped read add end use exist fast reference test use new file come future branch
+update mar duplicate code rely picard opticalduplicatesfinder update markduplicatesspark markduplicatesgatk use picard opticalduplicatefinder consistency sake
+gun kernel tune appropriate posterior mix strategy bump version minor issue sample error calculation could lead fan different mix rat internal external bug fix determine anneal rate bug fix policy arts two stage call warmup marginalize copy number state neglect correlations copy number mean field discrete continuous rvs though correlations copy number class bug fix convergence tracker thermal epochs thermal adv iterations update bug fix policy arts note case mode still two stage implementation cap pred scale probability allow machine precision avoid inf change definition normalization turn yield realistic roc curve better representative actual segment quality fix test resources save elbow history small fix change hybrid adv inference task base convergence criterion bump gun kernel version
+validation sequence dictionaries multiple bag throw warn instead exception inv workflows
+detect harlot caller emit map accord adjustable distance threshold
+update mar duplicate use picard metrics code
+fun rotator fix fix order specify header match variants flexibility apply vhf data source induce lot miss annotations sanitize fun station vhf pass vhf validation implement look ahead cache parameter use default default add fun rotator test linear encode mix encode data source would still annotate properly ease restrictions encode would recognize valid gtd future versions encode fail base version number warn emit instead tar star test reference shrink size git los create class minimize number copy make unmarred test reference
+interpret cox record experimental interpretation tool feature commit add new test tool name cpxvariantreinterprepterspark extract bare one annotate simple variants gate discovery pipeline produce vhf contain complex variants hook spark hence well also refactor test utile data provider discovery sub package make change integration test accommodate later integration test
+hook annotations barclay plugin tool use vhf annotations unify interface annotation arguments
+unit test two variant context utile methods
+funcotationmap refactoring concordance protein change add flag ease restrictions reference comparisons useful test add parse fun station attribute use vhf header mostly use test vhf data source match alt ref alleles consider hit add funcotationmap improve encapsulation make render bite easier fix issue funcotatorintegrationtest default value reference change thereby cause cross test errors lot refactoring create funcotationmap use send output renderer vhf may honor canonical best effect close close close close close
+add support printhead spark non coordinate sort bag
+fix error span deletions overlap cod regions fix add test
+rework key markduplciatesspark sufficient group
+preserve vhf field may output create class instance appear attribute fun station describe field fun station also useful need know possible field name format may specify every variant vhf due previous bullet point fun rotator throw exception attribute variant header support info field vhf map incorrect field remove fix see sanitize space fun station field value fix fix transcript field populate incorrectly create fun station input vhf info attribute make ignore vhf input fun station
+fix miss special case mar duplicate read key code better match current picard result add test fix read key object pair read happen clip location genome handle properly
+locatable data source provide correct number fun station longer remove extra column start end fig file data source fix
+vhf tranche filter java
+locatable data source produce fun station per allele pair fix
+add custom may field mafoutputrenderer implement alt count ref count alt count ref count tutor field may rule automatic determination pair implement determine tutor normal close
+overhaul test assembly base non complex breakpoints type inference code also expand case format variants change variant context extract carl type refactor tool park new worker class ter
+fix index output assembly file
+create variant call test group split rest integration test speed travis test
+engine change relate migration gate variance gate
+vhf fun station factory recognize equivalent alleles even exact query act vcffuncotationfactory consider allele number output allow single allele query hit data source multi allelic variant contexts render properly close add simple cache vhf funcotationfactory vhf fun station factory recognize alleles exactly equivalent fix small speed bottleneck could use instead complex method happen validation fun station metadata
+address edge case assembly alignments ticket two neighbour map alignments gap split generate unsorted alignments also new utility method interval
+output single vhf new interpretation tool also refactor utilities gatksvvcfconstants gatksvvcfheaderlines group methods functionality bring max align length map qualities annotations cox variants interpret simple variants add new clip argument filter assembly base variants base annotation map qualities max align length filter variants size
+update splice site logic update splice site logic ignore lead index base check variants within splice site boundaries lead base index preserve reference alternate alleles within splice site boundary base change variant correctly label splice site fix
+update mar duplicate score comparison code reflect change picard update score code longer take account clip start position mismatch read also change score double pack short value order better reflect picard score code
+populate sep validation status field properly fun rotator populate may sep validation status field proper value genomes instead boolean value true close fun rotator handle multiple record vhf fun station factory pos ref alt combination even equivalent exact match close
+fix filtervarianttranches remove old filter default
+split gate test tip separate artefact split gate test utile separate artefact publish separately gate test utile future release import test dependency tool build top gate library new dependency structure look like main test tip test move test mini cluster dependencies gate test utile instead gate core class hellbender utile test migrate several test inappropriately locate move appropriate location clean tester delete unused clean accidental use test libraries transitive dependencies fix fix
+add new catch block character encode error case add new catch block character encode error case add new catch block character encode errors along new error message give user case add unit test malformed xiv locatable file fix
+make harlot caller genotype output span deletions harlot caller genotypes output span deletions addition clean uninformative warn genotype give alleles mode
+switch markduplicatesspark tile parse code use short order match picard
+remove experimental tool markduplicatesgatk favor markduplicatesspark
+fix alignment tip issue pull request fix three issue alignment tip class treatment function applycigartocigar backward function createreadalignedtoref read start position pass leftalignindel call may incorrect holotype index relative reference leftalignindel call drop lead operator result cigar read start position need adjust accordingly also add unit test demonstrate issue expand testreadalignedtoref take assemble holotype reference holotype input also add four unit test two test conversion read holotype cigar string read reference cigar string two test correct alignment read hall type cigar test fail holotype align read contain overlap deletions relative reference first alignment unit test fail leave align update read position leave alignment index start read second alignment unit test fail due read start position adjust precede index holotype
+add optional map ability segmental duplication annotation annotate intervals add optional map ability segmental duplication annotation annotate intervals update annotate intervals task call wal untested
+add documentation warn empty clip read read clipper occur add documentation warn empty clip read fix overhangfixingmanger handle properly
+port leftalignandtrimvariants gate
+fix ref conf calculation upstream index improve home ref gas near ind els goof also consider base either side ind els informative local assembly perform
+fun station engine refactoring massive refactoring tool aid long term maintenance extract large refactoring architecture make creation annotations separate command line interface enable better test annotation functionality allow unit test test create fun station directly oppose require integration test purpose
+add fast support add support random access file gate read fast file zip require fax uzi index uzi index create use zip program fax use zip unzip version file replace mix use cachingindexfastafile constructors static factory methods single set constructors close instance cachingindexedfastafile
+add command line exclusion list users prune field output add support parameter specify multiple time remove render field output field appear exactly write output may vhf linear allele close basic clean field value may clean tabs fix
+locuswalkerspark drop intervals read spark version collect allelic count spark add test
+fix splitncigarreads arrayindexoutofbounds error read long deletions relative clip span
+tool filter annotations mitochondria pipeline
+add filter intervals perform annotation base count base filter pipeline add filter intervals perform annotation base count base filter pipeline address comment add documentation
+add regression test fix correctness many annotations massive bug fix test update base commit fix bug variants overlap end transcripts update log funcotatorutils getalignedrefallele fix bug identify splice sit intrinsic regions fix bug funcotatorutils isindelbetweencodons cause issue reverse strand variants add regression test data input file expect file update regression test set include unique variants add flank start codon insertion regression test set fix bug funcotatorutils isindelbetweencodons finally fix bug ind els start codons ind els start codons protein render codon change string bring fun rotator closer annotator functionality annotator start codon insertions deletions protein change string codon change string fix bug order transcripts app rank fix minor bug transcripts generate transcripts protein change would null append end null longer append find bug insertions strand insertions strand incorrectly render genome change cod sequence change protein change due field generate reference sequence fix bug insertions strand insertions strand would incorrect reference sequence alleles handle special case compute align reference allele fix bug transcript selection gencodefuncotationfactory locus level curation level incorrectly pull gene feature rather transcript feature contain variant result order representative transcripts choose wrong transcript feature use determine locus curation level determine transcript annotation gene annotation start stop codon overlap correct precede index base correct case change algorithm uts determine add miss test stub must fill refactored frame shift ind els codon change string create add helper script test fun rotator fix codon change string render consistent correct fix protein change string consistent correct implement protein ingest frame codon align deletions insertions insertions occur codons length deletions full codons implement protein ingest frame deletions within codons deletions length begin base first base codon implement test createproteinchangeinfo implement test renderproteinchangestring implement test isindelbetweencodons implement test getcodonchangestring add unit test rivialfieldspopulated fix bug variant ref allele match reference genome fix test case strand index string bug annotator fix fun rotator involve string strand ind els annotator position report one less base report also wrong fix need fix implementation manual annotations test right comment remove old code take main code path fix bug encode reference contexts create fix bug end point encode annotations create ref context field consistent ind els reference context give window base logical reference allele variant allele input vhf rather allele actually change insertions logical allele space two base therefore result string always window base long deletions logical allele give ref allele without require precede base map logical allele give ref allele update test test data reflect change add small regression test set fix boundary bug codon string codon change string alternate correct form insertions involve start codon strand stop codon strand form eliminate overrun bound exceptions fix issue involve variants overrun end cod sequence add additional require file regression test encode data source add helpful script modify test data set correct update part encode prepare fix exon boundary issue update funcotatorintegrationtests use environment variable paths safely update use base data type rather refactored remove use object update test suite use full check reference update many test use regression test data source rather small data source specifically pica much remove unused data file primarily old data source update regression test work local data source reference work local check copy data source run checkout fix bug variants stop codons classify variants stop codons correctly classify whereas almost always label add test script add script run annotator add large test file regression test
+fix bug gag mode cause split metallic sit genotypes
+fun rotator create default annotations difficult variants fun rotator create default annotations difficult variants fun rotator create default annotation event able annotate particular allele pair throw inside call within default annotation label variant classification typically appear field lowest priority variant classifications suppress unlike variants design fix fix minor test issue update expect data address code review comment
+create annotations symbolic alleles mask alleles create annotations symbolic alleles mask alleles update data source include variant sit symbolic alleles fix test correct new logic test symbolic alternate alleles mask alleles fix
+add test add test
+port gate variance gate
+fix integer overflow bug remapping quality update rms map quality annotations type long long instead int integer int type large cohort could overflow handle sum square map qualities long type problem world colonies resolve issue attribute letter place gatkprotectedvariantcontextutils
+add strict mode assemblyregionwalkerspark haplotypecallerspark add strict mode assemblyregionwalkerspark produce identical result assemblyregionwalker make haplotypecallerspark strict match walker version spark harder handle case read overlap two intervals ensure result edit intervals use reuse sampler shards since retain state
+adaptive prune option local assembly
+change filter intervals operate intersection intervals input
+improve implementation allele specific new equal
+add remain useful feature markduplicatesspark associate test add remain useful feature markduplicatesspark associate test
+cleaner detect vhf field
+move parallel annotations info field
+simplify speed kbesthaplotypefinder replace recursion dijkstra algorithm
+add ability markduplicatesspark accept multiple input add ability markduplicatesspark take multiple input bag query name sort extend support opt gaspar tool
+first iteration reference confidence golf like output detect enable mitochondrial joint call also fix validate variants golf mode update invalid test resources
+detect work multiple tutor normal sample
+fix overflow gaspar tool getrecommendednumreducers fix potential overflow gaspar tool getrecommendednumreducers add new method safely convert long int
+type hint inference
+reduce repeat step
+add option read park specify whether sort read output
+create genomics skip ger line report stats
+option recover dangle branch default ito mode
+enable write vhf output cloud storage enable create writer write path update headline read path simplification integration suspect
+extract test printhead integrationist share spark version
+correct irrelevant inheritance detect
+overhaul detect filter
+unused arts vhf merge
+table reader table writer take path
+tool combine output reptile summaries disjoint scatter job
+honda change tensor low intel speedups
+refactored calcnindelinformativereads use dynamic program cache result refactored calcnindelinformativereads compute result entire read cache read transient attribute field reduce repeat step across pileus include read
+refactoring read orientation model run within detect
+detect use natural logarithms internally
+saturation mutagenesis analysis
+fix several issue force call mode
+add check ensure previous cache information affect referenceconfidencecalls add defensive check calculatereferenceconfidence ensure index cache clear underlie read add proper test cache clear behavior resolve
+minus wal add tool support vhf input tool create two output file gate see file simple tvs segment input file uncoated genes overlap gene exon cover breakpoints output format mean closely match annotator gene list every gene cover segment list segment cover gene appear segment breakpoints overlap gene one segment overlap gene output format mean closely match annotator output format may change input format see file generate reviewer note include refactoring drive much encode annotation data solely transcript oppose mix transcript gene cause change sort encode annotations easily see transcripts field turn transcript type field different value transcript cause many transcripts longer categorize protein cod therefore grind truth mostly totally modify please carefully review grind truth change introduce compose multiple output renderer use output type write output file simultaneously introduce write anything disk entire input file process actual write happen command necessary since actually render output segment see output renderer also rely heavily specific fun station field input internally gene list output renderer use see actual write introduce output renderer flexible render tab separate text file base several output rule format drive fig file developers limit output columns ignore extraneous fun station field note exclude field honour regardless configuration parameter combination would result class produce empty file exception throw note java docs class currently actually punctate segment code base currently enforce small mutations run set uncoated determine segment run small mutations produce exception enforce flag code back end disallow mixture future use may prove important fun coat cars act produce tool add copy creation method funcotationmap base kayo also add necessary kayo registrations induce new unit test enforce concrete implementations kayo serial table unit test recursive search fun rotator package concrete implementations track whether unit test test serialization fail instructions developers present comment code bite fragile especially developers use gate library see track wal development close
+basequalityhistogramannotation
+fix gag mode bug add alleles cigars could soft clip
+add explicit override remapping quality annotation enable old code fallback
+gen type code gnarly pipeline nomad gnarly genotype efficient alternative caveats genotype act large cohort gnarly pipeline finalize annotation value filter super fast hail derive sit input need calculate genomics input subset alternate alleles drop genotypes sit alts perform joint discovery aggregate small amount evidence across sample also make improvements fix block goof tool part gnarly pipeline
+update task disc picard
+delete bunch unused methods
+delete old exact calculation model
+fix edge case small region orientation bias model
+unify harlot caller force call mode detect
+refactored read likelihoods force mat support holotype
+fix annotation output order bug fix annotation output order bug bug cause fun station field produce annotation source scramble multiple entries identical position alleles data source vhf cause accidental use create map instead link map remove method allow pass map instead link map order harden future bug source fix
+argument builder test
+prototype junction tree base holotype find add experimental mode harlot caller detect disable sequence graph simplifications use true bruin graph augment junction tree still work progress
+merge gatkprotectedvariantcontextutils methods class
+refactoring windows pad assembly gen type
+consolidate branch junction improvements improve link bruin graph mode harlot caller reduce loss sensitivity still maintain benefit
+rewrite leftalignindels code always work even multiple ind els
+trim intervals load interval file trim intervals load interval file move write file inutile create new temp file specify content return file path fix
+fix incoherent unit test case allele sublet utile
+realign best holotype handle ind els better
+simplify cigar clip code add test fix bug
+bruin bruin graph except sound jingle link
+update fun rotator support ensemble gtd file non human species update fun rotator support ensemble gtd file non human species refactored gencodegtfcodec enable parse ensemble gtd file create abstract code ensemble code update fun rotator fun station factories allow ensemble base gtd file add coli data source folder reference vhf expect data test add test ensemble gtd file fix add large file fix file paths point large file
+fix several bug involve getreadcoordinateforreferencecoordinate
+extract new read source interface extract new interface exist class read source new interface call read source read source rename readspathdatasource support introduction new read source implementation use hts get
+disable sortsamsparkintegrationtest testsortbamssharded disable sortsamsparkintegrationtest testsortbamssharded test fail master disc bug enable fix

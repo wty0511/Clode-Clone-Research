@@ -1,0 +1,211 @@
+initial contribution
+text update initial sign
+move soda time lib core model
+auto update bind send accord events event bus sign
+bug improve guide injection fix interpreter bug sign
+cleanup sign
+issue value like work integer format like sign
+change grammar support optional property section sign
+add conversion serialization support value type string number boolean thing del sign
+introduce simple long poll page request rest apr atmosphere replacement achieve pseudo compatibility open hab clients sign
+update june version sign
+fix security problem send events imply permissions add sign
+add clear command smart home inbox clear items otherwise way get permanently rid item approve remove sign
+refactored thing manager support virtual channel sign
+add new rest resources bind resource discover resource inbox resource thing resource thingy resource extend item resource move bundle extend discoveryserviceregistry methods support thing type bind sign
+huelightdiscoveryservice start call hue bridge start search trigger search new light test assert start search call add test resolve code format issue sign
+adapt thing resource new jan connector use declarative service bean method argument sign
+add support bind resource thingy resource add itemchannellinkresource add update method thing resource add method get one manage provider introduce get method item channel fix bug wrong locale return method sign
+rest apr extend retrieve items tag type also sign
+fix potential concurrentmodificationexception sign
+rename sign
+extend parameters fig description schema sign
+add channel group state description advance flag category thing type cml file extend parser add support channel group things update documentation hue yahoo weather bind also sign
+add state description category label item add active item interface move mutable item methods add things manager things manager rest resource manage items link things together add items inline accord registry provider add crud methods registries add item reference thing channel change item channel link allow multiple items link one channel fix minor issue use listeners sign
+improve implementation find service correct name space sign git hub paul attila
+let default icon consider category sign
+apply est code formatter clean settings users blame feature commit clean current code base reformat remove trail white space clean indentation continue blame restart blame use previous commit one sign
+merge pull request add new fax section fix minor issue docs
+merge pull request apply est code formatter clean settings
+console command extension rework console split current bundle improve interface split interface framework specific implementation command extension handle exactly one command hide format command usage string use use new interface use new interface use new interface support rec sign
+add simple implementation kara add dependency kara console core pom file long present target platform est could build project use maven tycho long pom dependencies consider set true build eclipse still work sign
+introduce support system wide channel type use bind default system channel type every bind define cml sign
+automation apr son file initial contribution pro syst author marin mite also also also sign
+fix typos fix apply est code formatter sign
+add possibility send command bind sign
+change generic provider catch exceptions cause badly behave bind sign git hub paul attila
+add extra configuration attribute configdescriptionparameter sign sign
+add support properties channel definitions sign
+add note doc folder sign
+unused import remove handle factory manifest import update sign
+adjust max brightness color temperature range hue apr set maximum value brightness range color temperature comply official hue apr refactor usage increase decrease command hue brightness refactor extend test hue bind sign
+rename folder extensions make dependency optional extract transformation service bundle separate ones along test new bundle contain within extensions sub older sign
+add scale transformation service without local table source file scale map sign code review sign corrections sign remove test launch file sign
+add path transformation sign also corrections sign correct typo sign add build git version son smart sign
+update setup instructions use eclipse installer sign
+new eclipse smart home event mechanism break java use apr also sign
+merge pull request fix typo comment count operator
+initial contribution basic also sign
+add safemethodcaller allow safe method call integrate thing manager sieve manager bug sign
+introduce name configurable thread pool bug sign
+channel label description override sign sign
+initial version internet radio bind bind base open hab bind frontiersiliconradio migrate new est apr include device discovery bug sign also
+introduce channel registry bug sign
+add compatibility help cars request sign
+preview life bind rewrite life firmware offer functionality first iteration life bind additional feature expose life bulbs could add future protocol implementation however complete line life protocol specification also also also sign
+alert effect function add hue bind sign
+initial implementation automation component squash author marin mite also also also also also also also sign
+move basic sign
+move classic extensions folder sign
+initial contribution rule editor also sign
+discovery result properties need map thing fig parameters properties bug sign
+demo bind add new devices demo bridge demo lead bulb demo maker change auto discovery introduce gena event usage see discussion change also need june merge sign
+add error message automation create rule rest call fail move response package sign
+change thing type thing type less thing remember thing type explicitly discover result provide thing type explicitly channel allow creation things bridge explicit thing type include thing type thing factor code thing factory internal reuse work thing type instead thing thing type migration thing manager adaptation change thing type things sign also
+merge pull request adjust hue bind use username generate bridge instead custom username
+force use fix sign
+automation java apr demo implementation sign
+automation java apr demo implementation sign
+basic escape selection home attribute fix sign
+move thing handler initialization separate thread sign
+import icon set open hab import icon set open hab fix office icon add script generate icon set read sign
+eclipse smart home depend open hab sign
+make maptransformationservicetest robust seem events take time arrive file systems see therefore change test wait second order verify assertions test first copy property file another place versioned file get touch sign
+fix sign
+refactored thing update mechanism rest apr sign
+merge pull request reorder modules
+fix break build automation rest apr sign
+wait run handler registration complete order prevent race condition change thing type initialization see sign
+wait proper cleanup hue test order prevent test use thing fix sign
+remove obsolete code sign
+remove obsolete code remove obsolete code
+initial contribution bespeak scheduler infrastructure est sign
+fix deadlock improve synchronizations fix deadlock improve synchronizations sign
+add digital bind rewrite digital bind open hab bind alexander better differences update functionality concept completely revise update reorganize structure update digital apr constant class support new est feature discovery support devices please look also also also sign
+update songs bind sign
+remove bundle lib sign
+defer thing handler initialize xmas parse sign
+fix process automation resource queue sign
+initial contribution device firmware update apr sign
+add support locale fig admin service configuration sign
+fix fix comment issue sign
+digital bind update digital bind update bug fix roller shutter show wrong position bug fix roller shutter show exact position scene call work auto load sensor channel work stop command take scene behavior call undo scenes devices new support bind support ump bind support add new channel slat angle set angle support device object add group scene fade auto complete behavior test digital test server real roller shutter awnings blind change output value percent round add methods output mode check output denim make add output modes maintainable move method load scene fig devicethinghandler device add refresh output channel add check output value send command command effect send ass change method bridgehandlerinizilased new method brigdestatechanged fix typos code little fix change also sign change online sign
+watch service provide file name instead relative path watch service provide relative path file watch event process directory modifications optionally watch add test ensure watch service adequately work test platform dependent list handle test events synchronize several thread access folder observer conf dispatcher adapt change abstractwatchservice sign
+life add brightness channel color light sign
+fix potential ape sign
+merge pull request fix java doc
+port mpg video support open hab sign
+rework cml bundle process thing handler initialization sign
+refactor sign
+fix concurrency issue sign
+fix connection locator sign
+make response handle robust case encode receive within quote make response handle robust case encode receive within quote sign improve error handle demo bind sign
+correct log space fix concurrentmodificationexception use cheaper get hex instead expensive get label send packets life fix life fix also sign
+split general audio voice support move separate bundle introduce audio manager make voice manager depend add audio console command introduce fraud stream introduce file stream add volume control sink also sign address review comment sign
+scheduler fix also sign
+refactored module adapt use declarative service sign
+convert state type accept type send item state events fix sign
+basic fix possible ape widget renderer fix sign
+basic fix modal popup layout fix fix scroll problem long selection list sign
+implement file system template provider module provider fix issue sign
+rule engine rule registry become registrychangelistener resource bundle providers implement sign
+initial contribution also sign
+automation demo module type demo commit relate point sign
+life refer bulbs light sign
+life discover light label improve lock optimize packet handle life discover light label improve lock optimize packet handle sign
+move june source code package remove binary switch hue bind use integrate internally june source minor code cleanup sign
+correctly set item registry return handler sign
+parameter context docs update sign
+implement new quantity type unit conversion add new quantity type state command locale base unit conversion script support paper support number item creation dimension suffix basic classic support widget specific unit conversion group item support group function number items dimension also sign
+change create upstream fraud stream reuse already open connection instead open new one get source audio managerial return ids source correctly sign
+fix circular service reference fix launch figs fix circular service dependency relate statedescriptionproviders turn follow circle statedescriptionprovider itemchannellinkregistry item registry itemregistryimpl open service tracker statedescriptionprovider activate last reference manage handle gracefully therefore change add dynamic service reference item registry via fix sign
+update new support binary input sensors room temp ration control sens optimize request query build son apr session token handle separation even listener event handler others add dsdevicethingtypeprovider complete dschanneltypeprovider generate channel type constants extend son apr bug fix fix fix internal zone group name handle also sign
+support ski declarative service annotations maven tycho sign
+reactivate test fix mock dependencies add launch fig include test maven build fix test fix behaviour item could find sign
+sitemap events provide item state format match map entries sitemap events provide item state format match sitemap entries use interfaces instead implementations cleanup cleanup use method state conversions test state conversions remove unnecessary state conversion also classic sign
+end label disable display value implement test add widget label empty pattern test add widget label without pattern sign
+classic map value display selection fix sign
+basic update value text element expect fix sign
+classic icon group depend state sign
+castro bind implementation compliance est scheduler add new simplify job apr adapt previous quartz job new apr remove quartz dependencies add iron helper test compact profile compliance code refactoring sign
+initial contribution try fri bind initial contribution trad fri bind fix wrong teachability state read add schedule device discovery gateway add dispose logic gateway handler fix discovery unreachable color temp light add constants address review comment fix feature satisfy verification cancel schedule scan job upon handler disposal sign
+prevent automation resources kid duplication solve sign
+internet radio test migrate com groovy pure java internet radio test migrate com groovy pure java remove maven class path remove string message assert remove empty line rename radioservicemock radioservicedummy access radio without reflection sign
+basic escape home character fix sign
+ossify wait cml process find wait cml process add ready marker service interface register ready markers cml thing type simplify code eliminate abstractasyncbundleprocessor cml base providers register ready marker dedicate ready markers register bind thing type use thread pool bundle process instead spawn thread thing manager genericthingprovider listen ready marker registrations dump resolvedbundletracker favor simply use plain ski bundle tracker factor common aspects cml base providers abstract provider split xmlchanneltypeprovider xmlchannelgrouptypeprovider sign miss entities implement identifiable namely bind info abstractdescriptiontype conf description sign incorporate review feedback sign
+small fix per review comment adapt log use parametrized style sign
+add representation property thing type use inbox auto ignore service add thing handler get device inbox ignore service implement device hue bind add representation property hue light fix sign
+change automatic inbox processor compare value representation property value property also configuration parameter sign
+add null annotations bind apr add null annotations bind apr sign
+implement option choose default network interface implement option choose default network interface fix sign
+factor communication thing manager component order separate concern rest diverse duties thing manager sign
+improve test fix static code analysis tool sign
+drop google collect bind bind digital skip already big fat queue want prevent merge conflict sign
+improvements profile follow sign
+trad fri support new rob bulbs add support new trad fri full color lamps sign
+rename package internal songs bind see sign
+rename package internal bundle see sign
+migrate internet radio test mock sign
+rename package internal sample bundle see sign
+life add optional host configuration parameter support new products improvements life add optional host configuration parameter support new products add host configuration parameter light respond broadcast fix add support new products notably new light add device configuration parameter pattern prevent mistake exceptions fix static code analysis find make broadcast enable final make life bind periodically update network interface information instance resolve issue network interfaces still use broadcast code information duplicate across limelight discovery lifxlightcommunicationhandler class extract lifxnetworkutil utility class group package make device optional configuration parameter use lambdas fix update properties update thing status configuration error device host null introduce login property log identify light depend mac configuration add login miss simplify debug use lambdas listener registration iterate listeners resolve warn fix properties always update use limelight context share common variables handler helper object improve exception handle catch specific exceptions use specific error message set host property discover light sign
+improve handle brightness value color light sign
+add extensible flag thing type convert thing cml test java test add extensible flag thing type refactor thing type constructors builder pattern new thingy builder deprecate thing type constructors replace invocations builder add extensible attribute list extensible channel type ids thing type expose extensible channel type list rest resource add null annotations refactor builder apr access protect bundle context ski test add documentation extensible attribute sign
+leverage link configuration select profile item channel configuration use select profile use switch item channel channel profile master channel channel profile system slave channel channel profile bind foo profile identifiers name space bind bring system name space also default name space give like master example fig description available link link
+basic classic support help live stream add support compatible web browsers use encode video sitemap element sign
+fullness fix automation extend sign
+improve dix bind refactor channel channel avoid confusion make fade action complete infinite hold add test fade action sign
+move man discovery service separate bundle create man discovery bundle create discovery bundle adapt bind sign
+convert firmwareupdateservice test java convert firmwareupdateservice test java sign
+fix translation channel definitions label description add test case translate channel definitions channel group definitions fix translation channel definitions add channel identifier translation component sign add test case default system channel type sign
+fix group function require string type regex parameter fix group function require string type regex parameter test case count function items topper count function sign
+profile apr improvements profile apr improvements simplify apr implement profile price little complexity communication manager side allow implement profile without expose items item channel bind maintain backward compatibility make default master profile forward handle update call thing handlers expose constants system profile allow easier evolvement apr profile callbacks require less code within profile therefore eliminate need export default profile inheritance sign
+basic fix refresh hide visible image chart fix fix ignore refresh inappropriate sign
+update license cpl update license cpl update file headers cpl update feature license cpl adopt check style license header pattern switch copyright holder statement vendor name bind archetype add start year property default sign
+safe caller replacement safemethodcaller new safe caller apr sign
+port discoveryserviceregistryosgitest java sign
+basic reduce warn detect code analysis sign
+reduce guava usage eliminate guava many bundle sign
+fix fig description alias handle first delegate alias order get set default fig description parameters amend parameters come provider concrete request fri fix sign
+include providers duplicate element warn include providers duplicate element warn relate others sign
+jetty help client factory sign
+merge branch
+improve dix bind split dimmer thing dimmer tunable white rob improve test update documentation fix sign
+rename package follow name conventions sign
+add latest earliest group function date time group fix sign
+ftp fix launch fig test project sign
+fix thingmanagerosgijavatest testchildhandlerinitialized replacedunitializedthing sometimes test execution faster framework realize handler fail sign
+fix quantity type parse exponential number units sign
+make label value colour compatible quantity type make label value colour compatible quantity type add unit test conversion sign
+item tag become metadata item tag become metadata change tag previously store together items store metadata completely transparent though users require migrate data however store name space prefix mark internal therefore expose like normal name space rest apr fix sign
+annotations sign
+provide bundle resolver service decouple static provide bundle resolver service decouple static since get resolve clean reduce bundle resolver resolve bundle instance fix test add bundle resolver mock refactor configstatusserviceosgitest groovy java plain unit test refactor changethingtypeosgitest groovy java simplify fix fail test maven fix thing manager register ready tracker activate sign
+convert hue test groovy java convert hue test groovy java expose hue client instead hybrid handler convert light handler test unit test fix launch fig add java doc remove asyncresultwrapper java test long live copy paste may call hierarchy always except groovy course sign
+add item registry remove tag string remove tag item add item registry remove tag string remove tag item also fix bug delete tag sign
+classic consider item options selection widget map define relative issue sign
+basic consider item options selection widget map define relative issue sign
+transformation profile systemoffsetprofile include two new profile transformation profile new system profile register scope transform offer possibility use transformation service channel link string send device transform via specify function pattern parameter direction item device leave untouched systemoffsetprofile live system scope profile able add subtract offset value send device profile work directions apply opposite offset opposite direction quantity type support well one put offset channel send fahrenheit addition new chatty thing magic bind send random value number channel random string string type channel base configurable interval profile test turn quite useful sign
+solve automation circular service reference solve circular service reference include major refactoring rule engine architecture replace poos interfaces builders port automation test groovy java adapt test make use builder pattern instead direct instantiation add java doc license header adapt parser use paper fix disable run rule list remove enable flag enrich rule add require dependencies ski test execution refactored rule engine rule registry split use immutable collections rule field also also sign
+fix issue find static code analysis tool refactor groovy file java sign
+core provide reconfigured channel builder allow edit exist channel provide reconfigured channel builder allow edit exist channel sign
+add miss license headers sign
+extend documentation test assertions archetype cosmetics extend documentation test assertions archetype cosmetics sign
+migrate core thing test groovy java also sign
+remove groovy requirement test base bundle move remain already plain java file groovy java directory remove groovy nature keep methods use groovy closure type argument mark deprecate provide function use standard java type sign
+add wedlock factory interface service add wedlock factory interface service also sign
+add disable thingstatusdetail add persistence thingstatusinfos add disable thingstatusdetail add persistence thingstatusinfos thing status set set enable method align thing status rest method align new local service initialize handle thing previously disable make storage service reference thing managerial dynamic sign
+meet generic bind bind matt topics things broker connections list bridge generic thing add thing host one multiple channel link matt state command topic optional transformation channel one follow type text channel number channel percentage channel ono channel channel configure transformation pattern incoming message matt state topic allow extract value auto discovery also support follow two conventions implement homie matt convention except node instance home assistant matt components fan cover climate camera stub handlers value class cover test also sign
+bosesoundtouch make presets state options allow simple selection make store presets channel state options allow deletion presets internal storage reduce socket client stop timeout second second default sign
+matt things fix initial value channel something receive otherwise random default value show startup add configuration xmas use channel configuration store receive matt configuration data channel restore channel channel group homie home assistant handlers use mention configuration rely matt topic discovery restore broker available device publish end items link non exist channel home assistant handler handler responsible current future components component instance device speech call object install wildcard subscription object topic unfortunately home assistant matt specification handle case disappear components handle case either homie home assistant handler rely purely configuration device object thing base topic homie home assistant configurable homie handler heart beat interval support thing offline heartbeat get receive time specify convention handler dispose correctly unsubscribe remove handler reference mqttbrokerconnection handler stop connection lose correctly unsubscribe remove handler reference mqttbrokerconnection add tool class collect incoming object threshold time reach callback list issue use home assistant homie handler collect discover components batch thing edit time otherwise registries flood edit request short time frame discovery class homie home assistant set bridge otherwise add thing would always offline bridge manually select introduce new type channel generic matt thing end switch switch type channel actually text type channel multiple state use home assistant alarm component channel take send one state arm home arm away unarm support retain attribute properties support heartbeat interval add channel state class test move test class subject correspond package remove static wait replace newly introduce test helper class use place reduce overall test time half improve user visible string cml file label description add handle factory use regex channel state state topic match add test add test wildcard topic modify one test check heartbeat property set use complete future get without timeout lock bug mqttbrokerconnection channel provider deprecate group type methods adopt mqttchanneltypeprovider use new matt bundle service topic subscription broker connections sign
+update wire bind add eds sensors fix add sensor make device parameter type safe sign
+one wire support second approach sign
+matt things output formatter new channel type separate channel type color rob color hub add formatter channel configuration format pattern apply publish value matt broker allow prefix suffix date time precision pattern available java formatter remove switch value inverse configuration improve read use inheritance realize channel state transformations matt things homie mandatory fix read channel add separate test homie color value interpret single integer brightness value fix also sign
+home magic support quantity type number items home magic support quantity type number items item type may come quantity type like number temperature commit add support type converter factory enable data convert base unit measurement enable quantity type item type generate channel base data point unit sign
+rule action via action provider annotations rule action via action provider annotations sign
+dix new feature dynamic turn value update dix bind move constants internal fix author doc code style check add turn value last value dynamic turn value dimmer thing sign
+matt action matt things fix matt action matt things fix possible publish arbitrary value arbitrary matt topic new automation engine introduce mqttchannelstatedescriptionprovider next mqttchanneltypeprovider allow dynamically provide state description generic channel different cml one update min max read parameters add new generic matt channel contact finally solve confusion switch contact type items allow multiple chain transformations incoming matt data tell user yet add test receive float value fix handle float value allow read generic matt switch channel sign
+add support sensor apr motion sensor dimmer switch remove dependency export handlers anymore fix winter errors documentation minor improvements also sign christophe wei tramp git hub
+matt add matt receive test channel type type parser commit days ago allow send command string like increase decrease unfortunately break channel commit add test channel type rob color channel break even type parser commit fix add feature add location date time image channel type include test read section refactor class lot slimmer value interface abstract class move cml thing channel configurations rename two methods clarity value get value get value think anymore sign
+wire fix things stay initialize status fix initialize forever error sign
+wire bug fix new multi sensors refactor multi sensors bus add new sensors show old thing type paper bug fix documentation update refactor sensor update non block sign
+wire add eds sensors sign
+wire minor update fix fix initialization thing edit thing offline improve documentation move bite set instead list

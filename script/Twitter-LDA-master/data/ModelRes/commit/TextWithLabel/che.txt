@@ -1,0 +1,7 @@
+2011-09-01:	z=20:  eclipse/20 che/20 initial/20 contribution/20 sign/20 
+2011-09-01:	z=2:  set/false maven/2 build/2 core/2 plugins/2 dashboard/2 assembly/2 add/false maven/2 build/false modules/2 remove/false duplicate/2 resources/false code/false conduct/2 contribute/2 docker/2 file/2 license/2 number/false read/2 move/false root/2 set/false default/false maven/2 jim/2 fig/false move/false dependency/2 management/false che/2 dependencies/2 che/2 dependencies/2 hear/2 party/2 dependencies/2 leave/false che/2 dependencies/2 remove/false unused/false travis/2 figs/2 remove/false outdated/2 sam/2 figs/2 sign/2 
+2011-09-01:	z=20:  fix/false launch/20 che/20 linux/20 sign/20 
+2011-09-01:	z=20:  index/false reconfigure/20 port/false server/false common/false configuration/20 specific/false case/false start/false che/20 agent/20 case/false agent/20 port/false configuration/20 sign/20 
+2011-09-01:	z=5:  merge/5 pull/5 request/5 index/false reconfigure/5 port/5 server/5 
+2011-09-01:	z=24:  che/24 fix/false git/24 fig/false property/24 fix/false method/false jgitconfigimpl/24 class/false previous/24 behavior/false property/24 present/false global/false git/24 fig/false file/24 git/24 repository/24 fig/false file/false execution/false git/24 connection/false confirm/false return/false property/24 global/false git/24 fig/false file/false 
+2011-09-01:	z=21:  fix/false create/false pics/21 workspace/21 strategy/21 sign/21 

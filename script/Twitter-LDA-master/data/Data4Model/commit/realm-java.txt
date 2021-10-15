@@ -1,0 +1,1013 @@
+implement code generation table cursors crud
+implement support column type
+implement code generation columns type issue
+refactored prepare query construction issue
+implementation query library various columns issue
+improve fix code generation view issue
+implement view search feature issue improvements
+row set iterator fix nest table library improvements
+examples short tutorial
+add performance test
+tutorial
+add serialization example
+add example application include performance test
+merge branch
+update examples
+merge branch
+improve method name implement cursor navigation
+implement convenience methods nest table columns issue
+update recent dolls examples
+abstract table partial workaround insert binary crash new byte buffer merge recent uni change
+adjust design implement find column issue
+update examples core file
+implement test update example serialization issue
+add serialization example documentation issue
+merge branch
+add new test view table operations
+migrate test test issue
+note clear comment due bug integrate change pass
+default load debug version tight uni gettable spec add column add integrate new uni version native pass lookup new match
+remove suitable annotation issue
+update tight example
+merge branch
+update tight example content main examples update use
+introduce ant build example
+add doc enable test case find bug indent tutorial example
+merge branch
+improve maven configuration generate source
+write method detail generator add table documentation
+docs generation setup class view docs add
+update method name mainly query
+update example read new lib
+fix code generation bug
+document group methods
+bite linux
+update doc tutorial
+rename end method end
+add performance test example currently load
+update improve project setup documentation maven ant
+add android example project
+update uni check move mix value get mix binary work almost add debug trace native uni update binary typeset mix pretest
+update tight
+remove processor dependency issue
+update unit test add test newly add methods update uni add find first find boolean date add add long method long columns update documentation
+disable fail test tableau protest fix available
+add optimize table also ref doc remove default print exceptions
+bite platform independent
+move file
+work
+refactored join base table view test
+add new test spec identity introspection
+update tutorial
+fix tutorial bug
+implement configurable name generate class issue
+update adjust examples due model change issue
+add update dependencies ubuntu
+rearrange examples remove maven setup examples need add specific maven setup example
+move example file
+move examples
+restructure examples add ant maven template project
+fix setup file tight example rename examples move java test experiment
+divide project info several maven modules issue
+zip add check gettable add test case
+merge change table name
+update version use core library
+enable test invalid group
+zip insert
+new insert row add row
+adjust examples inline suitable construction issue
+rename class package issue issue
+add miss test package name refactoring
+add ref docs
+track latest change core library
+translate graph code java delete node seem work
+merge branch
+add orient jar file
+merge branch
+doc add dynamic view query example table
+add example code table
+move tutorial sub dir
+superfluous trail white space remove source code
+throw exception call method close group update tutorial showcase bite
+table add return row index add row
+resolve conflict merge break update
+comprehensive test aggregate query
+table insert rename add test add
+remove duplicate test
+update documentation table query include methods date type
+make test case pass disable new test view query require check implement
+test throw exception query wrong column type
+add test column bound
+add equal string son
+merge develop break update update test case correspondingly
+update test documentation
+ref doc methods add table type add
+merge develop branch
+merge branch
+method rename adjust ref doc dan examples
+dan table ref doc
+tutorial rename git hub hack
+tutorial rename
+update showcase use build string method
+ref doc update change valid example add
+update
+table close private add private debug close instead add better support detect valid view query close table still completely test also miss core support
+line break
+exception handle insert null byte dan type
+table close get method exceptions add
+add table definition allow dynamic operations suitable columns
+merge branch
+fix suitable definition check wrong column index exceptions refactoring change memory exception til
+test case multiple table type type interface
+add limit parameter query aggregate
+merge pull request exceptions handle add
+fix bug group equal add test
+merge branch
+type table example change set index column operations
+closer real ubuntu package
+merge branch conflict
+remove short name query update doc
+update query examples add exception suitable
+change name table definition table schema
+merge develop break
+merge branch
+update documentation examples dynamic view
+fix error kit pom
+update rename find
+back port brian fix actually
+merge branch
+documentation
+comprehensive test case
+lookup implement fix test case column type
+test case view
+typo
+merge branch
+add sub table example
+rearrange ref doc file
+add column ref doc
+test case add
+update test ref doc update examples need fix
+merge conflict resolve
+read transaction splitter file
+ref doc fix
+add exception throw wrong type access mix type
+test case negative column index query
+test case negative index
+trek zero columns add empty row
+one line installer add debug flag
+add test case currently crash core
+add path uni default lib path installation might split jar uni different directories
+add internal graph example
+merge branch
+merge branch
+contain add
+case true add
+merge branch
+remove file generate test
+close use ref doc examples
+test case get suitable mix column contain suitable
+merge branch
+better test coverage
+better test case resort view ref doc add check column type
+pedantic
+add dirty flag check
+indentations
+resolve merge conflict
+add lib version site lib run
+test case coverage check round
+better exception description get wrong type mix
+check group close close transactions test case crash core detect
+merge branch
+git ignore update
+merge conflict resolve
+merge conflict
+simple pivot table view
+min max add pivot
+fix constructor issue test case
+editorial fix
+add uni bridge getcolumnindex
+merge branch
+check read group mode add implement
+add check query criteria null string date test case
+update java tutorial
+update tutorial use dynamic interface add assert
+new type interface java
+static factory
+update use factories
+work test app
+simplify example app
+add read
+new approach top level realm
+test case preliminary work link
+preliminary link performance test
+initial link
+big reorganisation initial conversion grade
+integrate annotation processor make performance test app change discard performance app use old maker base approach depend annotation
+make performance example work annotation base interface also cache slow introspection call
+reintroduce unit test dynamic interface
+fix crash fail test case mainly move around class use android state able write lbs
+merge pull request disable link time optimisations
+enable test
+merge pull request reintroduce unit test dynamic interface
+source file format android studio order ensure correct indentation
+test realm apr zip
+improve git ignore file
+disable memory realms
+fix compilation tight enable encryption
+fix import
+merge branch
+make encryption key stable create realm
+merge branch
+merge branch
+merge branch
+update
+move entities test folder add latest test case remove test base class since need change base class unit
+merge branch
+make migrations work encryption merge
+minor java doc update remove constructor remove writable older plenty hide gettable java doc add java doc real query
+merge commit abddebdcaacaebffafc migration commit minor java doc update remove constructor remove writable older plenty hide gettable java doc add java doc real query show sort work revert enable annotation processor realm unit test simple unit test sort enable annotation processor realm unit test move constants top revert set java version simple version
+remove old file
+add migration example template distribution folder
+refactored update concurrency example add basic thread feature scalability
+update
+add change return user enter bad number
+merge change brian
+merge pull request modify examples use jar file
+merge pull request improvement java doc
+first examples realm adapt
+fix bug real result create level see
+examples ready review
+update adapter concurrency examples reflect options adapters
+add sort test
+ascend test add
+minor fix
+script generate uni header file
+add support link query
+fix typo
+support import real list
+support null son value add
+link query integers float double
+link query boolean
+link query date
+add test non exist column name
+extra test object
+link query support string
+add example project unit test ignore properties
+alternative
+update
+rewrite notifications system also reintroduce possibility turn auto refresh constructor setter
+add test average long float field use core average methods directly
+change update checker frequency hour
+make easier change number object realmresultstest
+make easier change number object realmresultstest
+update java docs change log
+merge pull request rewrite notifications system
+merge branch
+add support remove object realm directly real object also clarify error message delete object operate
+version bump
+add support auto generate access name support field name android convention field boolean field prefix
+prevent transaction wrong thread
+forget remove implement notification system
+prevent access wrong thread real result
+use string better conversion core java string
+comment fix fix bug path experimental project
+mandate correct
+merge branch
+merge branch
+merge branch
+update due feedback
+proper iterators implement real result
+merge remote track branch
+merge branch
+merge pull request use model stover instead remove
+merge branch
+sort character
+update
+non latin column name test
+add korean arabic test
+bug fix test add
+change fail message
+sort character
+make separate model non latin field name
+merge branch
+break long line
+extend unit test remover realm
+update due feedback
+string equal code work properly cyclic model structure refactored proxy class generator readable
+merge branch
+uni sync throw proper exceptions camel case unit test
+fix annotation processor unit test
+fix cross platform see issue properly detect presence dir
+merge branch
+mitigate file size grow problem change follow disable cache realm instance thread without event loop make realm class implement closable reference count close realm instance check realm instance close operation
+add unit test
+commit need instantiation enable cache
+fix real test realm close
+comment unit test temporarily
+merge branch
+merge branch
+merge branch
+modify unit test comply realm close
+update change log
+update
+fix minor issue
+catch standard exceptions
+add realm close cleanup unit test
+merge branch
+merge branch
+improve java docs realm constructors
+add compact method claim free space realm file
+merge pull request realm examples close example cleanup
+merge branch master commit update add unit test expose solid reference counter make reference counter depend realm path clean unit test iterators fix unit test properly close resources add copyright add realm close cleanup unit test fix unit test fix minor issue add realm close examples streamline activity app name revert update update update fix annotation processor test update change log modify unit test comply realm close fix merge mistake align list iterator standard java behaviour fix real test realm close add support remove real result iterators additional unit test usage
+merge pull request deprecate constructors contain auto update argument
+merge pull request realm cyclic reference solve cyclic reference
+add sort functionality object
+test random string
+fix bug equal date update test case
+forget add file
+merge branch
+merge branch
+update
+realm class final
+fix bug real object equal
+merge branch
+cleanup son examples update change log
+fix annotation processor unit test
+fix conflict merge master
+email help instead info
+use latest version
+copy realm method add proxy class
+fix bug uni type
+import minimum number package
+copy realm method implement unit test style fix unit test
+merge pull request avoid ambiguous reference proxy class
+fix annotation processor unit test
+add test empty model class
+update grid view example copy realm method show use son
+move query test realm protest
+merge branch
+update java doc error message
+merge branch
+remove static constructors expose auto refresh also add static constructors base file instead context
+change signatures realm object real query find real result sort
+merge remote track branch
+update java doc
+fix reference count bug
+java doc update
+update change log
+add multi field unit test
+merge pull request realm standalone object add support standalone object custom constructors
+merge branch
+rename sort find methods deprecate old ones
+merge branch
+properly test input parameters real list add unit test methods empty list
+merge branch
+notice non null nature real result real result size must use always
+fix issue realm cache clear realmmigrationneededexception add unit test
+update header
+add support encrypt copy realms
+add unit test
+update core
+call close replace warn realm finalize
+update change log minor string comparison optimization
+merge branch
+merge branch
+add note parse thread allow
+merge pull request add support encrypt copy realms
+refactor multi sort unit test
+update
+update realmchangelistener java doc
+better error report error case create realm use file constructors
+throw exception delete open realm file
+typo
+grammar add description real object
+add copytorealmorupdate method
+merge branch
+merge branch
+clean unit test add extra test
+better word
+merge remote track branch
+merge branch
+merge branch
+merge remote track branch
+style fix
+merge branch
+remove deprecate sort methods
+update
+refactored son methods support standalone object add stub methods begin work unit test
+remove unused inclusion stream uni code
+add unit test new methods
+merge branch
+merge branch
+fix annotation processor unit test
+properly propagate update copy flag fix unit test
+add light home markup java doc documentation website look better
+merge branch
+query link case sensitive
+prepare release
+add unit test
+prepare next version
+implement release process grade
+copytorealmorupdate work correctly mix model primary key
+update unit test
+merge branch
+merge branch
+merge branch
+add unit test
+properly check key equality use cache realm instance
+add test open encrypt realm
+use phantom reference manage proper close row accessory commit remove finalize method row class implement phantom reference instead possible create real object instance tight loop without able keep
+encapsulate column indices class internal map use class key instead string
+style fix split huge method smaller chunk
+add real configuration builder refactored realm use instead telescope constructors
+update change log
+make realm gettable class work proxy class well solve issue occur try update realm back object
+merge branch
+bump core version enable encryption unit test
+column indices move proxy class minimise number lookup
+better error report custom letter setters
+improve error check unit test
+streamline new constructors deprecate old constructors utility methods use real configuration
+add unit test link null
+realms cache correctly open
+merge branch
+fix bug copy realm crash copy object primary key data
+spell delete auxiliary file create realm
+validate table also verify primary key index set correctly
+add arm eclipse distribution file
+add unit test
+fix annotation processor unit test
+merge branch
+merge pull request validate table also verify primary key index
+merge branch
+merge branch
+merge branch
+fix potential ape
+merge branch
+minor reword
+merge branch
+cleanup
+merge branch
+prepare next iteration
+use copytorealmorupdate null primary key throw proper exception instead crash
+add quick guide use realm grade
+use canonical path instead absolute path
+primary key table migration add
+merge branch
+merge branch
+merge branch
+update grade version
+add unit test real list clear potential crash
+merge pull request update android grade plugin
+tighter check table validation involve real list field
+merge pull request fix memory leak realm adapter
+merge branch
+merge branch
+update due feedback
+merge branch
+fix send notifications call twice cause seem right behaviour
+remove realmchangelistener weak reference weak reference object
+add object use real list properly clear previous data
+fix lint warn report android winter
+merge pull request lazily create tor novelist
+add support find bug fix issue find
+language cleanup
+prevent release table view query parse native backtrack find add reference table view table query order prevent premature garbage collection add test helper function trigger add relevant test case
+clarify behaviour method description
+sync query use core asa handover demo branch
+add retry policy concurrency test per improvement query
+miss change
+add support memory realm add durability createnativewithimplicittransactions add memory real configuration support pass durability share group constructor add new static method getinmemoryrealm realm class add test case
+fix memory leak issue finalize runnable
+support search index column int book date enable search index annotation byte short int long boolean date enable add remove search index java annotation processor test support better detail test case modify uni test case update doc add annotationindextypes avoid pollute test case first implicit index int primary key handle another
+change logic handover query caller background thread handle different failure point begin read import handover update unit test
+merge pull request type
+add support find first final sort update unit test
+use std unique per handover remove unnecessary begin read separate uni call latest fix asa handover demo type query
+add test close realm remove dead code
+add sync write transaction
+merge remote track branch
+add logic release handover resources update thread example transaction
+remove unused import
+remove real query link query
+use thread priority sync query transaction
+init test framework multi process create service standalone process make helpers play service test watch dog support test test case reproduce process deadly lock exit call
+merge remote track branch
+remove deprecate methods realm bump version
+adapt core change remove insert xxx methods table table change user ref instead raw per makewritelogcollector make client history need replication per para remove add int method bug fix link view uni adjust remove table view test case fix test test remove pass right
+test case special value double float
+milestone
+merge pull request fix typo migration example code
+update core
+scheme validate across thread
+change date time link query due realm core change
+change date time link query due realm core change
+merge pull request update core
+milestone final sync find first work retry strategies
+update core add realmencryptionnotsupportedexception
+milestone final sort find first sync transaction work
+milestone merge origin master
+merge remote track branch
+fix test
+merge remote track branch
+unload real object setters throw exception
+remove potential race condition cleanup
+remove idea code style
+major rewrite build script include organizations folders grade project examples rely realm grade plugin realm grade plugin rely car deletion distribution folder deletion tool folder deletion experimental folder generation distribution package happen fly release automation
+update branch per feedback
+fix unit test
+fix string date support microsoft date timezones
+add null able support add box type support add annotation null snot null support null able type equal query take null input para null able field add function null able relate migration son converter behavior change null value update test case
+update per round feedback
+merge remote track branch
+remove unused swap pointer method
+throw illegals exception use sync query non looper thread
+real query throw exception reuse another sync query
+typos cleanup
+merge remote track branch
+merge remote track branch
+reference equality empty real list fix sync test
+merge remote track branch
+add binary field diagram
+fix generic update java doc error message
+merge branch
+merge remote track branch
+merge remote track branch conflict
+limit number make job number logical core
+fix doc
+merge remote track branch
+prevent people migrate open realm
+fix problem proxy class model hold column indices static field indices good realm databases column index every column model class realm databases different column indices getter setter proxy class read write wrong column solution commit introduce object hold column indices information per realm instance share database file
+merge pull request reorder items categorize accord affinity
+add miss thread confinement check
+add distinct sync
+update core
+wait finally block run exit test
+wait realm close test
+remove update method generate proxy class correspond datable model fix
+add sync file
+merge remote track branch
+fix merge problems
+add format check latest version string obtain server user separate network need help proxy set access internet latest version string may com server deal situation change add check obtain latest version string expect format
+check double commit throw
+release link view native pointers fix add abstract method nativeobjectreference native resource release implement checkbox link view
+merge remote track branch
+less style
+fix java docs
+fix typo file field
+check see transaction currently progress sync sync transaction pathways also add log add test helper assist log assertion fix fix typo remove logger test remove extra line fix test add change log message add break change message small cosmetic change add punctuation format fix unit test
+prepare
+add date parse also add son test exist code ensure regressions add son file test add son utile license add comment fix typo update change log set parse position constant help reduce object initialization large son import add link original source code fix test use regent test instead catch exception logical operation son date parse add source link accept negative time predate use static field reset parse position time fix white space fix test add change log message move item change log
+add ask split grid example add reset fix comment add comment
+change modifier remove unused var use new unit real test createandtestfilename public private remove unused variable get data use assert equal expect actual delta compare float point number assert equal expect actual float pointer number deprecate unit see also double
+merge branch realm realm java
+listeners strong reference
+remove deprecate methods real query int float double int float double int float double int float double
+include dependency annotation
+add unit test example project power mock mock rob electric unit add depth rob electric test realm mock clean rename comment create final test click button verify state behavior add read image remove comment add note unit runner remove unnecessary product flavor update copyright change package name add copyright test file also fix issue incorrect test name instrumentation test change package name add note jim verify add another source link add note run test fix typos knuth find
+new migration dynamic apr new sort case end new real cache
+fix build file examples
+merge pull request remove deprecate methods real query
+realm createorupdateobjectfromjson work correctly real object class contain primary key
+fix unit test
+fix unit test
+add hengelo entry bug fix core
+upgrade relinked
+enhance notifications add sync query dynamical object
+add uni layer interior code utilize find method test add header file check ensure right realm perform contain check add chang log add table view code change return type long use index add multi realm test remove code commit change method use commonly use macro update null check change method use commonly use macro update null check move contain method override instead overload use instance instead assignable use long value instead return boolean check row index validity cup layer also remove find constant order use constant table view check manage mode fall back default imply update change log revert back long find fix compilation issue well apply code review update fix manage mode bug accidentally introduce update per recommend issue list change cup code return test start fail items find fence expect familiar wit underlie core know need also add test check see query list contain item realm another query result test create native crash try identify root cause pull tombstone perform could properly identify symbols might inspiration debug add native uni call also add load call contain test fail bound exception row index change table view find name table view source windex per recommendation add check parent table enable uni target fix incorrect test receive help
+start use transform apr byte code weave
+merge branch realm realm java
+add realm parameter factory add explicit methods dynamic variants
+merge branch
+first work version make colin example work plugin enable file make plugin make sure apply android plugin app library modify model class unit test realm library project write unit test grade plugin
+add batch update sync query fix
+fix crash close realm listener
+add support detach object
+fix listener trigger
+merge branch
+update unit test annotation processor
+cleanup internal class
+merge pull request add example show pass object via ids
+add unit test expose fix issue core remove test
+always close share group first sync mag
+merge pull request update core
+add check prevent remove realmchangelistener non looper thread
+use home brew instead home brew versions
+support real query nonempty add
+fix inconsistent comment
+fix concurrentmodificationexception listeners legal modify real object map listener legal modify map listener close
+merge remote track branch
+isolate test realm file add unit rule temporaryrealmfolder help create test realm file temp folder deprecate similar function test helper adapt change real test
+merge branch
+real list set correctly return old item real list unit test migrate unit
+add add add remove object realm add real list removeallfromrealm java doc test case update close
+illegalargumentexception throw call copy realm dynamical object
+add support coveralls
+clean realms test use testrealmconfigurationfactory fix find bug issue lint warn
+comply basic rule set
+convert dynamical test unit add unit test guidelines
+introduce basic rule
+remove end line groovy code
+merge branch
+better exception message sort sub object close
+merge pull request use unit realm protest
+add real query distinct real result distinct
+convert realmresultstest unit
+convert real test unit fix find bug issue
+clean dynamicrealmobjecttests
+add unit test byte code manipulation
+convert realmobjecttests unit
+access real result base delete real list original real list delete methods real result work without crash treat like empty real result real result throw illegalstateexecption case real result valid return false case temp fix check detail close
+cleanup unit test name looper thread usage
+upgrade colin example latest beta
+add unit test realm android plugin
+notification test convert use testrealmconfigurationfactory
+merge remote track branch
+make examples build
+convert migration cache test unit
+convert korea latest transaction test
+fix unit test annotations processor also remove one unit test make sense users write model class way like
+string setters throw illegalargumentexception
+convert typedbasednotificationtests
+make test real object code path independent
+remove reflection generate proxy code
+merge remote track branch
+fix unit test
+real result size honor contract collection interface
+use separate interfaces sync transaction also fix
+notify listeners sync real object even result empty
+real query distinct sync real result distinct sync support
+simplify reamasyncquerytests add new test class
+feedback
+merge pull request adapt core fix delete real list
+convert test case unit realmannotationtest realmconfigurationtest
+deprecate realm get instance context deprecate realm get instance context release examples
+disable flaky test
+thread local factions trigger use looper instead immediately
+merge pull request add java doc document field mutation behavior copy realm create mason methods
+add unit test compatibility date
+take latch fix test case
+update java doc comment real object class
+optimize import
+fix illegals exception caller thread behind worker thread
+merge remote track branch
+allow realm row field name model class fix
+merge pull request reorder items improve markdown format
+migrate realm throw exist close
+merge remote track branch
+multi arguments distinct realm dynamic realm real query real result
+prepare next release snapshot
+move real configuration getschemamediator package private
+merge branch
+remove run time dependency transform apr realm transformer fix
+copy resource file transform byte code fix
+add notice executetransactionasync
+fix ape real configuration equal java unavailable
+merge pull request fix ape real configuration equal java unavailable
+fix string dynamical object string dynamical object string show null value null class prefix remove type name string align format string type real object
+convert realmobjectschematests unit
+fix race condition cause adverse exception
+thread check
+merge pull request add support coveralls
+real result real object longer accidentally observable still alive
+add real collection apr
+merge pull request realm update overview image update overview image
+custom equal string code work correctly
+merge pull request finalize optimization replace map
+merge remote track branch
+fix lint rawlings unite example
+optimize import
+merge pull request increase realmobjecttests coverage test manage object remove null listener
+increase code coverage createxxxfromjson realm contest createallfromjson class string createobjectfromjson class input stream createorupdateobjectfromjson class input stream createorupdateobjectfromjson class object createorupdateobjectfromjson class string progress rearrange methods without rearrangements figure methods cover
+use relinked center instead include dependency problem realm force tell users add pack rep manually decide include dependency relinked center use relinked center instead resolve
+initial data set realm support create initial data set realm fix initial data set
+add real configuration initial data
+interface supplement extend real object backup add real model modify annotation processor byte code modification use real model add unit test fix examples zip fix annotation processor clean fix java doc add transformer test fix dynamic realm test fix test add test add test fix test realm annotations processor add test cover real list rename polo real model reduce method count use proxy state realmobjectproxy fix examples need exclude real object use son make real list final remove unused method fix apt test
+string byte short integer long type null allow null string box primitive type feature part commit annotate field type null object nil primary key update migration check exist null able type set null able exist file throw realmmigrationneeded duplicate null primary key throw realmprimarykeyconstraintexception new empty row add default value check duplicate still empty string table add throw since equivalent term optional java yet null able type configure follow string number primitive table column null able null able null able
+real collection iterators stable commit change semantics live real result really commit real result live time mean code like work expect half elements would delete rather intuitive work around count backwards commit change behaviour real result longer automatically date instead refresh use looper events like change thread real list iterators live way real result act like standard array list suffer liken issue high level arguments change pros iterators work would normally expect ease use liken realm object control looper simpler internal code easier document realm behaviour con small chance people accidentally reference delete real object real result check use
+combination annotation generate appropriate type cast primary key field type string realmproxyclassgenerator emitcopyorupdatemethod generate code check value null able type primitive type mark generate appropriate type cast accord field type require primary key test parametrized
+update unit version use realm annotations processor
+add bullet change log behavior change real list first real list last add bullet change log behavior change real list first real list last back port add bullet change log new sort behaviour collections
+fix pro guard configuration
+realmchangelistener provide change object realm collection well realmchangelistener provide change object realm collection well
+implementation share group wait change method goal add base realm wait change block change available advance realm continue without trigger realmchangelisteners add base realm stopwaitforchange make current wait change return false immediately deprecate base realm refresh behavior wait change throw illegals exception within transaction base realm wait thread looper illegals exception throw stopwaitforchange call future call wait change immediately return false detail discussions please refer
+expand time resolution mill secs expand time resolution milliseconds use core new column type timestamp upgrade core version require minor update come change core apr
+add real object archangel listener call add real object archangel listener call avoid many object map addtorealmobjects miss reference queue would lead map grow always without clean close potentially fix
+add test auto resort looper thread move unit add test auto resort looper thread
+give sync relate vars better name asyncqueryexecutor pending query seem confuse since use sync transaction well
+update core
+add support micro benchmarks add preliminary support micro benchmarking include spanner prepare library structure two new task replace
+improve code format
+grammar fix
+thread safe handle controller emptyasyncrealmobject real object make handle controller emptyasyncrealmobject handle controller real object thread safe
+examples use transaction block move examples execute transaction update comment use execute transaction use partial mock realm execute transaction create additional test illustrate mock verification realm execute transaction problem power mock
+realm core update
+remove deprecate methods fix examples
+fix unit test
+java doc corrections final sort findallsortedasync java doc fix address issue could arise confusion one might search child real list real object field fix java doc
+add null check archangel listener removechangelistener add null check archangel listener removechangelistener realm dynamic realm fix reflect review comment
+feedback
+merge branch conflict
+change throw illegals exception start refresh call non looper thread update java doc comment start refresh change throw illegals exception base realm start refresh call non looper thread even auto refresh value false
+unit test cleanup parametrization primary key issue address add coverage cleanup primary key relate unit test exception null primary key test real test parametrized parameters realmjsonnullprimarykeytests clean primary value test null positive negative manner nullprimarykey interface expand setters well
+java doc cleanup
+asset file initial data set
+adder market realmobjectschema miss index addition realmobjectschema adder market suppose add search index primary key field currently miss fix addition removal search index relate primary key methods realmobjectschema
+upload native lib symbols remove useless line
+remove log file close
+update android grade use pack version android updater examples lint issue newspaper example
+avoid table row string table string debug purpose call string sub str might truncate uhf string char thus crash could happen uni convert uhf happen user attach debugger debugger try call close
+remove optional apis dependencies meet add mark method optional dependencies new byte code transformer remove optional apr enough dependencies modify grade plugin mark relate apis optional add integration test module perfect solution since observable factory still final result good enough work around issue jackson lib need reflection real object
+merge remote track branch
+primary key index rearrangement migration revisit fix two issue column smaller index primary key field get remove primary key field index decrements cause cache primary key index point wrong field primary key field rename primary key meta table update accordingly
+race condition realm change notifications events commit fix bug surface realm android adapter example commit post realm change events looper queue normal mean potential touch input events could get front turn could cause layout list view would crash detect difference cache adapter size actual one commit force local commit place front queue eliminate risk
+update begin transaction doc
+optimistic open realm file anecdotal evidence multiple process might open app able verify result match incompatible file errors report happen two process two versions realm app upgrade base assumption overlap intentional happen one process start previous completely shut introduce optimistic open scheme retry second crash
+merge remote track branch
+clean unused sub table sub table use java bind right relevant logic might suitable object store
+remove redundant call cast value value redundant call value argument
+use add key
+remove unused mix type remove unused mix type
+add comment
+merge branch
+fix sync transaction problem sync query already exist rewrite sync transactions work commitonbackgroundthread post realm change post success runnable problem approach realm change would swallow sync query exist mean sync transaction would call success old version realm make look like work instead commitonbackgroundthread post runnable call handle controller handleasynctransactioncompleted runnable special runnable treat combine realm change callback make possible queue callbacks finally able trigger unfortunately handler poor support mean longer detect message queue mean introduce slight chance event plus real realm change event message queue time consider acceptable since already happen today since prevent introduce complexity something already entirely complex
+bulk insert add perform batch insert
+use qualify name model class generate code order avoid name conflict use qualify name model class generate code order avoid name conflict add model class test issue update change log
+merge commit back merge back master
+allow empty collection collection add test reproduce fix crash empty pass update implementation update java doc comment
+ice ref flaky test
+check transaction state build insertion throw call transaction test case build insertion thread check lint warn fix close
+disable change listeners intent service thread
+insert correctly detect multiple object primary key
+realmobjectschema set assume transfer primary key new class name realmobjectschema set assume transfer primary key new class name rename class maintain old primary key
+add add real query equal feedback equal feedback apply begin group end group operator use begin group end group since equal equal equal equal equal equal feedback throw illegalargumentexception value empty array add test date remove unnecessary test fix type field byte add test byte short int update feedback array version vars version feedback feedback fix java docs feedback remove unnecessary parentheses feedback revert variable arguments version feedback fix java docs improve error message feedback extract constant string literal hard cod error message feedback adopt box type apr feedback add null test fix row valid fix openprenullwithrequired feedback update java docs feedback use noprimarykeynulltypes test instead type feedback revert type revert automatic format revert auto format feedback remove unnecessary empty line feedback generalize test feedback update java docs
+remove dependency manager docker handle setup handle local build
+fix issue cyclic dependency insert exist copy realm add support manage real object
+merge branch
+add methods real query support byte array
+wait sync task next test highly relate things still guarantee change commit sync transaction callback function call background realm close change listeners call background realm close true guarantee future background realm might close realm change send receive due avoid flaky test ensure sync task quit peacefully start next test implement wait check testrealmconfigurationfactory note test sync task finish peacefully certain time consider problem fix would need notifications since java precise control send realm change anymore
+remove unused exception conversions
+add realm exception replace realm exception incompatiblelockfileexception also map name exception object store give user detail kind file exception
+integrate object store part share realm simplify code base lot basically apis need wrap share realm remove class need apis share group supply share realm sync query currently expose friend class share realm see realm realm object store still manage realm cache java although mechanism thing major reason method like delete realm need information cache check realm instance close share realm actually std share per hold pointer std share per java another fundamental change use separate share group dynamic realm type realm thread use different share realm actually different share realms point share group code cleanup
+revive version check revive version check order waste time use wrong version minor fix minor fix move check ndkpathinlocalproperties ensure existence directory obtain canonical path
+build sync core
+remove deprecate constructor add directory commit simplify real configuration constructors also ensure always android context constructor custom file locations support builder method also make possible simply context mean able access system service framework class without expose android functionality potential interface need support realm jim
+delete care ref create loop add wrapper class uni local reference delete local ref use report user help useful explanation find normally local ref delete since clean program return java native code use loop obvious corner case size local ref table relatively small android avoid local ref delete use loop
+merge pull request sync integration
+use create object class primary key test since realm create object class deprecate master class primary key define fix test case use first avoid conflict merge
+create object without set allow create object without set allow create object must call value create object define create object son must correspond define son object know issue default value create object stream different create create object default value default constructor default value core address
+use tip java doc link
+public sync apr
+fix java doc comment
+add proper java doc test allow set manual migrations
+invalidate schema cache schema version realm change process invalidate schema cache schema version realm change process schema cache refer realm instance share global schema cache introduce instead
+upgrade beta
+disallow change object create throw exception change object creation
+fix thread error delete global refs
+add thread check realm create object class object add thread check realm create object class object add test
+support additive manual schema modes add thin wrappers object store object schema property add method build object schema proxy class add rudimentary support object store scheme use object store update schema update schema additive mode disallow destructive schema change additive mode
+allow specify default value field model constructor allow call accessory replace field access access call model constructor fix fix use field instead check transaction fix bug acceptdefaultvalue set correctly reject default value getter model create model object add simple test default value support default value model field support default value real list field add test assignment constructor setter constructor update java doc comment create object always ignore default value primary key object manage update java doc add test default value handle copy realm last assertion real test copy realm defaultvaluesareignored fail refactor test use primary key fix bug unexpected realm object create default value field remove extra generate code add test default value fix test fix bug create unexpected object rename internal methods update change log update change log review comment update change log add description proxy object create java doc comment real processor
+merge branch
+add task clean uni header file file clean
+merge eabbefbabbecddcfecbcebb master
+introduce global init realm use global init function instead context
+add default value instruction support add default value support table class table null table view null use default value feature add test check nullify link overwrite default value remove duplicate thread check construct proxy object small bug fix setter list add thread check reflect review comment reflect comment uni code
+update documentation
+merge branch
+fix duplicate check accessory add
+merge branch
+add cause realmmigrationneededexception
+add twister google add unit test
+merge branch
+key store add cry capability store token user securely
+rename androidtestobjectserver androidtestobjectserver
+move register network receiver object server flavor move register network receiver object server flavor add change log
+add integration test node service create control los default run port start los set get request stop los set get request see read see start test service locally integrations test locate run test sync test server need start docker file use start test server start locally call docker use integration test well run two docker container one build one los test server run docker network basic auth test add verify integration test setup
+fix change log
+secure token android key store file add secure token example file lose package rename
+add support management realm add preliminary support management realm
+zip start use object store result class
+add support android test apr devices add support android test apr devices simplify use ham rest library instead ham rest need exclude ham rest core
+use result type
+update latest master
+lock phone resource executors per slave
+merge remote track branch
+move result wrapper make lot sense since real list could also back class
+wrap sort descriptor
+modernize git checkout code jenkins file
+update
+collection index
+move table
+use store add use store base object store implementation
+remove table view table view yeah
+deliver global notification change remove android notifier common implementation among platforms
+minor typo example latest doc
+fix link field query test
+fix typo
+add test case collection notification behavior
+test fix sync configuration test
+generalize observer airlift since row notifier collection notifier real notifier similar requirements control life cycle anonymous listener create observer airlift class also test observer airlift remove weak ref relate test others
+zero memory use zero memory additional micro benchmarks
+fix warn strict mode strict mode warn cause testinmemoryrealm try detect thread use memory realm well test create make sense check strict mode memory realm mean disk mean instance close data persist disk strict mode warn cause last statement strict mode turn test default fix
+update core sync object store core sync beta adapt change latest object store realm enable sync boolean macro create realm sync history without object store sync confirm object delete realm test fix single notifier thread enable note file create realm file directory anymore update object store sub module add commit
+fix merge master
+throw correct exception multiple log users
+test collection detach
+test sort descriptor also add vassar index field descriptor throw better exception message
+fix distinct sync test distinct sync default distinct sync deprecate
+disable distinct link field distinct result link field seem expect throw enable later need
+fix test real result distinct sync
+add underlie information realm exception add underlie information realm exception help investigate incompatible lock file issue
+fix link view base real result test behaviour original test delete link view base real result incorrect next event loop even link view valid anymore purpose maintain stable iterator real result stay without call sync need result become empty enter next event loop reattach original table view also core bug find change test see
+wait forever debug mode wait forever debug mode quite annoy stop breakpoints await fail timeout happen check debugger connect know actually debug test want interrupt timeout
+single daemon thread notification change one thread create listen change different realms additional share group create daemon thread determine share group change since last time require change java side especially daemon thread create call
+realm migration trigger primary key definition alter
+merge remote track branch
+fix type base test original test rely time global listener type base listeners change lot integration sync rewrite test remove dependencies global listener without change test purpose global listener call add local transaction commit
+add support update integration test
+remove test relate sync handler imply remove test highly light old sync implementation fix test accord current sync implementation
+upgrade realm sync beta
+wire like predicate real query wire like predicate real query fix
+activate realm annotation processor connect test project use keep
+docs real notifier also add one test case
+merge remote track branch
+support add support permission offer permissionofferresponse
+expose schema version sync confirm
+merge remote track branch
+fix test remove unnecessary import field fix test remove unnecessary import field
+feedback
+allow leniency define server urls
+modify java docs comment remove unnecessary additional space modify java docs comment feedback feedback
+real result always live update precondition fine grain notifications trigger collection notification immediately transaction begin local thread compute change set conflict java original real result behavior original real result would sync next event loop also edge case work well original real result behavior see detail real result become always date mean never contain invalid row behavior iteration real result still work iterate snapshot collection mean user still delete elements real result inside iteration deletion modification real result simple loop work expect change impact order elements result could solve future new collection type realmcollectionsnapshot add collection load collection load support java sync query test fix issue anymore since real result always date contain invalid row remove relate test failure test cause listener trigger begin transaction remove realmresultslisteneraddedaftercommit add listener result commit transaction collection notifier create share group version transaction commit listener call anymore since change already exist current share group
+access token add timer refresh access token expire
+merge remote track branch
+fix typo exception message
+add orderedrealmcollectionsnapshot introduce orderedrealmcollectionsnapshot another type orderedrealmcollection snapshot create real result real list snapshot back snapshot result snapshot update size order stay forever elements inside still live since real result auto update time snapshot useful change result simple loop commit also move common code real result orderedrealmcollectionimpl since share snapshot implementation implement
+enable test check
+merge eaefebdbcaeaccba master
+fix log level uni fix log level fix unstable test revert fix unstable test revert commit fix typo
+implement fine gain notification add real observable realmcollectionobservable interfaces enable detail change information real result orderedcollectionchange interface fix bug observer airlift could cause remove listener get call remove previous listener iteration fix
+update android grade plugin grade
+enable listeners real list real list hold collection use listeners real list apis still call link view
+fix compact external storage fix update object store arab
+real list observable
+update release date
+crash constructor call another default value
+merge bdbdffafeebecdcfac master
+stabilize flaky test
+add thread check methods real query throw illegals exception instead process crash thread confine methods real query call wrong thread fix bug test remove methods ram need add realm check valid real query valid fix remove section header comment
+remove deprecate logger class
+add thread check methods dynamical object add simple test case expose update change log fix issue fix test failure fix test process crash realms test add set dynamicobjectfromotherthread fail
+use format code format source code use clang format use core rule format code curly brace around single line
+back link document multiple link object fix non object field reference bug load table validate update grade fix documentation fix asynchronous uts ignore instead throw attempt load back link field fix documentation add notification unit test require back link field final address comment add test notification distinct add interface methods table validation check field son load fix fail real test respond comment compile time type check refactor annotation handler improve error message add unit test rename back link link object add annotation processor test add annotation processor unit test add back link annotation
+remove unnecessary array allocations
+cancel transaction explicitly cancel transaction explicitly call transaction object call cancel current transaction ensure transaction leave open cancel explicitly need use correct realm object
+fix warn generate code
+fix warn error prone plugin add plugin fix warn add plugin another suppress warn
+merge branch
+fix warn report error prone
+merge branch
+restore sync log restore sync log
+run code formatter code
+introduce error prone plugin
+merge branch
+fix build error java doc task
+finders sync return invalid row object fix finders sync behavior match java doc first day apr introduce keep run query could find row match query condition behavior create difficulties user want check object also consistent behavior find first return invalid row condition
+add detail notification real object see add object change realmobjectchangelistener add subject wrap object store object notifications false positive notifications real object use observer airlift proxy state instead normal list solve potential listener removal problems handle well observer airlift fix test
+enable build core source fix fix problem resource path build output core source dir instead deploy tarball skip object server flavor build core source build sync source code still support still lot improvements future build specific ali build core skip core tarball generation would good idea core switch make current build system suck
+enable distinct index field fix
+merge debfefcbbfdaefcbcffad master
+correct expect actual assertion
+resume send update message fix
+update android grade plugin
+address find bug warn
+clean share realm source remove unused methods fix double negative use auto avoid create temp object
+update core sync
+fix return value uni unchecked row fix
+add realm refresh
+script release locally still work need release jenkins script help release locally useful script currently handle patch release
+fix flaky test cause non close realm case use expect exception testrealmconfigurationfactory able detect realm instance close
+fix
+try create get leader exist startup
+fix thread bug runinlooperthread rule fix thread bug runinlooperthread rule respond comment fix spell errors clean multi error recovery
+fix flaky test
+link object query refactor column info column indices better control refactor column indices support new schema refactor column support new schema refactor proxy generation support new schema refactor real query support back link query code complete static analysis test pass fix copy bug column indices non back link test pass non test fix refactor field parse field descriptor class fix thread bug runinlooperthread rule standardize test timeouts native empty nonempty need teach back link believe remain work disable back link query respond comment revert createdynamicbacklinkresults signature remove single lead space line
+support read configurations
+add comment relevant change listeners
+refactor object creation subject hide add throw java support future stable add bulk insertion benchmark final design internal object creation apr integration object access internal apr might change bite since look nice paras uni call create object integer primary key
+schema version sync realms require mistake
+support sol expose two new sync configuration options disable tvs verification provide trust root validate realmobjectserver tvs connection since open access android keystone fix
+change password use admin user add ability change user password admin user
+fix query work pro guard realms model class
+turn column check sync realms
+move benchmarks separate library
+update license match change realm cocoa see original commit new word export compliance
+fix test case miss link object schema test pass current schema implementation since currently create extra object scheme module behaviour right fail test future schema refactor always define need object scheme module
+enable encryption sync
+merge eabdeefeebadadedddfda master
+clean proxies bite prep real integer mods clean proxies bite prep real integer mods
+merge eabaceaaedfedcdbbb master
+fix rob electric unit test close
+merge pull request fix merge cuba master
+use object store handle schema migration use object store handle migration non sync realm object store compare expect porsche info current disc match migration callback supply java call manual migration update object store def
+add sync progress notifications
+convert null able field null value realmobjectschema set require throw field null value store call set xxx unique convert null ability field remove useless check proxy generator cause inconsistency exception add relevant test case
+correctly reset integration test
+use fail instead assert false
+merge fddadefcaeacce master
+merge ffbaeffbfcf master
+fix flaky test cause half unite los hack detect los fully initialize docker side docker file optimization use instead solve issue inside docker
+allow multiple task run test complete
+let object store handle table creations try progressively move things scheme object store first concept schema object store java much schema information holder take care schema modifications say like column indices cache java bind commit try instead inherit real schema change behave simple java wrapper relevant object add function proxy class create osobjectschemainfo info use create porsche info mediator call porsche info get proxy interface table initialization also fix minor bug table create even class module migration still handle old way solve future let object store handle column indices still keep compute future
+remove useless code old sync query imply
+fix fix
+sync add user account lookup
+typo
+support stable ids sync support stable ids sync special column store stable ids add sync see detail call sync create object instead add empty row create new object call sync create table primary key instead add table create new object schema adder market allow sync realm anymore new apr add
+add miss error cod
+extend test verify log one user allow another log add test verify multiple users log time add test verify user log log back
+add real object get realm dynamical object geodynamics palm add real object get configuration real model revert change check exception message real object get configuration real model return null model manage add real object get configuration implement real object get realm dynamical object geodynamics palm fix markup remove empty test fix test
+options android manifest attach debugger android debug able true need attach debugger devices haw device
+options android manifest attach debugger android debug able true need attach debugger devices haw device
+verify schema back link add compute properties proxy expect schema info schema validation object store check link object throw illegals exception back link schema validation fail suitable since back link exist schema normally way handle issue add migration block instead change declaration model class rewrite enable test relate link object schema validation mock expect schema info
+create proxy tip class simplify proxies move simple task utility class reduce proxy code size
+merge remote track branch
+merge remote track branch
+create create file improve issue submission
+cherry pick fix update object store prepare beta snapshot release
+merge branch
+update fail test
+fix change log
+fix fail test
+work around method bug android cherry pick enable debug manifest cause crash describe remove apr create java method name string seem bug android jim get method class cos end getobjectclass obj methodic method end get methodic cos xxx xxx methodic retrieve way trigger strange bug jim report method find non relevant object like call boolean long instance real test nothing uni call local ref cos delete even delete methodic still valid accord doc class reference field ids method ids guarantee valid class unload class unload class associate class loader garbage collect rare impossible android class never unload case safety reason java method create java class right avoid future surprise close
+copytorealmorupdate cause dup value list field close use map maintain cache add manage real object copy update give object graph contain object different java object cache miss happen cause object get set multiple time non list field problem since eventually expect value user object graph consistent list result elements list add multiple time since clear real list copy
+merge remote track branch
+add annotation public apis add annotation parameters suppress null relate warn add annotation object server apis fix compile error example remove annotation equal object remove annotation override methods add package info instead remove parameters remove parameters remove parameters remove unused import remove unused import add null ability annotation section fix typo replace assert inspection comment add annotation address find bug warn
+fix class name exception message add change log entry fix comment perl assume link assume
+merge ecaefbcbabedc master
+remove object overuse remove object overuse add multiple session test add regression test old sync user son use identity author identity sync user
+better detection los run upgrade los use integration test
+final step schema integration build column indices cache porsche info like column indices build realm instance create instead build relevant real object need access column indices cache system change different realm instance share cache instead every realm instance cache rely schema version cache handle situation schema versions scheme refresh column indices cache schema change also support multi process environment almost realm initialization work handle object store routine sync non sync realm also initialization routine simplify lot java side new class realm confirm introduce solve arguments need pass uni create realm fig transaction schema initialization cancel exception happen java migration initialization callbacks
+update reference urls client error
+merge pull request fix merge master
+update colin
+optimize open realm open realm check legacy table issue realm file exist sync realm fig open realm download initial data sync realm fig realm file exist modify compact launch multiple thread reflect fix close optimize compact launch test case populate object debug version core take minutes
+unclosed realm sync manager reset test see assertion enable fail earlier without assertion different kind native crash happen update object store dada
+permission apr add permission manager convenience apr top permission management realms add support list permissions change permissions create offer accept offer revoke offer
+java support move apr java add support change change set observables
+sign release ask examples close without sing monkey release fail install parse fail certificate enable pro guard examples debug release give chance see pro guard issue early possible fix realm close crash thread example
+remove deprecate apis populate less data real query distinct test make much faster
+need call proxy column info use instead much faster
+unit test combine sort distinct
+add grid view example pro guard configuration fix grid view add miss pro guard configuration file feedback
+enable test login withaccesstoken close
+upgrade sync los
+always use object store create table add subject store class wrap methods use object store create meta table use object store get set primary key always create meta table open non exist non read dynamic realm clean code
+remove largerealmmultiplethreads add expose timeout problem finalize since use finalize anymore remove
+upgrade los
+add support digit time zone designator date parse
+move table migration uni totally hide information table java remove share realm read group
+merge pull request add support digit time zone designator date parse
+add support primitive list extend annotation processor support model class relax generic constraints support support support copy realm
+expose syncsessionstoppolicy sync configuration expose syncsessionstoppolicy option sync configuration make possible make integration test deterministic
+fix make license
+enable client reset test fix
+process safe delete realm asset file use share realm call lock make sure delete realm asset file call process safe also call throw realm instance sync client thread still open
+fix progress listener flaky test close
+enable downloadprogresslistener indefinitely creature metadata try identify upload finish two condition check newly create data exist realm callback thread check upload able upload work callback call sync client thread actually chance callback get call immediately register data create get upload case data exist realm caller thread add thread upload could equal upload able accept callback sync client thread thread thread current thread geoid make sure data upload
+merge
+update
+merge pull request fix merge master
+sync verify certificate use trust manager
+enable deactivate test
+evaluate query immediately sync query result load actually evaluate query need use newly expose method result evaluate query need result mode change table view query match old sync query behaviour solve performance issue query result huge size method take unnecessary long time even result access call next line close close update object store refactor apis create result
+fix error prone issue
+fix typo
+add support new sort distinct predicate
+life cycle temp share dream callbacks every temp share dream create construction callbacks close exception throw users close
+add implicit support partial sync add state order change
+partial sync add support name subscriptions
+partial sync support unsubscribe
+test timeout integration test run twice check test suite cause increase start los connection read timeout add log find los fail start adjust los startup timeout fix pipeline cause build despite select one branch example
+add nickname anonymous auth add nickname anonymous edit change log add test add integration test anonymous nickname credentials update latest los test use latest
+update change log date
+support override internal name use annotations add support make possible override name class field remove real name annotation add methods specify name real module real class new real field annotation fix compile issue fix java doc unit test add test conflict modules begin work check conflict policies fix merge use correct version object store better docs backup processor test green flesh unit test use name policies annotations cleanup fix require value list cleanup fix module default correctly apply add support unit test field name override add change log java doc update use custom build parser convert variable name better java doc real field retain run time fix unit test unify build tool cleanup remove fix fix test merge master feedback feedback feedback feedback output correctly internal name fix library module mediators correctly create fix miss space error message better example improve word
+add support list non null value
+correctly support multiple class name
+support internal name type compilation units
+non null able type subclass null able type
+better exception message non model class provide function argument
+logout log resume sync fix logout login resume sync
+merge branch
+update dependencies partial sync need create reference realm permission test add partial sync create reference realm use latest
+prepare next major version
+fix use android network security configuration setup test certificate sol test
+optimize methods copy realm copytorealmorupdate copy realm use list initial capacity
+add support custom headers improve proxy support
+bump relinked
+expose subscriptions directly
+add support bulk update field query result
+remove java byte code
+fix monkey output
+permission manager ignore intermittent errors
+illegals exception open old synchronize realm

@@ -1,0 +1,8 @@
+add initial file
+add test new rest service
+port jar migrate code disable jar migration startup
+merge branch
+port jar migrate code migration account memberships add jar wrappers
+port jar migrate code include members query result
+port jar migrate code replace old entity class new jar domain class account
+implement jar store retrieve roles

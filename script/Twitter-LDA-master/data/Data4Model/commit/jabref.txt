@@ -1,0 +1,240 @@
+initial revision
+add couple file
+adapt add several bib keeper file make complete data structure database
+add couple file forget
+basic guy operational must add action
+import search group functionality bib keeper
+add preferences dialog add methods easily store string array preferences
+enable custom key bind bind dialog still hard cod need update
+start search support highlight float work need implement key type incremental
+add general field tab optional article
+fix case sensitivity bug group
+improve next previous action entry perform
+add two file forget yesterday
+add scroll center
+put entry table key lister enter delete select entries
+modify initial version
+modify slightly initial version
+add log stuff global
+add push lynx feature problem however check line base panel pipe return pipe path hard cod tit work fine
+add external program tab
+embed entry editor base panel
+add number column scale couple picture align entry editor toolbar better
+clean entry editor handle let program keep instance editor map entry type previously edit open quickly
+implement incremental search
+make sort author editor always sort last name make disable entries get enable also create new database
+make jab ref ignore non bib tex standard field
+add auto generation group
+add button toolbar
+add entry customization quite finish work
+write help entry customization fix bug next previous entry
+fix trim author bug
+add right click options copy key cite key
+modify bib tex parser accept entries lack key comma
+oops forget something
+change latexfieldformatter save
+key uniqueness stuff
+empty log message
+change pref dialog little maybe fix endnote import
+make side pane component redline fetch
+several change
+unix
+fix uniqueness problem label maker
+finish touch
+fix save database bug
+add dominic german resource file
+fix german translation
+add delete button entry editor
+enable support font change
+german translation help file
+german translation help file
+fix external viewer setup
+issue tag parse read
+language fix
+root non translate string add selector support keywords field
+make file chooser use correct language java know languages
+translation try new press icon
+add new translations
+experiment anti aliasing table
+minor change paint method table cell renderer
+translations
+language additions
+version
+issue name fix
+enable begin end file export
+enable type specific file export
+ass modify
+character
+tvs trouble
+translations
+translations
+fix save bug directory delete
+add jalopy
+update read
+activate key bind dialog
+key fix bible
+new icon set
+detail
+german translation fix
+add german translations
+make translate key bind name get show key bind dialog
+fix conversion cute credit home
+forget add file
+forget add file
+refine psf handle introduce default directory specify filename file
+add six pack import filter still need work though
+improve six pack import fix mac problem file chooser
+apply improve paste patch start improve action handle entry editor table add text field custom secondary tertiary sort field
+translation change
+add german translations
+translation line improve mark feature add invert group add button auto set psf field
+add german translations
+add german translations
+add miss name box
+empty log message
+add splash screen
+clean old keystroke variables global
+fix bug bible output add command line parameters import file store bib file instead open guy command line mode command line export add
+add command line export tighten cml output
+add command line option load session
+switch antler
+switch antler
+add german translations
+improvements export format
+consider case sensitive set
+consider use regex set
+remove debug output console
+add german translations
+minor change
+add copy command build target bring together file need make windows executable build windows
+jab ref file create windows jab ref executable use smooth include copy icon file create windows installer file use six
+several fix
+fix update preview panel import cite seer
+change group button toggle button search redline button
+add entries clean error handle network failure
+change implementation insert elements database bulk insertion trigger duplicate exceptions
+undo redo refresh current view current view
+introduce dialog disable check box
+enable size adjustment group interface add line language file
+add error check cite seer import process
+add citeseercitationcount field store number paper cite entry default cite seer fetch sort citation count add fancy column name table column name aliasing field map different display name column
+initial version
+remove antler source file add
+optimization entry table entry remodel
+oops
+add miss entry warn correct entry duplicate bib tex key
+fix openexternalviewer always use viewer psf viewer psf
+initial version
+fix bug
+add cache reorganize name remove significant bottleneck performance
+add couple line
+enable fix import nature fix null interception import command line
+add progress bar cite seer citation download
+eclipse cpl
+improve home export preview bold italics handle
+fix null pointer problem gentry key
+add file
+add option save standard order instead current sort order
+add new panel abstract entry editor
+add german translations
+contentselectordialog less finish reduce collar stuff file modify warn release
+add formatter resolve psf file make shortcuts toggle switch preview add useless icon preview
+translations several minor change
+add miss error warn
+fix miss grave char fix sort export
+close
+remove double entries add german translations
+add cite seer link home export
+start work csc export
+add eclipse project version control
+add class path file eclipse
+mods data model initial commit
+new formatter replace author commas useful publications list
+remove unused image
+add confirmation dialog strict duplicate search
+fix options save external change
+add abstract worker worker callback take advantage spin library
+improve handle preferences dialog spin
+choke empty line certain condition
+spin bib tex key generation
+add eclipse compiler
+add spin unit
+add block functionality wait cursor sabre frame new french translations rework layout advance tab press
+add author abbreviation work last first first first name
+fix psf resolve bug home export add test import function unknown format
+apply rule use map instead hash table generic
+temporarily disable group relate code
+complete group rework hierarchical structure new type
+add file
+search rule implement search rule code format
+work group progress minor detail
+make class public
+add new lib
+small change
+make string friendly
+fix wrong entry translation file
+improve add support multilane language statements add support add support multiple occurrences one line word use obsolete instead redundant
+small fix language string
+fix order target enable inclusion non systems
+merge branch
+grade formatter use eclipse base format source code base formatter winery change character per line comment try resources block trail indentation
+grade push dependencies ant script build delete jar previously within project
+move change pointers artefact instead path
+adapt rit opt commons clip change
+refine move content
+refine error output entry find warn parser result output log bible parser
+fix bug exception longer occur include refactoring month logic object orientation null object prevent nulls invalid value
+merge remote track branch origin master
+fix quit jab ref windows linux explicit system exit fiume note
+change formatter settings line never join
+fix typo prevent ant build
+merge branch
+disable bible fetcher
+remove non use formatter set
+remove support shut
+remove obsolete deploy script
+static method declare final
+unnecessary modifier interfaces resume remove
+box necessary
+first shoot circle integration
+make inner class static
+reduce declaration access
+end iterate upon
+anti aliasing enable set
+special field make bib file portable translate rank etc future work may configuration special field keywords per bib file
+use multiple variables one declaration
+add intention branch header
+add character home converter better log
+replace deprecate default builder builder
+add check successful fetch
+alignment fix
+alignment fix
+extract functionality emacs lynx vim pushers
+replace default builder builder autosetexternalfileforentries base panel closet panel connect dialog dialog managekeywordsaction masssetfieldaction synchronize field clean
+clean default builder removal
+remove part ieeexplorefetecher use due disable check box multi page support
+move get result urls minor fix
+save database string dialog
+replace deprecate default builder builder databasepropertiesdialog
+even warn remove
+remove number warn add copyright etc
+add fail test append newlines
+fix similar bug database properties dialog
+fix auto save work
+make change alleviate bug multiuse environment one make change alleviate bug multiuse environment one centralize database file near simultaneous database save may cause change one save overwrite change would occur second user save happen first user save lock database file save top file prior copy top file database file case second user save would yet see modify timestamp size change database file thus start save process save process would wait file lock remove overwrite database cause change previous save lose especially noticeable database file reside network drive frequent network latency issue clean accord comment provide jab ref development team move check external change database file private method call method init run methods ensure multiple simultaneous save perform database get overwrite
+create super class java dialog top swing windows
+refactoring
+implement filter filter style file extend browse action display file filter fix ape select invalid style prevent style dialog open
+minor update bib entry reorder methods bib entry follow cite key type everything else add java doc remove obsolete set change true
+fix ape select invalid style ape raise comparator name initialize null instead empty string store preferences style valid
+merge pull request fix group relate bug
+resolve rename button file list editor auto get full text download download urls
+entry retain group membership cut deletion undo
+announce switch gel
+injection logic model injection logic model conversions fix injections even injections yes even injections indeed even injections probably last injections remove unrequited dependency fix issue drop support select sub super equations add preference class latexfieldformatter fieldcontentparser remove leave code add journalabbreviationpreferences encapsulate latexfieldformatterpreferences save reference change get description accept boolean argument remove test remove unused import unused import unused import
+convert get field garfield optional convert get field garfield optional
+import
+fix ignore version
+new translations turkish
+move preferences stuff
+fix indexoutofboundsexception save preferences

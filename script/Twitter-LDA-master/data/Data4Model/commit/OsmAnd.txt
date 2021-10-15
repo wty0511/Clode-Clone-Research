@@ -1,0 +1,84 @@
+create simple android application map map git san
+add download tile git san
+change format tile enable download internet tile android git san
+refactoring package add settings class add map source selection git san
+fix point location layer refactor place swing git san
+add filter area load git san
+refactor filter load specify area git san
+add index address git san
+first cut use lucent git san
+add sol lite test purpose git san
+implement position bottom fix bug git san
+implement user stories git san
+add open street map layer git san
+add versioning index file git san
+small improvements online rout update constants git san
+add localization work obs poi git san
+implement download index screen git san
+add transport index git san
+add direction poi git san
+fix stupid errors android etc reproducible git san
+bug fix git san
+add route info layer git san
+implement transport layer info git san
+fix bug git san
+implement new indexer mechanism git san
+fix bug improve index git san
+change git san
+change git san
+implement draft version render git san
+create fully functional osman application object git san
+implement render git san
+improve render git san
+implement layer git san
+implement navigation use file git san
+fix issue git san
+implement new version vector index git san
+implement new binary format git san
+add source control git san
+fix reader git san
+fix git san
+package refactoring git san
+fix git san
+fix issue git san
+first cut git san
+fix multi polygons memory issue low level zoom git san
+add address index binary format git san
+support binary address index git san
+implement address reader git san
+add new address index format support git san
+fix performance hamlets address git san
+implement street intersection git san
+fix index issue git san
+implement binary transport reader git san
+support binary transport index git san
+fix issue add render type binary format git san
+implement basic cml renderer git san
+fix render issue git san
+fix issue git san
+small performance improvement git san
+update batch creator support git san
+simplification binary map index reader functionally change git san
+test search roads functionality git san
+implement test rout functionality creator fix main rout problems rout support turn restrictions access possible problems roundabouts git san
+fix issue basic geo intent search query lat lon query
+implement map preference folder issue osman settings methods extend storage folder get storage folder take environment directly settings fix warn
+fix ape render download index
+fix compilation problems brand
+fix compilation problems
+small modifications issue
+refactor osman message remove message map creator relate osman
+add site script repository
+refactoring index creator
+refactoring index creator
+fix issue partially
+fix compilation problems
+fix osman ant build refactor exclude staff
+fix often outer boundary ways map creator
+change download server extract change
+initial add poi index
+handle share text intent
+add pad title inactive poi
+set default open hours
+show open tomorrow work later
+quick action remove next destination

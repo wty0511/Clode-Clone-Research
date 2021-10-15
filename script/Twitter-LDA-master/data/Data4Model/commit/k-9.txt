@@ -1,0 +1,732 @@
+initial commit source code exactly current version email application android rep look like date
+damn weird sym link checkout bug commit history sorry guess back see
+refactor message controller bite easier tease apart
+remove eclipse file appear user specific sorry believe fix map prefix issue trash still delete technically separate issue delete right trash create local branch map prefix fix issue brock fix map prefix problem
+merge trunk orig marc experimental branch exchange webcam support orig marc initial proof concept code webcam support orig marc fix couple migration issue enable webcam mail type orig marc mostly rewrite class organization better implementation message fetch consolidate response parse remove large number redundant call still unused function need clean unimplemented action orig marc remove redundant unused call implement check read status orig marc add support mark message read orig marc add support delete message server side orig marc improve flag set functionality bulk help request instead lot little ones orig miss port web sport cause array index bound exception anything none sol optional select add three additional port solve issue orig initial support send via webcam orig marc fix display name urls encode folders initial support map instead plain array orig marc fix constructor hot generic final string fri urls return exchange always fully encode fix encode create method orig marc complete support use map instead array index urls email read status delete safe read status correct first time orig marc fix double inbox display issue remove columbus amount message orig fix wildcard certificate issue check trust certificate since apparently full chain cause work orig marc implement new functionality pull message envelope use webcam call message rather parse stream message size properly set well orig jesse merge fix
+modify fetch call fetch envelope run recursively grab message envelop time rather attempt show significant performance increase significant reduction memory usage
+performance improvements still get occasional connection errors message viewable due timeout issue
+add user preference display limit message display limit also use visible limit increment limit specify default limit use limit also account specific global
+oops
+merge rename trunk orig jesse orig jesse step rename orig jesse step rename orig jesse oops orig jesse even progressive work orig jesse work close dan apple recommend orig work semi deform application still name space choice bits try overwrite builtin client change correct package something equally simple additional stanza copy file fuck android name space change package inside package set fuck activities explicit name orig jesse merge trunk
+remove unneeded header field webcam request fix instance sub folders work
+fix issue exchange servers mark message read fix incorrect urls encode folder path name remove unnecessary headers envelope request
+refactored help call reduce grow volume duplicate code
+complete merge dam ail functionality email follow feature add email show unread message count folder sum unread count show folders account account display periodically check select folders new mail inbox refresh folder open unless folder empty show date time last sync folder fix timer automatic periodic sync use wake lock assure completion optimize local folder query speed account folder list show load message status bar indicate folder sync eliminate redundant sync new message performance enhancement improve notification text multiple account automatically sync folders often account specific period use user configure date time format select folders show use configurable class select folders sync use configurable class add context long press menu folders provide refresh folder settings status light flash purple unread message folder list quickly eliminate display delete class folders delete work mark message read folder context menu notifications new unread message one minute synchronization frequency delete unread message decrements unread counter notifications work pop account message delete work pop account explicit errors show folder list stack trace save folder email errors clear pending action danger emergencies delete policy account settings cache address disable trap crash cause error condition eliminate duplicate copy send folder prevent crash due message listener concurrency empty trash nuclear mark message read mark message read server side folder irrespective message download forward alternate allow forward email program accept text plain intents allow program send email email display outbox send status manual retry outbox send refresh outbox folder error status persist ability log arbitrary file fix issue
+add support exchange path specify path authentication mailbox support situations like authentication
+flag send message see issue instant empty trash
+need issue
+add support optional form base authentication login path user mailbox path account settings
+change authentication method add support authentication server return status code longer require form base authentication
+issue provide two options account compact vacuum account prune repeatable attachments clear data danger wipe message attachments account except placeholder delete message display toast compact clear queue another toast shrinkage result also small change increase probability see message sync set need refresh folders sync
+provide ability move copy message folders issue remote store map pop webcam provide indications higher level class whether copy move implement currently copy move provide facilities available user interface suppress menu options available destination folders configure use folder class copy result null message body destination copy message next sync problem occur delete previously likely fault copy message method utilize modify version activity debauch sloth contribute patch attach issue feb
+cleanup minor issue revision address issue issue previously state
+eliminate harmful selection delete policy incoming settings page
+issue significant harden email send process give message outbox attempt send time threshold reach message flag asses outbox skip flag message message try manually unflagging message flag pass outbox raise notification fast flash red lead alert user failure send note also place email errors read timeout site connections change minutes send attempt counter keep memory store message phone application restart clear counter flag state intent revision avoid runaway message send deem acceptable move message outbox send folder change atomic move extra error check add site communication code flash lead may excessive
+refactored message load view performance improvement code duplicate call server set see flag duplicate access
+jesse first stab folder list know care message jesse break first stab message list know one folder jesse account list individual account open folder list fol jesse update welcome activity open instead fol jesse set account open instead fol jesse update message view use folder holders message holders correct class jesse mail service notify instead fol sure also notify require test jesse switch message controller notifications notify fol notify jesse update android manifest know new world order jesse try follow android docs intent creation jesse reset message list another try conversion jesse version crash work folder layer clean message list layer jesse move step jesse move step jesse rename step jesse checkpoint move jesse check point state work folder list message list explode jesse remove debug cruft welcome jesse basic functionality work jesse add tool build beta jesse remove disused file jesse upgrade build infrastructure jesse refine nope message remove folder assumptions jesse make welcome activity open auto landholder rather inbox jesse message list store folder name work across pause reload jesse remove dead code folder list jesse replace old message list refresh code clear rebuild list scratch code update delete exist message add back folder list code jesse fix message list menus new world order jesse remove message list options folder list menus jesse remove message list options folder list jesse fix new android world order jesse reformatted advance bug trace jesse fix close behavior leave extra activities around clean vestigial code jesse improve back button account workflow folder list account list jesse add require code beta build jesse make folder list white backgrounder jesse include require libraries jesse add directories build code generate code jesse add back button image jesse switch button triangles eventual easy hit button win jesse tidy per hack jesse first pass reformatting message controller jesse message list correctly update background sync happen jesse tidy folder list jesse tidy jesse tidy jesse properly update unread count folder list sync jesse minor refactoring readability replace boolean constant jesse foreground message list light need light message box jesse add string back folder list jesse add message list header back button jesse remove folder list button options menu sense duplicate jesse refactored view add replacement scroll able header jesse fix weird bug message list could show header element child jesse add new style headers folder list implement get folder name use bloody loop jesse restore former glory load message widget still need overhaul jesse get indeterminate progress bar show click get message jesse fix one errors click keybindings message list jesse put folder title name folder settings popup jesse reformatting remove debug log jesse fix wrong item select bug folder list jesse update message view jesse couple fix pick right item title message context menu jesse add open context menu item folder list jesse try get folder list sort stable way jump around less jesse switch use non message pass base notifications redisplay message list cut redisplay frequency overload display jesse android longer give default default import probably something smarter jesse remove dead code jesse minor tidy jesse first pass implementation make message list stream faster startup jesse reason folder list list local message jesse switch actually refresh message list item load jesse default pull items local store date descend since inevitable default order make message come store order user see jesse set new default folder list jesse set new message list item default jesse clear pop webcam actually set internal date rather use spam sort also want work jesse actually check make sure message remove remove jesse flip security type port number since change security type thing users likely know care reset port number jesse provisional fix see folder list twice bug jesse remove title bar message view jesse folder list tidy dig jumpy order bug jesse kill dead variables jesse make whole title section click jesse fix someone delete message jesse work toward switchable theme jesse make message list color actually inherit theme rather hard cod black jesse kill redundant comment jesse theme independence work jesse get get typo fix jesse first cut global press system well theme preference work yet jesse user actually put valid user credentials start sync mail folders background instantly give much better new startup experience jesse message list need folder caseworker jesse fix get message switch show message rather huge load time performance improvements jesse cut local message creation generate message date formatter jesse switch null escape email address boundaries rather expensive urls encode jesse clean auto refresh list add message sync jesse replace iodate today roll hour window variant likely give user useful answer faster jesse instantiate message local store need clear headers set need set generate message jesse make override able degenerate message jesse remove new lie comment jesse replace insanely expensive message header name part quote something consistent cheap work way database jesse bring back jesse actually enable switchable theme compilation jesse switch back title folder message list restore auto open folder functionality jesse remove several one errors introduce yesterday return android title bar jesse use convert view properly performance memory improvement folder list message list jesse switch use background shade indicate yet fetch jesse remove code actually need bits apache commons
+bring mime current match asp upstream ebfdbdfabecebbdf thank ludo vic large
+restore local message set recipients add check null empty address list allow unset recipient list
+issue restore lose confirmation dialog
+san merge increase reliability message view pause resume
+san merge merge trunk
+issue implement push mail map account use map idle commit contain entirety change perform branch revision revision branch date trunk revision revision source commit san merge instead merely copy change file branch trunk work copy straight commit also issue issue issue issue issue issue issue
+enhancements webcam exchange capabilities automatically add separators supply user fix issue enable move copy enable set message unread state set authentication header download send message function work sit use basic authentication swallow log exceptions instead allow exceptions percolate higher level log email errors provide append message function draft get store server enable server side message deletion use user select trash folder
+reinvent advance refactoring
+tidy activity code style style java bracket attach convert tabs
+apply compromise code reformatting find name java large style style anti mode java indent switch indent space convert tabs unpaid parent
+massive rename step
+enhance header account message list folder show unread count scoped activity progress operation account operation progress folder operation appropriate progress operation apply multiple items message list also use determinate progress bar show progress synchronization folder display fix issue also minor change might help issue put insertion pending command background thread
+initial implementation cram support map site patch contribute russ weeks
+backwards compatibility cram implementation
+implementation complete map two phase delete expunge behavior map account expunge behavior set expunge message folder soon move delete perform folder immediately time folder poll execute manually message list expunge action option menu folder list expunge action context menu long press folder map account also possible disable copy delete message trash folder set trash folder none fix issue separately webcam account user choose server side equivalents special folders like map
+fix break incoming account setup cram implementation
+invert logic clean message list bite
+reduce duplication code
+log tweak
+remove old message pass update code favor runoff thread
+guess mime type specify attachments receive message use file name extension open
+fix issue fix issue make sure close open folders finally block message controller make another connection delete copy message nicely speed copy delete another connection still create create folder copy delete pretty rare event map idle connections use user initiate activity
+fix number assumptions account message list fix issue
+rule code username password account fall apart nice simple character like passwords patch betti fix issue
+fix issue fix issue fix issue fix issue fix issue work perform dan apple betti add support batch ops except move copy search result add support batch move copy real folders increase efficiency bulk map move copy multiple operations eliminate serialization account object provide reference useful place make future code cleaner efficient fix bunch draft handle merge issue branch except copy wholesale manually merge issue branch san merge
+fix issue fix issue may perfect either may help situations get email arrive via push
+code cleanup fix lot warn report eclipse remove unused import remove unused variables code parametrized raw type add annotations add code equal override
+fix issue compute account size pretty slow big account make functionality optional consider also display number flag message star account account list folder folder list need better presentation flag message count work proof concept get data structure build
+fix issue fix class exception also envelope star account activity hot tap main part search open full search tap envelope open search unread message tap star open search star message envelope star bite small reliably tap options available via long press also methodology extend real account well
+fix issue fix issue fix issue issue handle incoming map tokens case insensitive manner issue add yahoo workaround issue add configurable map idle refresh frequency incoming server settings also add configuration option whether push system execute poll connect move configuration maximum number push folders incoming server settings
+fix issue fix issue issue provide new facility totally wipe data account leave settings intact useful sometimes storage full site perform usual vacuum message deletion add confirmation dialog destructive clear recreate operations remove destructive clear folder list duplicate confirmation dialog issue suppress notifications new message arrive trash send draft special folders
+code refactoring create controller package move lot class new package remove unused class nosuchproviderexception message comparator
+move class regex domain checker android package name space name space way protect modifications class future android versions
+eliminate duplicate call notify account synchronize folder
+merge archive move spam button trunk
+add launcher shortcuts account refs issue
+synchronize iterator access avoid concurrentmodificationexception message list original analysis patch provide fizzy fix issue
+betti point clone improperly also read docs add need check existence first
+merge aug integration
+provisional initial commit message provider code box try series end look good
+calculate preview home message fix
+unify two code paths send unsent message one without notification
+merge branch mail commit add comment explain lock mechanism work local store fix wrong method call experimental provider initialization since provider enable harm add comment various storage providers work enable find name large style style anti mode java indent switch indent space convert tabs french localization storage relate settings remove unused card string replace storage indirection merge mail branch trunk reset mail service storage mount even account use storage improve find name large style style anti mode java indent switch indent space convert tabs migration migration move storage location preference preferences rather wizard make local store log less verbose add compile check add action shutdown broadcast receiver properly initiate shutdown sequence yet implement cancel schedule intent consistent split database variable use instance variable argument variable make code refactoring friendly class already big code extraction easier reference instance variable add transaction time log factorize storage lock transaction handle code regular operations use transactions batch modifications make code robust could improve performances merge mail branch trunk update issue add close amount open mount update issue back account list underlie storage message view message list
+extract sync one account
+extract synchronize one folder method
+extract notification code actual action code
+remove throw declarations actually get throw remove couple try block catch throw throw intel optimization
+get rid whole lot crazy code force repeat attachment download intent one attachment download time
+fix usage advance exchange settings
+factor store lock code intermediate access layer
+allow emo input subject sign
+remove unreadable character message preview
+reset visible limit clear message
+introduce set change font size message preview message list fix issue
+correctly encode escape string use map command fix issue
+use heuristic try avoid notify pop users older mail message
+destroy message one site transaction
+bump manifest
+bump manifest
+move much aug code possible view class eventually fragment
+update japanese translation catch mac
+use inflate use deflate since partial flush
+correctly verify user authenticate handle quasi absolute form target authentication
+add extra sender address share intent
+update catalan translation provide david call
+need parse address database
+retrieve visible limit message local folder clear
+per improvement use parcel instead serial table standard java serialization slow android replace parcel able make around faster message list avoid confusion potential bug message reference make longer implement serial table
+performance fix use list view add overview add footer previous approach generate view adapter kill performance list view recycle anymore soon user scroll bottom list android list view widget already provide support list header footers use
+remove unused string
+add comment
+cosmetic change
+first mostly work copy export import commit sort use git
+change technique send end site command deal weird failure honeycomb
+merge branch
+change import export completion toast dialog
+style
+merge commit baeeadfceacbaacede merge branch issue master option hide special account
+split temp fail perm fail message deliver errors
+show root cause controller failure show better message exception generate internally
+issue acc address
+fix length check body structure reply fix issue
+grey unavailable account display short toast attempt open unavailable
+remove ability export settings folder message list however leave cml place easily undo later without recourse revision control suspect might change soon
+build structure allow easily create new versions preferences storage importers exporters password encryption key prompt centralize place import password prompt give file import use importer implementation require password password provide export password prompt give choose version exporter require password password provide instance automatic backups password could store preferences provide exporter password prompt would give
+style recent change storage manager listener
+remove comment section
+merge branch
+move mime type fix attachment provider
+move map store use message size method
+site server tell big biggest message accept even try deliver
+add progress indicator account move
+structure cml export folder settings
+issue spam message
+convert confirmation dialog use confirmation dialog
+store disposition type without content disposition parameters
+add minboxfoldername moutboxfoldername field
+getpersonalnamespaces ask server real folder name correspond special folders ids constants map account folders use real name
+correct encode decode filename parameter content disposition
+make minor modifications support cram authentication pop account
+restore original import add comment change method create older
+add another baddatetimeformat imapresponseparser map servers generate timestamps without timezones fix code issue
+first version import code read new file format
+calculate number unread message show account list inbox always count even special folder set inbox issue
+add first version import file validation
+fix null exception send mail folder map server
+improve japanese translation
+avoid null interception name parameter content type may set
+skip map folders name correctly encode configure charge decoder throw exception malformed input encounter cause endless loop allocate memory application die memory error support folder display name raw folder name simply ignore folders name correctly encode modify uhf variant fix issue credit bernhard real dark analyse problem write initial version fix
+message content provider field rename reader unread maintain name consistency
+remove empty non localize string
+possible toggle display quote message send
+fix ape
+korean language minor update
+message list refactoring remove duplicate code paths message operations consistent regardless message select long click checkbox menu future group selection back port modifications make issue branch without thread specific feature new feature introduce
+add function decode store uris container object later use export code make export password optional cml output pretty also first step get away store uris towards something easily extensible like
+web store cleanup store port number throw away store fri decode
+turn afbccafeeeaedc cause lot message unreadable see mail list thread
+fix issue home message send without quote message problem set message format account set text reply message without quote text send home tag
+style seriously get nerve commit nothing style change forthcoming commit clean
+response append command contain append response code read newly append message
+copy implementation place work restructure append message copy message move message globally return map orchids deltoids rather return nothing use bring local remote kid speed without need additional request
+add message download options
+workaround market report error maxheaderlimitexception maximum header limit exceed run run cause maxheaderlimitexception maximum header limit exceed
+bullet proof user report exceptions webcam sync run run
+merge pull request email mail dutch minor important change
+update russian translation
+make cosmetic change clarity add debug message erroneous condition fix potential ape map folder parse sequence
+fix bad offset peekableinputstream
+spell corrections
+remove duplicate combine flag code
+fix compiler warn use new variable instead overwrite argument
+change layout email address list set title contact name change text size medium default large
+prefer size
+add input validation folder settings
+merge branch
+show short message move account
+introduce use utility close quietly cursor helper spirit
+close stream exceptional paths address find bug complaints
+prefer address find bug complaints
+merge branch legacy collections prefer synchronize collection type
+use mime header constants refer content headers minor white space change
+scroll last know position message view rotate screen
+initial turkish translation recap pay verdi
+remove dead store address find bug complaints
+call appropriate
+fix startactivityforresult fail message list fix issue
+avoid string concatenation
+update french translation erk
+implement email list map command determine email specific folders
+remove unnecessary portion code attempt handle command continuation request copy command also remove extraneous test code mysteriously creeper rep
+pop issue also option disable yet encrypt draft relate issue
+fix problem back button custom dispatch event
+extend map store fri support empty map path prefix
+use store decode return account upcoming
+add code upgrade settings import allow import file outdated content version upgrade settings current content version
+issue hierarchical folder list folder tree
+require touchscreen minsk version imply unfortunate side effect make show google devices
+remove unneeded semicolons
+remove unused private field
+replace archive icon still bite crap better previous attempt
+fix parse response data webcam request
+clone message object avoid concurrentmodificationexceptions fix issue
+fix white space
+fix bug map response parser also get rid map response necessary anymore
+add button show unnamed inline attachments
+imply code add curly bracket else
+issue notifications new message remove unify inbox select
+minor cleanup
+modify local store use update replace exist message way later use database keep track draft
+issue add launcher shortcuts special account folders unify inbox message
+add discard confirmation dialog press back
+add widget display unread count account
+bump manifest
+change way decide message part display
+fix rare null interception
+merge branch
+account setup change add set delete policy delete policy delete map automatic setup like manual setup set default name archive spam manual fig like automatic setup
+introduce new pending command retain degradability
+update japanese translation catch
+change acc address identity change
+set content type attachment even file name find
+avoid ape address may null parser fail
+merge branch
+add remote map search support commit cleanup code cleanup getremotesearchfulltext isremotesearchfulltext line wrap preference items refactor allow fetch extra search result beyond original request code move map store map folder make easier add remote search server type prevent delete search result search result open remove duplicate code block hide cry map search disable code style cleanup tabs space remove trail white space blank line tabs space bad fix open folders read write necessary even previously open read add miss file work map search passable improvements simple help info enable remote search dependency preferences basic map search work
+add address reply reply set repeat address field already include reply address
+add two domains handle como emo
+use android framework manage find folder dialog
+modify loadmessageforview download message neither download full download partial
+create implicit sort remember set
+fix issue force close move email another folder
+add set disable mark message read view
+merge branch master high dpi version archive button icon fix white space remove replace archive icon still bite crap better previous attempt add batch button archive move make batch button configurable
+merge pull request new option set default sort set add account settings commit create implicit sort remember set minor indentation error create implicit sort remember set create default sort set preference
+migrate account special folder methods
+use honeycomb devices use new helper class easily add support new notification feature later
+use new way internal storage original way otherwise
+use account sort settings filter message one account use account settings view unread message folder
+issue permit folder name wrap multiple line folder list view users see entire name reduce default font size use folder list view reasonable size long folder paths wrap fewer line
+save sort type sort order search view unify inbox
+remove override merely call super
+initialise action sherlock
+use single column layout know good android versions fix issue
+hide show unread count notifications honeycomb devices android newer notification icon longer overlay notification number hide set
+implement start read toggle
+dynamic context action bar fill options support current selection mail also work unify inbox
+give star bite room cut force scroll bar outside list items take whole width
+add forward reply reply sender back message list context action bar
+fix typos german translation find bear point
+add improvements suggest chen
+initial example theme specific icons
+hide unread message count action bar explicit search
+change way use activity stack remove launch mode attribute activities use one activity task get rid manage back button behavior
+set abs title subject message subject
+close input stream read fix strict mode warn
+merge branch
+fix issue mag unread download complete press
+fix junk special folder auto configure rec implementation incomplete
+intel idea really want trail newlines
+new icon divider message list
+map search log exceptions remote search properly dispatch message list change
+add select action mode menu
+add android pull refresh screen
+back chip checkbox
+use executesimplecommand copy response type check previous code never fail response lead message delete move action
+two string update finnish translation
+switch back item menu context menu message list
+move map search folder level also consider move local store search folder level store call folder level search
+merge branch map search change settings version match currently master handle abort map search nuke progress connections move map search folder level remove duplicate notification remote search start rename variables change preference cloud search enable cloud search enable remote search enable resolve add cloud search icon local search result screen implement pull remote search log remote search exceptions addition toast add settings export remote search settings white space functional change handle implicit explicit search action bar home button behavior white space fix functional change add remote search action bar icons map search log exceptions remote search properly dispatch message list change modify loadmessageforview download message neither download full download partial add remote map search
+convert message view fragment fragment fully functional thing miss animation show next previous message
+rename message list message fragment
+addition number format handle
+prevent remote search network connectivity
+permit folder list item expand vertically prior case folder name wrap multiple line could overflow box overflow hide
+control wrap folder name pro grammatically remove default settings ellis size single line layout cml file implement pro grammatically fix problem view folder list wrap currently settings turn wrap back folder list list still wrap
+convert message list fragment
+early version message thread miss support thread poll code upgrade exist installations elements switch thread display mode thread message subject
+nasty hack retain thread message fragment poll
+add new search logic message controller local store class
+add new search account class move together search modifier search package refactor
+first attempt make fragment message list remote search play nice new search framework work partially
+switch content provider cursor loader display message list
+merge branch
+get folder list use new common icons
+avoid endless loop via handler
+avoid stringindexoutofboundsexception header break like acc
+remove progress bar message list footer often scroll view progress indicators implement always view
+use flag activity single top start message list currently implement one intent use flag activity single top work
+provide progress indicator search search slow users need indicator indicator also use open message list refresh load message also remove unused code
+switch use action bar folder search eliminate old style search dialog box
+update main part translate
+add activity display database upgrade see detail description upgrade process
+make important flag separate database columns first step speed search flag update
+ignore intel idea file user specific
+restore behavior unread flag filter message list unread flag count view account exclude special folders include displayable folders specify display class
+update translation new string
+use appropriate title display folder search result
+readjust settings version number base current master
+add interaction preferences back remove localization string decide kebab
+surface java exceptions user make readable
+fix deprecation warn
+fetch simple name class instead regex dance
+reset list unseen message user clear notification
+merge pull request merge branch notifications strip signatures preview reset list unseen message user clear notification new style notification directly message new message count cancel notification view message click notification directly message click single message notification fix message overflow incorporate review comment fix notification behaviour add german translation message delete notification action add delete action notification update summarize notification message delete read remotely fix deprecation warn simplify code beautify jellybean notifications use bold sender span respect show contact name option determine sender notification fix mark message read notification add german translation new string add action notifications first stab new notifications remove abstraction update android support library latest version
+remove unused import
+add change log display change log app upgrade
+fix jenkins happy
+add back refresh settings folder context menu items commonly use even average user likely use commonly clear local message make sense provide context menu well action bar
+fix issue self sign certificate expiry cause silent send receive failure fix certpathvalidatorexception certificate exception create certificate error check server settings notification status bar user click notification take appropriate server settings screen review settings accept different server certificate
+add back account settings account context menu
+use separate table store thread structure
+merge branch
+optimize set flag whole thread
+merge branch
+add change log dialog
+provide progress indicator load remote search result
+merge pull request update
+add check display database upgrade screen activities shortcuts widgets etc users start app use another activity account still want display database upgrade screen case
+merge remote track branch fix issue self sign certificate expiry cause silent send receive failure
+improve certificate failure notifications commit introduce notifications also introduce rather interest design pattern certificatevalidationexception notify user pure existence longer message define policy unusual replace pattern message controller treat certificatevalidationexception specially access remote folders also make clear account fail construct notification
+explicitly set layout use list activity
+order global preferences display put folder list options account list options message list options order match order respective activities appear screen
+merge pull request update
+fix sort thread message
+move message view theme set message view menu global press default message view theme something user likely change regular basis need clutter message view menu set menu item still enable want
+clean drawable folders
+fix fax forget dpi drawable
+message view quick contact badge
+use star icon provide framework provide hold style star free
+improve composer background colour hold
+message view list fix ape list empty happen example star message view start last message lead first last cause null interception try update previous next button
+enhancement char set fallback fallback rule define char set fallback map multi level fallback support
+remove unused code converter converter get leader get footer longer use remove relate code
+code cleanup
+also clear back stack new intent arrive make sure old fragment instance case
+fix empty trash functionality pop account previously message local trash folder mark delete delete server next sync placeholders delete message remove database obviously work pop account trash folder synchronize server pop immediately clear message folder
+import rigid view asp email client also import prerequisite class contain current master
+use dark startup animation
+issue update invalid certificate message bite user friendly
+load unread flag count create local older instance avoid potentially expensive leave join query database
+update
+update japanese translation change log
+return old style chip account folders message circle design stop even little bite useful stop show complex versions shape
+fix code style format
+refactor code remove remote store reference delete account
+update update improvements
+content type case conversion change convert content type lower case content type may optional parameters case sensitive boundary name remove lower case conversion get stenotype review make inappropriate case sensitive comparisons use data obtain get stenotype ones find ism retype message somebody part case sensitive instance ism retype make case insensitive also ism retype move message mime message symmetry somebody part mime message somebody part similar contain good bite duplication unit test require fix case boundary text preserve reference commit add lowercase get stenotype mime message somebody part issue later commit remove lowercase addition somebody part issue
+update update improvements
+delete relate file delete database journal file delete account delete time one end collection dead journal file
+refactoring extract class text bodybuilder
+use locale specific date header quote message also include send date header use prefix quote style like mutt email thunderbird also quoteoriginalhtmlmessage method use source message field various place use original message parameter relate issue
+harden tvs cipher suit versions george lucas write blog post android handle tvs handshake explicit order cipher suit tvs versions must supply avoid weak presumably break cipher top preference list commit add list include blog post every tvs socket creation include map pop site see wire shark screenshots test
+fix map store map connection auth cram see issue method make way many assumptions server responses attempt read parse leave imapresponseparser
+extract webdavsocketfactory
+improvements modify bump check verify exist git tag new version
+ignore case site extension keywords server permit use mix case keywords convert upper case receipt
+use rather manually create uris mirror behavior occur account upcoming
+use localize string authentication type automatic automatic plain normal password cram encrypt password site also use login localize text associate future commit remove option text similar thunderbird
+fix version cod change log
+change plain auth option text base encryption user choose connection security option assure use encryption plain auth option label normal password otherwise label password transmit insecurely similar thunderbird behavior
+remove unread field account
+replace loop
+new open provider apr
+permit uhf name passwords cram authentication cram rec permit bite data identify encode since permit bite data commit change encode uhf expire internet draft propose rec change explicitly require uhf encode user name share secrets also expire draft propose cram retire historic instead cram better option users sail plain mechanism within tvs explicitly permit uhf
+eliminate available connection security options options originate asp email client mail fork provide odd combination feature bother authenticate server certificate apply start blindly accept certificate generally bad security policy susceptible mite attack start select server claim support start proceed without use encryption bad security policy susceptible mite attack since time mail fork couple things change mail implement ability users review permanently accept individual certificate would otherwise fail authentication ability need user subject ongoing risk feature hence commit remove feature asp email client change behavior longer permit security downgrade encrypt connection server claim support start eliminate feature mail unlikely server provide start intermittent basis provide contingency unusual behavior unnecessary risk hence commit remove feature well effect exist users old connection security set available get remapped server provide certificate authenticate certificate error notification generate tell user check server settings tap notification take user relevant server settings user tap next review certificate choose permanently accept process would occur first sync folders application upgrade case site first attempt send message connection security set start available get remapped start server provide certificate authenticate process would occur old connection security set start available server claim support start user would get certificate error notification would lead server settings would need choose different connection security likely none change anything instead tap next server settings would check dialog would pop say connect server start connection security available implementation notifications start available actually include commit regard change case scheme end sol scheme simply update append case scheme end tvs check server make assure start available append scheme domains fail check remove current information could find domains also fail update base
+eliminate webcam start security choice start really apply webcam never make available option preexist settings map
+notify user certificate errors push previously server certificate fail authentication connect push example certificate expire attempt connect would fail another attempt would try later certain number fail attempt attempt would make meanwhile user oblivious failures could quite time user realize get email even realize would know cause commit users receive notification failures occur connect push notifications already generate failures tap notification take user relevant server settings choose accept certificate
+fix send command line split map proxy send command would send like pkg start pkg map proxy maybe fort net accept command across packets pkg start
+provide notification start available
+delete old journals move database
+use appropriate
+handle signature success uncertified code cleanup
+update change log
+eliminate obsolete background data sync option apply devices longer broadcast connectivity manager getbackgrounddatasetting always return true
+merge pull request open provider apr
+match buildtoolsversion
+avoid ape messageopenpgpview update layout fatal exception main process view messageopenpgpview update layout view singleness review set message fragment message fragment listener run method main method
+suppress warn inline apr
+merge pull request open hide lookup key button explicitly need
+use setter quote text like signature
+clean lint items eliminate unused variables field import
+client certificate authentication
+avoid ape messageopenpgpview handle error fatal exception main process view messageopenpgpview handle error view messageopenpgpview access view messageopenpgpview method main method
+rework validate field updateviewfromauthtype previously possible require sign unchecked security none set outgo server still able tap next hide irrelevant authentication client certificate set check user actually choose client certificate account outgo validate field also need clear password certificate field hide user may accidentally change settings want change back without wipe exist settings
+notify user invalid account setup settings combo specifically warn block attempt configure client certificate authentication combination connection security none make obvious user might understand permit tap next also move initialization view listeners create initialize listeners call near end create help assure listeners trigger initialization view inside create
+refactor keychainkeymanager sclientcertificatereferenceworkaround reference issue state applicable android test confirm problem test add version code primarily finder aid day mail longer support android work around remove reference issue also state necessary hold reference first private key retrieve test indicate problem avoid long least one reference always maintain private key actually need continuous reference first understand normal class loader never unload class static reference safely keep privately keychainkeymanager
+avoid set conflict warn site login require
+trigger certificate chooser check box check convenience implement check change consequence check change must trigger instance state restore would occur check box state check save otherwise certificate chooser would pop state restore therefore listeners move initialize listeners invoke state restore check change longer trigger onrestoreinstancestate update visibility implement restore view visibility
+fix default port set reversion problem begin modify server settings change security type change port default value change port custom value change screen orientation default port value restore wipe custom value onrestoreinstancestate call custom port value restore spinner actually restore state time instead wait view layout time post runnable call onsite select restore state match state initialize create onsite select eventually run sometime later wipe custom port value restore solution keep track spinner state revert port default see spinner state change user problem back
+configure mail notifications folder class response issue add configuration option account preferences show notifications class folders add option folder preferences set notification class inherit folder push class default behaviour remain unchanged
+throw certificatevalidationexception external authentication fail sail external mechanism advertise indicate possibility server accept client certificate command authenticate sail external fail certificatevalidationexception trigger notification user authentication problem need address also instance certificatevalidationexception throw new certificate exception cause purpose notify user start available slightly simplify eliminate need include new certificate exception cause
+remove helper use secure random helper remove functionality transfer trustedsocketfactory add layer indirection really simplify anything easier see happen create socket invoke new instance secure random longer pass context init instead null pass default provider tvs context use open provider provide socket instance type opensslsocketimpl use secure random opensslsocketimpl start handshake use seed open ping additional random data secure random null use seed instead meanwhile default provider secure random service open random use open ping data source effectively seed open ping probably okay trust open ping properly initialize random data first use use would seem like better source least good source additional seed data add new connection note prefix class replace default secure random service one whose data source certain vulnerable apr level anyway also make sure open ping properly seed first use certain vulnerable apr
+move local store new sub package prepare decomposition nest class
+extract local attachment class local store reduce file size
+tidy format functional change
+fix warn
+merge pull request small refactoring
+use interfaces implement ions
+add unit test file helper sanitize filename
+modify binarytempfilebody retain encode body break lot things save message database make message bite safe
+merge branch
+save multi part epilogue mime multiparty
+merge pull request espresso test account setup
+add fail test reconstruct message database
+require application context instance
+remove useless line
+mime utility message refactor break mime utility class manageable piece move home relate code mail package
+fix eolconvertingoutputstream add test add test another eolconvertingoutputstream edge case fix bug eolconvertingoutputstream swap order simplify
+add find bug grade build
+move main application root project sub project email
+use default directory structure test jim sub project
+move mail package library project
+merge branch
+update dependencies
+configure developer mode via build confirm
+create new package code relate message view
+handle cid uris home message body
+new message info structure transitional methods
+work new pop header
+open header sidebar test
+first attempt decrypt pop mime message
+test refactor open pupils
+early support detach signatures
+extract cry methods message fragment messagecryptohelper
+fix class name
+display pending intent button pending intent
+end instead int string constants simplify add log simplify use end comparison avoid type mistake end name need match previous constant simplify address review comment format remove superfluous comment shorten delete policy value since use settings string import end reduce clutter fix white space remove comment per review address review comment review comment remove another superfluous qualification last change
+add placeholder application
+remove import
+fix code style
+extract code parse message header class
+merge pull request move network type email library use store confirm
+add android wear support
+merge branch
+write message without partial body database open message download display text probably due bug might lead synchronization process abort instead fix issue write incomplete message database potential massively speed sync process take longer message show message list especially slow connections
+add option disable notifications quiet time fix
+add confirm dialog accident press menu entry discard message compose string dialog default disable global settings interaction notifications
+fix static analysis warn stop use nulls everywhere
+use tip download
+remove double synchronization
+extract notification relate code message controller notification controller
+extract code deal generate notification ids
+clean refactor code functionality bug
+split notification controller multiple class maintainability
+rewrite new mail notification code
+add test notification code fix bug find along way
+fix issue passphrase cancel cancel window ask passphrase crash app due miss error
+hide load footer relevant message server tricky map care non delete message easy way count necessary list remain message server check whether relevant
+add comment explain empty base theme
+crash callback call fragment detach fix issue
+merge pull request fix parse map list responses contain folder name bracket
+add parameters content type header
+contactpictureloader lower bind view reference image view quickcontactbadge
+include open apr lib
+check protocol parameter exclude non pop mime encrypt sign message fix
+compose show alternate address popup recipient token click
+code cleanup
+compose use position item recipients
+issue extract code decode mail uris
+add test map connection
+remove test longer compile
+merge pull request add unit test map connection
+extract map folder map store
+extract imapfolderpusher map store
+migration respect part boundaries
+zip add unit test map folder
+migration minor format fix add bunch test
+compose improve handle cry provider available
+migration incorporate feedback
+extract push thread code name inner class
+refactor database migrations separate package one class per migration
+compose get rid key reference cry status mail address perfect identifier
+refactoring webcam code
+support binary encode
+add test similar map folder web folder
+improve webcam fetch message code test
+improve test coverage folder store
+merge pull request refactoring fix bug webcam code
+handle synchronize empty folders
+merge pull request add option copy sender recipient email address clipboard fix
+add functionality use list post option reply email
+improve test synchronizemailboxsynchronous
+use bound upstream limit check preview length
+compose add logic compatibility mode
+migration fix ape text content null
+code style fix
+refactor add test
+open setup move cry provider global settings
+merge pull request notify user authentication failure
+message view ditch support multiple root part different cry status
+message view remove open info message view
+message view refactor openpgpresultannotation immutable cryptoresultannotation
+message view handle cry error state
+pull comparators message fragment
+repackage new class
+add test pgpmessagebuilder
+add first test message builder
+compose apply transfer encode pop inline sign
+webcam stop notify message retrieval flag fetch
+merge pull request webcam fix
+experimental update open apr cache session key
+refactoring message extractor class commit contain semantic change one significant change return type change mix return type viewable return value attachments output parameter two output parameters consistency performance
+message view use openpgpdatasink source thread contain apr lib update
+new option show notification contact
+message view draw progress bar cry process
+message view check begin pop message marker
+debug add debug operation clear message locally
+message controller optimize import remove unused parameter
+message controller fix loadpartialforsearch parameter loadmessageforremoteview
+compose copy address reply
+compose extract attachment presenter
+merge pull request webcam poll fix
+merge pull request fetch message view body unavailable
+merge pull request add debug operation clear message locally
+add esp ass mime type
+add annotations
+add test messagecryptohelper
+introduce fileproviderinterface specialize file provider decrypt
+split displayhtmlcontentwithinlineattachments set clear refresh methods
+pass contact via constructor message controller
+improve error handle open miss part crash least
+fix button display hide attachments
+fix bunch warn message controller semantic change
+pass message reference instead local message message controller operations significant change local message data load message controller instead every call site individually
+fix logic messageloaderhelper
+add migration new pending command
+message view hide keyboard message display interaction pending intent
+clean text body make slightly fail fast previously text body support bite quote printable encode default quote printable encode equal bite behavior change throw run time exception unsupported encode select method also throw unsupported encode select
+add message builder test message attachment
+get message boundaries inject boundary generator message builder
+fix unit test encode
+rename uni generator uni generator
+add test attachment
+increase timeouts imapconnectiontest
+merge pull request bite message generation instead encode
+replace quickcontactbadge custom widget
+site test set transport use new mock server
+site test send message
+site add test bite encode behaviour
+site test coverage various case
+use correct order alternatives build home message fix
+code style fix
+move test helper class different package
+add nicer apr build test message
+make test concise improve readability
+use notification group key account
+back end change google south
+add notification action stack notifications android notifications previously show android wear devices also display phone tablet able use notification action separate set action wear devices need extra work
+use attachmenttempfileprovider expose file back content uris
+clean warn account semantic change
+sign opportunistic mode sign support
+test set importer
+add intent filter message compose
+support display format flow rec
+display empty preview extract preview text
+forward attachment
+bother handle intent finish anyway
+merge pull request hardcore check version settingsexportertest
+fix empty account name import dialog
+add test
+load local message metadata memory synchronize
+dismiss aug deprecation dialog pause avoid potential memory leak
+revert old small icon
+move sign support settings global
+update label use application permissions show end user later versions android
+make message listener interface
+remove message listener methods never use
+handle connection close authentication failure fix
+ignore capture folder generate android studio
+avoid null interception creation date instance
+move class relate message quote dedicate package
+add screen display cry provider configure
+add additional debug diagnose message sync issue
+message provider test basic behaviour
+merge branch
+add filename pop mime email
+merge pull request add filename pop mime email
+create superfluous retain fragment
+test send pending message
+show detail button warn dialog pending intent available
+change settings export use storage access framework
+load status provider asynchronously
+move choose older select account
+add percentage progress bar attachment download
+use timber log
+plant debug tree create
+use format string timber
+replace instance new date get time system currenttimemillis
+add test case sensitivity extensions
+site pipe line support
+update add read
+add test remove unused line
+request post auth capability provide
+rename field account
+obtain cry status dry run sign encrypt call
+try fallback authentication non authentication error responses
+map refactoring
+introduce error dialog move cry enable key unavailable state
+adapt unit test
+handle pending intents return auto crypt query
+attach auto crypt headers outgo mail
+change available button pop error dialog
+encrypt reply default
+rename field database local older
+save whether show picture click save restore whether show picture click restore allow correctly instruct messagecontainerview whether load picture
+split decoder til test
+major reorganisation pop store match store
+remove email errors folder
+show pop inline menu item encryption sign actually enable
+keep flag download complete message avoid click download complete message delete flag affect message local store
+remove comment code
+support send auto crypt gossip headers
+copy message sync code allow modify sync implementation map without worry support protocols code
+copy relevant test messagingcontrollertest map test
+add test map fetch body structure
+remove throw exceptions method signatures oauthtokenprovider get token change exception throw match method signature assertion error authenticationfailedexception
+remove code relevant map map sync
+add prefer encrypt set
+switch app compact material theme
+properly label button miss key
+correctly sort contact match nickname
+rename folder get name folder get server
+move account get stats
+set default value special folders
+merge pull request single settings menu entry
+extract open gap openpgpapimanager
+rip cry provider set
+redesign end end account settings
+merge pull request move code email provider
+delete unused remnant class
+encrypt draft self
+add new general settings activity
+add pad compose view
+add navigation drawer faster folder switch
+create mail protocols map grade module
+decouple remoteness restore message listener
+move pending command execution map sync message controller
+move authentication failure handle map sync
+move new message notification code sync listener implementation
+move notification removal code sync listener implementation
+clean
+move code get unread message count notifications map sync
+merge pull request respect thread view set open folder navigation drawer
+use per account instance remoteness restore
+use back storage interface database access map sync
+introduce sync confirm remove map sync dependency account
+remove map sync dependency
+move new grade module back end map
+create grade modules pop webcam back end
+merge pull request add abstraction layer local message storage map sync
+convert emailaddressvalidator colin
+set navigation bar color dark dark theme use dark theme set navigation bar color dark background system default color light fix mismatch
+rename email module app email
+move code app core grade module idea later move code back app email module many reference core code components
+move code module
+create notificationresourceprovider inject android resources
+cache contact name
+add send message functionality back end interface
+merge pull request open unify inbox click message list widget header
+add proper parser header parameters rec rec
+crash empty flag
+merge pull request make protocol implementations use server settings class instead store fri
+add configure background color fallback contact picture cache key
+merge pull request allow back end code store additional per account per folder data
+broadcast message detail message remove turn read message database delete work particularly well
+add way inject schema definition local store
+implement run time permissions contact rebate thing note permission request show target old commit message explain change approach make activity easily request whatever permission future contact permission request two locations list message display new message first start compose permission request display per create get really annoy typical user read write email see request trust see message also option block request appear decline request decline deny attempt app continue work albeit without incorporate contact data thumbnails auto complete contact may still add contact app use intent require permission read contact permission enable app immediately begin use add permissions future external storage access request make similar way permission request result handle appropriately add activity override particular activity
+use join inject clipboard manager
+merge pull request use soup convert home plain text
+merge pull request remove unused
+improve notification channel
+extract migration logic storage class
+drop specialize messagecryptostatusview introduce cry icon combine icon dot longer case simplify
+show detail unify inbox description account drawer header
+address review feedback extract empty cursor class reduce duplicate code
+add accountschangelistener preferences
+switch toolbar allow show sidebar action bar
+add empty trash action message list activity
+hide cry indicator initial message header layout
+merge pull request add empty trash action message list activity
+add pad label input field message composition screen
+add manage folders item drawer footer part
+merge pull request remove custom view message list toolbar
+fix subject overwrite use cry provider pass already protection overwrite subject change add check fix
+exit settings display welcome screen account leave
+add badge latest stable release version
+replace old rob electric apis
+add thunderbird auto discovery code part
+fix build problems fresh fork update build tool
+zip rename file drawer colin extension
+add set mark message read delete
+add settingsimportfragment
+add function move trash read back end
+use absolute lifespan default font size configure
+change activity title manage folders
+add icons choose older
+change chip answer arrow position
+switch message adapter away cursor adapter
+open default account intent extras supply
+remove special account message
+remove unused message listener account unchanged
+remove message listener search stats
+update translations transfer
+remove check mail button message list toolbar pull refresh way update message list
+add android workflow
+remove local older purgetovisiblelimit method call end mailbox sync sync another mechanism already destroy message outside sync window
+add map back end module
+remove age check download message already filter age decide message download
+add support invalidity map folder
+pass folder instance back end
+remove hungarian notation choose older
+remove travis
+add intent filter main activity provide default email application set add intent filter order provide app activity possible default email application must interpret android set user outside application new intent filter add activity
+add nav controller message list
+add map message sync part support full sync download complete message
+display progress sync folder
+merge pull request remove message controller list folders associate callbacks
+remove unread count message listener folders unchanged
+remove unused message count message listener synchronizemailboxfinished
+remove support magic account constant local search
+merge pull request message listener cleanup
+make map folder longer extend folder
+make pop older longer extend folder highlight bunch code back end pop unused
+make web folder longer extend folder highlight bunch code back end webcam unused
+make default progress
+never follow system theme android versions prior android
+merge pull request change appearance attachment box message compose screen
+refactor map store getpersonalnamespaces
+move delete message trash folder use pop
+make choosefolderactivity also return folder select folder
+change message reference also store folder database
+change back storage apr add update remove folders way code update special folders run every change
+destroy local placeholders source folder move operation
+change list list appropriate
+merge pull request destroy local placeholder message source folder move operation
+add per folder local message cleanup sign
+store folder ids special folders preferences
+remove placeholder message keep accidentally past
+merge pull request set change marker load initialize account instance
+zip rename file folder folder colin extension
+remove store confirm isremotesearchfulltext
+add detection configuration base sri record rec
+remove
+remove local older close anything useful responsible least one bug
+rename imago detest prior conversion colin
+update translation

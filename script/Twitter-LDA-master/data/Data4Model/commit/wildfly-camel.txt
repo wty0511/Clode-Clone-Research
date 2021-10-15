@@ -1,0 +1,103 @@
+switch package
+cam camel integration jedi
+restore test coverage ski
+define camel context definition format deployments
+feature provision use gravid beta
+update release note add user guide
+issue use module dept instead embed jar
+ignore store file
+configure version build helper man plugin root pom reproducible build
+resolve secure soap integration test
+resolve add capability manage app server startup default users
+add test verify ftp component connect ftp server
+resolve components load cml context definitions
+resolve provide camel ass integration
+integrate camel ser let
+call test methods eccl set
+resolve add example camel mail compliment documentation
+resolve integrate
+resolve intermittent failures docker domain mode test
+resolve intermittent failures docker domain mode test
+always close camelot finally clause
+resolve active integrationist bundle active jar
+resolve split integration test jan jan
+resolve update camel resolve module camel script expose bush resolve module camel ass expose resolve usage camel depend eccl resolve usage camel mail depend eccl resolve camel endpoint discovery depend eccl resolve reduce redefinition camel party dependencies
+resolve provide camel stream support
+resolve usage camel stream depend eccl
+resolve obtain domimplementationregistry instance
+resolve document camelot extractor use
+resolve remove explicit dependency rest let
+resolve add support camel castor data format
+resolve replace literal string comparison normalize cml
+resolve update camel
+resolve upgrade wildly
+enter add file urls decode test
+resolve update camel resolve restore remove skip test disintegration test resolve update wildly final resolve ems session accessible route
+resolve rationalise configuration file
+resolve provide plug able spa fig tool
+resolve review service loader contract conf plugins
+resolve split integration test smoke basic extras
+resolve add support header
+resolve provide camel subsystem feature pack
+resolve ensure artefact definitions prefix group ignore
+resolve add support camel undertow
+resolve enhance deployment camel quick start
+resolve endpoint creation exist undertow server
+resolve add support camel jas yet
+resolve update camel
+resolve add support web service consumers
+resolve upgrade wildly final
+resolve add test coverage file memory idempotent consumers
+resolve add support rest consumers
+resolve elastic search integration fail configure
+resolve dozer find
+add vagrant file open shift origin
+resolve add camel core swarm fraction
+resolve add support camel brain tree
+resolve remove explicit definition version
+resolve restore camel kafka integration camel
+resolve remove domain extras test coverage
+resolve upgrade camel
+resolve upgrade camel
+resolve upgrade wildly resolve integrate hot client provide wildly
+enter brain tree dependency problem
+resolve upgrade camel
+resolve upgrade camel
+reference git hub issue fail test air
+disable camel group wait group
+resolve add docker test test extra module
+resolve add support component
+resolve replace static test configuration extras
+resolve intermittent failure supp integrationist
+resolve upgrade camel
+resolve add support component sis
+resolve upgrade camel
+resolve upgrade camel
+resolve upgrade camel
+resolve namenotfoundexception
+resolve remove deprecate camel components
+resolve add support component cache
+resolve add support component elastic search
+resolve add support component telegram
+resolve remove support wildly swarm
+resolve upgrade wildly
+resolve upgrade camel
+resolve add support component mongol grids
+resolve add socket support via camel undertow
+resolve create set generic camel rest del test
+resolve add support component
+resolve add test coverage saga zip
+enter camel sales force query attribute map correctly
+resolve remove module
+resolve add support data format firm
+resolve enter support secure fuse endpoints ely ron
+resolve wildly camel docker build fail
+resolve enter leak server activity app deploy
+fuse doc add fuse conditionals documentation resolve
+resolve upgrade camel
+resolve upgrade wildly final
+resolve upgrade wildly
+resolve remove support camel mongol
+enter file consumer char set parse cml correctly
+upgrade camel
+resolve upgrade camel

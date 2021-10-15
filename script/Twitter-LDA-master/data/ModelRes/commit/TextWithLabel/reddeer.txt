@@ -1,0 +1,15 @@
+2011-09-01:	z=29:  change/false run/false time/false preferences/29 wizard/29 comply/29 red/29 deer/29 standards/29 
+2011-09-01:	z=10:  java/false 
+2011-09-01:	z=4:  fix/false remove/false run/false time/false runtimepreferencepage/4 
+2011-09-01:	z=30:  default/false tree/false default/false recite/30 relevant/false object/false methods/false implement/false apr/false deprecate/false 
+2011-09-01:	z=3:  workbench/3 relate/false implicit/3 condition/false implement/false 
+2011-09-01:	z=14:  redder/14 wizard/14 apr/false support/false dynamic/14 page/14 implementation/false 
+2011-09-01:	z=20:  basic/20 eclipse/20 perspectives/20 implementations/false 
+2011-09-01:	z=36:  resolve/36 issue/false 
+2011-09-01:	z=21:  quick/21 dialog/21 implementation/false 
+2011-09-01:	z=2:  add/false miss/false export/2 package/false 
+2011-09-01:	z=19:  build/false properties/19 update/false avoid/false warn/false import/false 
+2011-09-01:	z=1:  implement/false combo/1 swot/1 
+2011-09-01:	z=33:  text/33 editor/33 implement/false 
+2011-09-01:	z=2:  fix/false issue/false windows/false 
+2011-09-01:	z=14:  create/14 tree/14 structure/14 redder/14 plugins/14 structure/14 redder/14 plugins/14 test/false feature/false change/false model/14 boss/14 tool/false 

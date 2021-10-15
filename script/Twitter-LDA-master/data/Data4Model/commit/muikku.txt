@@ -1,0 +1,1280 @@
+initial commit
+add support update events drag drop calendar plugin full calendar widget
+communicator corpse
+move widgets core plugins
+add visible property use calendar add findbycalendaranduser method usercalendardao
+clean unused import communication controller
+course picker enhancements
+add support filter return calendar type calendar calendar plugin rest end point remove reference environment calendar category calendar rest endpoint refactored calendar creation accept son request add support move events local calendar another calendar rest service
+add copy
+fix plugin library name
+communicator new message
+communicator message tag communicator enhancements
+send view small tweak communicator
+change communicator message tag set add toolbar back trash button message view
+remove deprecate environment entity
+plugin init event
+add cml schema data
+initial example plugin commit
+fix role type class name role interface add roleschooldataidentifier entity
+add initial version grade scale support school data mock plugin add test data mock grade scale
+add course meta school data bridge add course identifier subject school data entities course meta school data bridge
+add quick entities course identifier courseidentifierschooldataidentifier
+communicator stuff
+change
+refactoring wall plugin interfaced system add assessment request
+front page
+refactored workspace material structure support materials embed within materials folders
+refactoring course settings workspace settings
+widget remove
+fix workspace link
+move connection close schooldatamockplugincontroller school bridge self connection would open result set iterate remove useless abstractmockedschooldatabridge
+refactored school data mock plugin work workspace users come different school data source
+connect field handler
+add request handler redirect materials appropriate viewers register home back bean workspace plugin descriptor
+remove unused index ave course ave fix permissions view move settings core plugins
+merge branch conflict
+add home plugin descriptor library change home material ser let match ignore query string
+add entity represent select field answer
+guidance request quick link
+move query field entities material field plugin material plugin
+add functionality new guidance request add functionality send message workspace teachers new students fix bug communicator fix bug local roles initialization script
+add log deusnexmachinacontroller
+clean code
+implement memo field value load save
+review change
+implement field element handler checklists
+add entities checklist field material plugin
+rename integration test
+deus new machine parse file field
+correct password
+data stories
+fix number sol file
+add rest service material plugin add home material create end point material plugin rest service
+psf form new guidance request
+convert story integration test use rest data generation
+merge branch
+rename function field make exception handle better
+fix bug type name wrong index
+view edit user information set notifications change email change password
+add initial draft calendar event list support calendar rest service fix couple ape calendar rest service
+add initial draft event update calendar rest service fix couple invalid responses calendar rest service
+add initial version calendar event removal calendar rest service
+add draft event calendar update methods calendarserviceprovider interface fix summary field name calendar rest model entity
+add miss methods googlecalendarserviceprovider
+implement list events delete event
+add urls location letter calendar event interface
+merge alert
+add day property calendar event interface
+add functionality calendar rest service update event method
+merge branch
+stub apr change
+merge alert
+debug info
+add context menu plugin
+course picker search stuff
+merge branch
+course picker search change key
+remove urls hash make amaze beautiful javascript
+course picker subject filter
+add pyramid data bridge method implementations
+add workspaceusersignup fix sign course picker
+merge branch
+change icon shadow mix reba hex add style class body node para help identify different view change workspace back
+move pyramid entity map pyramusidentifiermapper class move pyramid schedulers scheduler package move pyramid update pyramid updater class
+add useremailschooldataidentifier add synchronization users students email address fix null response handle abstractpyramusclient
+add come soon page workspace tool ready adjust workspace navigation dock tip
+remove urls name material plugin set value column change lob home binary material clone support deus new machine refactoring conform previous change new workspace node urls name generation code workspace material controller methods support material link unblinking
+merge branch
+fix communicator service
+add fix communicator
+calendar
+generalize entity index remove index listener search indexer
+fix bug elasticsearchprovider cause indexer halt several simultaneous index call
+change elasticsearchprovider use prefix query default use search method
+add support specify type catchall search search provider
+add view link
+upgrade pyramid version latest snapshot seem fix log problem
+fix communicator service level merge
+add material editor functionality home materials
+merge branch
+workspace node sort support
+initial coops socket support
+add title content type properties hombres material class add support create home materials via rest
+update icon font add style add new page link material management view remove pin functionality materials management view obsolete change default state open material management view
+fix pad leave issue user load material management view first time change border color add transition
+add material style add table formatter
+add initial draft deus new service
+add initial support type resources deus new importer
+add initial version pyramid auth plugin
+random name generation
+add stuff communicator
+right answer list localization text field element
+fix creditor body issue content empty
+add master switch pyramid scheduler use shutoff schedulers
+add support revert document via home material rest service
+faster luck know query field events
+change materials read view use structure dom layout
+add support refresh token
+forum implementation
+update authentication strategies work change session controller
+fix open sans font load add weight fonts back
+move pyramid rest client file
+add reconnect stuff add forum functionalities
+merge branch
+change back original glory change return type user users rest search return content none find add temporary lowercase fix elastic search fail find stuff capital letter
+change coops extra plugins option accept also array
+close front page course list dust message list dust
+merge branch
+help page document import
+user interface help page
+change user import ignore email non unique
+convert materials use instead workspacematerialstocbackingbean
+add thread list forums
+prototyping various ways improve materials load speed
+material load performance optimizations
+material load performance optimizations actually compile
+refactored workspace index help page conform latest material change page title render exist add miss ass lazy youtube load
+add forum locale
+move material parse back bean controller
+merge branch
+merge remote track branch
+add miss constructor field user
+revert add find bug cml report generation compile revert commit
+update citation basic highlight style templates
+update tip script
+fix couple problems prevent search index update correctly update removal school data entities
+add script prevent page scroll user scroll evaluation form content area
+add forum permissions add stuff test framework
+change workspace list rest endpoint directly use search index data determine workspace name description faster secure use school data bridge
+style change evaluation view
+remove test profile form
+system session pyramid create user workspace listeners
+add support workspace course identifier pyramid school data bridge
+fix merge bug
+merge branch
+initial draft workspace material assessment create end point
+add support load evaluations evaluation modal
+merge branch
+teacher check modify workspace materials
+disable horizontal scroll mouse wheel evaluation view adjust body overflow rule etc
+merge branch
+add security check
+add rest endpoint update workspace material evaluations
+add initial draft gradingschooldatacontroller grade controller workspace assessment entities
+add implementation workspace assessment apr
+change workspace rest list take better use search index
+merge branch
+remove unused import
+merge branch
+update icon font
+add functionality save workspace assessments
+add support select assessor assignment evaluation view
+add systemresttestsit move common test class common package
+change evaluation modal dust file name precise content fix yet modals width height issue adjust yet snyder content load spinner top margin
+add grade scale identifier grade scale data source workspace assessment
+assessment request show evaluation page
+change evaluate variable evaluation date add workspace name variable dialog title actually variable fix margins
+optimize assessor list retrieval evaluation view
+add jan pom use jan writer mock
+merge branch
+add feature update workspace assessments
+fix lazy load image evaluation modal
+pyramid mock login
+login test
+add everyone permission check session controllers add abstract test work super class rest content test
+rest support elastic search index service test
+add forum forum group deletions fix forum test
+merge branch
+fix bug cause invalid lengthen identifiers cause pyramusidentifiermapper getpyramuseducationaltimeunitid method crash
+add button workspace material attachments
+elastic search index workspace
+add initial draft material meta entities
+add initial draft binary material meta rest endpoints
+add permissions material meta rest endpoints move material meta rest service separate service add support list meta key via rest service
+change workspace material removal use permissions
+communicator inbox send message script style
+add test forum add delete function remove test data fix login test
+add root level docs back
+better pyramid mock test sol revise add handle multiple rest endpoints
+merge branch
+maven release plugin prepare release
+section edit work progress
+merge branch
+merge branch
+style button workspace index view
+jug
+mock change mostly
+sailfish kappa
+change pyramid updater update student update student role part update
+fix issue
+add data attribute workspace node
+prevent schedulers change user environment role student staff member via versa
+templates style
+permission check workspace folder deletion
+restore accidentally remove material hide class
+change pyramid updater synchronize students staff members person add support update user entity default school data source
+review change
+add support list workspace materials assignments workspace materials list endpoint
+proper error report page sort
+add support list workspace material assignment evaluations via rest service
+fix parent node change
+change workspace assessment endpoints return rest resource instead school data entity add support list users workspace assessments rest service
+merge branch
+merge branch
+create workspace folder thru rest
+fix issue
+merge branch
+move necessary
+add permission check workspace workspace material evaluation endpoints
+fix bug cause empty identifier filter list allow instead drop result
+test plugin version update test sol material material test start
+add rester unimplemented annotation mark rest endpoints full permission implementation
+merge branch
+merge branch
+transcript record ass general style course info open view javascript
+merge branch
+add null check case areas define
+merge branch
+feb gift
+fix test plugin version
+proper rest permissions material management
+merge branch
+remove deprecate discussion setup view
+add stuff workspace forums
+workspace front page editor
+add things workspace forums
+gfuyjhvbjnc
+pram smock lallallallalaaa
+add feature allow edit create help page workspaces
+add log debug purpose
+merge branch
+merge branch
+add rest permit listworkspaceforumareas
+fix ape
+maven release plugin prepare release parent
+add basic info users
+replace user group sergio entities
+rather major overhaul discussion environment workspace visual style change new area icon
+workspace material title update controller small fix
+add miss dust template
+workspace study diary view
+drug heart
+change study diary journal add preliminary visuals journal add dialog delete journal entry add necessary locale string journal update icon font
+test
+test
+merge branch
+replace pyramid data scheduler offset database implementation ensure data would process point fix stuff group synchronization
+fix bug
+add userschooldataidentifier usergroupuserentity add check group permissions default permission resolvers
+add index user group add search user group add user group recipients communicator
+fix bug fix bug fix bug fix bug fix bug
+add listener new update remove users update study programme group
+test materials
+maven release plugin prepare release
+add course picker stuff implement join course
+add course sign message communicator message sign teachers fix course sign message recipients remove unused course picker code
+add edit endpoints forum message
+right discussion message reply edit
+remove cruft
+edit reply message right edit
+fix issue thread edit
+merge remote track branch
+change social navigation close opacity add profile picture workspace main dock add profile view workspace refactored workspace templates easier modify future decrease success info notifications time minor ass fix workspace material view
+message reply bottom bar
+calendar start day calendar ass update
+miscellaneous find bug fix
+merge branch
+add delete methods pyramid client rework assessment request use pyramid interface
+email validation school data user listener
+synchronization workspace students one workspace time
+fix issue archetype filter user search
+table sols
+merge branch
+redirect bug fix
+small fix user list
+page guider
+add token nation user search string
+fix bug
+fix test
+erie
+blah
+find
+nav nara
+add initial draft workspace material reply state
+fix issue trashcan icon push outside dialog container selection row
+correct answer
+change workspace material evaluation work new workspace material state
+fix lot fail test
+fix discussion test
+fix issue submit assignment already evaluate button style
+add fix guider student list
+dependency cleanup
+rewrite query widget
+rename quick pyramid plugin folder quick school data pyramid
+change user index index user group workspaces
+fix bug cause test fail driver support screenshots
+separate elastic search plugin core plugins
+fix bug cause elastic search nod leave open reload application instead restart
+add help desk badge right bottom
+fix coursediscussionadmincreateareatest test coursediscussiontestsbase fix coursematerialmanagementbuttonexiststest coursematerialspagetestsbase fix course publish course base
+remove admin get call test deprecate
+fix coursematerialtochighlighttest test coursematerialspagetestit
+refactored coursetocexiststest use test rest service test data instead sol sol file work travis build
+review change cleanup home materials exception coursebasematerialspagetestsbase
+fix issue
+add course material save test also students
+replace dummy mail plugin jedi mail plugin build
+add user identifier group update group remove events merge branch
+fix bug
+assert check method check check radio button test admin student
+merge remote track branch conflict
+add assert select check element select add drop test admin student
+deus new machine rest service possible fix bug
+merge branch
+merge branch
+merge branch
+add additional wait ensure correct test sauce
+merge remote track branch
+remove controller annotations add rest service annotations clean unused code
+filter state guider
+rewrite discussion test
+merge pull request disable pyramid scheduler test run
+merge remote track branch
+merge remote track branch
+merge branch
+select option method select option selector value fix drop test
+better assert check drop radio button test run maximize window checkbox test
+add preliminary layout journal student selection
+mem field test
+add informational log acceptancetestsrestservice add pyramid mock rest service zip
+take maximize see would work edge smaller window
+change locale string sort filter workspace journal view
+assignment type support test materials exercise class test fix
+change workspace search use filter
+merge pull request checkbox test
+separate evaluation endpoints workspace service evaluation service
+merge branch conflict
+review fix
+merge branch
+add second student mock workspace initial guide test
+guider test
+fix issue
+merge branch
+update icon font
+rename package
+move integration test sensible package hierarchy
+test frame change
+add test answer connect field task
+merge branch
+merge branch
+page communicator inbox page send items page change communicator rest service
+move mock remove try catch
+escape task assessment show correctly
+student staff course
+fix bug listbysenderandmessageid ignore communicator message restriction change archive message two separate archive command send receive message controller
+merge branch
+test students see others post
+merge branch
+merge pull request fix
+merge branch
+sauce profile fix course materials test evaluate exercise class test fix
+merge pull request fix random fail coursematerialstests
+merge branch
+merge pull request bug file upload
+merge branch
+utility method test logout mock communicator text
+add hide attribute user interface link secure info come pyramid clean messy code handle entities
+add wait scroll make connect field test work
+show literal assessments exercise workspace evaluation
+communicator test
+material assignment attachment remove upload issue fix
+draft show correct answer reorganize counterparts connect field
+add publish test workspaces add user search restriction show students publish workspaces add second student mock
+add delete message send folder test
+file field test
+add initial student teacher list workspace users view
+file field remove test
+merge branch
+merge branch
+additional code workspace user management
+merge pull request add background color see text field new message creation
+add perfect dollar evaluation assignment list implement scroll support
+small revamp discussion methods dust templates
+add load courseassesmentrequests fix wrong path pyramid apr add error message load grade scale evaluators fail
+merge remote track branch
+archive workspace students work progress
+merge branch please enter commit message explain merge necessary especially merge update upstream topic branch line start ignore empty message abort commit
+fix automatically update class evaluate student make evaluation request
+review change
+start evaluation test
+archive una chive workspace students need proper
+merge branch
+add null check students staff members list pyramid updater school data pyramid plugin
+change students
+improve logout
+assessment grade scale grade endpoint mock
+evaluate student test
+merge pull request bug none sync
+workspace evaluation test
+archive change compile
+change school data workspace user use school identifiers describe school data identifiers
+merge pull request bug message load irregularly
+remove debug code miscellaneous workspace member bug fix still break
+start draft pyramid rest cache
+desperate change
+another overhaul handle workspace students
+load class teacher student list
+mock assessments better test evaluations assess find list evaluation evaluation controller
+merge pull request line break support example answer
+merge branch
+merge branch
+clear field utility method evaluation test evolve
+date field create new announcement
+proper date time format ajax
+archive test
+add sync load assignment evaluations
+optimize workspace students rest list
+workspace members maintenance
+precision sync workspace members
+add support filter workspace students assessment request
+add support filter workspace students whether assess
+merge branch
+break test package fix
+merge pull request bug slow evaluation
+test
+merge pull request bug dialog button order
+merge branch
+fix name space
+pram smock
+add new students list endpoint
+add support filter workspaces use identifier
+add support retrieve single student user rest endpoint fix bug cause user rest service student list create malformed student ids
+announce edit templates locales script
+fill edit field current information form locales
+doz
+change announcements read view style
+cleaner task fix image
+dfdfsdsfvsdf
+add support view journal entry count last entry date guider
+merge pull request edit announcement
+merge branch
+correct order active announcements
+add sketch environment permission management
+fix
+merge remote track branch
+delete announcements announcer test delete announcement announcement controller announcement
+workspace discussion sync add edit workspace discussion
+fix announcer test
+add system session workspace load course picker list workspaces
+merge pull request
+announcement test advance create announcement pro grammatically user group
+add workspace role permission management view add functionality environment role permission management view add permission check permission management view
+delete target group well announcements test rest service
+little tweak fix
+add support list student flag type limit students list flag users rest service
+flag drop guider
+drop style guider
+remove dummy announcer image remove duty announcement view image fix announcement view help desk footer location issue
+announcement test use automate announcement creation
+pyramid smoker fix
+merge branch
+draft copy wizard step
+add rest end point copy workspaces add name extension work space rest resource
+update icon font add initial style
+material copy bug fix
+fix bug
+add info page visual workspace copy wizard
+merge createworkspacematerial copy materials workspace service
+update icon font add summary style workspace copy wizard error success progress state add style summary view button
+merge branch
+add support first result max result parameters course picker rest service workspace list
+add log coursepickerrestservie
+review change different help status cod
+merge pull request non free evaluation request
+merge branch
+remove safari test bump firefox chrome latest version
+change record view list assessments study program
+merge branch
+merge pull request bug record
+move file development
+fix another ape courseparticipationtypeevaluationmapper
+optimize course picker move evaluation fee resolve separate rest call optimize course picker resolve evaluation fee need
+remove diff lib core plugins use
+merge pull request fix issue
+fix
+merge pull request update material paths material title change material management material
+update front page text
+study time study date student mock student addcoursestaffmember pram smock course students mock fix guider test user list test
+add system command flush cache
+change modal elements position value fix absolute
+fix evaluation visit work change code
+start main functionality flex change tempt main function
+minor send message optimization
+fix
+fix test
+merge pull request fix issue
+merge branch
+fix test
+fix
+fix require pyramid build
+add course picker specific dialog rule fix adjust main functionality dialog flex adjust generic dialog button margins add class course picker enrol dialog flex purpose
+journal test change
+test change
+test change typo fix
+phantoms compatible test
+adjust font baseline every workspace view adjust workspace mobile view baseline font
+coursematerialspage test fix
+merge branch conflict
+fix test
+show file also file remove
+course materialists fix
+merge branch
+ads
+merge branch
+base work progress
+workspace management view necessary change
+rename
+merge branch
+add visuals workspace managements producers add functionality change input location add producers
+merge pull request workspace edit
+add publish publish locales back
+merge level
+date format join date
+merge pull request build
+add support filter course education type course picker
+add support filter course picker result workspace access
+add workspace access log
+change materials view work non log users
+flex tune tune style filter box
+merge pull request workspace visibility
+merge branch
+fix ape elasticsearchprovider
+remove useremailschooldataidentifier
+merge pull request text area auto row
+merge remote track branch
+show visit workspaces enrol
+send button disable workspace discussions areas
+merge branch
+performance improvement
+remove send message wedlock messenger clean code bite
+set parent reply create forum reply use forum controller
+consider parent reply create new reply thru rest
+forum thread reply order accord parent reply
+course access start
+courseaccesstests
+add localization reply reply button
+fourth batch ape fix
+merge pull request notifications fail assignments
+clear login mock add diffs
+fix course user test
+move file
+fix course courseuserstestsbase coursearchivestudenttest add temporary debug
+add temporary info
+merge pull request evaluation draft
+merge branch
+fix errors test
+add last modify forum message rest model
+order reply parent date date
+fix forummessagepermissiontests break last modify parameter miss constructor
+new version phantom driver course update mock course access
+study programme leader permissions
+crummy utility sync default permissions
+merge pull request show date time last message thread
+fix file field test
+try something cause
+fix
+add number reply forumthreadreply dust template
+password reset view username test
+add better flex communicator
+draft flag add dialog
+generic layout flag
+add support edit flag
+remove unnecessary margin flag container
+remove unused import
+change guidance tool guider add miss locales
+add support assign flag students
+fix communicator test flex
+unify environment permission workspace permission remove workspacesettingstemplate remove workspacesettingstemplaterolepermission
+search string workspace students rest endpoint
+update icon font
+permissions refactoring sol script
+course picker page test
+merge branch
+add support list staff members via rest
+message reply reply reply
+add lovely action menu sales flag
+clean debug log
+add support share flag
+remove deprecate test initialization script
+review change remove deprecate wall view
+merge remote track branch
+basic search evaluation
+merge pull request overhaul permissions old code cleanup evaluation access change
+merge branch
+merge pull request remove questionable stateless annotations
+add script component display word definitions
+add support filter evaluation students flag
+announcement workspace entity
+convert exist announcement list methods ones omit workspace announcements
+correct spa sub query handle
+add announcement workspaces rest
+optimize communicator inbox message load
+merge pull request fix
+merge pull request bug data transfer prohibition
+initial version communicator javascript rewrite
+permission check workplace announcements
+elm
+review change
+add support reply message add visualization indicator active folders change send folder display recipients folders display sender
+initial layout workspace announcer move workspace announcer workspace
+work let see
+set workspace entitle options
+add real delete discussions spare reply set discussion message parent use archive delete forum service since real delete methods discussion reply reply test
+add new method hasworkspacepermission session controller
+refactored workspace permissions view use permissions instead roles
+fix communicator test
+proper sorter field modification track
+change transcript record widget use permissions
+new test package environment discussions test rest environment discussion refactoring discussion rest suit environment course discussions change add creditor use class instead seem change sometimes
+ass tune
+empty flex
+review change
+list combine workspace environment announcements correctly
+merge branch
+skeleton workspace announcements read view
+flag test start
+adjust load animation communicator
+level merge
+discussion rewrite phase permissions
+merge pull request bug communicator style
+fix announcer test
+review change
+asci match support test
+discussion rewrite phase workspace discussions
+merge branch conflict
+review change
+review change
+match test
+guider test package enable guider test travis
+merge branch
+workspace assessment state check permission fix grade bridge null safety
+fix filterbyworkspacetest
+merge pull request licence override
+add visuals material producers override
+test progress
+review change
+flag test
+merge branch
+move assessment rest service assessment plugin change paths add support remove workspace assessments via rest
+merge pull request better concurrency evaluation view
+flag test
+flash retest delete share flag test rest
+start courseannouncertests
+add support save load audio file
+delete announcement workspaces workspace announcement delete update test rest service workspace announcement test
+merge remote track branch conflict
+course announcer package
+fix announcer test
+fix test failures
+typo fix
+merge pull request remove evaluation
+add draft assessment request notification strategy
+fix build
+add workspace curriculum
+add extend search users methods fix ape search single specific field
+search engine use filter students already notify start study also group use notification target configurable
+add pass course notification strategy
+fix filter nest two time
+add curriculum filter course picker
+add templates pass course notifications
+move time notification strategies package
+add study time leave notification
+fix project test quick build
+add request assessment supplementation notification strategy
+add user default course picker curriculum filter
+review change
+make announcer test stable
+license override test
+merge branch
+update dependencies wildly final yet completely functional
+update soda time date time threaten zone anytime function better wildly add also custom serialize serialize field
+fix issue
+merge pull request curriculum filter
+additional log miss user entity ignore close channel socket message
+merge branch
+pyramid version info
+migrate test jar
+merge branch
+adjust forget password link weight
+fix elastic search con
+merge branch
+fix
+hound bot fix
+merge branch
+fix
+add communicatormessageidlabel
+make elastic cluster name plugin set
+merge branch
+fix
+add dialog ready dialog close trigger new message footer communicator footer dialog block page view
+remove perfect scroll bar mobile devices screen width add swipe wheel propagation handle also better scroll necessary
+merge remote track branch
+elastic search test
+merge branch
+merge branch
+style improvements label menu functionalities
+menu shadow style
+typeset typeset connect field value fix
+merge pull request fix safari date workspace begin end date workspace management
+merge branch
+add delay filter label communicator add client side sort label
+merge pull request materials lock icon
+add sketch trash
+merge branch
+mini ass maven build mini plugin
+merge branch
+fix incorrect folder inclusion
+rest exception handle rest service rely school data
+add duplicate recipient clean message send
+fix
+review change
+add trash communicator change name several function relate communicator better reflect fix issue incoherent sort date
+merge branch
+merge pull request rest interceptor school data exceptions
+merge pull request communicator trash
+fix return type
+change forum rest test use permanent deletion cleanup
+fix discussion icons background issue
+add user search filter return default user identifiers
+make toolbar widget better
+remove unused import
+merge pull request fix discussion icons background issue
+label trash test communicator
+merge pull request small things
+merge branch
+add lock sticky permission
+integration
+merge pull request label trash test communicator
+fix
+remove debug code
+sass improvements
+initial code new evaluation
+initial dust file evil card
+move thread view mainly load server side
+merge pull request release
+move flag delete user service
+remove dialog add modal load evaluation
+fix
+mobile support scroll evaluation modal
+merge pull request add right delete forum area manager study programme leader
+review change
+review change
+merge pull request edit flag
+remove sender recipients part recipient group
+file upload functionality
+refactoring
+create assessment
+material paths
+merge pull request announcer color vars
+remove workspace assessment
+test settings transcript record plugin test sol test tor file
+change material style evaluation
+render evaluation date
+adjust style
+user group recipients
+merge pull request test
+handle assessments via workspace user
+add duplication handle
+material assessment save
+material assessment create update
+assignment count state fix
+possible fix mobile assignment slide position
+rename hometown municipality start back end
+merge pull request flex main function color variables
+environment button container
+navigation
+fix
+add navigation support folder type
+workspace material copy support
+class rename replace
+add delete attribute thread reply
+color vars
+pyramid version bump
+add dodo dot lib evaluation well
+assignments tor
+front page youtube videos
+merge pull request better placement correct answer container
+add nickname rest object
+fix reference deprecate date constructor
+merge branch
+implement look user group staff members
+review change
+add curriculum identifier transfer credit rest model
+merge branch
+add curriculum ids workspace rest model
+merge pull request fix
+let dodo dot
+new evaluation test start
+make dry run configurable run time
+front page mobile fix
+fix
+scale youtube clip page width
+better button
+merge pull request keep current assignment editor data assignment change
+reevaluation test continue
+new evaluation course evaluation exercise evaluation
+ads
+review stuff
+merge branch
+add label thread view
+fix things add sort test
+select background color change
+fix
+add perfect scroll bar lib robust sol permissions
+add update study programme user group student update happen
+add image support announcer
+merge remote track branch conflict
+move communicatormessagesent listener sync singleton
+fix mobile view
+add recipient group workspaces send items list
+merge pull request asynchronous send notification mail communicator
+say
+fix
+merge pull request fix locale string issue
+fix break filterbyworkspacetest
+past announcement category test
+resolve
+pastannouncementtest
+resolve
+announcer tool test
+forget password fix issue mobile users could use forget password feature
+fix require pyramid
+cleaner self test version pass course notifier
+check study end date case
+test assignment evaluation visibility material view
+merge branch
+fix time problem workspace evaluation
+add width renderer handle sorter field capitalize use
+merge pull request check student study start date properly
+merge pull request forget password
+add methods query count student workspace assessments
+evaluation request importance sort important portion
+merge pull request test evaluation material view visibility
+merge pull request bug pass notification
+merge pull request various fix study time end notification
+fix
+tor test
+exercise tor test
+back bean hop data input form
+merge remote track branch
+supplementation request work progress
+hound fix
+supplementation request student functionality
+supplementation request notifications
+add note automate message notification change notification send
+merge pull request release
+add blog feed new front page separate blog news feed dust templates
+remove zero time search
+exercise total
+fix
+menus functionalities front page materials view
+merge branch conflict
+remove hard cod port
+start progress widget test
+progress widget test
+progress sass
+name format change
+merge pull request crummy fix choose correct guidance counselor students multiple guidance group
+check permissions top endpoint
+move update correct folder
+fetch workspaces subject course number
+legend locales
+merge branch
+show available course study view
+comment mon stuff
+merge pull request consistent support students nickname
+merge pull request page scroll top load message discussion
+locale change
+add miss semicolons
+move hop form dust template place record
+merge level
+change load journal items rest
+show mandatorily status top view
+state display graph
+merge remote track branch conflict
+hound fix
+fix
+merge pull request fix request evaluation
+active workspace user
+merge pull request remove evil make frontage workspace time topics work
+change log event notifications informative
+test fix
+change correct total account elastic
+merge pull request add active flag workspace users archive flag ambiguous
+merge pull request fix miss word definition
+merge pull request add check mark exercise new evaluation modal view
+merge pull request release
+review change
+show select field explanations right answer
+fix materials test
+move evaluation plugin entities core plugins
+fix
+change minimum scale maximum scale
+add study start date study time end profile record
+remove two white space
+add name description field top workspaces
+remove unused code import
+change moment
+fix discussion test course site wide
+communicator work progress
+fix flag test add test suite
+fix test
+progress communicator
+code fix transaction
+fix request
+locale change
+test enable
+disable phantom test course access since work anymore
+bug
+pyramid scheduler change concurrent access timeouts seemingly relate fire large number events seem temporarily choke timer service next schedule run previous already finish timer still hang around add access timeout timeout method seem fix problem separate sync workspace students active inactive students order cut events fire per sync run slight adjustments timeout value resolve
+fix exotic function declaration enable phantoms test courseaccesstests package
+remove unnecessary label
+label modification functionality modify link billionth time
+fix fail test
+course contest fix
+tweak test
+functional communicator new message view
+test course management side
+merge pull request auto join global chatroom
+phantom test addworkspaceproducertest since footer render phantom probably sort bug somewhere
+resolve
+teacher vacation time course front page test general test polish
+add client library open fire
+add fork rest apr client work jersey randomize passwords
+try eliminate stale element reference
+fix socket deprecate view
+fix organization description text front page
+aside folder style
+verify work erratically since seem quick sometimes return home description time tag
+fix bunch stuff
+merge pull request test change
+merge branch
+fix chat room workspaces
+additional study guider permissions evaluation require pyramid require quick permission reset resolve
+merge level
+activeannouncementsarevisibleinpastannouncements
+zip rebind chat
+guider basics commit
+review change note ass change still need download link within file widget reliance elements outside file widget localization simpler albeit cruder rest endpoint prevent duplicate file name
+modify back end order return better flag
+merge pull request change front page first video newer one
+set fee synchronizer non persistent scheduler
+merge pull request fix duplicate workspace users crash
+merge pull request raise converse version
+course picker test redesign
+merge pull request ape fix create workspace
+course ice test
+remove catch
+hop
+add last request date assessment state fetch
+fix code
+hack
+non log users notification join nett lucio etc
+test
+communicator test
+hound fix unify border variables
+fix fail test
+front page cleanup complete
+merge pull request discussion style fix
+announcement test span announcement caption side widget
+merge branch
+throw errors hide bug
+merge level
+locale change test communicator index widget test caption span communicator index widget
+seemingly merge
+add new modal form button still hide
+course picker ready debug
+add delete test
+seem
+discussion test continue
+discussion edit test
+cleanup flag delete test
+finish cleanup
+fix add workspace students automatically chat room
+guider test
+bug fix
+materials
+communicator label message trash message test
+fix test announcements
+file style guider assignments exercise percent style
+fix
+add happy face request evaluation
+adjustments
+fix
+test fix test break
+elements default color fix correct locale string guider merge fix intend fix
+fix guider show evaluation request status correctly
+move evaluation plugin evaluation plugin rest model core plugins resolve
+progress bar might better hide workspace materials
+merge level
+merge remote track branch
+button
+remove bunch bug
+chat room user synchronization
+check chat available
+study end date
+fix guider bug
+close create chat room exist workspaces
+refactored announcer
+mobile fix fix study view mobile issue
+seas
+fix announcer test
+add descriptions workspace relate info guider
+fix flag tor test
+merge remote track branch
+use enable users list remove useless schedulers
+begin profile
+login data fetch mongo
+fix test
+diet
+fix communicator test
+add graph filter style change data structure bite add rest point controller back end
+fix
+disable travis test
+organization restrictions
+merge branch
+add new endpoint list communicator thread label
+latest message
+merge level
+merge branch
+first draft
+finalise chart
+merge remote track branch
+workspace organization
+request change change data construction spread optional field remove value bubble chart
+optimization transcript record
+change form element input label element form element label instead unnecessary modifier
+name conventions
+start add delete functionality
+work check test next remove log later
+replace tabs space
+remove log fix log
+add dialog
+finally close call method sync student
+build header
+remove class file
+use click handler
+add line height empty panel look cram
+permissions add
+matriculation exam form implementation
+tidy code
+git push merge branch
+merge remote track branch
+install chrome driver need
+fix footer link etc render issue front page
+clean travis configuration attempt make guider test work fail one
+description request work
+preliminary change panel panel content change panel body continue study initial style
+merge branch
+fix issue note comment
+fix merge
+merge branch merge get data activity log
+merge branch
+fix panel panel group render
+resolve
+teachers panel style
+organization filter
+organization filter workspace search endpoints
+review change
+merge pull request course picker organization
+fix mike logo nav bar workspace view
+add content nod endpoint
+merge remote track branch
+discussion change
+remove system session whoa
+add skeleton materials display
+resolve
+merge remote track branch
+merge branch conflict
+add endpoint fetch single workspace staff member
+fix
+scroll work
+merge branch
+resolve
+scroll section progress
+merge level
+fix course protest
+bunch endpoint adjustments
+merge pull request optimize workspace members view
+merge pull request refactor use index
+fix hop top appear
+merge level
+test fix
+fix courseprogresswidgettest
+merge pull request prevent unnecessary second evaluation
+materials load progress
+fix react side load
+merge branch
+review tune
+scroll still buggy
+fix undefined bug
+start course test new workspace design
+fix audio element work place custom box icon image leave top corner
+utility get current path test locals read link log check workspace
+add wait prevent crash slower machine
+add check prevent students see reply quite link lock discussion thread format change white space removals
+recipient search change
+merge pull request workspace message bundle fix
+code fix null check add etc
+merge level
+add test
+extend tor test remove jana ala build deploy
+fix forget password dialog
+merge level
+merge branch
+fix read panel
+bypass course management course access test reason
+resolve
+file field test also headless browser
+fix auto complete recipients layout issue add cake editor border style match end dialog elements style
+merge branch
+merge branch
+evaluation refactoring
+include test headless test also maybe fix test
+exercise work properly
+slightly better payload validation
+edit functionality
+deletion
+merge level
+resolve
+evaluation change test
+draft fix
+workspace users initial functionality
+headless test fix
+supplementation request test
+endpoint list workspace students
+merge pull request new endpoint query workspace evaluation state student
+load send message
+test fix
+journal page initial page layout
+merge branch
+supplementation request test test
+journal comment code
+merge remote track branch
+pyramid version bump
+merge branch
+user group home
+merge pull request add degree type matriculation form
+initial material editor style
+merge branch
+home material content update
+templates
+resolve
+merge branch
+add dialog edition publish answer
+application list
+close guider workspaces alphabetical order
+merge branch
+fine tune workspace users view
+merge pull request icon withdraw assignments evaluate
+begin create workspace
+test grade show guider
+test students workspaces alphabetical order guider
+load progress
+cleanup
+test
+merge branch
+merge branch
+merge remote track branch
+one time
+course review test
+course management test start
+bug fix
+fix tiny bug
+evaluation info composite reply
+improve search user group organization restrictions
+change organization restrictions simpler version
+evaluation request button style
+wildly download urls change
+start material test
+merge branch
+merge branch
+test fix
+test
+move file upload style one location instead serve sass file add optional delete download link title texts add correct style file upload
+couple system sessions schedulers
+test materials
+merge level
+test continue
+test
+fix
+material test
+license test
+file upload change lazy load
+text field test
+merge branch
+fix workspace start date bug
+workspace wizard
+initial credential change support
+kinds stuff
+merge branch
+test
+merge branch
+partially resolve
+adjust workspace settings view margins pad form general follow accessibility rule etc adjust license components style also
+course users test
+remove san matriculation enrolment notification email
+course user test
+course management test
+sass list multiple fix sass file base sass winter error run locally winter rule hound use adjustments sass lint cml file declaration order remove might break layout insist breakpoints mix place nest child element rule change sass sass fix wrongly name element class name tax file fix end dialog style every dialog render logic
+add check search without organizations
+course management test
+course management test continue
+test fix
+refresh discussion page edit
+users component
+data bind bump
+review change
+merge level
+post merge fix
+post merge fix part
+restore study date
+use shortcuts school identifiers
+merge pull request update dependencies
+merge remote track branch
+test
+test
+add attachment upload successful text notification
+resolve
+binary file support audio
+merge level
+material update answer check
+resolve
+organization user panel avatar component
+add workspace search builder
+skip attempt chat room membership removal chat enable
+patch order use old technology new method
+merge pull request sync transcript record redesign
+merge level
+organization management workspace search
+merge level
+fix
+resolve
+add initial support home element attribute
+fig caption adjustments add attribute translation list
+fix
+merge level
+remove image save save method
+add organization dialog overhaul locales components action
+add hack pagination
+fix
+fix flag test add comment test complete dialog button somehow possible click
+course access fix
+fix addend creditor blind
+fix flag test still unreliable additions class name guider flag dialog
+semantical certifications
+logout fix
+temporarily disable test
+add mathias
+merge remote track branch
